@@ -29,3 +29,8 @@ Updated Ingest Workflow to require Processed: true immediately after compiling s
 *Logged: 2026-05-24 16:21:03*
 
 Created pdf_to_source.py to convert research papers into structured source notes. Reads PDFs from Raw/Files/, extracts text, guides user to describe topic/methods/results/implications, generates markdown with template. Includes comprehensive PDF import guide.
+
+## Tool refactor: pdf_to_source.py now fully automated
+*Logged: 2026-05-24 16:32:10*
+
+Removed interactive prompts. Script now automatically extracts paper sections and generates summaries (topic/methods/results/implications) without user input. Added filename convention (lastname-year-journalacro.md). Agents now properly read and summarize papers instead of asking users.
