@@ -19,3 +19,8 @@ Updated log command to include automatic YYYY-MM-DD HH:MM:SS timestamps. Updated
 *Logged: 2026-05-24 16:08:20*
 
 Marked LLMWikiStarterDemo source as Processed: true. Source is now fully tracked in manifest with Wiki coverage.
+
+## Workflow update: Mark sources processed immediately
+*Logged: 2026-05-24 16:10:01*
+
+Updated Ingest Workflow to require Processed: true immediately after compiling source into Wiki notes. Added to mandatory checklist. This ensures accurate source tracking and manifest coverage.
