@@ -24,3 +24,8 @@ Marked LLMWikiStarterDemo source as Processed: true. Source is now fully tracked
 *Logged: 2026-05-24 16:10:01*
 
 Updated Ingest Workflow to require Processed: true immediately after compiling source into Wiki notes. Added to mandatory checklist. This ensures accurate source tracking and manifest coverage.
+
+## Tool: PDF import utility added
+*Logged: 2026-05-24 16:21:03*
+
+Created pdf_to_source.py to convert research papers into structured source notes. Reads PDFs from Raw/Files/, extracts text, guides user to describe topic/methods/results/implications, generates markdown with template. Includes comprehensive PDF import guide.
