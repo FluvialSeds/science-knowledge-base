@@ -246,13 +246,17 @@ class WikiTool:
             # Check coverage if processed
             if frontmatter.get("Processed"):
                 covered = False
+                source_relative = str(source_path.relative_to(self.vault_root))
                 for wiki_note in self.wiki_root.glob("*/*.md"):
                     if wiki_note.name == "index.md":
                         continue
                     wiki_fm = self._read_frontmatter(wiki_note)
-                    if wiki_fm and str(source_path) in wiki_fm.get("sources", []):
-                        covered = True
-                        break
+                    if wiki_fm:
+                        # Check both relative and absolute path formats
+                        sources = wiki_fm.get("sources", [])
+                        if source_relative in sources or str(source_path) in sources:
+                            covered = True
+                            break
 
                 if not covered:
                     errors.append(f"{source_path.name}: Marked processed but has no Wiki coverage")
