@@ -49,5 +49,7 @@ Plant-wax biomarkers are used to reconstruct:
 
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for measuring δ¹³C on individual compounds
 - [[CarbonIsotopeFractionationPlants]] — How δ¹³C discriminates vegetation types
+- [[GDGTBiomarkers]] — Complementary membrane lipid biomarkers
+- [[RadiocarbonOrganicMatter]] — Radiocarbon age determination in organic matter
 - [[LocalVsDistalBiomarkerSignals]] — Spatial and temporal scale considerations for biomarker interpretation
 - Source paper: [[Hemingway-2016gca]] — Plant-wax lipids in Congo River sediments

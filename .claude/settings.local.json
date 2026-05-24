@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3)",
+      "Bash(python3 scripts/wiki_tool.py search-catalog --query \"Congo River\")",
+      "Bash(python3 scripts/wiki_tool.py search-catalog --query \"GDGT\")",
+      "Bash(python3 scripts/wiki_tool.py search-catalog --query \"biomarker\")",
+      "Bash(python3 scripts/wiki_tool.py build)",
+      "Bash(python3 scripts/wiki_tool.py lint)",
+      "Bash(python3 scripts/wiki_tool.py source-lint)",
+      "Bash(python3 scripts/wiki_tool.py source-scan --update --accept-covered)",
+      "Bash(python3 scripts/wiki_tool.py doctor)",
+      "Bash(python3 scripts/audit_public.py)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ]
+  }
+}

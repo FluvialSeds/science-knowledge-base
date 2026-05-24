@@ -7,7 +7,8 @@ created: 2026-05-24
 updated: 2026-05-24
 sources:
   - "Raw/Sources/Hemingway-2016gca.md"
-source_count: 1
+  - "Raw/Sources/Hemingway-2017cg.md"
+source_count: 2
 aliases:
   - "Spatial biomarker integration"
   - "Sediment transport timescales"
@@ -48,5 +49,7 @@ All individual plant-wax lipids show minimal temporal δ¹³C variability (<0.9�
 ## See also
 
 - [[PlantWaxBiomarkers]] — Overview of biomarker compound classes and properties
+- [[GDGTBiomarkers]] — Membrane lipid biomarkers and complementary source information
+- [[RadiocarbonOrganicMatter]] — Radiocarbon age and pre-aged organic matter detection
 - [[CarbonIsotopeFractionationPlants]] — Using δ¹³C to distinguish vegetation types
-- Source paper: [[Hemingway-2016gca]] — Congo River case study demonstrating local vs distal signals
+- Source papers: [[Hemingway-2016gca]] — Plant-wax lipids in Congo River; [[Hemingway-2017cg]] — GDGTs and radiocarbon in Congo River
