@@ -1,3 +1,3 @@
-{"path": "Wiki/Projects/WikiSetup.md", "title": "LLM Wiki Setup", "tag": "", "topics": [], "sources": [], "updated": "2026-05-24"}
-{"path": "Wiki/Concepts/SourceToWikiWorkflow.md", "title": "Source to Wiki Workflow", "tag": "", "topics": [], "sources": [], "updated": "2026-05-24"}
-{"path": "Wiki/Topics/LLMWiki.md", "title": "LLM Wiki", "tag": "", "topics": [], "sources": [], "updated": "2026-05-24"}
+{"path": "Wiki/Projects/WikiSetup.md", "title": "LLM Wiki Setup", "tag": "project", "topics": ["[[LLMWiki]]"], "sources": ["Raw/Sources/LLMWikiStarterDemo.md"], "updated": "2026-05-24"}
+{"path": "Wiki/Concepts/SourceToWikiWorkflow.md", "title": "Source to Wiki Workflow", "tag": "concept", "topics": ["[[LLMWiki]]"], "sources": ["Raw/Sources/LLMWikiStarterDemo.md"], "updated": "2026-05-24"}
+{"path": "Wiki/Topics/LLMWiki.md", "title": "LLM Wiki", "tag": "topic", "topics": [], "sources": ["Raw/Sources/LLMWikiStarterDemo.md"], "updated": "2026-05-24"}
