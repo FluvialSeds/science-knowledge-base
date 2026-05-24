@@ -34,3 +34,8 @@ Created pdf_to_source.py to convert research papers into structured source notes
 *Logged: 2026-05-24 16:32:10*
 
 Removed interactive prompts. Script now automatically extracts paper sections and generates summaries (topic/methods/results/implications) without user input. Added filename convention (lastname-year-journalacro.md). Agents now properly read and summarize papers instead of asking users.
+
+## Ingest: Hemingway 2016 GCA - Plant-Wax Biomarkers
+*Logged: 2026-05-24 16:35:22*
+
+Compiled Hemingway et al. 2016 plant-wax biomarker study into 3 focused concepts: Plant-Wax Biomarkers (overview and applications), Local vs Distal Biomarker Signals (spatial/temporal integration), and Carbon Isotope Fractionation in Plants (δ¹³C methods). Source: Hemingway-2016gca.md
