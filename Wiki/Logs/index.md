@@ -44,3 +44,8 @@ Compiled Hemingway et al. 2016 plant-wax biomarker study into 3 focused concepts
 *Logged: 2026-05-24 16:46:48*
 
 Compiled Hemingway et al. 2018 Science paper on microbial oxidation of lithospheric organic carbon into 3 focused concepts: Petrogenic Organic Carbon (definition and sources), Microbial Oxidation of Organic Carbon (oxidation rates and controls), and Carbon Cycle in Mountain Systems (tectonics-climate coupling). Source: Hemingway-2018sci.md
+
+## Source correction: DOI updated
+*Logged: 2026-05-24 16:51:11*
+
+Corrected DOI for Hemingway-2018sci source from 10.1126/science.aar3580 to correct DOI 10.1126/science.aao6463. Ensures proper reference tracking and traceability.
