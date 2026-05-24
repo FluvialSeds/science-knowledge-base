@@ -54,3 +54,8 @@ Corrected DOI for Hemingway-2018sci source from 10.1126/science.aar3580 to corre
 *Logged: 2026-05-24 22:36:06*
 
 Added 'See also' sections and inline wikilinks to all 6 concept notes for better navigation. Users can now easily traverse between related concepts and source materials. Enables discovery of connections between plant-wax biomarkers (2016 study) and petrogenic carbon oxidation (2018 study).
+
+## Workflow enhancement: Automated wikilink generation
+*Logged: 2026-05-24 22:42:09*
+
+Added suggest-links command to wiki_tool.py for automated discovery of related concepts. Updated CLAUDE.md ingest workflow Step 6 to mandate wikilinks. Updated _templates/concept-note.md with See also section placeholder. Updated Schema/workflow-examples.md to show complete wikilink patterns including source paper references. Updated Schema/pdf-import-guide.md to document wikilink requirement. All ingest workflows now require bidirectional linking to related concepts and source papers.
