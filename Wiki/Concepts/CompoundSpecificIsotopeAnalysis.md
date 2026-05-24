@@ -6,8 +6,9 @@ status: stable
 created: 2026-05-24
 updated: 2026-05-24
 sources:
+  - "Raw/Sources/Hemingway-2016gca.md"
   - "Raw/Sources/Hemingway-2018og.md"
-source_count: 1
+source_count: 2
 aliases:
   - "Compound-specific isotope analysis"
   - "GC-IRMS"
@@ -54,4 +55,4 @@ Precision is controlled through:
 - [[PlantWaxBiomarkers]] — Application to plant-derived lipids
 - [[CarbonIsotopeFractionationPlants]] — Photosynthetic pathway discrimination using δ¹³C
 - [[LocalVsDistalBiomarkerSignals]] — Spatial signal interpretation at different timescales
-- Source paper: [[Hemingway-2018og]] — Novel method for intact BHP δ¹³C analysis
+- Source papers: [[Hemingway-2016gca]] — Plant-wax δ¹³C analysis in Congo River; [[Hemingway-2018og]] — Method for intact BHP δ¹³C analysis
