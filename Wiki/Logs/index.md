@@ -64,3 +64,8 @@ Added suggest-links command to wiki_tool.py for automated discovery of related c
 *Logged: 2026-05-24 22:48:24*
 
 Created CompoundSpecificIsotopeAnalysis concept note documenting UPLC-based compound-specific δ13C analysis techniques. Describes analytical approach and applications to both plant-wax lipids and bacteriohopanepolyols. Updated PlantWaxBiomarkers and CarbonIsotopeFractionationPlants to link to new analytical methods concept. This new source integrated cleanly as methodological foundation for existing biomarker notes.
+
+## Ingest: Hemingway-2017cg (Congo River biomarkers and radiocarbon)
+*Logged: 2026-05-24 23:04:02*
+
+Created two new concept notes: GDGTBiomarkers documenting branched and isoprenoid GDGT proxies and applications to riverine source partitioning, and RadiocarbonOrganicMatter covering Δ14C as tracer of pre-aged vs modern organic matter. Updated LocalVsDistalBiomarkerSignals to add Hemingway-2017cg as source and link to new concepts. Updated PlantWaxBiomarkers with links to GDGT and radiocarbon concepts. Paper integrates plant-wax lipids, GDGT biomarkers, and radiocarbon as complementary tracers for Congo River POM sources and discharge-driven temporal variability.
