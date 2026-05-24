@@ -102,13 +102,21 @@ Searches note titles and tags. Requires `Wiki/catalog.jsonl` (run `build` first)
 
 ## log
 
-Append a short entry to `Wiki/Logs/index.md`.
+Append a short entry to `Wiki/Logs/index.md` with automatic timestamp.
 
 ```bash
 python3 scripts/wiki_tool.py log --title "title" --details "details"
 ```
 
-Creates the file if it doesn't exist.
+Each entry includes a timestamp in format `YYYY-MM-DD HH:MM:SS` for chronological tracking. Creates the file if it doesn't exist.
+
+Example output:
+```
+## Schema update
+*Logged: 2026-05-24 14:30:45*
+
+What changed and why
+```
 
 ## Maintenance Gate
 

@@ -343,7 +343,8 @@ class WikiTool:
         log_path = self.wiki_root / "Logs" / "index.md"
         log_path.parent.mkdir(parents=True, exist_ok=True)
 
-        entry = f"\n## {title}\n\n{details}\n"
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        entry = f"\n## {title}\n*Logged: {timestamp}*\n\n{details}\n"
 
         if log_path.exists():
             with open(log_path, "a") as f:
@@ -352,7 +353,7 @@ class WikiTool:
             with open(log_path, "w") as f:
                 f.write(f"# Logs\n{entry}")
 
-        print(f"✓ Logged: {title}")
+        print(f"✓ Logged: {title} ({timestamp})")
         return 0
 
     def _read_frontmatter(self, path: Path) -> Optional[Dict[str, Any]]:

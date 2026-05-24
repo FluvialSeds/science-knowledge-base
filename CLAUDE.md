@@ -69,6 +69,8 @@ python3 scripts/wiki_tool.py source-lint
 python3 scripts/wiki_tool.py log --title "Your title" --details "Description of what changed"
 ```
 
+Each log entry automatically includes a timestamp (YYYY-MM-DD HH:MM:SS) for chronological tracking.
+
 Examples:
 - After ingesting sources: `log --title "Ingest: [Source]" --details "New/updated notes and key changes"`
 - After schema changes: `log --title "Schema update" --details "What changed and why"`

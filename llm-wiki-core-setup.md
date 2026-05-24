@@ -22,7 +22,7 @@ Use llm-wiki-core-setup.md to build the core LLM Wiki in this folder. Follow the
 Use this prompt after the core system exists:
 
 ```text
-Read AGENTS.md and inspect the current LLM Wiki. Search the catalog before opening Raw sources. Compile any unprocessed Raw sources into concise Wiki notes, keep every claim linked to sources, rebuild indexes, run lint/source checks, and summarize what changed.
+Read CLAUDE.md and inspect the current LLM Wiki. Search the catalog before opening Raw sources. Compile any unprocessed Raw sources into concise Wiki notes, keep every claim linked to sources, rebuild indexes, run lint/source checks, and summarize what changed.
 ```
 
 ## What This File Can Rebuild
@@ -93,7 +93,7 @@ Wiki/Projects/
 Wiki/Logs/
 Schema/
 _templates/
-.agents/skills/
+.claude/skills/
 scripts/
 tutorial/
 ```
@@ -109,17 +109,17 @@ tutorial-01-core-structure
 ### Step 02: Schema And Agent Rules
 
 Create:
-- `AGENTS.md`
+- `CLAUDE.md`
 - `Schema/frontmatter-schema.md`
 - `Schema/workflow-examples.md`
 - `Schema/lint-checklist.md`
 - `Schema/naming-conventions.md`
-- `.agents/skills/llm-wiki-ingest/SKILL.md`
-- `.agents/skills/llm-wiki-query/SKILL.md`
-- `.agents/skills/llm-wiki-lint/SKILL.md`
-- `.agents/skills/llm-wiki-maintain/SKILL.md`
+- `.claude/skills/llm-wiki-ingest/SKILL.md`
+- `.claude/skills/llm-wiki-query/SKILL.md`
+- `.claude/skills/llm-wiki-lint/SKILL.md`
+- `.claude/skills/llm-wiki-maintain/SKILL.md`
 
-`AGENTS.md` must tell agents:
+`CLAUDE.md` must tell agents:
 - Treat `Raw/Sources/` as source material, not as compiled notes.
 - Write reusable knowledge only under `Wiki/`.
 - Keep every compiled note linked to one or more Raw sources.
@@ -328,9 +328,9 @@ At this point the user has a working core LLM Wiki.
 
 The core build is complete only when all of these are true:
 
-- `AGENTS.md` exists and describes Raw/Wiki/Schema rules
+- `CLAUDE.md` exists and describes Raw/Wiki/Schema rules
 - `_templates/` contains source, concept, topic, entity, project, and log templates
-- `.agents/skills/` contains ingest, query, lint, and maintain skills
+- `.claude/skills/` contains ingest, query, lint, and maintain skills
 - `scripts/wiki_tool.py` supports every command listed in Step 04
 - `scripts/audit_public.py` exists and passes
 - `Wiki/catalog.jsonl` exists and includes the compiled Wiki notes
