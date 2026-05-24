@@ -17,31 +17,16 @@ tags:
 
 ## Overall Scientific Topic
 
-abstract
-We present a novel method to measure the13C/12C isotope ratio (reported as d13C) of individual, intact
-bacteriohopanepolyols (BHPs) using semi-preparative ultrahigh pressure liquid chromatography
-(UPLC) followed by high temperature gas chromatography–isotope ratio mass spectrometry (HT-GC–
-IRMS). The method is reproducible, as indicated by the precision of d13C values for bacteriohopanetetrol
-(BHT) extracted from R.
+This short communication presents a novel analytical method to measure the δ¹³C/¹²C isotope ratio (reported as δ¹³C) of individual, intact bacteriohopanepolyols (BHPs) using semi-preparative ultrahigh pressure liquid chromatography (UPLC) followed by high-temperature gas chromatography-isotope ratio mass spectrometry (HT-GC-IRMS). The method demonstrates excellent reproducibility as evidenced by the precision of δ¹³C values for bacteriohopanetetrol (BHT) extracted from the bacterium Rhodopseudomonas palustris biomass and analyzed across an order-of-magnitude range of IRMS peak areas (δ¹³C = −33.4 ± 0.6‰ VPDB, n = 94, ±1σ). Environmental application to a 2.9 million-year-old organic-rich Mediterranean Sea sediment sample demonstrates that the method successfully separates individual BHPs from complex environmental matrices.
 
 ## Methods
 
-Semi-preparative ultrahigh pressure liquid chromatography
-(UPLC)
-Individual compounds were isolated using an Agilent 1290
-Inﬁnity series UPLC coupled to an Agilent 1260 Inﬁnity series frac-
-tion collector. Following Kusch et al. (2018) , samples were sepa-
-rated by reverse phase using three Phenomenex Kinetex C 18columns in series (4.
+Individual compounds were isolated using an Agilent 1290 Infinity series UPLC coupled to an Agilent 1260 Infinity series fraction collector. Samples were separated by reverse-phase chromatography using three Phenomenex Kinetex C₁₈ columns in series under controlled temperature (10°C). Following established protocols (Kusch et al. 2018), the UPLC separation employed an isocratic solvent system with methanol and isopropanol, followed by back-flushing and re-equilibration. Isolated compounds were then directly coupled to HT-GC-IRMS for δ¹³C measurement on intact BHP molecules without destruction or derivatization.
 
 ## Results
 
-results for the CT standard. All results
-are reported in ‰notation relative to Vienna Pee-Dee Belemnite
-(‰VPDB) with uncertainty reported as ±1 rbetween replicateJ. / Organic Geochemistry 123 (2018) 144–147 145measurements after propagating uncertainty from acetate carbon
-correction.
+All δ¹³C results are reported in per mil (‰) notation relative to Vienna Pee-Dee Belemnite (VPDB) standard, with uncertainties propagated from repeated measurements of laboratory standards and blank corrections. δ¹³C values for bacteriohopanetetrol (BHT) are consistent across multiple biomass and sediment analyses. Analysis of a Mediterranean sediment sample yielded δ¹³C values for both BHT and BHT-II (a stereoisomer), demonstrating the method's ability to distinguish and measure individual BHP structures in environmental samples. The results show that intact BHP δ¹³C analysis preserves source-specific molecular information compared to methods requiring chemical side-chain cleavage.
 
 ## Implications
 
-Rather, this has
-been interpreted as reﬂecting a separate, isotopically distinct poolof BHT that becomes methylated within the cell (Summons et al. ,Table 1
-d13C values of compounds analyzed in this study. palustris ), and BHT-II (ODP site 964) values are corrected for aceta.
+Intact BHP δ¹³C measurements can greatly improve the interpretation of environmental signals by avoiding the need for side-chain cleavage, which reduces BHP source-specificity. This development enables researchers to apply compound-specific isotope analysis to bacterial lipid biomarkers, opening new avenues for tracing microbial communities and their metabolic pathways in ancient and modern sediments. The method's ability to measure δ¹³C on structurally intact BHPs allows detection of heterogeneous pools within sediments, revealing separate biosynthetic origins or post-depositional processes that modify BHP structures.

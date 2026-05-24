@@ -17,39 +17,16 @@ tags:
 
 ## Overall Scientific Topic
 
-ABSTRACT
-We present dissolved organic carbon (DOC) concentrations, particulate organic matter (POM) composition
-(δ13C,δ15N,Δ14C, N/C), and particulate glycerol dialkyl glycerol tetraether (GDGT) distributions from a 34-
-month time-series near the mouth of the Congo River. An end-member mixing model using δ13C and N/C in-
-dicates that exported POM is consistently dominated by C 3rainforest soil sources, with increasing contribution
-from C 3vegetation and decreasing contribution from phytoplankton at high discharge.
+This study presents a 34-month time-series (November 2010–August 2013) of dissolved organic carbon (DOC) concentrations, particulate organic matter (POM) composition (δ¹³C, δ¹⁵N, Δ¹⁴C, N/C ratios), and particulate glycerol dialkyl glycerol tetraether (GDGT) distributions from near the mouth of the Congo River. An end-member mixing model using δ¹³C and N/C indicates that exported POM is consistently dominated by C₃ rainforest soil sources, with increasing contributions from C₃ vegetation and decreasing contributions from phytoplankton during high discharge. Large C₄ plant inputs are never observed despite C₄ vegetation covering approximately 13% of the catchment.
 
 ## Methods
 
-Sample collection
-Congo River samples were collected monthly between November
-2010 and August 2013 near Brazzaville/Kinshasa, just downstream of
-the Pool Malebo and ≈300 km upstream of the Congo Estuary ( Fig. The sampling location is downstream of all major tributaries,
-capturing > 95% of the total catchment ( Spencer et al. Water
-for total suspended sediments (TSS) was collected from the surface ofthe river and ﬁltered through 0.
+Samples were collected monthly from the Congo River near Brazzaville/Kinshasa, just downstream of the Pool Malebo and approximately 300 km upstream of the Congo Estuary. The sampling location is downstream of all major tributaries, capturing over 95% of the total catchment. Total suspended sediments (TSS) were collected from the river surface and filtered for analysis of POM composition via compound-specific stable isotope analysis (δ¹³C, δ¹⁵N) and radiocarbon (Δ¹⁴C). GDGT distributions were determined using high-performance liquid chromatography-atmospheric pressure chemical ionization mass spectrometry. End-member mixing model calculations used δ¹³C and N/C ratios as conservative tracers to quantify contributions from terrestrial soils, vegetation, and phytoplankton sources.
 
 ## Results
 
-results if tem-
-poral variability in such composition is unknown. In addition to bulk measurements, microbial glycerol dialkyl gly-
-cerol tetraether (GDGT) membrane lipids can provide further constrains
-on POM source contributions. The molecular compositions of both
-branched (brGDGTs) and isoprenoid (isoGDGTs) GDGTs have become
-commonly used proxies for POM provenance and catchment environ-
-mental conditions (see Schouten et al. For example,the methylation of branched tetraether (MBT ′) and cyclization of
-branched tetraether (CBT) indices have been shown to co-vary with
-temperature and pH in a global soil dataset ( De Jonge et al.
+Low and variable Δ¹⁴C values during 2011 (annual mean = −148 ± 82‰) coincided with record-low discharge from left-bank tributaries located in the southern hemisphere, likely reflecting an increased bias toward pre-aged POM derived from the Cuvette Congolaise swamp forest. In contrast, Δ¹⁴C values were stable near −50‰ between January and June 2013, when left-bank discharge was highest. GDGT distributions provide further evidence for seasonal and inter-annual variability in soil provenance. The cyclization of branched tetraethers and the GDGT-0 to crenarchaeol ratio are positively correlated with discharge (r ≥ 0.70; p ≤ 4.3 × 10⁻⁵) due to incorporation of swamp-forest soils when discharge from right-bank tributaries is high.
 
 ## Implications
 
-7 and ArcGIS for
-Desktop v. Quantitative contribution of mend members to bulk
-POM was determined following optimum multi-parameter analysisusing m-1 (pseudo-)conservative tracers, as described in Glover et al. End-member composition uncertainty was incorporated by ( i)
-including a weighting factor for each tracer equal to the range of ob-
-served values divided by the average end-member uncertainty and ( ii)
-allowing for 1% deviation in the constraint that fractional contributionss.
+Headwater POM is replaced and/or diluted by C₃ vegetation and pre-aged soils during transit through the Cuvette Congolaise, whereas left-bank tributaries export significantly less pre-aged material. Hydrologic variability is a major control on POM provenance, demonstrated by the strong correlation between discharge and both radiocarbon age (Δ¹⁴C) and GDGT molecular composition. These results demonstrate that seasonal and inter-annual discharge variations fundamentally reshape the isotopic and molecular composition of exported organic matter, with implications for understanding how climate variability affects carbon cycling in major tropical river systems.
