@@ -32,6 +32,7 @@ When processing a new Raw source:
 5. Update `source_count` to match the number of sources.
 6. Run maintenance checks and commit.
 7. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
+8. **Log the ingest**: `python3 scripts/wiki_tool.py log --title "Ingest: [Source Title]" --details "List of new/updated Wiki notes and what was compiled from the source"`
 
 ## Query Workflow
 
@@ -61,6 +62,17 @@ After source ingestion, also run:
 python3 scripts/wiki_tool.py source-scan --update --accept-covered
 python3 scripts/wiki_tool.py source-lint
 ```
+
+**After every ingest or maintenance step that changes the Wiki**, log the activity:
+
+```bash
+python3 scripts/wiki_tool.py log --title "Your title" --details "Description of what changed"
+```
+
+Examples:
+- After ingesting sources: `log --title "Ingest: [Source]" --details "New/updated notes and key changes"`
+- After schema changes: `log --title "Schema update" --details "What changed and why"`
+- After tool improvements: `log --title "Tool enhancement" --details "What was improved"`
 
 ## File Structure
 
