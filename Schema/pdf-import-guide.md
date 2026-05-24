@@ -1,83 +1,110 @@
 # PDF Import Guide
 
-Convert PDF research papers and articles into structured source markdown notes.
+Convert PDF research papers and articles into structured source markdown notes **automatically**.
 
 ## Overview
 
-The `scripts/pdf_to_source.py` script reads PDF files from `Raw/Files/` and generates markdown source notes in `Raw/Sources/` with the frontmatter template and organized sections for:
+The `scripts/pdf_to_source.py` script:
+1. Reads PDF files from `Raw/Files/`
+2. **Automatically extracts and summarizes content** (no user input required for content)
+3. Generates markdown source notes in `Raw/Sources/` with organized sections:
+   - **Overall Scientific Topic** — Extracted from abstract
+   - **Methods** — Extracted and summarized from Methods section
+   - **Results** — Extracted and summarized from Results section
+   - **Implications** — Extracted and summarized from Discussion/Conclusion
 
-1. **Overall Scientific Topic** — The main research question or subject
-2. **Methods** — How the study was conducted
-3. **Results** — Key findings and data
-4. **Implications** — Significance and applications
+The script handles content extraction intelligently, identifying and parsing the key sections from the PDF automatically.
+
+## File Naming Convention
+
+Generated markdown files follow the convention: `lastname-year-journalacro.md`
+
+**Examples:**
+- `Hemingway-2016gca.md` (Geochimica et Cosmochimica Acta, 2016)
+- `Smith-2020nat.md` (Nature, 2020)
+- `Jones-2019sci.md` (Science, 2019)
+
+The PDF filename should follow this same pattern so the script can preserve it.
 
 ## Installation
 
-The script requires a PDF reading library. Install one:
+The script requires a PDF reading library. Install:
 
 ```bash
 pip install PyPDF2
 ```
 
-or
-
-```bash
-pip install pdfplumber
-```
-
 ## Usage
 
-### Interactive Mode
+```bash
+python3 scripts/pdf_to_source.py --pdf "lastname-year-journalacro.pdf"
+```
+
+**Example:**
 
 ```bash
-python3 scripts/pdf_to_source.py
+python3 scripts/pdf_to_source.py --pdf "Hemingway-2016gca.pdf"
 ```
 
 The script will:
-1. List available PDFs in `Raw/Files/`
-2. Prompt you to select a PDF
-3. Ask for paper metadata (title, author, reference)
-4. Guide you through describing each section
-5. Generate the markdown source note
-
-### Command Line Mode
-
-```bash
-python3 scripts/pdf_to_source.py \
-  --pdf "paper.pdf" \
-  --title "Machine Learning in Healthcare" \
-  --author "Jane Smith, John Doe" \
-  --reference "https://doi.org/10.1234/example"
-```
+1. Extract all text from the PDF
+2. Analyze the paper structure
+3. Identify Methods, Results, and Discussion sections
+4. Extract metadata (title, authors, year)
+5. Generate summaries for each section
+6. Create markdown in `Raw/Sources/` with proper frontmatter
+7. Report what was generated
 
 ## Workflow
 
-### 1. Add PDF to Raw/Files/
+### 1. Rename PDF to Follow Convention
 
-Place your PDF in the `Raw/Files/` folder:
+PDF files should be named: `lastname-year-journalacro.pdf`
 
+**Examples:**
 ```bash
-cp /path/to/paper.pdf Raw/Files/
+# Rename from original filename to convention
+mv "A_paper_on_plant_biomarkers.pdf" "Hemingway-2016gca.pdf"
+mv "Smith_2020_nature.pdf" "Smith-2020nat.pdf"
 ```
 
-### 2. Run pdf_to_source.py
+Journal acronyms (3 letters):
+- GCA = Geochimica et Cosmochimica Acta
+- Nat = Nature
+- Sci = Science
+- PNAS = Proceedings of National Academy of Sciences
+
+### 2. Add PDF to Raw/Files/
 
 ```bash
-python3 scripts/pdf_to_source.py
+cp /path/to/lastname-year-journalacro.pdf Raw/Files/
 ```
 
-### 3. Review Generated Source
+### 3. Run pdf_to_source.py
 
-The script creates a markdown file in `Raw/Sources/` with:
+```bash
+python3 scripts/pdf_to_source.py --pdf "lastname-year-journalacro.pdf"
+```
+
+The script will automatically:
+- Extract text from the PDF
+- Analyze paper structure
+- Identify Methods, Results, Discussion sections
+- Generate summaries for all four sections
+- Create markdown in `Raw/Sources/lastname-year-journalacro.md`
+
+### 4. Review Generated Source
+
+The script creates a markdown file in `Raw/Sources/lastname-year-journalacro.md`:
 
 ```markdown
 ---
 Title: "Paper Title"
-Author: "Authors"
-Reference: "doi-or-url"
+Author: "Authors extracted from PDF"
+Reference: "extracted-from-lastname-year-journalacro.pdf"
 ContentType:
   - "pdf"
-  - "markdown"
+  - "journal-article"
 Created: 2026-05-24
 Processed: false
 tags:
@@ -87,92 +114,61 @@ tags:
 # Paper Title
 
 ## Overall Scientific Topic
-[Your description of the main topic and research question]
+[Automatically extracted from abstract and introduction]
 
 ## Methods
-[How the research was conducted]
+[Automatically extracted and summarized from Methods section]
 
 ## Results
-[Key findings from the study]
+[Automatically extracted and summarized from Results section]
 
 ## Implications
-[What the results mean and their applications]
+[Automatically extracted and summarized from Discussion/Conclusion]
 ```
 
-### 4. Compile Into Wiki Notes
+**If sections need refinement:** Edit the file to improve accuracy. The automated extraction is a good starting point but may need tweaks for complex papers.
+
+### 5. Compile Into Wiki Notes
 
 Follow the standard ingest workflow:
 
-1. Search catalog for related topics
+1. Search catalog for related topics: `python3 scripts/wiki_tool.py search-catalog --query "topic"`
 2. Create or update Wiki notes in `Wiki/` with focused knowledge
-3. Link Wiki notes back to this source in the `sources` field
-4. Mark source as `Processed: true` in the Raw source file
-5. Run maintenance checks
-6. Log the ingest
+3. Link Wiki notes back to this source in their `sources` field
+4. **Mark source as `Processed: true`** in the Raw source file
+5. Run maintenance checks: `python3 scripts/wiki_tool.py build && python3 scripts/wiki_tool.py lint`
+6. Log the ingest: `python3 scripts/wiki_tool.py log --title "Ingest: [Paper Title]" --details "Compiled into [Wiki notes]"`
 
-Example:
+## Quality Notes
 
-```bash
-python3 scripts/wiki_tool.py source-scan --update --accept-covered
-python3 scripts/wiki_tool.py log --title "Ingest: [Paper Title]" --details "Compiled into [Wiki notes]"
-```
+### Automated Section Extraction
 
-## Tips for Good Source Notes
+The script identifies sections by looking for headers ("Methods", "Results", "Discussion") and extracts text between them. Quality depends on:
 
-### Overall Scientific Topic
+- **Structured PDFs** (from journals): Usually excellent extraction
+- **Scanned PDFs**: May have OCR errors; content may be unclear  
+- **Non-standard layouts**: May miss or misidentify sections
 
-Describe in 2-3 sentences:
-- What is the main research question?
-- What field or domain is this in?
-- Why does this matter?
+### If Extraction is Poor
 
-**Example**: "This study investigates how machine learning models can improve early detection of diabetic complications in primary care. Understanding biomarker patterns is important because early intervention can prevent serious health outcomes."
-
-### Methods
-
-Summarize:
-- Study design (observational, experimental, etc.)
-- Sample size and population
-- Key variables measured
-- Analysis techniques used
-
-**Example**: "The researchers conducted a prospective cohort study of 5,000 patients from 20 primary care clinics. They measured 15 biomarkers quarterly and used gradient boosting to predict complications within 2 years."
-
-### Results
-
-Include:
-- Primary findings with numbers/percentages
-- Performance metrics (accuracy, p-values, effect sizes)
-- Key comparisons or patterns
-- Notable limitations or caveats
-
-**Example**: "The model achieved 94% sensitivity and 87% specificity for prediction (AUC = 0.91). Performance was consistent across all age groups (p = 0.34), but slightly lower in underrepresented populations (AUC = 0.85)."
-
-### Implications
-
-Discuss:
-- Clinical or practical significance
-- Limitations of the study
-- Recommended next steps or applications
-- Broader impact on the field
-
-**Example**: "The model shows promise for deployment in primary care to identify high-risk patients. Further validation in diverse populations is needed. If validated, this could reduce preventable complications by 15-20%."
+1. Check that the PDF is a standard research paper with clear sections
+2. Try a different PDF to test the tool
+3. Edit `Raw/Sources/filename.md` manually to improve content
+4. For heavily formatted papers, consider manual summarization
 
 ## Troubleshooting
 
-### PDF Extraction Fails
+### PDF Text Extraction Fails
 
-- Ensure PyPDF2 or pdfplumber is installed
-- Check that the PDF is not corrupted or encrypted
-- Some scanned PDFs may have poor text extraction quality
+- Ensure PyPDF2 is installed: `pip install PyPDF2`
+- Check that PDF is not encrypted or corrupted
+- Try opening the PDF in a standard viewer to confirm it works
 
-### Generated File Has Placeholder Text
+### Section Extraction Missed Content
 
-You provided minimal information. The script fills in templates to guide you. Edit `Raw/Sources/[filename].md` to add real content.
-
-### Large PDFs Are Slow
-
-Text extraction from large PDFs (100+ pages) can take time. This is normal. Consider splitting very large documents into parts.
+- The script looks for standard headers ("Methods", "Results", "Discussion")
+- If your paper uses different headers, edit the generated file
+- Complex multi-section papers may need manual refinement
 
 ## Related Commands
 
