@@ -49,3 +49,8 @@ Compiled Hemingway et al. 2018 Science paper on microbial oxidation of lithosphe
 *Logged: 2026-05-24 16:51:11*
 
 Corrected DOI for Hemingway-2018sci source from 10.1126/science.aar3580 to correct DOI 10.1126/science.aao6463. Ensures proper reference tracking and traceability.
+
+## Wiki improvement: Added wikilinks to concept notes
+*Logged: 2026-05-24 22:36:06*
+
+Added 'See also' sections and inline wikilinks to all 6 concept notes for better navigation. Users can now easily traverse between related concepts and source materials. Enables discovery of connections between plant-wax biomarkers (2016 study) and petrogenic carbon oxidation (2018 study).
