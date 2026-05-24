@@ -128,6 +128,13 @@ tags:
 
 **If sections need refinement:** Edit the file to improve accuracy. The automated extraction is a good starting point but may need tweaks for complex papers.
 
+**Important metadata cleanup:**
+- **Author format**: Must be comma-separated full names: `"FirstName MiddleInitial. LastName, FirstName MiddleInitial. LastName, ..."`
+  - Example: `"Jordon D. Hemingway, Robert G. Hilton, Niels Hovius"`
+  - NOT: `"Hemingway, J.D.; Hilton, R.G.; Hovius, N."`
+- **Reference field**: Replace `"extracted-from-..."` with actual DOI or URL
+  - Example: `"https://doi.org/10.1126/science.aao6463"` or full URL to the paper
+
 ### 5. Compile Into Wiki Notes
 
 Follow the standard ingest workflow:

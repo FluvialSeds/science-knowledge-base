@@ -1,6 +1,6 @@
 ---
 Title: "A novel method to measure the δ¹³C composition of intact bacteriohopanepolyols"
-Author: "Hemingway, J.D.; Kusch, S.; Shah Walter, S.R.; Polik, C.A.; Elling, F.J.; Pearson, A."
+Author: "Jordon D. Hemingway, Stephanie Kusch, Sunita R. Shah Walter, Catherine A. Polik, Felix J. Elling, Ann Pearson"
 Reference: "https://doi.org/10.1016/j.orggeochem.2018.07.002"
 ContentType:
   - "pdf"

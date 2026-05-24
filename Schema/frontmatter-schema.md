@@ -25,7 +25,7 @@ tags:
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
 | `Title` | string | Yes | Original source title |
-| `Author` | string | Yes | Original source author(s) |
+| `Author` | string | Yes | Original source author(s) — use format: "FirstName MiddleInitial. LastName, FirstName MiddleInitial. LastName, ..." |
 | `Reference` | string | Yes | URL, DOI, ISBN, or other permanent identifier |
 | `ContentType` | list | Yes | Content types: `markdown`, `pdf`, `video`, `article`, etc. |
 | `Created` | date | Yes | Original publication or creation date (YYYY-MM-DD) |

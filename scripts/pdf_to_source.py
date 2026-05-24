@@ -309,7 +309,9 @@ def main():
     print(f"  • Results")
     print(f"  • Implications")
     print(f"\nNext steps:")
-    print(f"  1. Review the generated file")
+    print(f"  1. Review and edit the generated file:")
+    print(f"     - Author: Use format 'FirstName MiddleInitial. LastName, FirstName MiddleInitial. LastName, ...'")
+    print(f"     - Reference: Replace 'extracted-from-...' with DOI or URL")
     print(f"  2. Compile into Wiki notes using ingest workflow")
     print(f"  3. Mark as Processed: true after compilation")
 
