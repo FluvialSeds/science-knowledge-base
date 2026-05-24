@@ -1,7 +1,7 @@
 ---
-Title: "A novel method to measure the13C composition of intact"
-Author: "Unknown"
-Reference: "extracted-from-Hemingway-2018og.pdf"
+Title: "A novel method to measure the δ¹³C composition of intact bacteriohopanepolyols"
+Author: "Hemingway, J.D.; Kusch, S.; Shah Walter, S.R.; Polik, C.A.; Elling, F.J.; Pearson, A."
+Reference: "https://doi.org/10.1016/j.orggeochem.2018.07.002"
 ContentType:
   - "pdf"
   - "journal-article"
@@ -11,7 +11,9 @@ tags:
   - "source"
 ---
 
-# A novel method to measure the13C composition of intact
+# A novel method to measure the δ¹³C composition of intact bacteriohopanepolyols
+
+**Journal:** Organic Geochemistry, Volume 123, Pages 144–147 (2018)
 
 ## Overall Scientific Topic
 
