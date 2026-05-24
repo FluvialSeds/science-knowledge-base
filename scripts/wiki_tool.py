@@ -360,6 +360,99 @@ class WikiTool:
         print(f"✓ Logged: {title} ({timestamp})")
         return 0
 
+    def suggest_links(self, note_path: str) -> int:
+        """Suggest wikilinks for a note by matching keywords to catalog."""
+        note_file = self.vault_root / note_path
+
+        if not note_file.exists():
+            print(f"✗ Note not found: {note_path}")
+            return 1
+
+        catalog_path = self.wiki_root / "catalog.jsonl"
+        if not catalog_path.exists():
+            print(f"✗ Catalog not found. Run 'build' first.")
+            return 1
+
+        # Read the note
+        try:
+            with open(note_file) as f:
+                content = f.read()
+        except Exception as e:
+            print(f"✗ Error reading note: {e}")
+            return 1
+
+        # Extract frontmatter and body
+        fm = self._read_frontmatter(note_file)
+        note_title = fm.get("title", "") if fm else note_file.stem
+
+        # Extract keywords from title and topics
+        keywords = set()
+        keywords.update(note_title.lower().split())
+        if fm and fm.get("topics"):
+            for topic in fm.get("topics", []):
+                keywords.update(topic.lower().split())
+
+        # Extract content keywords (first 500 chars of body)
+        body_start = content.find("---", 3)
+        if body_start > 0:
+            body_start = content.find("\n", body_start) + 1
+            body_text = content[body_start:body_start+1000].lower()
+            # Simple word extraction
+            words = re.findall(r'\b[a-z]+\b', body_text)
+            keywords.update(words[:20])  # Limit to first 20 words
+
+        # Search catalog for matches
+        matches = {}
+        try:
+            with open(catalog_path) as f:
+                for line in f:
+                    entry = json.loads(line)
+                    entry_path = entry["path"]
+
+                    # Skip self-reference
+                    if entry_path == str(note_file.relative_to(self.vault_root)):
+                        continue
+
+                    entry_title = entry["title"].lower()
+                    entry_name = entry_path.split("/")[-1].replace(".md", "")
+
+                    # Score based on matches
+                    score = 0
+                    matched_keywords = []
+
+                    for kw in keywords:
+                        if kw in entry_title or kw in entry_name.lower():
+                            score += 1
+                            matched_keywords.append(kw)
+
+                    if score > 0:
+                        matches[entry_path] = {
+                            "title": entry["title"],
+                            "tag": entry["tag"],
+                            "score": score,
+                            "keywords": list(set(matched_keywords))
+                        }
+        except Exception as e:
+            print(f"✗ Error reading catalog: {e}")
+            return 1
+
+        # Sort by score
+        sorted_matches = sorted(matches.items(), key=lambda x: x[1]["score"], reverse=True)
+
+        if sorted_matches:
+            print(f"✓ Suggested wikilinks for: {note_title}")
+            print(f"\nAdd these to your 'See also' section:")
+            for path, info in sorted_matches[:5]:
+                note_name = path.split("/")[-1].replace(".md", "")
+                print(f"  - [[{note_name}]] — {info['title']} ({info['tag']})")
+
+            if len(sorted_matches) > 5:
+                print(f"\n  (and {len(sorted_matches) - 5} more matches)")
+        else:
+            print(f"✓ No related notes found in catalog")
+
+        return 0
+
     def _read_frontmatter(self, path: Path) -> Optional[Dict[str, Any]]:
         """Extract YAML frontmatter from a note."""
         try:
@@ -476,7 +569,7 @@ def main():
 
     if len(sys.argv) < 2:
         print("Usage: wiki_tool.py <command> [args]")
-        print("Commands: doctor, build, lint, source-scan, source-lint, source-delta, source-coverage, search-catalog, log")
+        print("Commands: doctor, build, lint, source-scan, source-lint, source-delta, source-coverage, search-catalog, suggest-links, log")
         return 1
 
     command = sys.argv[1]
@@ -503,6 +596,13 @@ def main():
             return tool.search_catalog(sys.argv[query_idx])
         else:
             print("Usage: wiki_tool.py search-catalog --query 'search term'")
+            return 1
+    elif command == "suggest-links":
+        note_idx = sys.argv.index("--note") + 1 if "--note" in sys.argv else -1
+        if note_idx > 0 and note_idx < len(sys.argv):
+            return tool.suggest_links(sys.argv[note_idx])
+        else:
+            print("Usage: wiki_tool.py suggest-links --note 'path/to/note.md'")
             return 1
     elif command == "log":
         title_idx = sys.argv.index("--title") + 1 if "--title" in sys.argv else -1

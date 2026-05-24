@@ -135,9 +135,13 @@ Follow the standard ingest workflow:
 1. Search catalog for related topics: `python3 scripts/wiki_tool.py search-catalog --query "topic"`
 2. Create or update Wiki notes in `Wiki/` with focused knowledge
 3. Link Wiki notes back to this source in their `sources` field
-4. **Mark source as `Processed: true`** in the Raw source file
-5. Run maintenance checks: `python3 scripts/wiki_tool.py build && python3 scripts/wiki_tool.py lint`
-6. Log the ingest: `python3 scripts/wiki_tool.py log --title "Ingest: [Paper Title]" --details "Compiled into [Wiki notes]"`
+4. **Add wikilinks** (mandatory):
+   - Add inline `[[ConceptName]]` wikilinks within note text to related concepts
+   - Add a "See also" section at the end with related concepts and source paper links
+   - Use `python3 scripts/wiki_tool.py suggest-links --note "Wiki/Concepts/YourNote.md"` for suggestions
+5. **Mark source as `Processed: true`** in the Raw source file
+6. Run maintenance checks: `python3 scripts/wiki_tool.py build && python3 scripts/wiki_tool.py lint`
+7. Log the ingest: `python3 scripts/wiki_tool.py log --title "Ingest: [Paper Title]" --details "Compiled into [Wiki notes]"`
 
 ## Quality Notes
 

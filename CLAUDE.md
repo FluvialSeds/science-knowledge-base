@@ -25,15 +25,21 @@ This document tells agents how to work with this LLM Wiki.
 
 When processing a new Raw source:
 
-1. Search `Wiki/catalog.jsonl` for related topics and concepts.
+1. Search `Wiki/catalog.jsonl` for related topics and concepts: `python3 scripts/wiki_tool.py search-catalog --query "your keywords"`
 2. Open only the most relevant existing Wiki notes.
 3. Create or update focused notes in `Wiki/` that compile the source material.
 4. Add the Raw source path to the `sources` list in each compiled note.
 5. Update `source_count` to match the number of sources.
-6. **Mark source as processed**: Set `Processed: true` in the Raw source frontmatter (mandatory once compiled into Wiki notes).
-7. Run maintenance checks and commit.
-8. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
-9. **Log the ingest**: `python3 scripts/wiki_tool.py log --title "Ingest: [Source Title]" --details "List of new/updated Wiki notes and what was compiled from the source"`
+6. **Add wikilinks (mandatory)**:
+   - Add inline wikilinks within text to related concepts using `[[ConceptName]]` syntax
+   - Add a "See also" section at the end linking to:
+     - Related concept notes: `[[RelatedConcept]]`
+     - Source paper: `[[SourceFileName]]` (the Raw source markdown file)
+   - Use `python3 scripts/wiki_tool.py suggest-links --note "Wiki/Concepts/YourNote.md"` to get suggestions
+7. **Mark source as processed**: Set `Processed: true` in the Raw source frontmatter (mandatory once compiled into Wiki notes).
+8. Run maintenance checks and commit.
+9. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
+10. **Log the ingest**: `python3 scripts/wiki_tool.py log --title "Ingest: [Source Title]" --details "List of new/updated Wiki notes and what was compiled from the source"`
 
 ## Query Workflow
 

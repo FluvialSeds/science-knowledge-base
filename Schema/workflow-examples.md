@@ -64,7 +64,11 @@ A computational model with layers of interconnected nodes inspired by biological
 - Can approximate any continuous function (universal approximation theorem)
 - Requires training data and optimization
 
-See also: [[Backpropagation]], [[Deep Learning]]
+## See also
+
+- [[Backpropagation]] — Weight adjustment mechanism
+- [[Deep Learning]] — Neural networks with multiple layers
+- [[neural-networks-intro]] — Source material
 ```
 
 **Log Entry: Source Processing**
@@ -139,6 +143,14 @@ Key components:
 - Query, Key, Value projections
 - Scaled dot-product attention
 - Multi-head attention
+
+## See also
+
+- [[BERT]] — Transformer application to language understanding
+- [[GPT]] — Transformer application to text generation
+- [[transformer-paper]] — Original architecture paper
+- [[attention-mechanism-blog]] — Intuitive explanation of attention
+- [[bert-documentation]] — Practical fine-tuning guide
 ```
 
 Each source contributes different aspects:
@@ -172,9 +184,10 @@ tags:
 2. Search catalog for existing RL-related notes
 3. Create or update concept notes (e.g., "Markov Decision Process", "Policy Gradient")
 4. Create or update topic note (e.g., "Reinforcement Learning")
-5. Update Raw source: `Processed: true`
-6. Run maintenance checks
-7. Commit with message linking source to new/updated notes
+5. Add wikilinks to related concepts and source papers in "See also" sections
+6. Update Raw source: `Processed: true`
+7. Run maintenance checks
+8. Commit with message linking source to new/updated notes
 
 ## Validation Checklist
 
