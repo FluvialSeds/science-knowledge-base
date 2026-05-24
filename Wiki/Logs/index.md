@@ -39,3 +39,8 @@ Removed interactive prompts. Script now automatically extracts paper sections an
 *Logged: 2026-05-24 16:35:22*
 
 Compiled Hemingway et al. 2016 plant-wax biomarker study into 3 focused concepts: Plant-Wax Biomarkers (overview and applications), Local vs Distal Biomarker Signals (spatial/temporal integration), and Carbon Isotope Fractionation in Plants (δ¹³C methods). Source: Hemingway-2016gca.md
+
+## Ingest: Hemingway 2018 Science - Petrogenic Carbon Oxidation
+*Logged: 2026-05-24 16:46:48*
+
+Compiled Hemingway et al. 2018 Science paper on microbial oxidation of lithospheric organic carbon into 3 focused concepts: Petrogenic Organic Carbon (definition and sources), Microbial Oxidation of Organic Carbon (oxidation rates and controls), and Carbon Cycle in Mountain Systems (tectonics-climate coupling). Source: Hemingway-2018sci.md
