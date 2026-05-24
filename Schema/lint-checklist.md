@@ -38,8 +38,10 @@ Deterministic checks that must pass before commits.
 
 ### Source Coverage Validation
 
+- [ ] **MANDATORY**: If a source has been compiled into Wiki notes, `Processed` MUST be set to `true`
 - [ ] If `Processed: true`, at least one Wiki note includes this source in its `sources` field
 - [ ] If `Processed: false`, no Wiki notes should reference it yet
+- [ ] If `Processed: true` but no Wiki coverage exists, source-lint will fail (fix by creating Wiki notes or setting `Processed: false`)
 
 ## Catalog Validation
 

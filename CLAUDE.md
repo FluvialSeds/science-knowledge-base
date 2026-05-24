@@ -30,9 +30,10 @@ When processing a new Raw source:
 3. Create or update focused notes in `Wiki/` that compile the source material.
 4. Add the Raw source path to the `sources` list in each compiled note.
 5. Update `source_count` to match the number of sources.
-6. Run maintenance checks and commit.
-7. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
-8. **Log the ingest**: `python3 scripts/wiki_tool.py log --title "Ingest: [Source Title]" --details "List of new/updated Wiki notes and what was compiled from the source"`
+6. **Mark source as processed**: Set `Processed: true` in the Raw source frontmatter (mandatory once compiled into Wiki notes).
+7. Run maintenance checks and commit.
+8. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
+9. **Log the ingest**: `python3 scripts/wiki_tool.py log --title "Ingest: [Source Title]" --details "List of new/updated Wiki notes and what was compiled from the source"`
 
 ## Query Workflow
 
