@@ -1,0 +1,15 @@
+#!/bin/bash
+# Pre-commit hook: run wiki_tool.py maintenance checks
+
+set -e
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+echo "Running wiki maintenance checks..."
+
+python3 scripts/wiki_tool.py build
+python3 scripts/wiki_tool.py lint
+python3 scripts/wiki_tool.py source-lint
+
+echo "✓ All checks passed"
