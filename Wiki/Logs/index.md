@@ -59,3 +59,8 @@ Added 'See also' sections and inline wikilinks to all 6 concept notes for better
 *Logged: 2026-05-24 22:42:09*
 
 Added suggest-links command to wiki_tool.py for automated discovery of related concepts. Updated CLAUDE.md ingest workflow Step 6 to mandate wikilinks. Updated _templates/concept-note.md with See also section placeholder. Updated Schema/workflow-examples.md to show complete wikilink patterns including source paper references. Updated Schema/pdf-import-guide.md to document wikilink requirement. All ingest workflows now require bidirectional linking to related concepts and source papers.
+
+## Ingest: Hemingway-2018og (BHP analytical methods)
+*Logged: 2026-05-24 22:48:24*
+
+Created CompoundSpecificIsotopeAnalysis concept note documenting UPLC-based compound-specific δ13C analysis techniques. Describes analytical approach and applications to both plant-wax lipids and bacteriohopanepolyols. Updated PlantWaxBiomarkers and CarbonIsotopeFractionationPlants to link to new analytical methods concept. This new source integrated cleanly as methodological foundation for existing biomarker notes.
