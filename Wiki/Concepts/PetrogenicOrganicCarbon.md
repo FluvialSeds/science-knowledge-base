@@ -37,4 +37,10 @@ Petrogenic organic carbon oxidation is a natural source of atmospheric CO₂ on 
 - Silicate rock weathering (which consumes CO₂)
 - Burial of biospheric organic carbon in marine sediments
 
-Thus, in rapidly eroding mountain systems, petrogenic organic carbon oxidation acts as a negative feedback on CO₂ drawdown, coupling tectonics directly to atmospheric CO₂ and climate on million-year timescales.
+Thus, in rapidly eroding mountain systems, [[MicrobialOxidationOrganicCarbon|petrogenic organic carbon oxidation]] acts as a negative feedback on CO₂ drawdown, coupling tectonics directly to atmospheric CO₂ and climate on million-year timescales.
+
+## See also
+
+- [[MicrobialOxidationOrganicCarbon]] — How microbes oxidize petrogenic carbon in soils
+- [[CarbonCycleMountainSystems]] — How petrogenic carbon oxidation fits in the broader carbon cycle
+- Source paper: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation rates

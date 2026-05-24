@@ -44,4 +44,10 @@ Factors promoting microbial oxidation include:
 
 ## Implications
 
-Microbial oxidation of petrogenic carbon in mountain soils represents a significant source of atmospheric CO₂ that is directly controlled by tectonic and climatic factors driving erosion. This creates a feedback between tectonics and atmospheric composition on geological timescales.
+Microbial oxidation of [[PetrogenicOrganicCarbon|petrogenic carbon]] in mountain soils represents a significant source of atmospheric CO₂ that is directly controlled by tectonic and climatic factors driving erosion. This creates a feedback between tectonics and atmospheric composition on geological timescales, as described in the [[CarbonCycleMountainSystems|carbon cycle in mountain systems]].
+
+## See also
+
+- [[PetrogenicOrganicCarbon]] — The substrate being oxidized: ancient organic matter in bedrock
+- [[CarbonCycleMountainSystems]] — How oxidation rates couple to erosion and affect global climate
+- Source paper: [[Hemingway-2018sci]] — Taiwan study demonstrating microbially-mediated oxidation

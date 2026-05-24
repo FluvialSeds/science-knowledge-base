@@ -44,3 +44,9 @@ Plant-wax biomarkers are used to reconstruct:
 - Miocene C₄ grassland expansion
 - Long-term paleovegetation changes in terrestrial and lacustrine sediments
 - Modern ecosystem structure from fluvial sediments
+
+## See also
+
+- [[CarbonIsotopeFractionationPlants]] — How δ¹³C discriminates vegetation types
+- [[LocalVsDistalBiomarkerSignals]] — Spatial and temporal scale considerations for biomarker interpretation
+- Source paper: [[Hemingway-2016gca]] — Plant-wax lipids in Congo River sediments

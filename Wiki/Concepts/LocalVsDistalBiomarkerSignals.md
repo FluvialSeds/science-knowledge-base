@@ -44,3 +44,9 @@ All individual plant-wax lipids show minimal temporal δ¹³C variability (<0.9�
 - **n-Alkanes**: Better choice for inferring past ecosystem composition and vegetation types
 - **n-Alcohols and n-Alkanoic Acids**: May reflect local hydrological conditions rather than regional climate/vegetation
 - **Multiple lipid classes**: Needed together to resolve the full spatial and temporal complexity of paleoenvironmental signals
+
+## See also
+
+- [[PlantWaxBiomarkers]] — Overview of biomarker compound classes and properties
+- [[CarbonIsotopeFractionationPlants]] — Using δ¹³C to distinguish vegetation types
+- Source paper: [[Hemingway-2016gca]] — Congo River case study demonstrating local vs distal signals

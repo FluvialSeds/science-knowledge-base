@@ -48,6 +48,12 @@ These secondary effects can complicate interpretation of δ¹³C records, partic
 ## Advantages for Biomarker Analysis
 
 Using δ¹³C measurements alongside homologue distributions provides complementary constraints:
-- δ¹³C identifies photosynthetic pathway
+- δ¹³C identifies [[PlantWaxBiomarkers|photosynthetic pathway in plant-wax biomarkers]]
 - Molecular distributions show plant functional type effects
 - Together, they disambiguate mixing of sources in environmental samples
+
+## See also
+
+- [[PlantWaxBiomarkers]] — Details on n-alkanes, n-alcohols, and n-alkanoic acids
+- [[LocalVsDistalBiomarkerSignals]] — How to interpret biomarker signals at different timescales
+- Source paper: [[Hemingway-2016gca]] — Congo River study applying isotope methods

@@ -49,6 +49,13 @@ This tight coupling between erosion rate and both CO₂ drawdown and release mea
 - **Tectonics drives erosion** → which affects atmospheric CO₂
 - **Mountains are not simple CO₂ sinks** — they are complex systems with competing processes
 - **Mountain building can be a net CO₂ source** in rapidly eroding regions, potentially having **negative feedback on long-term climate**
-- Understanding the carbon cycle requires considering all processes: weathering, burial, AND oxidation
+- Understanding the carbon cycle requires considering all processes: weathering, burial, AND [[MicrobialOxidationOrganicCarbon|oxidation of petrogenic carbon]]
 
 This framework connects tectonics directly to climate regulation on geological timescales.
+
+## See also
+
+- [[PetrogenicOrganicCarbon]] — Ancient carbon in bedrock that gets oxidized during erosion
+- [[MicrobialOxidationOrganicCarbon]] — The oxidation process and rates in mountain soils
+- [[PlantWaxBiomarkers]] — Biomarkers used to track carbon sources and cycling
+- Source paper: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation as a CO₂ source
