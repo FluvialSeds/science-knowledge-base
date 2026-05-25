@@ -43,15 +43,21 @@ When processing a new Raw source:
      - Source paper: `[[SourceFileName]]` (the Raw source markdown file)
    - Use `python3 scripts/wiki_tool.py suggest-links --note "Wiki/Concepts/YourNote.md"` to get suggestions
 9. **Mark source as processed**: Set `Processed: true` in the Raw source frontmatter (mandatory once compiled into Wiki notes and body text is clean).
-10. Run maintenance checks: `python3 scripts/wiki_tool.py build && python3 scripts/wiki_tool.py lint`
-11. **Add log entry to `Wiki/log.md`** (mandatory before commit):
+10. **Assess extraction quality** (hybrid strategy — local assessment, 0 tokens):
+    ```bash
+    python3 scripts/cleanup_ocr.py --assess Raw/Sources/filename.md
+    ```
+    - **ACCEPTABLE verdict**: all sections meet quality thresholds (≥50 words, coherent prose, no OCR artifacts) → proceed to Step 11 without rewriting
+    - **REWRITE REQUIRED verdict**: one or more sections fail quality checks → rewrite only the listed failing sections before proceeding (see Body Text Quality Checklist in `Schema/pdf-import-guide.md`)
+11. Run maintenance checks: `python3 scripts/wiki_tool.py build && python3 scripts/wiki_tool.py lint`
+12. **Add log entry to `Wiki/log.md`** (mandatory before commit):
     - Add a new section with title: `## Ingest: [Source Title]`
     - Add timestamp line: `*Logged: YYYY-MM-DD HH:MM:SS*`
     - Describe what was created/updated and which sources were compiled
     - Use the format from existing entries as template
-12. Stage all changes and commit with descriptive message including source file and concept notes.
-13. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
-14. Verify source integrity: `python3 scripts/wiki_tool.py source-lint`
+13. Stage all changes and commit with descriptive message including source file and concept notes.
+14. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
+15. Verify source integrity: `python3 scripts/wiki_tool.py source-lint`
 
 ## Query Workflow
 
