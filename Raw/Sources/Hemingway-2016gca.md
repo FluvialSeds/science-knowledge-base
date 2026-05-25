@@ -6,12 +6,17 @@ ContentType:
   - "pdf"
   - "journal-article"
 Created: 2026-05-24
+Journal: "Geochimica et Cosmochimica Acta"
+Volume: "184"
+Pages: "20-40"
 Processed: true
 tags:
   - "source"
 ---
 
 # Multiple plant-wax compounds record differential sources and ecosystem structure in large river catchments
+
+**Journal:** Geochimica et Cosmochimica Acta, Volume 184, Pages 20-40 (2017)
 
 ## Overall Scientific Topic
 

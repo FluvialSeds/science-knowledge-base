@@ -6,6 +6,9 @@ ContentType:
   - "pdf"
   - "journal-article"
 Created: 2026-05-24
+Journal: "Organic Geochemistry"
+Volume: "123"
+Pages: "144–147"
 Processed: true
 tags:
   - "source"

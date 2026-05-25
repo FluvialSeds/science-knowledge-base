@@ -6,6 +6,9 @@ ContentType:
   - "pdf"
   - "journal-article"
 Created: 2026-05-24
+Journal: "Chemical Geology"
+Volume: "466"
+Pages: "454–465"
 Processed: true
 tags:
   - "source"
