@@ -2,6 +2,8 @@
 
 - [[Anammox]] — Anammox
 - [[BacteriohopanepolyolBiomarkers]] — Bacteriohopanepolyol Biomarkers
+- [[BiogeochemicalCyclingFromBiomarkers]] — Biogeochemical Cycling Reconstructed from Biomarkers
+- [[BiomarkerIsotopeCompositionForPaleoreconstruction]] — Biomarker Isotope Composition for Paleoenvironmental Reconstruction
 - [[CarbonCycleMountainSystems]] — Carbon Cycle in Mountain Systems: CO₂ Sources and Sinks
 - [[CarbonIsotopeFractionationPlants]] — Carbon Isotope Fractionation and Plant Photosynthetic Pathways
 - [[CarbonateIsotopeThermalAlteration]] — Carbonate Isotope Thermal Alteration and Bond Reordering Kinetics
@@ -25,6 +27,7 @@
 - [[OceanicAnoxicEvents]] — Oceanic Anoxic Events
 - [[OrganicCarbonPreservation]] — Organic Carbon Preservation Mechanisms
 - [[OrganoMineralBonds]] — Organo-Mineral Bonds and Organic Carbon Protection
+- [[PaleoFireReconstructionFromBiomarkers]] — Paleofires Reconstructed from Biomarkers
 - [[PaleoceneEoceneThermalMaximumHydrology]] — Paleocene-Eocene Thermal Maximum and Hydrologic Intensification
 - [[PetrogenicCarbonOxidation]] — Petrogenic Carbon Oxidation
 - [[PetrogenicOrganicCarbon]] — Petrogenic Organic Carbon

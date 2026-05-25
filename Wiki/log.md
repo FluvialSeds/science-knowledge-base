@@ -185,3 +185,8 @@ Created three comprehensive topic notes organizing the wiki's 34 concepts into b
 *Logged: 2026-05-25 21:48:51*
 
 Clay hydroxyl isotopes and PETM hydrologic enhancement. Created 2 concept notes: ClayHydroxylIsotopesPaleoxyProbe and PaleoceneEoceneThermalMaximumHydrology. Cleaned Implications section body text to pass quality assessment. Source marked as processed.
+
+## Ingest: Inglis-2022areps
+*Logged: 2026-05-25 22:04:14*
+
+Biomarker approaches for terrestrial paleoenvironmental reconstruction. Created 3 concept notes: BiomarkerIsotopeCompositionForPaleoreconstruction, PaleoFireReconstructionFromBiomarkers, BiogeochemicalCyclingFromBiomarkers. Cleaned all body text sections from PDF OCR artifacts. Source marked as processed.
