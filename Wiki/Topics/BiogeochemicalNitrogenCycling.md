@@ -43,7 +43,7 @@ The evidence from both [[Elling-2020pnas|Elling et al. 2020]] and [[Elling-2021e
 
 ## Nitrogen Cycle-Climate Coupling
 
-The nitrogen cycle is intimately connected to climate and carbon cycling. Enhanced [[NitrificationNitrogenFixation|nitrogen fixation]] can amplify the effects of ocean stratification by supporting diazotrophic cyanobacteria that form mats and modify local hydrography. Conversely, the expansion of oxygen-minimum zones driven by climate-induced stratification can amplify [[Anammox|anammox activity]] and nitrogen loss. These feedbacks mean that climate perturbations can trigger rapid shifts in the nitrogen cycle, with implications for long-term carbon sequestration and atmospheric CO₂.
+The nitrogen cycle is intimately connected to climate and carbon cycling. Enhanced [[Nitrification|nitrogen fixation]] can amplify the effects of ocean stratification by supporting diazotrophic cyanobacteria that form mats and modify local hydrography. Conversely, the expansion of oxygen-minimum zones driven by climate-induced stratification can amplify [[Anammox|anammox activity]] and nitrogen loss. These feedbacks mean that climate perturbations can trigger rapid shifts in the nitrogen cycle, with implications for long-term carbon sequestration and atmospheric CO₂.
 
 Understanding how the nitrogen cycle has responded to past climate changes provides a framework for predicting how future ocean deoxygenation—driven by climate warming—will alter nitrogen transformations and ocean productivity.
 

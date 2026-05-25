@@ -22,10 +22,17 @@
       }
     },
     {
-      "query": "path:Wiki  ",
+      "query": "path:Wiki/Concepts  ",
       "color": {
         "a": 1,
         "rgb": 5396192
+      }
+    },
+    {
+      "query": "path:Wiki/Topics  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.9667757057270691,
   "close": true
 }
