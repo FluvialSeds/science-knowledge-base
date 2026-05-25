@@ -81,14 +81,9 @@ The disordered kinetic model enables researchers to:
 **Assessing paleoclimate fidelity:**
 By comparing predicted Δ₄₇ values (after post-burial reordering) with observed values, researchers can determine whether a sample has preserved primary paleoclimate information or has been thermally reset. This assessment is critical for building robust paleoclimate records.
 
-## Complementary Concepts
+## See also
 
 - [[RadiocarbonOrganicMatter]] — Radioactive isotope chronometry complementary to paleothermometry
 - [[CarbonIsotopeFractionationPlants]] — Stable isotope fractionation processes
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for carbonate isotope analysis
-
-## See also
-
-- [[CarbonIsotopeFractionationPlants]] — Related stable isotope concepts
-- [[CompoundSpecificIsotopeAnalysis]] — Analytical foundations for isotope measurement
 - Source paper: [[Hemingway-2021epsl]] — Kinetic model for clumped isotope bond reordering

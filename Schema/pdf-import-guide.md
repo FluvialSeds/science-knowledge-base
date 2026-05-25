@@ -218,7 +218,7 @@ Follow the standard ingest workflow:
 3. Link Wiki notes back to this source in their `sources` field
 4. **Add wikilinks** (mandatory):
    - Add inline `[[ConceptName]]` wikilinks within note text to related concepts
-   - Add a "See also" section at the end with related concepts and source paper links
+   - Add ONLY a "See also" section at the end with related concepts and source paper links (do NOT create separate "Complementary Concepts" or similar sections)
    - Use `python3 scripts/wiki_tool.py suggest-links --note "Wiki/Concepts/YourNote.md"` for suggestions
 5. **Mark source as `Processed: true`** in the Raw source file
 6. Run maintenance checks: `python3 scripts/wiki_tool.py build && python3 scripts/wiki_tool.py lint`

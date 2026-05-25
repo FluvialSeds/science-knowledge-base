@@ -72,14 +72,9 @@ While Δ¹⁷O in sulfate minerals preserves information about atmospheric and b
 **Improved methodology:**
 Combining Δ¹⁷O with other isotopic tracers (δ³⁴S, δ¹⁸O, Δ⁴⁷ clumped isotopes) and detailed process understanding improves paleoenvironmental interpretations.
 
-## Complementary Concepts
+## See also
 
 - [[RadiocarbonOrganicMatter]] — Radioactive isotope tracing in biogeochemical cycles
 - [[CarbonIsotopeFractionationPlants]] — Mass-dependent fractionation in photosynthesis
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for isotope measurements
-
-## See also
-
-- [[CarbonIsotopeFractionationPlants]] — Related isotopic fractionation in plants
-- [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for isotope analysis
 - Source paper: [[Hemingway-2020pnas]] — Oxygen isotopes in terrestrial pyrite oxidation
