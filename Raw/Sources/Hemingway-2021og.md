@@ -15,7 +15,7 @@ tags:
   - "source"
 ---
 
-# Biosynthetic isotope fractionation negligibly impacts biomarker 14C ages
+# Biosynthetic isotope fractionation negligibly impacts biomarker ¹⁴C ages
 
 
 ## Overall Scientific Topic
