@@ -72,4 +72,5 @@ Understanding past nitrogen cycle changes helps interpret:
 - [[OceanicAnoxicEvents]] — Past ocean anoxic episodes
 - [[MethylhopanoidBiosynthesisNitrification]] — Nitrifier biomarkers
 - [[SapropelNitrogenCycleCoupling]] — Nitrogen cycle feedbacks in Mediterranean sapropels
-- Source papers: , 
+- Source papers: ,
+- Source papers: [[Elling-2020pnas]], [[Elling-2021epsl]]

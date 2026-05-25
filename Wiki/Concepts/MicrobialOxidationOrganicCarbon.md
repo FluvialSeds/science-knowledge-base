@@ -51,3 +51,4 @@ Microbial oxidation of [[PetrogenicOrganicCarbon|petrogenic carbon]] in mountain
 - [[PetrogenicOrganicCarbon]] — The substrate being oxidized: ancient organic matter in bedrock
 - [[CarbonCycleMountainSystems]] — How oxidation rates couple to erosion and affect global climate
 - Source paper:  — Taiwan study demonstrating microbially-mediated oxidation
+- Source paper: [[Hemingway-2018sci]]

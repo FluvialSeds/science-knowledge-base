@@ -67,3 +67,4 @@ Understanding OAEs is crucial for predicting how future ocean [[DeepWaterAnoxia|
 - [[Anammox]] — Anaerobic ammonia oxidation
 - [[SapropelNitrogenCycleCoupling]] — Comparison with Mediterranean sapropel nitrogen cycling
 - Source paper:  — OAE comparison with Mediterranean sapropels
+- Source paper: [[Elling-2021epsl]]

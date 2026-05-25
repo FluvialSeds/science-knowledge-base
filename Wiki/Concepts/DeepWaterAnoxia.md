@@ -84,3 +84,4 @@ Understanding how past anoxic events (like [[OceanicAnoxicEvents|oceanic anoxic 
 - [[OceanicAnoxicEvents]] — Past widespread ocean anoxic episodes
 - [[SapropelNitrogenCycleCoupling]] — Anoxia development during Mediterranean sapropel formation
 - Source paper:  — Anoxia in Mediterranean sapropels
+- Source paper: [[Elling-2021epsl]]

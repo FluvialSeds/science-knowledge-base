@@ -60,3 +60,4 @@ In paleoceanographic records, nitrifier biomarker abundance and carbon isotope s
 - [[MethylhopanoidBiosynthesisNitrification]] — Vitamin B12-dependent hopanoid synthesis in nitrifiers
 - [[BacteriohopanepolyolBiomarkers]] — Hopanoid lipids as biomarkers
 - Source paper:  — Hopanoid biosynthesis in Nitrobacter
+- Source paper: [[Elling-2020pnas]]

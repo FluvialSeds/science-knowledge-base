@@ -89,3 +89,4 @@ Selective preservation and mineral protection are not mutually exclusive:
 - [[RadiocarbonOrganicMatter]] — Radiocarbon evidence for mineral protection
 - [[RadiocarbonAnalyticalMethods]] — Methods for measuring preserved carbon ages
 - Source paper:  — Global dataset of OC preservation mechanisms
+- Source paper: [[Hemingway-2019nat]]

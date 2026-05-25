@@ -97,3 +97,4 @@ Glacier-derived DOM export is highly sensitive to climate-driven changes in glac
 - [[LocalVsDistalBiomarkerSignals]] — Integration of glacier and terrestrial DOM signals in large rivers
 -  — Analogous processes in tropical river systems
 - Source paper:  — Glacier-DOM composition in Upper Ganges Basin
+- Source paper: [[Hemingway-2019gca]]

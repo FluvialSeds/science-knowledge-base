@@ -79,3 +79,4 @@ Understanding how past  responded to climate and oceanographic changes helps pre
 - [[SapropelNitrogenCycleCoupling]] — Nitrogen fixation feedback during Mediterranean sapropel formation
 - [[DeepWaterAnoxia]] — Oxygen depletion favoring some nitrogen fixers
 - Source paper:  — Diazotrophs during Mediterranean sapropel events
+- Source paper: [[Elling-2021epsl]]

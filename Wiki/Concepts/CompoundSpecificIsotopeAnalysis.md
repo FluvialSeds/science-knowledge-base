@@ -56,3 +56,4 @@ Precision is controlled through:
 - [[CarbonIsotopeFractionationPlants]] — Photosynthetic pathway discrimination using δ¹³C
 - [[LocalVsDistalBiomarkerSignals]] — Spatial signal interpretation at different timescales
 - Source papers:  — Plant-wax δ¹³C analysis in Congo River;  — Method for intact BHP δ¹³C analysis
+- Source papers: [[Hemingway-2016gca]], [[Hemingway-2018og]]

@@ -58,3 +58,4 @@ High anammox activity in the past often correlates with enhanced carbon burial a
 - [[DeepWaterAnoxia]] — Oxygen depletion in marine depth zones
 - [[SapropelNitrogenCycleCoupling]] — Anammox role in Mediterranean sapropel formation
 - Source paper:  — Anammox bacteria during Mediterranean sapropel events
+- Source paper: [[Elling-2021epsl]]

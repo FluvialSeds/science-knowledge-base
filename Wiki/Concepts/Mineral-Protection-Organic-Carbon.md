@@ -49,3 +49,4 @@ Ancient sediment records may reveal how organic carbon preservation—and thus a
 - 
 - 
 -  (source)
+- Source paper: [[Hemingway-2019nat]]

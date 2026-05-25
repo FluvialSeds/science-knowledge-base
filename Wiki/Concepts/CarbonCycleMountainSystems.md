@@ -59,3 +59,4 @@ This framework connects tectonics directly to climate regulation on geological t
 - [[MicrobialOxidationOrganicCarbon]] — The oxidation process and rates in mountain soils
 - [[PlantWaxBiomarkers]] — Biomarkers used to track carbon sources and cycling
 - Source paper:  — Taiwan study quantifying petrogenic carbon oxidation as a CO₂ source
+- Source paper: [[Hemingway-2018sci]]

@@ -52,3 +52,4 @@ The molecular composition of both brGDGTs and isoGDGTs allows distinction betwee
 - [[PlantWaxBiomarkers]] — Plant-derived biomarkers and complementary source information
 - [[RadiocarbonOrganicMatter]] — Radiocarbon dating and pre-aged carbon detection
 - Source paper:  — GDGT application to Congo River POM sources
+- Source paper: [[Hemingway-2017cg]]

@@ -103,3 +103,4 @@ Together, these methods provide a multi-tracer framework for understanding organ
 - [[PlantWaxBiomarkers]] — Plant-derived organic matter characterization
 - [[GDGTBiomarkers]] — Membrane lipid biomarkers and source discrimination
 - Source papers:  (radiocarbon in Congo POM),  (analytical methods),  (radiocarbon and mineral protection),  (biomarker radiocarbon and biosynthetic fractionation)
+- Source papers: [[Hemingway-2017cg]], [[Hemingway-2017rad]], [[Hemingway-2019nat]], [[Hemingway-2021og]]

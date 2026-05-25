@@ -141,3 +141,4 @@ The effectiveness of mineral protection—and thus global OC preservation—is c
 - [[RadiocarbonOrganicMatter]] — Radiocarbon ages of mineral-protected carbon
 - [[RadiocarbonAnalyticalMethods]] — Methods for analyzing mineral-protected carbon
 - Source paper:  — Global evidence for mineral protection
+- Source paper: [[Hemingway-2019nat]]

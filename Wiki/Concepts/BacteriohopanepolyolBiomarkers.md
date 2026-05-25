@@ -87,4 +87,5 @@ This stability makes  reliable tracers of past microbial activity and environmen
 - [[NitrogenCycle]] — Processes traced by hopanoid biomarkers
 - [[PlantWaxBiomarkers]] — Complementary lipid biomarker class
 - [[GDGTBiomarkers]] — Complementary membrane lipid biomarkers from archaea
-- Source papers: , 
+- Source papers: ,
+- Source papers: [[Elling-2020pnas]], [[Elling-2021epsl]]

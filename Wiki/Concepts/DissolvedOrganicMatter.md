@@ -99,3 +99,4 @@ Increased glacier melt due to warming will initially bias exported DOM toward a 
 - [[RadiocarbonOrganicMatter]] — Radiocarbon dating of DOM
 - [[LocalVsDistalBiomarkerSignals]] — Integration of DOM and POM signals across river networks
 - Source paper:  — DOM composition in Upper Ganges Basin
+- Source paper: [[Hemingway-2019gca]]

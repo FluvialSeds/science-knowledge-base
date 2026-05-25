@@ -59,3 +59,4 @@ During thermal analysis (such as [[RampedPyrolysisOxidation]]), kinetic isotope 
 - [[RadiocarbonOrganicMatter]] — Application of corrected radiocarbon data to source partitioning
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical foundations for isotope measurements
 - Source paper:  — Detailed blank carbon assessment for NOSAMS RPO
+- Source paper: [[Hemingway-2017rad]]

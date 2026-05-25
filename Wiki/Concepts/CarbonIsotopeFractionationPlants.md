@@ -58,3 +58,4 @@ Using δ¹³C measurements alongside homologue distributions provides complement
 - [[PlantWaxBiomarkers]] — Details on n-alkanes, n-alcohols, and n-alkanoic acids
 - [[LocalVsDistalBiomarkerSignals]] — How to interpret biomarker signals at different timescales
 - Source paper:  — Congo River study applying isotope methods
+- Source paper: [[Hemingway-2016gca]]

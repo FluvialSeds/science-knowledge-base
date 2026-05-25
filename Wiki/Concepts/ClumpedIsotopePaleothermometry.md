@@ -89,3 +89,4 @@ By comparing predicted Δ₄₇ values (after post-burial reordering) with obser
 - [[CarbonIsotopeFractionationPlants]] — Stable isotope fractionation processes
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for carbonate isotope analysis
 - Source papers:  (kinetic model for bond reordering),  (empirical constraints and preservation domains)
+- Source papers: [[Hemingway-2021epsl]], [[Henkes-2014gca]]

@@ -70,3 +70,4 @@ Different compound classes and source materials release carbon across different 
 - [[OrganicCarbonPreservation]] — Understanding preservation mechanisms revealed by RPO data
 - [[OrganoMineralBonds]] — Interpreting organo-mineral interactions from RPO results
 - Source papers:  (blank correction),  (bond-strength diversity)
+- Source papers: [[Hemingway-2017rad]], [[Hemingway-2019nat]]

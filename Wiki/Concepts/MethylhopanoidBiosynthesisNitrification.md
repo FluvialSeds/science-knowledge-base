@@ -38,3 +38,4 @@ In contrast to other organisms (like certain cyanobacteria and *Rhodospirillum* 
 - [[BacteriohopanepolyolBiomarkers]] — Hopanoid structures as bacterial biomarkers
 - [[OceanicAnoxicEvents]] — Past episodes of marine oxygen depletion
 - Source paper:  — Vitamin B12-dependent hopanoid biosynthesis in nitrifiers
+- Source paper: [[Elling-2020pnas]]
