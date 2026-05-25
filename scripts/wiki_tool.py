@@ -343,9 +343,8 @@ class WikiTool:
         return 0
 
     def log(self, title: str, details: str) -> int:
-        """Append a short entry to Wiki/Logs/index.md or create if missing."""
-        log_path = self.wiki_root / "Logs" / "index.md"
-        log_path.parent.mkdir(parents=True, exist_ok=True)
+        """Append a short entry to Wiki/log.md or create if missing."""
+        log_path = self.wiki_root / "log.md"
 
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         entry = f"\n## {title}\n*Logged: {timestamp}*\n\n{details}\n"

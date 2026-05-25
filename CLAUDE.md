@@ -6,7 +6,7 @@ This document tells agents how to work with this LLM Wiki.
 
 1. **Treat `Raw/Sources/` as source material, not as compiled notes.** Raw sources preserve original context, citations, and metadata. Body text must be clean and coherent (free of OCR artifacts and formatting errors). Do not edit for content bias, but DO clean OCR errors, formatting issues, and ensure factual accuracy. These are canonical sources; quality matters.
 
-2. **Write reusable knowledge only under `Wiki/`.** Compiled notes in `Wiki/Topics/`, `Wiki/Concepts/`, `Wiki/Entities/`, `Wiki/Projects/`, and `Wiki/Logs/` are the primary knowledge base.
+2. **Write reusable knowledge only under `Wiki/`.** Compiled notes in `Wiki/Topics/`, `Wiki/Concepts/`, `Wiki/Entities/`, and `Wiki/Projects/` are the primary knowledge base. Activity logs are stored in `Wiki/log.md` (not in `Wiki/Logs/`).
 
 3. **Keep every compiled note linked to one or more Raw sources.** The `sources` field in each Wiki note's frontmatter must list the Raw source files that support it. This maintains traceability and prevents unsupported claims.
 
@@ -88,13 +88,13 @@ python3 scripts/wiki_tool.py source-scan --update --accept-covered
 python3 scripts/wiki_tool.py source-lint
 ```
 
-**After every ingest or maintenance step that changes the Wiki**, log the activity:
+**After every ingest or maintenance step that changes the Wiki**, log the activity to `Wiki/log.md`:
 
 ```bash
 python3 scripts/wiki_tool.py log --title "Your title" --details "Description of what changed"
 ```
 
-Each log entry automatically includes a timestamp (YYYY-MM-DD HH:MM:SS) for chronological tracking.
+**IMPORTANT:** All log entries must be written to `Wiki/log.md` (the canonical activity log file). The `Wiki/Logs/` directory is not used for logging. The `wiki_tool.py log` command automatically appends to the correct location.
 
 Examples:
 - After ingesting sources: `log --title "Ingest: [Source]" --details "New/updated notes and key changes"`
