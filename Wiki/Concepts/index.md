@@ -28,6 +28,5 @@
 - [[RadiocarbonOrganicMatter]] — Radiocarbon (Δ¹⁴C) as a Tracer of Organic Matter Age
 - [[RampedPyrolysisOxidation]] — Ramped Pyrolysis/Oxidation (RPO)
 - [[SapropelNitrogenCycleCoupling]] — Sapropel Formation and Nitrogen Cycle Coupling
-- [[SourceToWikiWorkflow]] — Source to Wiki Workflow
 - [[SulfoxyanionIsotopeEffects]] — Sulfoxyanion Isotope Effects
 - [[TripleOxygenIsotopes]] — Triple Oxygen Isotope Compositions and Atmospheric Tracers

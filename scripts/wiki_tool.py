@@ -173,6 +173,23 @@ class WikiTool:
                 if not source_path.exists():
                     errors.append(f"{note_path}: Source not found: {source}")
 
+            # Check "See also" section has descriptions for all entries
+            try:
+                with open(note_path) as f:
+                    content = f.read()
+                see_also_match = re.search(r'## See also\s*\n(.*?)(?=\n## |\Z)', content, re.DOTALL)
+                if see_also_match:
+                    see_also_text = see_also_match.group(1)
+                    # Look for wikilinks without descriptions (missing " — ")
+                    wikilink_lines = re.findall(r'^\s*-\s*\[\[([^\]]+)\]\](?:\s|$)', see_also_text, re.MULTILINE)
+                    for wikilink in wikilink_lines:
+                        # Check if this wikilink line has a description (contains " — ")
+                        line_with_link = re.search(r'^\s*-\s*\[\[' + re.escape(wikilink) + r'\]\](.*?)$', see_also_text, re.MULTILINE)
+                        if line_with_link and " — " not in line_with_link.group(1):
+                            errors.append(f"{note_path}: 'See also' entry [[{wikilink}]] missing description after ' — '")
+            except Exception:
+                pass
+
         if errors:
             for error in errors:
                 print(f"✗ {error}")
@@ -360,7 +377,7 @@ class WikiTool:
         return 0
 
     def suggest_links(self, note_path: str) -> int:
-        """Suggest wikilinks for a note by matching keywords to catalog."""
+        """Suggest wikilinks for a note by matching keywords to catalog, with auto-generated descriptions."""
         note_file = self.vault_root / note_path
 
         if not note_file.exists():
@@ -383,6 +400,7 @@ class WikiTool:
         # Extract frontmatter and body
         fm = self._read_frontmatter(note_file)
         note_title = fm.get("title", "") if fm else note_file.stem
+        note_sources = fm.get("sources", []) if fm else []
 
         # Extract keywords from title and topics
         keywords = set()
@@ -391,7 +409,7 @@ class WikiTool:
             for topic in fm.get("topics", []):
                 keywords.update(topic.lower().split())
 
-        # Extract content keywords (first 500 chars of body)
+        # Extract content keywords (first 1000 chars of body)
         body_start = content.find("---", 3)
         if body_start > 0:
             body_start = content.find("\n", body_start) + 1
@@ -400,7 +418,7 @@ class WikiTool:
             words = re.findall(r'\b[a-z]+\b', body_text)
             keywords.update(words[:20])  # Limit to first 20 words
 
-        # Search catalog for matches
+        # Search catalog for matches and generate descriptions
         matches = {}
         try:
             with open(catalog_path) as f:
@@ -414,6 +432,7 @@ class WikiTool:
 
                     entry_title = entry["title"].lower()
                     entry_name = entry_path.split("/")[-1].replace(".md", "")
+                    is_source = entry_path.startswith("Raw/Sources/")
 
                     # Score based on matches
                     score = 0
@@ -425,11 +444,19 @@ class WikiTool:
                             matched_keywords.append(kw)
 
                     if score > 0:
+                        # Auto-generate description
+                        description = self._extract_description(
+                            self.vault_root / entry_path,
+                            entry["title"],
+                            is_source
+                        )
                         matches[entry_path] = {
                             "title": entry["title"],
                             "tag": entry["tag"],
                             "score": score,
-                            "keywords": list(set(matched_keywords))
+                            "keywords": list(set(matched_keywords)),
+                            "description": description,
+                            "is_source": is_source
                         }
         except Exception as e:
             print(f"✗ Error reading catalog: {e}")
@@ -441,16 +468,73 @@ class WikiTool:
         if sorted_matches:
             print(f"✓ Suggested wikilinks for: {note_title}")
             print(f"\nAdd these to your 'See also' section:")
-            for path, info in sorted_matches[:5]:
-                note_name = path.split("/")[-1].replace(".md", "")
-                print(f"  - [[{note_name}]] — {info['title']} ({info['tag']})")
 
-            if len(sorted_matches) > 5:
-                print(f"\n  (and {len(sorted_matches) - 5} more matches)")
+            # Separate sources from concept notes
+            concept_matches = [m for m in sorted_matches if not m[1]["is_source"]]
+            source_matches = [m for m in sorted_matches if m[1]["is_source"]]
+
+            # Show top 5 concept matches
+            for path, info in concept_matches[:5]:
+                note_name = path.split("/")[-1].replace(".md", "")
+                print(f"  - [[{note_name}]] — {info['description']}")
+
+            # Show source papers if they were in sources
+            for path, info in source_matches:
+                if path in note_sources:
+                    note_name = path.split("/")[-1].replace(".md", "")
+                    print(f"  - Source paper: [[{note_name}]] — {info['description']}")
+
+            if len(concept_matches) > 5:
+                print(f"\n  (and {len(concept_matches) - 5} more concept matches)")
         else:
             print(f"✓ No related notes found in catalog")
 
         return 0
+
+    def _extract_description(self, note_path: Path, title: str, is_source: bool = False) -> str:
+        """Extract auto-generated description from note's Core Concept or first paragraph."""
+        try:
+            with open(note_path, encoding='utf-8') as f:
+                content = f.read()
+
+            # For sources, use title or first sentence of body
+            if is_source:
+                # Try to extract first sentence from body
+                body_start = content.find("---", 3)
+                if body_start > 0:
+                    body_start = content.find("\n", body_start) + 1
+                    body_text = content[body_start:].strip()
+                    # Get first sentence (up to first period/newline)
+                    match = re.match(r'^([^.!?\n]+[.!?]?)', body_text)
+                    if match:
+                        desc = match.group(1).strip()
+                        if len(desc) > 100:
+                            desc = desc[:97] + "..."
+                        return desc
+                return title
+
+            # For wiki concepts, extract from Core Concept section
+            core_concept_match = re.search(r'## Core Concept\s*\n\n(.+?)(?=\n## |\Z)', content, re.DOTALL)
+            if core_concept_match:
+                core_text = core_concept_match.group(1).strip()
+                # Remove wikilinks but keep the text
+                core_text = re.sub(r'\[\[([^\]|]+)\|([^\]]+)\]\]', r'\2', core_text)
+                core_text = re.sub(r'\[\[([^\]]+)\]\]', r'\1', core_text)
+
+                # Extract first 1-2 sentences
+                sentences = re.split(r'(?<=[.!?])\s+', core_text)
+                if sentences:
+                    desc = sentences[0]
+                    if len(sentences) > 1 and len(desc) < 80:
+                        desc = desc + " " + sentences[1]
+                    # Limit to ~100 chars
+                    if len(desc) > 100:
+                        desc = desc[:97] + "..."
+                    return desc.strip()
+
+            return title
+        except Exception:
+            return title
 
     def _read_frontmatter(self, path: Path) -> Optional[Dict[str, Any]]:
         """Extract YAML frontmatter from a note."""

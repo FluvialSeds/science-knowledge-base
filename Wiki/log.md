@@ -160,3 +160,8 @@ Created concept note on diatom-diazotroph symbioses and anammox-driven nitrogen 
 *Logged: 2026-05-25 18:48:47*
 
 Renamed two concept files from kebab-case to PascalCase: Mineral-Protection-Organic-Carbon.md → MineralProtectionOrganicCarbon.md and Petrogenic-Carbon-Oxidation.md → PetrogenicCarbonOxidation.md. Fixed incomplete sentences in both files (missing subjects/objects) and added comprehensive wikilinks to related concepts. Both files now properly link to OrganicCarbonPreservation, OrganoMineralBonds, CarbonCycleMountainSystems, and other related concepts.
+
+## Tool enhancement: Auto-generate descriptions for wikilinks
+*Logged: 2026-05-25 20:02:37*
+
+Enhanced suggest-links command to auto-extract descriptions from Core Concept sections of related notes and from source metadata. Added lint check to enforce that all 'See also' entries include descriptions after ' — ' separator. Updated _templates/concept-note.md to document pipe syntax and auto-description workflow. Updated CLAUDE.md ingest workflow step 9 to use suggest-links for automated description generation.

@@ -54,19 +54,20 @@ When processing a new Raw source:
    - See `Schema/pdf-import-guide.md` Body Text Quality Checklist for details
    - **IMPORTANT**: Verify rewrites match the paper content—don't reconstruct from web summaries alone
 
-9. **Add wikilinks (mandatory)**:
-   - Add inline wikilinks within text to related concepts using `[[PascalCaseName]]` syntax
-   - Use **"See also" section format** (matches all existing concept files):
+9. **Add wikilinks and auto-generate descriptions (mandatory)**:
+   - For first mentions of related concepts in body text, use pipe syntax: `[[ConceptName|display text]]` so text reads naturally
+   - Run the tool to auto-generate the "See also" section:
+     ```bash
+     python3 scripts/wiki_tool.py suggest-links --note "Wiki/Concepts/YourNote.md"
      ```
-     ## See also
-     
-     - [[ConceptName]] — Brief description of relationship
-     - [[AnotherConcept]] — How this relates
-     - Source paper: [[SourceFileName]] — Citation to raw source
-     ```
-   - Format: bullet point, wikilink, " — " separator, description
-   - Do NOT use simple lists without descriptions
-   - Use `python3 scripts/wiki_tool.py suggest-links --note "Wiki/Concepts/YourNote.md"` to get suggestions
+   - This generates:
+     - Wikilinks to related concepts (extracted from body text)
+     - Wikilinks to source papers
+     - **Auto-generated descriptions** for both concept relationships and source coverage
+   - The tool will only suggest concepts that exist in the catalog (no broken links)
+   - Review the suggestions and accept them into your "See also" section
+   - You may manually edit descriptions if the auto-generated versions don't capture nuance, but auto-generation is acceptable
+   - Format: `- [[ConceptName]] — Description` with source papers as final entry
 
 10. **Mark source as processed**: Set `Processed: true` in the Raw source frontmatter (mandatory once compiled into Wiki notes and body text is clean).
 

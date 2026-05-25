@@ -13,11 +13,19 @@ aliases: []
 # Concept Name
 
 ## Core Concept
-2-3 sentence summary of the core concept. Can include wikilinks to other pages, but do so with aliases so that the text reads naturally.
+
+2-3 sentence summary of the core concept. Include first mentions of related concepts using pipe syntax for natural reading: `[[RelatedConcept|related concept text]]`. The tool will auto-generate wikilinks for first mentions when you run `suggest-links`.
 
 ## Additional body sections
-Relevant sections, each containing text and/or bullet points. Can include wikilinks to other pages, but do so with aliases so that the text reads naturally.
+
+Relevant sections, each containing text and/or bullet points. Use pipe syntax for related concept mentions: `[[ConceptName|display text]]` so the text reads naturally.
 
 ## See also
-Bullet points of wikilinks to other relevant pages (no aliases), follwed by a — and a brief (<1 sentence) summary of that page. Final bullet point should be "Source paper:" that provides a wiki-link to the relevant source papers, including a brief summary of that paper.
+
+Bullet points with wikilinks to related concepts and source papers, each followed by " — " and a brief (<1 sentence) auto-generated description. Format:
+- `[[ConceptName]] — Auto-generated description of relationship`
+- `[[AnotherConcept]] — How this concept connects`
+- `Source paper: [[SourceName]] — Auto-generated summary of what the source covers`
+
+Use `python3 scripts/wiki_tool.py suggest-links --note "Wiki/Concepts/YourNote.md"` to auto-generate descriptions and wikilink suggestions based on your body text.
 

@@ -8,7 +8,7 @@ updated: 2026-05-25
 sources:
   - "Raw/Sources/Henkes-2014gca.md"
   - "Raw/Sources/Hemingway-2021epsl.md"
-source_count: 1
+source_count: 2
 aliases:
   - "Calcite thermal alteration"
   - "Bond reordering kinetics"
