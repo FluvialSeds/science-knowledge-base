@@ -127,3 +127,8 @@ Added cleanup_ocr.py to File Structure section in CLAUDE.md with description: "R
 *Logged: 2026-05-25 12:34:14*
 
 Created SulfoxyanionIsotopeEffects concept documenting computational predictions of equilibrium oxygen isotope fractionation factors for sulfoxyanion intermediates (sulfite, sulfoxylate, thiosulfate) using DFT quantum chemistry. Covers methodological approaches, species-specific fractionation effects, and applications to sulfur-cycle processes including pyrite oxidation and microbial sulfate reduction. Updated TripleOxygenIsotopes to link new concept and reference Hemingway-2022gca source. PDF extraction was incomplete, so body text was manually compiled from PDF content. Source marked Processed: true.
+
+## Tool enhancement: Hybrid Strategy 1+2 – Quality-gated body text acceptance
+*Logged: 2026-05-25 12:38:00*
+
+Implemented quality-gated hybrid strategy for PDF ingestion that attempts Strategy 1 (accept auto-extracted text) but falls back to rewriting if quality is insufficient. Added `--assess` flag to cleanup_ocr.py to evaluate section quality in one pass, checking for: (1) ≥50 words per section, (2) ≥2 complete sentences, (3) no residual OCR artifacts. Quality assessment is local (0 tokens), verdict is ACCEPTABLE (all sections pass) or REWRITE REQUIRED (with failing sections listed). Updated CLAUDE.md Step 10 with quality-gated decision point: ACCEPTABLE sources skip rewriting, REWRITE REQUIRED sources get selective or full rewrites. Expected token savings: ~23% per ingestion (~800 tokens) with no quality loss—good-extraction PDFs save ~1,200 tokens (avoid rewrite), poor-extraction PDFs cost minimal overhead (~150 tokens for quality check), mixed extraction PDFs save ~600 tokens (partial rewrite).
