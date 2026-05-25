@@ -134,6 +134,10 @@ tags:
 **If sections need refinement:** Edit the file to improve accuracy and quality. The automated extraction is a starting point but requires review and cleanup before the source can be considered complete.
 
 **Important metadata cleanup:**
+- **Title format**: Use sentence case (capitalize only the first word and proper nouns), NOT title case
+  - ✓ Correct: `"Assessing the blank carbon contribution of the ramped pyrolysis instrument"`
+  - ✗ Incorrect: `"Assessing the Blank Carbon Contribution of the Ramped Pyrolysis Instrument"`
+  - Exception: Proper nouns remain capitalized (e.g., "Congo River", "NOSAMS", "Nature")
 - **Author format**: Must be comma-separated full names: `"FirstName MiddleInitial. LastName, FirstName MiddleInitial. LastName, ..."`
   - Example: `"Jordon D. Hemingway, Robert G. Hilton, Niels Hovius"`
   - NOT: `"Hemingway, J.D.; Hilton, R.G.; Hovius, N."`
@@ -150,9 +154,12 @@ Before proceeding to Wiki compilation, the source body text must be reviewed and
 
 **Body Text Quality Checklist:**
 
-- [ ] **Title is accurate and complete** — Not truncated, malformed, or a DOI/URL
+- [ ] **Title is accurate, complete, and in sentence case** — Not truncated, malformed, or a DOI/URL
   - Compare against the actual PDF title page
   - Fix incomplete titles like "Glacier meltwater and monsoon precipitation drive Upper" → "Glacier meltwater and monsoon precipitation drive Upper Ganges Basin dissolved organic matter composition"
+  - Use sentence case (capitalize only first word and proper nouns), NOT title case
+  - ✓ "Glacier meltwater and monsoon precipitation drive Upper Ganges Basin dissolved organic matter composition"
+  - ✗ "Glacier Meltwater And Monsoon Precipitation Drive Upper Ganges Basin Dissolved Organic Matter Composition"
 
 - [ ] **No OCR artifacts or encoding errors** — Common issues to fix:
   - Random spaces within words: "ﬁelds" → "fields", "orderto" → "order to"
