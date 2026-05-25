@@ -95,5 +95,5 @@ Glacier-derived DOM export is highly sensitive to climate-driven changes in glac
 - [[DissolvedOrganicMatter]] — DOM composition and bioavailability
 - [[RadiocarbonOrganicMatter]] — Radiocarbon signatures of glacier DOM
 - [[LocalVsDistalBiomarkerSignals]] — Integration of glacier and terrestrial DOM signals in large rivers
-- [[TropicalRivers]] — Analogous processes in tropical river systems
-- Source paper: [[Hemingway-2019gca]] — Glacier-DOM composition in Upper Ganges Basin
+-  — Analogous processes in tropical river systems
+- Source paper:  — Glacier-DOM composition in Upper Ganges Basin

@@ -18,7 +18,7 @@ aliases:
 
 ## Core Concept
 
-[[OceanicAnoxicEvents]] (OAEs) are widespread episodes of reduced oxygen (anoxia) in ancient ocean water columns, most notably during the Cretaceous Period and other intervals of Earth history. These events resulted in the deposition of organic-rich black shale sediments and fundamentally altered marine [[NitrogenCycle|nitrogen cycling]], [[BiogeochemicalCycles|biogeochemical cycling]], and biological communities. OAEs are typically tied to climate warming, changes in ocean circulation patterns, and elevated marine productivity.
+ (OAEs) are widespread episodes of reduced oxygen (anoxia) in ancient ocean water columns, most notably during the Cretaceous Period and other intervals of Earth history. These events resulted in the deposition of organic-rich black shale sediments and fundamentally altered marine [[NitrogenCycle|nitrogen cycling]], , and biological communities. OAEs are typically tied to climate warming, changes in ocean circulation patterns, and elevated marine productivity.
 
 ## Characteristics and Evidence
 
@@ -28,7 +28,7 @@ OAEs are identified by:
 - **Geochemical anomalies**: Unusual stable isotope ratios, trace metal enrichments
 - **Fossil assemblages**: Changes in microbial and larger organism composition reflecting anoxic conditions
 
-The duration of OAEs varied from thousands to millions of years, and their geographic extent ranged from local [[OxygenMinimumZones]] to ocean-basin-wide anoxia.
+The duration of OAEs varied from thousands to millions of years, and their geographic extent ranged from local  to ocean-basin-wide anoxia.
 
 ## Nitrogen Cycle During OAEs
 
@@ -66,4 +66,4 @@ Understanding OAEs is crucial for predicting how future ocean [[DeepWaterAnoxia|
 - [[Nitrification]] — Aerobic ammonia oxidation
 - [[Anammox]] — Anaerobic ammonia oxidation
 - [[SapropelNitrogenCycleCoupling]] — Comparison with Mediterranean sapropel nitrogen cycling
-- Source paper: [[Elling-2021epsl]] — OAE comparison with Mediterranean sapropels
+- Source paper:  — OAE comparison with Mediterranean sapropels

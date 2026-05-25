@@ -17,7 +17,7 @@ aliases:
 
 ## Core Concept
 
-[[Nitrification]] is the biological oxidation of ammonia (NH₃) to nitrite (NO₂⁻) and nitrate (NO₃⁻), a fundamental process in the [[NitrogenCycle]]. This two-step oxidation is carried out by specialized bacteria and archaea called nitrifiers, which use the oxidation of inorganic nitrogen as their primary energy source (chemolithoautotrophy). Nitrification occurs across diverse aquatic and terrestrial environments and is essential for converting bioavailable nitrogen into forms that can be further transformed by other microbes.
+ is the biological oxidation of ammonia (NH₃) to nitrite (NO₂⁻) and nitrate (NO₃⁻), a fundamental process in the [[NitrogenCycle]]. This two-step oxidation is carried out by specialized bacteria and archaea called nitrifiers, which use the oxidation of inorganic nitrogen as their primary energy source (chemolithoautotrophy). Nitrification occurs across diverse aquatic and terrestrial environments and is essential for converting bioavailable nitrogen into forms that can be further transformed by other microbes.
 
 ## Nitrifier Communities
 
@@ -35,7 +35,7 @@ These organisms often function in syntrophic (mutually dependent) relationships,
 
 ## Biomarkers and Paleoceanographic Significance
 
-Nitrifier metabolism produces characteristic biochemical compounds that serve as biomarkers in sedimentary records. [[Bacteriohopanepolyol]] lipids, particularly [[MethylhopanoidBiosynthesisNitrification|2-methylhopanoids]], are diagnostic products of certain nitrifiers and their abundance in sediments reflects past nitrification activity. The abundance of nitrifier biomarkers can indicate periods of enhanced nutrient cycling and oxygen availability in marine systems.
+Nitrifier metabolism produces characteristic biochemical compounds that serve as biomarkers in sedimentary records.  lipids, particularly [[MethylhopanoidBiosynthesisNitrification|2-methylhopanoids]], are diagnostic products of certain nitrifiers and their abundance in sediments reflects past nitrification activity. The abundance of nitrifier biomarkers can indicate periods of enhanced nutrient cycling and oxygen availability in marine systems.
 
 ## Environmental Conditions
 
@@ -50,7 +50,7 @@ Nitrification rates are controlled by:
 In paleoceanographic records, nitrifier biomarker abundance and carbon isotope signatures provide constraints on:
 - Past [[NitrogenCycle]] perturbations
 - Nutrient availability during [[OceanicAnoxicEvents]]
-- Coupling between nitrogen cycling and [[OxygenMinimumZones]]
+- Coupling between nitrogen cycling and 
 - Changes in water column redox state over geological time
 
 ## See also
@@ -59,4 +59,4 @@ In paleoceanographic records, nitrifier biomarker abundance and carbon isotope s
 - [[Anammox]] — Anaerobic ammonia oxidation as alternative nitrogen pathway
 - [[MethylhopanoidBiosynthesisNitrification]] — Vitamin B12-dependent hopanoid synthesis in nitrifiers
 - [[BacteriohopanepolyolBiomarkers]] — Hopanoid lipids as biomarkers
-- Source paper: [[Elling-2020pnas]] — Hopanoid biosynthesis in Nitrobacter
+- Source paper:  — Hopanoid biosynthesis in Nitrobacter

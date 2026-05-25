@@ -45,4 +45,4 @@ The sapropel-nitrogen cycle coupling reveals how biological feedbacks can rapidl
 - [[BacteriohopanepolyolBiomarkers]] — Hopanoid structures as bacterial biomarkers
 - [[GDGTBiomarkers]] — Glycerol dialkyl glycerol tetraethers from archaea and bacteria
 - [[OceanicAnoxicEvents]] — Cretaceous anoxic events for comparison
-- Source paper: [[Elling-2021epsl]] — Diatom-diazotroph symbioses in Mediterranean sapropels
+- Source paper:  — Diatom-diazotroph symbioses in Mediterranean sapropels

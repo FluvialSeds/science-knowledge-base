@@ -17,7 +17,7 @@ aliases:
 
 ## Core Concept
 
-[[Anammox]] (anaerobic ammonia oxidation) is a microbial metabolic process that oxidizes ammonia (NH₄⁺) to nitrogen gas (N₂) using nitrite (NO₂⁻) as the electron acceptor, under strictly anaerobic conditions. This process is performed by a distinct group of bacteria (phylum Planctomycetes) and represents a major pathway in the [[NitrogenCycle]], particularly in oxygen-depleted marine and freshwater environments. Unlike [[Nitrification]], which requires dissolved oxygen, anammox bacteria thrive in [[OxygenMinimumZones]] and contribute significantly to nitrogen loss from aquatic systems.
+ (anaerobic ammonia oxidation) is a microbial metabolic process that oxidizes ammonia (NH₄⁺) to nitrogen gas (N₂) using nitrite (NO₂⁻) as the electron acceptor, under strictly anaerobic conditions. This process is performed by a distinct group of bacteria (phylum Planctomycetes) and represents a major pathway in the [[NitrogenCycle]], particularly in oxygen-depleted marine and freshwater environments. Unlike [[Nitrification]], which requires dissolved oxygen, anammox bacteria thrive in  and contribute significantly to nitrogen loss from aquatic systems.
 
 ## Metabolic Pathway
 
@@ -57,4 +57,4 @@ High anammox activity in the past often correlates with enhanced carbon burial a
 - [[BacteriohopanepolyolBiomarkers]] — Lipid biomarkers diagnostic of anammox bacteria
 - [[DeepWaterAnoxia]] — Oxygen depletion in marine depth zones
 - [[SapropelNitrogenCycleCoupling]] — Anammox role in Mediterranean sapropel formation
-- Source paper: [[Elling-2021epsl]] — Anammox bacteria during Mediterranean sapropel events
+- Source paper:  — Anammox bacteria during Mediterranean sapropel events

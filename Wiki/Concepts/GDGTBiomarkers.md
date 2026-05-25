@@ -51,4 +51,4 @@ The molecular composition of both brGDGTs and isoGDGTs allows distinction betwee
 - [[LocalVsDistalBiomarkerSignals]] — Temporal and spatial scales of biomarker signals in rivers
 - [[PlantWaxBiomarkers]] — Plant-derived biomarkers and complementary source information
 - [[RadiocarbonOrganicMatter]] — Radiocarbon dating and pre-aged carbon detection
-- Source paper: [[Hemingway-2017cg]] — GDGT application to Congo River POM sources
+- Source paper:  — GDGT application to Congo River POM sources

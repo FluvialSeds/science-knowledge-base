@@ -140,4 +140,4 @@ The effectiveness of mineral protection—and thus global OC preservation—is c
 - [[RampedPyrolysisOxidation]] — How RPO measures bond-strength diversity
 - [[RadiocarbonOrganicMatter]] — Radiocarbon ages of mineral-protected carbon
 - [[RadiocarbonAnalyticalMethods]] — Methods for analyzing mineral-protected carbon
-- Source paper: [[Hemingway-2019nat]] — Global evidence for mineral protection
+- Source paper:  — Global evidence for mineral protection

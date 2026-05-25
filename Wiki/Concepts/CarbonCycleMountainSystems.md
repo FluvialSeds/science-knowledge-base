@@ -58,4 +58,4 @@ This framework connects tectonics directly to climate regulation on geological t
 - [[PetrogenicOrganicCarbon]] — Ancient carbon in bedrock that gets oxidized during erosion
 - [[MicrobialOxidationOrganicCarbon]] — The oxidation process and rates in mountain soils
 - [[PlantWaxBiomarkers]] — Biomarkers used to track carbon sources and cycling
-- Source paper: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation as a CO₂ source
+- Source paper:  — Taiwan study quantifying petrogenic carbon oxidation as a CO₂ source

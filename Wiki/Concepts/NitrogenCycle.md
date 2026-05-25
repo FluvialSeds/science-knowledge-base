@@ -18,7 +18,7 @@ aliases:
 
 ## Core Concept
 
-The [[NitrogenCycle]] is the global biogeochemical cycle that describes the movement and transformation of nitrogen (N) among the atmosphere, biota, soils, sediments, and oceans. Although molecular nitrogen (N₂) comprises ~78% of Earth's atmosphere, most organisms cannot directly use atmospheric N₂ and depend on biologically available (fixed) nitrogen forms: ammonia (NH₃/NH₄⁺) and nitrate (NO₃⁻). The nitrogen cycle is powered by specialized microbial metabolisms that convert between these nitrogen forms and regulate how much biologically available nitrogen is available for primary productivity and ecosystem function.
+The  is the global biogeochemical cycle that describes the movement and transformation of nitrogen (N) among the atmosphere, biota, soils, sediments, and oceans. Although molecular nitrogen (N₂) comprises ~78% of Earth's atmosphere, most organisms cannot directly use atmospheric N₂ and depend on biologically available (fixed) nitrogen forms: ammonia (NH₃/NH₄⁺) and nitrate (NO₃⁻). The nitrogen cycle is powered by specialized microbial metabolisms that convert between these nitrogen forms and regulate how much biologically available nitrogen is available for primary productivity and ecosystem function.
 
 ## Major Nitrogen Transformations
 
@@ -40,7 +40,7 @@ The nitrogen cycle is regulated by:
 
 ## Nitrogen Cycle Perturbations
 
-When environmental conditions change (climate shifts, ocean circulation changes, productivity anomalies), the [[NitrogenCycle|nitrogen cycle]] responds rapidly:
+When environmental conditions change (climate shifts, ocean circulation changes, productivity anomalies), the  responds rapidly:
 
 - **Increased anoxia**: Favors [[Anammox|anammox]] and denitrification over [[Nitrification|nitrification]], causing nitrogen loss
 - **Nutrient limitation**: Stimulates enhanced [[NitrogenFixation|nitrogen fixation]] by diazotrophs
@@ -72,4 +72,4 @@ Understanding past nitrogen cycle changes helps interpret:
 - [[OceanicAnoxicEvents]] — Past ocean anoxic episodes
 - [[MethylhopanoidBiosynthesisNitrification]] — Nitrifier biomarkers
 - [[SapropelNitrogenCycleCoupling]] — Nitrogen cycle feedbacks in Mediterranean sapropels
-- Source papers: [[Elling-2020pnas]], [[Elling-2021epsl]]
+- Source papers: , 

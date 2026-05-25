@@ -18,7 +18,7 @@ aliases:
 
 ## Core Concept
 
-[[DeepWaterAnoxia]] refers to the depletion of dissolved oxygen in deep-water ocean layers or stratified basin systems, resulting in oxygen concentrations below ~2 μmol/kg (the threshold defining "anoxic" conditions). When dissolved oxygen is depleted, alternative electron acceptors (nitrate, sulfate, iron, manganese) become important for microbial respiration, fundamentally altering the types of chemical reactions and microbial communities present. This shift profoundly affects the [[NitrogenCycle|nitrogen cycle]], [[OxygenMinimumZones|oxygen minimum zone]] biogeochemistry, and the preservation of organic matter.
+ refers to the depletion of dissolved oxygen in deep-water ocean layers or stratified basin systems, resulting in oxygen concentrations below ~2 μmol/kg (the threshold defining "anoxic" conditions). When dissolved oxygen is depleted, alternative electron acceptors (nitrate, sulfate, iron, manganese) become important for microbial respiration, fundamentally altering the types of chemical reactions and microbial communities present. This shift profoundly affects the [[NitrogenCycle|nitrogen cycle]],  biogeochemistry, and the preservation of organic matter.
 
 ## Mechanisms of Oxygen Depletion
 
@@ -59,7 +59,7 @@ When deep water becomes anoxic, the [[NitrogenCycle|nitrogen cycle]] shifts dram
 
 ## Sedimentary Records of Anoxia
 
-[[DeepWaterAnoxia]] leaves distinctive signatures in sedimentary records:
+ leaves distinctive signatures in sedimentary records:
 - **Organic-rich sediments**: Black shales and sapropels form when oxygen depletion allows organic matter to accumulate rather than being oxidized
 - **Biomarker distributions**: Anaerobic and [[Anammox|anammox]] bacteria produce diagnostic lipids
 - **Trace metal enrichments**: Metals like molybdenum, copper, and uranium concentrate under anoxic conditions
@@ -67,7 +67,7 @@ When deep water becomes anoxic, the [[NitrogenCycle|nitrogen cycle]] shifts dram
 
 ## Modern Relevance
 
-Ocean [[DeepWaterAnoxia]] is expanding in modern times due to:
+Ocean  is expanding in modern times due to:
 - Climate warming reducing oxygen solubility
 - Intensified stratification limiting oxygen replenishment
 - Coastal eutrophication increasing oxygen demand
@@ -77,10 +77,10 @@ Understanding how past anoxic events (like [[OceanicAnoxicEvents|oceanic anoxic 
 
 ## See also
 
-- [[OxygenMinimumZones]] — Oxygen-depleted water columns in modern oceans
+-  — Oxygen-depleted water columns in modern oceans
 - [[NitrogenCycle]] — Nitrogen cycling processes
 - [[Anammox]] — Anaerobic ammonia oxidation under anoxic conditions
 - [[Nitrification]] — Aerobic ammonia oxidation (suppressed under anoxia)
 - [[OceanicAnoxicEvents]] — Past widespread ocean anoxic episodes
 - [[SapropelNitrogenCycleCoupling]] — Anoxia development during Mediterranean sapropel formation
-- Source paper: [[Elling-2021epsl]] — Anoxia in Mediterranean sapropels
+- Source paper:  — Anoxia in Mediterranean sapropels

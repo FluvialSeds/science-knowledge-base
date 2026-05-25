@@ -79,4 +79,4 @@ Combining Δ¹⁷O with other isotopic tracers (δ³⁴S, δ¹⁸O, Δ⁴⁷ clu
 - [[RadiocarbonOrganicMatter]] — Radioactive isotope tracing in biogeochemical cycles
 - [[CarbonIsotopeFractionationPlants]] — Mass-dependent fractionation in photosynthesis
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for isotope measurements
-- Source papers: [[Hemingway-2020pnas]] (oxygen isotopes in terrestrial pyrite oxidation), [[Hemingway-2022gca]] (computational fractionation factors)
+- Source papers:  (oxygen isotopes in terrestrial pyrite oxidation),  (computational fractionation factors)

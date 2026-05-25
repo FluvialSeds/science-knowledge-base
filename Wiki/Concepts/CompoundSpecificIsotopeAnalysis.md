@@ -55,4 +55,4 @@ Precision is controlled through:
 - [[PlantWaxBiomarkers]] — Application to plant-derived lipids
 - [[CarbonIsotopeFractionationPlants]] — Photosynthetic pathway discrimination using δ¹³C
 - [[LocalVsDistalBiomarkerSignals]] — Spatial signal interpretation at different timescales
-- Source papers: [[Hemingway-2016gca]] — Plant-wax δ¹³C analysis in Congo River; [[Hemingway-2018og]] — Method for intact BHP δ¹³C analysis
+- Source papers:  — Plant-wax δ¹³C analysis in Congo River;  — Method for intact BHP δ¹³C analysis

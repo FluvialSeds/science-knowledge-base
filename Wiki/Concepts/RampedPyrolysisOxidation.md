@@ -69,4 +69,4 @@ Different compound classes and source materials release carbon across different 
 - [[RadiocarbonAnalyticalMethods]] — Blank correction and measurement protocols
 - [[OrganicCarbonPreservation]] — Understanding preservation mechanisms revealed by RPO data
 - [[OrganoMineralBonds]] — Interpreting organo-mineral interactions from RPO results
-- Source papers: [[Hemingway-2017rad]] (blank correction), [[Hemingway-2019nat]] (bond-strength diversity)
+- Source papers:  (blank correction),  (bond-strength diversity)

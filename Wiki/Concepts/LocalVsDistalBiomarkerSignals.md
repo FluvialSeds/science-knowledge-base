@@ -52,4 +52,4 @@ All individual plant-wax lipids show minimal temporal δ¹³C variability (<0.9�
 - [[GDGTBiomarkers]] — Membrane lipid biomarkers and complementary source information
 - [[RadiocarbonOrganicMatter]] — Radiocarbon age and pre-aged organic matter detection
 - [[CarbonIsotopeFractionationPlants]] — Using δ¹³C to distinguish vegetation types
-- Source papers: [[Hemingway-2016gca]] — Plant-wax lipids in Congo River; [[Hemingway-2017cg]] — GDGTs and radiocarbon in Congo River
+- Source papers:  — Plant-wax lipids in Congo River;  — GDGTs and radiocarbon in Congo River

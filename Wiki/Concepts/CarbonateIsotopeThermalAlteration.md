@@ -61,4 +61,4 @@ By quantifying the relationship between burial temperature, time, and clumped is
 
 - [[ClumpedIsotopePaleothermometry]] — Theoretical basis and applications of Δ₄₇ paleothermometry
 - [[OrganicCarbonPreservation]] — Complementary framework for understanding preservation mechanisms
-- Source paper: [[Henkes-2014gca]] — Empirical constraints on calcite C–O bond reordering kinetics
+- Source paper:  — Empirical constraints on calcite C–O bond reordering kinetics

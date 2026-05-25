@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[LLMWiki]]"
+  - ""
 status: stable
 created: 2026-05-24
 updated: 2026-05-24

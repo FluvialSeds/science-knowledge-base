@@ -37,4 +37,4 @@ In contrast to other organisms (like certain cyanobacteria and *Rhodospirillum* 
 - [[NitrogenCycle]] — Global biogeochemical cycling of fixed nitrogen
 - [[BacteriohopanepolyolBiomarkers]] — Hopanoid structures as bacterial biomarkers
 - [[OceanicAnoxicEvents]] — Past episodes of marine oxygen depletion
-- Source paper: [[Elling-2020pnas]] — Vitamin B12-dependent hopanoid biosynthesis in nitrifiers
+- Source paper:  — Vitamin B12-dependent hopanoid biosynthesis in nitrifiers

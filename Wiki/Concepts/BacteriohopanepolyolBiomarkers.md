@@ -19,11 +19,11 @@ aliases:
 
 ## Core Concept
 
-[[BacteriohopanepolyolBiomarkers]] (BHPs) are complex lipid compounds produced by diverse bacteria and some archaea that serve as diagnostic biomarkers for identifying specific microbial communities in environmental samples and sedimentary records. Hopanoids are pentacyclic polycyclic compounds derived from squalene, structurally similar to eukaryotic sterols, and function in bacterial cell membranes to regulate membrane fluidity and integrity. Different bacterial groups produce characteristic hopanoid structures with different side chains and functional groups, making them valuable tracers of microbial processes and communities in past and present environments.
+ (BHPs) are complex lipid compounds produced by diverse bacteria and some archaea that serve as diagnostic biomarkers for identifying specific microbial communities in environmental samples and sedimentary records. Hopanoids are pentacyclic polycyclic compounds derived from squalene, structurally similar to eukaryotic sterols, and function in bacterial cell membranes to regulate membrane fluidity and integrity. Different bacterial groups produce characteristic hopanoid structures with different side chains and functional groups, making them valuable tracers of microbial processes and communities in past and present environments.
 
 ## Production and Function
 
-[[BacteriohopanepolyolBiomarkers]] are synthesized by bacteria as membrane lipids that:
+ are synthesized by bacteria as membrane lipids that:
 - Regulate cell membrane fluidity and permeability (analogous to sterol function in eukaryotes)
 - Provide structural integrity to cell membranes under stress conditions (temperature, pH, osmotic stress)
 - Vary in structure depending on bacterial physiology and environment
@@ -35,7 +35,7 @@ Different bacterial groups produce distinctive hopanoid variants. For example:
 
 ## Paleoceanographic Applications
 
-[[BacteriohopanepolyolBiomarkers]] in sediments record:
+ in sediments record:
 
 **Microbial community composition**: Different hopanoid structures identify different bacterial groups
 - *Nitrobacter* 2-methylhopanoids indicate [[Nitrification|nitrification]] activity
@@ -53,7 +53,7 @@ Different bacterial groups produce distinctive hopanoid variants. For example:
 
 ## Carbon Isotope Signatures
 
-The carbon isotope composition (δ¹³C) of [[BacteriohopanepolyolBiomarkers]] reflects:
+The carbon isotope composition (δ¹³C) of  reflects:
 - The source of carbon (dissolved inorganic carbon, organic matter)
 - The metabolic pathway used (autotrophy vs. heterotrophy)
 - The isotopic composition of the substrate being metabolized
@@ -71,13 +71,13 @@ Key hopanoid structures used as biomarkers include:
 
 ## Preservation in Sediments
 
-[[BacteriohopanepolyolBiomarkers]] are diagenetically stable over geological time:
+ are diagenetically stable over geological time:
 - The core hopanoid structure is resistant to degradation
 - Side chains and functional groups can be modified during diagenesis but remain identifiable
 - Hopanoids can persist for millions of years in sediments
 - Their long-chain precursors (bacteriohopanepolyols) are readily degraded to more stable forms
 
-This stability makes [[BacteriohopanepolyolBiomarkers]] reliable tracers of past microbial activity and environmental conditions.
+This stability makes  reliable tracers of past microbial activity and environmental conditions.
 
 ## See also
 
@@ -87,4 +87,4 @@ This stability makes [[BacteriohopanepolyolBiomarkers]] reliable tracers of past
 - [[NitrogenCycle]] — Processes traced by hopanoid biomarkers
 - [[PlantWaxBiomarkers]] — Complementary lipid biomarker class
 - [[GDGTBiomarkers]] — Complementary membrane lipid biomarkers from archaea
-- Source papers: [[Elling-2020pnas]], [[Elling-2021epsl]]
+- Source papers: , 

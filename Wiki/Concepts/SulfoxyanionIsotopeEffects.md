@@ -76,4 +76,4 @@ By knowing how each intermediate species fractionates oxygen isotopes, researche
 ## See also
 
 - [[TripleOxygenIsotopes]] — Δ¹⁷O as paleoatmospheric tracer and sulfur-cycle proxy
-- [[Hemingway-2022gca]] — Computational chemistry methods for fractionation factor predictions
+-  — Computational chemistry methods for fractionation factor predictions

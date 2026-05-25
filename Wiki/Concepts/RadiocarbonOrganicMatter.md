@@ -102,4 +102,4 @@ Together, these methods provide a multi-tracer framework for understanding organ
 - [[LocalVsDistalBiomarkerSignals]] — Temporal biomarker variability in large rivers
 - [[PlantWaxBiomarkers]] — Plant-derived organic matter characterization
 - [[GDGTBiomarkers]] — Membrane lipid biomarkers and source discrimination
-- Source papers: [[Hemingway-2017cg]] (radiocarbon in Congo POM), [[Hemingway-2017rad]] (analytical methods), [[Hemingway-2019nat]] (radiocarbon and mineral protection), [[Hemingway-2021og]] (biomarker radiocarbon and biosynthetic fractionation)
+- Source papers:  (radiocarbon in Congo POM),  (analytical methods),  (radiocarbon and mineral protection),  (biomarker radiocarbon and biosynthetic fractionation)

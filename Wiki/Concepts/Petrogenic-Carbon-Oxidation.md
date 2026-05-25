@@ -17,7 +17,7 @@ aliases:
 
 ## Core Concept
 
-[[Petrogenic carbon]]—ancient organic matter locked in bedrock—is released and oxidized to CO₂ during mountain erosion and soil formation. This process represents a significant source of atmospheric CO₂ that can partially or fully counteract CO₂ drawdown achieved through [[silicate weathering]] and burial of [[biospheric organic carbon]].
+—ancient organic matter locked in bedrock—is released and oxidized to CO₂ during mountain erosion and soil formation. This process represents a significant source of atmospheric CO₂ that can partially or fully counteract CO₂ drawdown achieved through  and burial of .
 
 ## Process and Flux
 
@@ -25,7 +25,7 @@ In rapidly eroding mountain systems like Taiwan's Central Range (3–6 mm/year e
 
 ## Microbial Mediation
 
-The remineralization of [[petrogenic carbon]] is microbially mediated, as shown through the molecular and isotopic evolution of organic carbon in soil profiles. Microbial communities oxidize this ancient carbon as they process newly exposed bedrock material, converting stable carbon compounds into dissolved and gaseous CO₂.
+The remineralization of  is microbially mediated, as shown through the molecular and isotopic evolution of organic carbon in soil profiles. Microbial communities oxidize this ancient carbon as they process newly exposed bedrock material, converting stable carbon compounds into dissolved and gaseous CO₂.
 
 ## Tectonic-Atmospheric Coupling
 
@@ -37,12 +37,12 @@ This work fundamentally changes our understanding of the global carbon cycle in 
 
 - Modeling long-term climate regulation
 - Assessing the net carbon balance of mountain-building regions
-- Understanding how [[mountain erosion]] influences [[biogeochemical cycles]] over geological timescales
+- Understanding how  influences  over geological timescales
 
 ## See also
 
-- [[Organic-Carbon-Preservation]]
-- [[Silicate-Weathering]]
-- [[Mountain-Erosion]]
-- [[Biogeochemical-Cycles]]
-- [[Hemingway-2018sci]] (source)
+- 
+- 
+- 
+- 
+-  (source)

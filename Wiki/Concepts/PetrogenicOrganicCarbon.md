@@ -43,4 +43,4 @@ Thus, in rapidly eroding mountain systems, [[MicrobialOxidationOrganicCarbon|pet
 
 - [[MicrobialOxidationOrganicCarbon]] — How microbes oxidize petrogenic carbon in soils
 - [[CarbonCycleMountainSystems]] — How petrogenic carbon oxidation fits in the broader carbon cycle
-- Source paper: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation rates
+- Source paper:  — Taiwan study quantifying petrogenic carbon oxidation rates

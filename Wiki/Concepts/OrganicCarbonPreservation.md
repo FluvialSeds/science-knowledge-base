@@ -88,4 +88,4 @@ Selective preservation and mineral protection are not mutually exclusive:
 - [[RampedPyrolysisOxidation]] — How RPO reveals preservation mechanisms
 - [[RadiocarbonOrganicMatter]] — Radiocarbon evidence for mineral protection
 - [[RadiocarbonAnalyticalMethods]] — Methods for measuring preserved carbon ages
-- Source paper: [[Hemingway-2019nat]] — Global dataset of OC preservation mechanisms
+- Source paper:  — Global dataset of OC preservation mechanisms

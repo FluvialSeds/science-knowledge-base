@@ -57,4 +57,4 @@ Using δ¹³C measurements alongside homologue distributions provides complement
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for measuring δ¹³C on individual compounds
 - [[PlantWaxBiomarkers]] — Details on n-alkanes, n-alcohols, and n-alkanoic acids
 - [[LocalVsDistalBiomarkerSignals]] — How to interpret biomarker signals at different timescales
-- Source paper: [[Hemingway-2016gca]] — Congo River study applying isotope methods
+- Source paper:  — Congo River study applying isotope methods
