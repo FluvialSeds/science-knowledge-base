@@ -2,6 +2,7 @@
 
 - [[CarbonCycleMountainSystems]] — Carbon Cycle in Mountain Systems: CO₂ Sources and Sinks
 - [[CarbonIsotopeFractionationPlants]] — Carbon Isotope Fractionation and Plant Photosynthetic Pathways
+- [[CarbonateIsotopeThermalAlteration]] — Carbonate Isotope Thermal Alteration and Bond Reordering Kinetics
 - [[ClumpedIsotopePaleothermometry]] — Clumped Isotope Paleothermometry
 - [[CompoundSpecificIsotopeAnalysis]] — Compound-Specific Isotope Analysis (GC-IRMS)
 - [[DissolvedOrganicMatter]] — Dissolved Organic Matter (DOM)
