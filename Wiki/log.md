@@ -122,3 +122,8 @@ Workflow now emphasizes local preprocessing to reduce token usage before AI anal
 *Logged: 2026-05-25 12:21:00*
 
 Added cleanup_ocr.py to File Structure section in CLAUDE.md with description: "Removes common OCR artifacts from PDF-extracted markdown (local preprocessing before manual review)". Updated project documentation to reference all automation tools.
+
+## Ingest: Hemingway-2022gca (Sulfoxyanion Isotope Fractionation)
+*Logged: 2026-05-25 12:34:14*
+
+Created SulfoxyanionIsotopeEffects concept documenting computational predictions of equilibrium oxygen isotope fractionation factors for sulfoxyanion intermediates (sulfite, sulfoxylate, thiosulfate) using DFT quantum chemistry. Covers methodological approaches, species-specific fractionation effects, and applications to sulfur-cycle processes including pyrite oxidation and microbial sulfate reduction. Updated TripleOxygenIsotopes to link new concept and reference Hemingway-2022gca source. PDF extraction was incomplete, so body text was manually compiled from PDF content. Source marked Processed: true.
