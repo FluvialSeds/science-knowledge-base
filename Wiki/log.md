@@ -137,3 +137,13 @@ Implemented quality-gated hybrid strategy for PDF ingestion that attempts Strate
 *Logged: 2026-05-25 12:42:00*
 
 First test of hybrid Strategy 1+2 workflow. PDF extraction required selective rewriting (3/4 sections failed initial quality check: Overall Scientific Topic, Methods, Implications). After selective rewrite, all sections passed ACCEPTABLE verdict. Created CarbonateIsotopeThermalAlteration concept documenting empirical Arrhenius parameters for C–O bond reordering, non-first-order kinetics, temperature–time preservation domains, and the 100°C preservation threshold. Updated ClumpedIsotopePaleothermometry to add Henkes-2014gca source and link to new complementary concept. Source marked Processed: true. Demonstrates that hybrid strategy correctly identifies and gates on quality thresholds, providing selective rewrite capability without full-text rewrites for acceptable sections.
+
+## Ingest: Hemingway-2019nat - Mineral Protection of Organic Carbon
+*Logged: 2026-05-25 13:13:16*
+
+Created concept note on mineral protection as dominant mechanism for long-term organic carbon preservation. Covers evidence from activation energy distributions and radiocarbon dating across global soil and sediment samples.
+
+## Ingest: Hemingway-2018sci - Petrogenic Carbon Oxidation
+*Logged: 2026-05-25 13:13:30*
+
+Created concept note on microbial oxidation of ancient bedrock carbon in rapidly eroding mountain soils. Demonstrates coupling between tectonics and atmospheric CO₂ emissions.
