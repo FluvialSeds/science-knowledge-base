@@ -170,3 +170,8 @@ Enhanced suggest-links command to auto-extract descriptions from Core Concept se
 *Logged: 2026-05-25 20:16:35*
 
 Added --fix mode to cleanup_ocr.py with aggressive OCR artifact repair for mangled text, broken notation, and fragmented references. Integrated automatic cleanup into pdf_to_source.py - extracted PDFs now run aggressive OCR fix immediately after creation, reducing manual review effort. Updated CLAUDE.md ingest workflow to reflect new automated cleanup step before metadata verification. Results: ~70% reduction in manual OCR fixes needed for new source files.
+
+## Ingest: Waldeck-2022pnas - Marine sulfate isotope geochemistry
+*Logged: 2026-05-25 20:19:03*
+
+Created 4 new concept notes from Waldeck et al. (2022) PNAS paper on marine sulfate triple oxygen isotopes: TripleOxygenIsotopePaleoxyProbe.md documents Δ¹⁷O as paleoproductivity proxy; MarineBariteIsotopeRecord.md covers barite as paleoceanographic archive; MicrobialSulfateReductionControl.md details microbial dominance of ocean geochemistry; GrossPrimaryProductivityReconstruction.md reconstructs paleoproductivity trends over 130 million years. Establishes new topic area in marine sulfate geochemistry and demonstrates coupling between microbial processes, productivity, and atmospheric composition. Four concept notes fully cross-referenced and internally consistent. Source marked processed.

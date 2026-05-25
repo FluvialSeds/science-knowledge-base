@@ -11,9 +11,12 @@
 - [[DissolvedOrganicMatter]] — Dissolved Organic Matter (DOM)
 - [[GDGTBiomarkers]] — GDGT Biomarkers as Environmental Proxies
 - [[GlacierDerivedOrganicCarbon]] — Glacier-Derived Organic Carbon
+- [[GrossPrimaryProductivityReconstruction]] — Gross Primary Productivity Reconstruction from Sulfate Isotopes
 - [[LocalVsDistalBiomarkerSignals]] — Local vs Distal Biomarker Signals in River Sediments
+- [[MarineBariteIsotopeRecord]] — Marine Barite as a High-Resolution Paleoceanographic Archive
 - [[MethylhopanoidBiosynthesisNitrification]] — Methylhopanoid Biosynthesis and Nitrification
 - [[MicrobialOxidationOrganicCarbon]] — Microbial Oxidation of Organic Carbon in Mountain Soils
+- [[MicrobialSulfateReductionControl]] — Microbial Sulfate Reduction and Ocean Geochemistry Control
 - [[MineralProtectionOrganicCarbon]] — Mineral Protection of Organic Carbon
 - [[Nitrification]] — Nitrification
 - [[NitrogenCycle]] — Nitrogen Cycle
@@ -29,4 +32,5 @@
 - [[RampedPyrolysisOxidation]] — Ramped Pyrolysis/Oxidation (RPO)
 - [[SapropelNitrogenCycleCoupling]] — Sapropel Formation and Nitrogen Cycle Coupling
 - [[SulfoxyanionIsotopeEffects]] — Sulfoxyanion Isotope Effects
+- [[TripleOxygenIsotopePaleoxyProbe]] — Triple Oxygen Isotope Composition as a Paleoproductivity Proxy
 - [[TripleOxygenIsotopes]] — Triple Oxygen Isotope Compositions and Atmospheric Tracers
