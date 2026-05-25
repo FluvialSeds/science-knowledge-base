@@ -175,3 +175,8 @@ Added --fix mode to cleanup_ocr.py with aggressive OCR artifact repair for mangl
 *Logged: 2026-05-25 20:19:03*
 
 Created 4 new concept notes from Waldeck et al. (2022) PNAS paper on marine sulfate triple oxygen isotopes: TripleOxygenIsotopePaleoxyProbe.md documents Δ¹⁷O as paleoproductivity proxy; MarineBariteIsotopeRecord.md covers barite as paleoceanographic archive; MicrobialSulfateReductionControl.md details microbial dominance of ocean geochemistry; GrossPrimaryProductivityReconstruction.md reconstructs paleoproductivity trends over 130 million years. Establishes new topic area in marine sulfate geochemistry and demonstrates coupling between microbial processes, productivity, and atmospheric composition. Four concept notes fully cross-referenced and internally consistent. Source marked processed.
+
+## Schema expansion: Create three high-level topic notes
+*Logged: 2026-05-25 20:29:46*
+
+Created three comprehensive topic notes organizing the wiki's 34 concepts into broader scientific narratives: (1) BiogeochemicalNitrogenCycling.md integrates nitrogen cycle processes, microbial pathways, and biomarker evidence from Elling papers; (2) OrganicCarbonCycling.md covers carbon preservation, mountain weathering, and tectonic-climate coupling from Hemingway papers; (3) IsotopicProxiesPaleoceanography.md synthesizes isotope and biomarker analytical frameworks spanning all source papers. Topics provide scaffolding for organizing future concepts and reveal connectivity between research areas. Catalog expanded from 34 to 37 entries (3 new topic notes). All maintenance gates pass.
