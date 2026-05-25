@@ -102,4 +102,5 @@ Examples:
 - **`scripts/`**: Automation and maintenance tools:
   - `wiki_tool.py`: Deterministic tool for building, querying, linting, and maintaining the Wiki
   - `pdf_to_source.py`: Converts PDF research papers into structured source markdown notes
+  - `cleanup_ocr.py`: Removes common OCR artifacts from PDF-extracted markdown (local preprocessing before manual review)
   - `audit_public.py`: Validates public-facing content and metadata
