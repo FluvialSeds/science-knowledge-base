@@ -9,6 +9,8 @@ before manual review and ingestion.
 Usage:
     python3 scripts/cleanup_ocr.py Raw/Sources/Filename.md
     python3 scripts/cleanup_ocr.py Raw/Sources/*.md
+    python3 scripts/cleanup_ocr.py --fix Raw/Sources/Filename.md    (aggressive fix mode)
+    python3 scripts/cleanup_ocr.py --assess Raw/Sources/Filename.md (quality assessment)
 """
 
 import sys
@@ -133,8 +135,83 @@ def cleanup_ocr_artifacts(text):
     return text
 
 
-def process_file(filepath):
-    """Clean OCR artifacts from a markdown source file."""
+def fix_ocr_artifacts_aggressive(text):
+    """
+    Aggressively repair OCR artifacts, including fixing mangled text with missing spaces.
+    Used in --fix mode to prepare extracted PDFs for manual review.
+    """
+
+    # First, apply standard cleanup
+    text = cleanup_ocr_artifacts(text)
+
+    # Fix mangled chemical/scientific notation patterns
+    # pO2/pCO2 variations (missing spaces around notation)
+    text = re.sub(r'\bp[O0]2', 'pO₂', text)
+    text = re.sub(r'\bp[C0]O2', 'pCO₂', text)
+    text = re.sub(r'\bDelta[\'′]?17[O0]', 'Δ¹⁷O', text)
+    text = re.sub(r'\bDelta[\'′]?18[O0]', 'Δ¹⁸O', text)
+    text = re.sub(r'\bdelta18[O0]', 'δ¹⁸O', text)
+    text = re.sub(r'\bdelta34[S5]', 'δ³⁴S', text)
+    text = re.sub(r'\bdelta13[C0]', 'δ¹³C', text)
+    text = re.sub(r'\bGPP\s+', 'GPP ', text)
+
+    # Fix mangled words by inserting spaces before capital letters within lowercase chains
+    # Pattern: lowercase letters followed by capital letter (likely word boundary)
+    # Be conservative: only fix patterns we see frequently
+    mangled_patterns = {
+        # Common scientific terms and phrases
+        r'isotopecompositionof': 'isotope composition of',
+        r'isotopeproxyis': 'isotope proxy is',
+        r'presumptionthat': 'presumption that',
+        r'metabolismto': 'metabolism to',
+        r'locusof': 'locus of',
+        r'oxidation,': 'oxidation,',
+        r'availability\(': 'availability (',
+        r'millionyears': 'million years',
+        r'oxygenisotope': 'oxygen isotope',
+        r'sulfateisotope': 'sulfate isotope',
+        r'atmosphericO': 'atmospheric O',
+        r'grossmetabolism': 'gross metabolism',
+    }
+
+    for pattern, replacement in mangled_patterns.items():
+        text = re.sub(pattern, replacement, text, flags=re.IGNORECASE)
+
+    # Fix broken subscripts in isotope notation (e.g., "O 2" → "O₂")
+    text = re.sub(r'\bO\s+2\b', 'O₂', text)
+    text = re.sub(r'\bC\s+O\s+2\b', 'CO₂', text)
+    text = re.sub(r'\bC\s+O2\b', 'CO₂', text)
+    text = re.sub(r'\bS\s+O4\b', 'SO₄', text)
+    text = re.sub(r'\bBaSO\s*4\b', 'BaSO₄', text)
+
+    # Fix spacing around percentages
+    text = re.sub(r'(\d+)%\s+and\s+(\d+)%', r'\1% and \2%', text)
+
+    # Fix fragmented references (e.g., "a n d" → "and")
+    text = re.sub(r'\ba\s+n\s+d\b', 'and', text)
+    text = re.sub(r'\bt\s+h\s+r\s+o\s+u\s+g\s+h\b', 'through', text)
+    text = re.sub(r'\bi\s+s\b', 'is', text)
+
+    # Fix broken words with extraneous spacing
+    text = re.sub(r'\b(\w+)\s+(\w)\s+(\w)\s+(\w+)\b', lambda m: m.group(1) + m.group(2) + m.group(3) + m.group(4) if len(m.group(2)) == 1 else m.group(0), text)
+
+    # Fix multiple spaces
+    text = re.sub(r' {2,}', ' ', text)
+
+    # Fix spacing before/after parentheses and citations
+    text = re.sub(r'\s+\(', ' (', text)
+    text = re.sub(r'\)\s+', ') ', text)
+
+    return text
+
+
+def process_file(filepath, aggressive_fix=False):
+    """Clean OCR artifacts from a markdown source file.
+
+    Args:
+        filepath: Path to the markdown file
+        aggressive_fix: If True, use aggressive fixing (--fix mode) for mangled text
+    """
     path = Path(filepath)
 
     if not path.exists():
@@ -159,19 +236,31 @@ def process_file(filepath):
                 frontmatter = parts[1]
                 body = parts[2]
 
-                # Clean only the body, preserve frontmatter
-                cleaned_body = cleanup_ocr_artifacts(body)
+                # Clean the body with appropriate level of aggressiveness
+                if aggressive_fix:
+                    cleaned_body = fix_ocr_artifacts_aggressive(body)
+                else:
+                    cleaned_body = cleanup_ocr_artifacts(body)
                 content = '---' + frontmatter + '---' + cleaned_body
             else:
-                content = cleanup_ocr_artifacts(content)
+                if aggressive_fix:
+                    content = fix_ocr_artifacts_aggressive(content)
+                else:
+                    content = cleanup_ocr_artifacts(content)
         else:
-            content = cleanup_ocr_artifacts(content)
+            if aggressive_fix:
+                content = fix_ocr_artifacts_aggressive(content)
+            else:
+                content = cleanup_ocr_artifacts(content)
 
         # Write back if changed
         if content != original_content:
             with open(path, 'w', encoding='utf-8') as f:
                 f.write(content)
-            print(f"✓ Cleaned: {filepath}")
+            if aggressive_fix:
+                print(f"✓ Fixed and cleaned: {filepath}")
+            else:
+                print(f"✓ Cleaned: {filepath}")
             return True
         else:
             print(f"- No changes needed: {filepath}")
@@ -332,13 +421,22 @@ def main():
     if len(sys.argv) < 2:
         print("Usage: python3 scripts/cleanup_ocr.py <file.md> [file2.md ...]")
         print("       python3 scripts/cleanup_ocr.py Raw/Sources/*.md")
-        print("       python3 scripts/cleanup_ocr.py --assess <file.md> [file2.md ...]")
+        print("       python3 scripts/cleanup_ocr.py --fix <file.md> [file2.md ...]     (aggressive repair)")
+        print("       python3 scripts/cleanup_ocr.py --assess <file.md> [file2.md ...]  (quality check)")
         sys.exit(1)
 
-    # Check for --assess flag
+    # Check for --fix or --assess flags
+    fix_mode = False
     assess_mode = False
     file_args = sys.argv[1:]
-    if file_args[0] == "--assess":
+
+    if file_args[0] == "--fix":
+        fix_mode = True
+        file_args = file_args[1:]
+        if not file_args:
+            print("Usage: python3 scripts/cleanup_ocr.py --fix <file.md> [file2.md ...]")
+            sys.exit(1)
+    elif file_args[0] == "--assess":
         assess_mode = True
         file_args = file_args[1:]
         if not file_args:
@@ -363,21 +461,24 @@ def main():
                 processed += 1
         return
 
-    # Normal mode: cleanup and optionally process
+    # Normal or fix mode: cleanup/fix and optionally process
     for filepath in file_args:
         # Expand glob patterns
         path = Path(filepath)
         if '*' in filepath:
             for match in path.parent.glob(path.name):
-                if process_file(str(match)):
+                if process_file(str(match), aggressive_fix=fix_mode):
                     changed += 1
                 processed += 1
         else:
-            if process_file(filepath):
+            if process_file(filepath, aggressive_fix=fix_mode):
                 changed += 1
             processed += 1
 
-    print(f"\n✓ Processed {processed} file(s), cleaned {changed} file(s)")
+    if fix_mode:
+        print(f"\n✓ Fixed {processed} file(s), modified {changed} file(s)")
+    else:
+        print(f"\n✓ Processed {processed} file(s), cleaned {changed} file(s)")
 
 
 if __name__ == '__main__':

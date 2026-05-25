@@ -25,34 +25,38 @@ This document tells agents how to work with this LLM Wiki.
 
 When processing a new Raw source:
 
-1. **Verify source metadata** (before any other work):
+1. **PDF extraction and auto-cleanup** (automated):
+   - Run `python3 scripts/pdf_to_source.py --pdf "filename.pdf"` to extract and convert PDF to markdown
+   - The script automatically runs aggressive OCR cleanup (`--fix` mode) to repair:
+     - Missing spaces in mangled text
+     - Broken chemical notation (pO₂, δ¹⁸O, etc.)
+     - Fragmented references and citations
+   - Output markdown is pre-cleaned but still requires metadata verification and body text review
+
+2. **Verify source metadata** (before any other work):
    - Author names: Verify full author list against the paper's DOI, PubMed, or journal website
    - Journal/volume/pages: Confirm exact publication details match the PDF
    - Publication year: Add `Year: "YYYY"` to frontmatter after Pages property
    - Do NOT rely on web search summaries for metadata—always verify against authoritative sources
    - Frontmatter order for journal articles: Title, Author, Reference, ContentType, Created, Journal, Volume, Pages, Year, Processed
 
-2. Search `Wiki/catalog.jsonl` for related topics and concepts: `python3 scripts/wiki_tool.py search-catalog --query "your keywords"`
+3. **Assess and fix remaining OCR artifacts**:
+   - Run `python3 scripts/cleanup_ocr.py --assess Raw/Sources/filename.md` to check quality
+   - ACCEPTABLE verdict (all sections ≥50 words, coherent, no artifacts) → proceed to step 4
+   - REWRITE REQUIRED verdict → manually fix only the listed failing sections
 
-3. **Run OCR cleanup locally** (reduces token usage): `python3 scripts/cleanup_ocr.py Raw/Sources/filename.md`
+4. Search `Wiki/catalog.jsonl` for related topics and concepts: `python3 scripts/wiki_tool.py search-catalog --query "your keywords"`
 
-4. Open only the most relevant existing Wiki notes to understand naming conventions and structure.
+5. Open only the most relevant existing Wiki notes to understand naming conventions and structure.
 
-5. Create focused concept notes in `Wiki/Concepts/` that compile the source material.
+6. Create focused concept notes in `Wiki/Concepts/` that compile the source material.
 
-6. **Use correct naming for concept files**:
+7. **Use correct naming for concept files**:
    - Use **PascalCase** (no hyphens): `MethylhopanoidBiosynthesis.md` not `Methylhopanoid-Biosynthesis.md`
    - Pattern: ConcatWords capitalized, no spaces or hyphens
    - Check existing files for precedent: `PlantWaxBiomarkers.md`, `DissolvedOrganicMatter.md`, etc.
 
-7. Add the Raw source path to the `sources` list in each compiled note. Update `source_count` to match.
-
-8. **Clean source body text** (mandatory before step 9):
-   - Remove ALL OCR artifacts, formatting errors, and encoding issues
-   - Ensure all sections (Overall Scientific Topic, Methods, Results, Implications) are coherent and accurate
-   - Verify against the original PDF to catch extraction errors
-   - See `Schema/pdf-import-guide.md` Body Text Quality Checklist for details
-   - **IMPORTANT**: Verify rewrites match the paper content—don't reconstruct from web summaries alone
+8. Add the Raw source path to the `sources` list in each compiled note. Update `source_count` to match.
 
 9. **Add wikilinks and auto-generate descriptions (mandatory)**:
    - For first mentions of related concepts in body text, use pipe syntax: `[[ConceptName|display text]]` so text reads naturally
@@ -71,24 +75,18 @@ When processing a new Raw source:
 
 10. **Mark source as processed**: Set `Processed: true` in the Raw source frontmatter (mandatory once compiled into Wiki notes and body text is clean).
 
-11. **Assess extraction quality** (hybrid strategy — local assessment, 0 tokens):
-    ```bash
-    python3 scripts/cleanup_ocr.py --assess Raw/Sources/filename.md
-    ```
-    - **ACCEPTABLE verdict**: all sections meet quality thresholds (≥50 words, coherent prose, no OCR artifacts) → proceed to Step 12 without rewriting
-    - **REWRITE REQUIRED verdict**: one or more sections fail quality checks → rewrite only the listed failing sections before proceeding (see Body Text Quality Checklist in `Schema/pdf-import-guide.md`)
+11. Run maintenance checks: `python3 scripts/wiki_tool.py build && python3 scripts/wiki_tool.py lint`
 
-12. Run maintenance checks: `python3 scripts/wiki_tool.py build && python3 scripts/wiki_tool.py lint`
-13. **Add log entry to `Wiki/log.md`** (mandatory before commit):
+12. **Add log entry to `Wiki/log.md`** (mandatory before commit):
     - Use `python3 scripts/wiki_tool.py log --title "Ingest: [Source]" --details "..."`
     - Describe what was created/updated and which sources were compiled
     - Use the format from existing entries as template
 
-14. Stage all changes and commit with descriptive message including source file and concept notes.
+13. Stage all changes and commit with descriptive message including source file and concept notes.
 
-15. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
+14. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
 
-16. Verify source integrity: `python3 scripts/wiki_tool.py source-lint`
+15. Verify source integrity: `python3 scripts/wiki_tool.py source-lint`
 
 ## Ingest Quality Checklist (Before Commit)
 

@@ -21,6 +21,7 @@ Usage:
 
 import sys
 import re
+import subprocess
 from pathlib import Path
 from datetime import datetime
 
@@ -303,6 +304,27 @@ def main():
         f.write(markdown)
 
     print(f"✓ Created source note: {output_path.relative_to(vault_root)}")
+
+    # Auto-cleanup OCR artifacts
+    print(f"✓ Auto-cleaning OCR artifacts...")
+    try:
+        cleanup_result = subprocess.run(
+            ["python3", "scripts/cleanup_ocr.py", "--fix", str(output_path)],
+            cwd=vault_root,
+            capture_output=True,
+            text=True,
+            timeout=10
+        )
+        if cleanup_result.returncode == 0:
+            # Print cleanup output
+            for line in cleanup_result.stdout.strip().split('\n'):
+                if line:
+                    print(f"  {line}")
+        else:
+            print(f"  ⚠ Cleanup had issues: {cleanup_result.stderr}")
+    except Exception as e:
+        print(f"  ⚠ Could not run OCR cleanup: {e}")
+
     print(f"\nGenerated sections:")
     print(f"  • Overall Scientific Topic")
     print(f"  • Methods")
@@ -312,8 +334,9 @@ def main():
     print(f"  1. Review and edit the generated file:")
     print(f"     - Author: Use format 'FirstName MiddleInitial. LastName, FirstName MiddleInitial. LastName, ...'")
     print(f"     - Reference: Replace 'extracted-from-...' with DOI or URL")
-    print(f"  2. Compile into Wiki notes using ingest workflow")
-    print(f"  3. Mark as Processed: true after compilation")
+    print(f"  2. Run 'python3 scripts/cleanup_ocr.py --assess {output_path.relative_to(vault_root)}' to check quality")
+    print(f"  3. Compile into Wiki notes using ingest workflow")
+    print(f"  4. Mark as Processed: true after compilation")
 
     return 0
 

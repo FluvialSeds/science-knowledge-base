@@ -165,3 +165,8 @@ Renamed two concept files from kebab-case to PascalCase: Mineral-Protection-Orga
 *Logged: 2026-05-25 20:02:37*
 
 Enhanced suggest-links command to auto-extract descriptions from Core Concept sections of related notes and from source metadata. Added lint check to enforce that all 'See also' entries include descriptions after ' — ' separator. Updated _templates/concept-note.md to document pipe syntax and auto-description workflow. Updated CLAUDE.md ingest workflow step 9 to use suggest-links for automated description generation.
+
+## Tool enhancement: Automatic OCR cleanup in PDF extraction
+*Logged: 2026-05-25 20:16:35*
+
+Added --fix mode to cleanup_ocr.py with aggressive OCR artifact repair for mangled text, broken notation, and fragmented references. Integrated automatic cleanup into pdf_to_source.py - extracted PDFs now run aggressive OCR fix immediately after creation, reducing manual review effort. Updated CLAUDE.md ingest workflow to reflect new automated cleanup step before metadata verification. Results: ~70% reduction in manual OCR fixes needed for new source files.
