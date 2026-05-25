@@ -1,3 +1,2 @@
 # Topics
 
-- [[LLMWiki]] — LLM Wiki
