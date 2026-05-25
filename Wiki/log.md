@@ -180,3 +180,8 @@ Created 4 new concept notes from Waldeck et al. (2022) PNAS paper on marine sulf
 *Logged: 2026-05-25 20:29:46*
 
 Created three comprehensive topic notes organizing the wiki's 34 concepts into broader scientific narratives: (1) BiogeochemicalNitrogenCycling.md integrates nitrogen cycle processes, microbial pathways, and biomarker evidence from Elling papers; (2) OrganicCarbonCycling.md covers carbon preservation, mountain weathering, and tectonic-climate coupling from Hemingway papers; (3) IsotopicProxiesPaleoceanography.md synthesizes isotope and biomarker analytical frameworks spanning all source papers. Topics provide scaffolding for organizing future concepts and reveal connectivity between research areas. Catalog expanded from 34 to 37 entries (3 new topic notes). All maintenance gates pass.
+
+## Ingest: Walters-2022natcomms
+*Logged: 2026-05-25 21:48:51*
+
+Clay hydroxyl isotopes and PETM hydrologic enhancement. Created 2 concept notes: ClayHydroxylIsotopesPaleoxyProbe and PaleoceneEoceneThermalMaximumHydrology. Cleaned Implications section body text to pass quality assessment. Source marked as processed.

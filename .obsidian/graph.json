@@ -5,37 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Raw  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:_templates  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Wiki/Concepts  ",
-      "color": {
-        "a": 1,
-        "rgb": 5396192
-      }
-    },
-    {
-      "query": "path:Wiki/Topics  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -46,10 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.9667757057270691,
-=======
-  "scale": 0.8618530145342804,
->>>>>>> a4e4c7f583a7a5297829d7782c1d278007324ae2
-  "close": true
+  "scale": 1,
+  "close": false
 }

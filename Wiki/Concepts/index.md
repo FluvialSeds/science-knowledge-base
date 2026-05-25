@@ -5,6 +5,7 @@
 - [[CarbonCycleMountainSystems]] — Carbon Cycle in Mountain Systems: CO₂ Sources and Sinks
 - [[CarbonIsotopeFractionationPlants]] — Carbon Isotope Fractionation and Plant Photosynthetic Pathways
 - [[CarbonateIsotopeThermalAlteration]] — Carbonate Isotope Thermal Alteration and Bond Reordering Kinetics
+- [[ClayHydroxylIsotopesPaleoxyProbe]] — Clay Hydroxyl Isotopes as a Paleoproxy for Hydrologic Cycling
 - [[ClumpedIsotopePaleothermometry]] — Clumped Isotope Paleothermometry
 - [[CompoundSpecificIsotopeAnalysis]] — Compound-Specific Isotope Analysis (GC-IRMS)
 - [[DeepWaterAnoxia]] — Deep Water Anoxia
@@ -24,6 +25,7 @@
 - [[OceanicAnoxicEvents]] — Oceanic Anoxic Events
 - [[OrganicCarbonPreservation]] — Organic Carbon Preservation Mechanisms
 - [[OrganoMineralBonds]] — Organo-Mineral Bonds and Organic Carbon Protection
+- [[PaleoceneEoceneThermalMaximumHydrology]] — Paleocene-Eocene Thermal Maximum and Hydrologic Intensification
 - [[PetrogenicCarbonOxidation]] — Petrogenic Carbon Oxidation
 - [[PetrogenicOrganicCarbon]] — Petrogenic Organic Carbon
 - [[PlantWaxBiomarkers]] — Plant-Wax Biomarkers as Ecosystem Proxies
