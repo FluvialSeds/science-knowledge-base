@@ -1,7 +1,6 @@
 ---
 Title: "Linking diatom-diazotroph symbioses to nitrogen cycle perturbations and deep-water anoxia: Insights from Mediterranean sapropel events"
-Author: "Felix J. Elling, Ke Zhuang, Karita Negandank, Ann Pearson"
-DatePublished: "2021-07-30"
+Author: "Felix J. Elling, Jordon D. Hemingway, Jenan J. Kharbush, Kevin W. Becker, Catherine A. Polik, Ann Pearson"
 Reference: "https://doi.org/10.1016/j.epsl.2021.117110"
 ContentType:
   - "pdf"
@@ -10,6 +9,7 @@ Created: 2026-05-25
 Journal: "Earth and Planetary Science Letters"
 Volume: "571"
 Pages: "117110"
+Year: "2021"
 Processed: true
 tags:
   - "source"
@@ -27,21 +27,7 @@ Sediment samples from Mediterranean sapropel sequences were freeze-dried and hom
 
 ## Results
 
-Sapropel biomarker assemblages reveal abundant anammox bacteria and diazotrophic cyanobacteria endosymbionts, particularly in the Ionian and Libyan seas. The compound-specific carbon isotope compositions of anammox biomarkers show progressive ¹³C depletion, directly reflecting deep-water dissolved inorganic carbon and indicating sustained organic carbon sequestration. Sapropel nutrient regimes resemble modern anoxic basins with both elevated anammox and nitrogen fixation, fundamentally different from open-ocean anoxic events  
-(OAEs)—for  example,  during  the Cretaceous  Period—which  do not 
-record  evidence  of elevated  anammox  activity  but rather  suggest  
-increased  nitrite  oxidation. Collectively,  these analyses  suggest  that 
-nutrient  regimes  during  sapropel  events  resembled  those of mod-
-ern anoxic  basins  but were fundamentally  different  from those 
-during  OAEs. Study  site
-Today,  the Eastern  Mediterranean  is a well-ventilated,  olig-
-otrophic  basin characterized  by low surface  nutrient  concentra-
-tions, low primary  productivity,  and organic-poor,  calcareous  marl 
-sediments  (Rohling  et al. However,  insolation-driven  in-
-creases  in monsoon  intensity  and freshwater  runoff  throughout  
-the Plio-Pleistocene  episodically  slowed  overturning  circulation,  
-leading  to deep-water  anoxia  and the deposition  of organic-rich  
-“sapropel”  sediments.
+Mediterranean sapropel biomarker assemblages reveal abundant anammox bacteria (identified by diagnostic bacteriohopanepolyol biomarkers) and diazotrophic endosymbionts of mat- and raft-forming diatoms, particularly in Ionian and Libyan sea sections. The compound-specific carbon isotope compositions of anammox biomarkers show progressive ¹³C depletion, directly reflecting the isotopic composition of deep-water dissolved inorganic carbon during sapropel deposition. Sapropel nutrient regimes resemble modern anoxic basins with evidence of both elevated anammox activity and nitrogen fixation. In contrast, open-ocean anoxic events (OAEs) during the Cretaceous Period lack anammox biomarker evidence and show primarily nitrite oxidation signatures, indicating fundamentally different nitrogen cycling regimes than sapropel events.
 
 ## Implications
 

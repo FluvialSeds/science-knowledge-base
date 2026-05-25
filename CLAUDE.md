@@ -28,8 +28,9 @@ When processing a new Raw source:
 1. **Verify source metadata** (before any other work):
    - Author names: Verify full author list against the paper's DOI, PubMed, or journal website
    - Journal/volume/pages: Confirm exact publication details match the PDF
-   - Year/date published: Add `DatePublished: "YYYY-MM-DD"` to frontmatter
+   - Publication year: Add `Year: "YYYY"` to frontmatter after Pages property
    - Do NOT rely on web search summaries for metadata—always verify against authoritative sources
+   - Frontmatter order for journal articles: Title, Author, Reference, ContentType, Created, Journal, Volume, Pages, Year, Processed
 
 2. Search `Wiki/catalog.jsonl` for related topics and concepts: `python3 scripts/wiki_tool.py search-catalog --query "your keywords"`
 
@@ -92,8 +93,9 @@ When processing a new Raw source:
 
 Before committing any ingestion, verify:
 
-- ✓ **Source metadata**: Author names verified against DOI/journal, publication date included
+- ✓ **Source metadata**: Author names verified against DOI/journal, Year property included (after Pages)
 - ✓ **Body text**: All sections (Overall Scientific Topic, Methods, Results, Implications) pass quality assessment (ACCEPTABLE verdict)
+- ✓ **Results section quality**: Coherent narrative with proper evidence, NOT fragmented OCR artifacts
 - ✓ **Concept filenames**: Use PascalCase (e.g., `DissolvedOrganicMatter.md`)—check existing files for naming pattern
 - ✓ **"See also" format**: Matches standard format with descriptions after " — " separator, includes source paper link
 - ✓ **Wikilinks**: Use PascalCase without hyphens (e.g., `[[NitrogenCycle]]` not `[[Nitrogen-Cycle]]`)
