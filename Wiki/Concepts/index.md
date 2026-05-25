@@ -1,6 +1,7 @@
 # Concepts
 
 - [[Anammox]] — Anammox
+- [[BacteriohopanepolyolBiomarkers]] — Bacteriohopanepolyol Biomarkers
 - [[CarbonCycleMountainSystems]] — Carbon Cycle in Mountain Systems: CO₂ Sources and Sinks
 - [[CarbonIsotopeFractionationPlants]] — Carbon Isotope Fractionation and Plant Photosynthetic Pathways
 - [[CarbonateIsotopeThermalAlteration]] — Carbonate Isotope Thermal Alteration and Bond Reordering Kinetics
@@ -16,6 +17,7 @@
 - [[Mineral-Protection-Organic-Carbon]] — Mineral Protection of Organic Carbon
 - [[Nitrification]] — Nitrification
 - [[NitrogenCycle]] — Nitrogen Cycle
+- [[NitrogenFixation]] — Nitrogen Fixation
 - [[OceanicAnoxicEvents]] — Oceanic Anoxic Events
 - [[OrganicCarbonPreservation]] — Organic Carbon Preservation Mechanisms
 - [[OrganoMineralBonds]] — Organo-Mineral Bonds and Organic Carbon Protection
