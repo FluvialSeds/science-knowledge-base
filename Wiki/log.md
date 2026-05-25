@@ -69,3 +69,56 @@ Created CompoundSpecificIsotopeAnalysis concept note documenting UPLC-based comp
 *Logged: 2026-05-24 23:04:02*
 
 Created two new concept notes: GDGTBiomarkers documenting branched and isoprenoid GDGT proxies and applications to riverine source partitioning, and RadiocarbonOrganicMatter covering Δ14C as tracer of pre-aged vs modern organic matter. Updated LocalVsDistalBiomarkerSignals to add Hemingway-2017cg as source and link to new concepts. Updated PlantWaxBiomarkers with links to GDGT and radiocarbon concepts. Paper integrates plant-wax lipids, GDGT biomarkers, and radiocarbon as complementary tracers for Congo River POM sources and discharge-driven temporal variability.
+
+## Ingest: Hemingway-2017rad (Ramped Pyrolysis Oxidation Methods)
+*Logged: 2026-05-25 12:21:00*
+
+Created RampedPyrolysisOxidation concept documenting analytical technique for bond-strength analysis and radiocarbon measurements. Created RadiocarbonAnalyticalMethods concept covering blank correction protocols and instrument calibration. Updated RadiocarbonOrganicMatter to reference new analytical methods. Source: Hemingway-2017rad.md
+
+## Ingest: Hemingway-2019gca and Hemingway-2019nat (DOM Preservation and Mineral Protection)
+*Logged: 2026-05-25 12:11:00*
+
+Compiled Hemingway et al. 2019 dissolved organic matter and organic carbon preservation studies into 5 focused concepts:
+- DissolvedOrganicMatter: DOM composition, source partitioning, and bioavailability across aquatic systems
+- GlacierDerivedOrganicCarbon: Glacier-fed systems and seasonal variability in carbon composition
+- OrganicCarbonPreservation: Preservation mechanisms including selective vs mineral protection pathways
+- OrganoMineralBonds: Mineral-bound carbon chemistry and sorption mechanisms
+- Updated RadiocarbonOrganicMatter to include biomarker radiocarbon measurements and sources (now 4 sources)
+
+Sources: Hemingway-2019gca.md, Hemingway-2019nat.md
+
+## Ingest: Hemingway-2020pnas (Triple Oxygen Isotopes and Paleoatmospheric Proxies)
+*Logged: 2026-05-25 12:11:00*
+
+Created TripleOxygenIsotopes concept documenting Δ¹⁷O mass-independent fractionation, atmospheric generation mechanisms, and application as paleoatmospheric proxy for pO₂/pCO₂ constraints. Documents limitations and alternative oxygen sources in pyrite oxidation. Source: Hemingway-2020pnas.md
+
+## Ingest: Hemingway-2021epsl (Clumped Isotope Paleothermometry)
+*Logged: 2026-05-25 12:11:00*
+
+Created ClumpedIsotopePaleothermometry concept documenting Δ₄₇ relationships with temperature, bond reordering in burial, kinetic models for post-depositional alteration, and paleoclimate reconstruction applications. Establishes framework for assessing paleoclimate signal fidelity in carbonate records. Source: Hemingway-2021epsl.md
+
+## Tool enhancement: OCR artifact cleanup script
+*Logged: 2026-05-25 12:21:00*
+
+Implemented scripts/cleanup_ocr.py to reduce token usage in PDF ingestion workflow (Strategy 2). Script removes:
+- Garbled characters (ﬁ→fi, ﬂ→fl, degree symbols)
+- Encoding artifacts (/C255, /C176, etc.)
+- Fragmented numbers (3. 6→3.6)
+- Multiple spaces and formatting issues
+- Supports single files and glob patterns; preserves frontmatter
+Processes markdown locally before manual review to minimize token-intensive AI rewrites.
+
+## Schema update: Body text quality checklist and OCR cleanup workflow
+*Logged: 2026-05-25 12:21:00*
+
+Updated Schema/pdf-import-guide.md with:
+- Body Text Quality Checklist (mandatory before Wiki compilation): Title accuracy, OCR artifacts, section coherence, no footer text, spelling/grammar
+- Step 4: Automatic OCR cleanup via cleanup_ocr.py
+- Updated CLAUDE.md Ingest Workflow to include OCR cleanup as Step 2
+- Clarified that Raw sources are source material (not compiled notes) and require clean, coherent body text
+Workflow now emphasizes local preprocessing to reduce token usage before AI analysis.
+
+## Documentation: File structure reference
+*Logged: 2026-05-25 12:21:00*
+
+Added cleanup_ocr.py to File Structure section in CLAUDE.md with description: "Removes common OCR artifacts from PDF-extracted markdown (local preprocessing before manual review)". Updated project documentation to reference all automation tools.
