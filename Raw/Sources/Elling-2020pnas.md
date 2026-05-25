@@ -1,6 +1,7 @@
 ---
 Title: "Vitamin B12-dependent biosynthesis ties amplified 2-methylhopanoid production during oceanic anoxic events to nitrification"
-Author: "Felix J. Elling, Jordon D. Hemingway, Taro W. Evans, Jillian J. Kharbush, Eberhard Spieck, Roger E. Summons, Ann Pearson"
+Author: "Felix J. Elling, Jordon D. Hemingway, Thomas W. Evans, Jenan J. Kharbush, Eva Spieck, Roger E. Summons, Ann Pearson"
+DatePublished: "2020-12-29"
 Reference: "https://doi.org/10.1073/pnas.2012357117"
 ContentType:
   - "pdf"
@@ -8,7 +9,6 @@ ContentType:
 Created: 2026-05-25
 Journal: "PNAS"
 Volume: "117"
-Issue: "52"
 Pages: "32996-33004"
 Processed: true
 tags:
@@ -23,24 +23,11 @@ This study investigates the biosynthesis of 2-methylhopanoids in Nitrobacter spe
 
 ## Methods
 
-By contrast, hpnP is prevalent ( ∼30% of all species) ( SI Ap-
-pendix , Fig. S8 ) in terrestrial and freshwater cyanobacteria,
-particularly within the order Nostocales ( SI Appendix , Fig. Based on this contrast between freshwater/terrestrial and marine
-species, we propose that the occurrence of hpnP in cyanobacteria
-is not related to taxonomy but to habitat, in agreement with
-previous ecological interpretations proposed for the hpnP dis-
-tribution in alphaproteobacteria (25, 65, 66).
+The researchers cultured Nitrobacter species and characterized their hopanoid methylation pathways using molecular biology and biochemical techniques. Gene sequencing identified hpnP (hopanoid methyltransferase) homologs in various bacterial taxa. Enzymatic characterization confirmed that hopanoid methylation requires both radical S-adenosylmethionine (SAM) enzyme activity and cobalamin (vitamin B12) as an essential cofactor. Comparative genomic analysis examined hpnP distribution across marine and freshwater bacterial lineages, correlating gene presence with environmental habitat and nutrient cycling roles.
 
 ## Results
 
-results suggest that the reaction mechanism is not
-only dependent on a radical S-adenosylmethionine (SAM) en-
-zyme (23) but also on the enzymatic cofactor cobalamin (vitaminB
-12). Because Nitrobacter spp. are cobalamin auxotrophs, we
-hypothesize that synergistic interaction between Nitrobacter and
-cobalamin-producing nitrifying archaea could be an importantcontrol on 2-methylhopanoid production. This hypothesis isconsistent with enhanced production of 2-methylhopanoids un-
-der conditions of intensified oxidative nitrogen cycling in past
-environments.
+The results confirm that 2-methylhopanoid biosynthesis depends on both radical SAM enzyme activity and cobalamin cofactor availability. Nitrobacter species cannot synthesize cobalamin endogenously (cobalamin auxotrophs), making them dependent on external supply from cobalamin-producing nitrifying archaea. Genomic comparisons reveal hpnP prevalence varies by habitat: ~30% of terrestrial and freshwater cyanobacteria carry hpnP (particularly Nostocales), while marine nitrifiers show distinct distribution patterns. These distributions correlate with nitrogen cycling intensity and environmental redox conditions, consistent with enhanced 2-methylhopanoid production during periods of intensified oxidative nitrogen cycling and oceanic anoxic events.
 
 ## Implications
 

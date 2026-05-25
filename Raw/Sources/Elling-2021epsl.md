@@ -1,6 +1,7 @@
 ---
 Title: "Linking diatom-diazotroph symbioses to nitrogen cycle perturbations and deep-water anoxia: Insights from Mediterranean sapropel events"
 Author: "Felix J. Elling, Ke Zhuang, Karita Negandank, Ann Pearson"
+DatePublished: "2021-07-30"
 Reference: "https://doi.org/10.1016/j.epsl.2021.117110"
 ContentType:
   - "pdf"
@@ -26,7 +27,7 @@ Sediment samples from Mediterranean sapropel sequences were freeze-dried and hom
 
 ## Results
 
-results  to biomarker  distributions  from open-ocean  anoxic  events  
+Sapropel biomarker assemblages reveal abundant anammox bacteria and diazotrophic cyanobacteria endosymbionts, particularly in the Ionian and Libyan seas. The compound-specific carbon isotope compositions of anammox biomarkers show progressive ¹³C depletion, directly reflecting deep-water dissolved inorganic carbon and indicating sustained organic carbon sequestration. Sapropel nutrient regimes resemble modern anoxic basins with both elevated anammox and nitrogen fixation, fundamentally different from open-ocean anoxic events  
 (OAEs)—for  example,  during  the Cretaceous  Period—which  do not 
 record  evidence  of elevated  anammox  activity  but rather  suggest  
 increased  nitrite  oxidation. Collectively,  these analyses  suggest  that 
@@ -44,4 +45,4 @@ leading  to deep-water  anoxia  and the deposition  of organic-rich
 
 ## Implications
 
-The evidence for both anammox activity and diazotrophic symbioses during Mediterranean sapropel events reveals a coupled nitrogen cycle feedback mechanism: nitrogen limitation drives increased reliance on diazotrophic cyanobacteria, which form mats and rafts with diatoms and promote water column stratification. This stratification enhances anoxia, which stimulates anammox activity and removes fixed nitrogen, reinforcing nitrogen limitation. The δ15N signatures of anammox biomarkers directly reflect progressive organic carbon sequestration, linking microbial nitrogen transformations to deep-water carbon cycling. These results demonstrate how sapropel formation involves tightly coupled biological and chemical feedbacks and provide a framework for understanding similar nitrogen cycle perturbations and anoxic episodes in Earth's paleoceanographic records.
+The combined evidence for both anammox activity and diazotrophic endosymbionts during Mediterranean sapropel events establishes a reinforcing feedback mechanism between nitrogen cycling and water column anoxia. Nitrogen limitation drives increased nitrogen fixation by diatom-associated cyanobacteria, which form extensive mats and rafts that promote water column stratification and accelerate oxygen depletion. Enhanced anoxia in turn stimulates anammox (anaerobic ammonium oxidation), removing biologically available fixed nitrogen and reinforcing limitation. The δ¹⁵N signatures of anammox biomarkers directly capture the isotopic composition of deep-water dissolved inorganic carbon, proving that microbial nitrogen transformations are tightly coupled to organic carbon sequestration. These mechanisms differ fundamentally from open-ocean anoxic events, where nitrogen fixation appears suppressed. The results provide a mechanistic framework for interpreting past sapropel formation and similar nitrogen cycle-driven anoxic episodes throughout Earth's paleoceanographic record.

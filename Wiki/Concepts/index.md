@@ -9,7 +9,7 @@
 - [[GDGTBiomarkers]] — GDGT Biomarkers as Environmental Proxies
 - [[GlacierDerivedOrganicCarbon]] — Glacier-Derived Organic Carbon
 - [[LocalVsDistalBiomarkerSignals]] — Local vs Distal Biomarker Signals in River Sediments
-- [[Methylhopanoid-Biosynthesis-Nitrification]] — Methylhopanoid Biosynthesis and Nitrification
+- [[MethylhopanoidBiosynthesisNitrification]] — Methylhopanoid Biosynthesis and Nitrification
 - [[MicrobialOxidationOrganicCarbon]] — Microbial Oxidation of Organic Carbon in Mountain Soils
 - [[Mineral-Protection-Organic-Carbon]] — Mineral Protection of Organic Carbon
 - [[OrganicCarbonPreservation]] — Organic Carbon Preservation Mechanisms
@@ -20,7 +20,7 @@
 - [[RadiocarbonAnalyticalMethods]] — Radiocarbon Analytical Methods
 - [[RadiocarbonOrganicMatter]] — Radiocarbon (Δ¹⁴C) as a Tracer of Organic Matter Age
 - [[RampedPyrolysisOxidation]] — Ramped Pyrolysis/Oxidation (RPO)
-- [[Sapropel-Nitrogen-Cycle-Coupling]] — Sapropel Formation and Nitrogen Cycle Coupling
+- [[SapropelNitrogenCycleCoupling]] — Sapropel Formation and Nitrogen Cycle Coupling
 - [[SourceToWikiWorkflow]] — Source to Wiki Workflow
 - [[SulfoxyanionIsotopeEffects]] — Sulfoxyanion Isotope Effects
 - [[TripleOxygenIsotopes]] — Triple Oxygen Isotope Compositions and Atmospheric Tracers
