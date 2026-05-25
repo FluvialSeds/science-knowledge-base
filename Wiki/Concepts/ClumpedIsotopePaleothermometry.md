@@ -7,7 +7,8 @@ created: 2026-05-25
 updated: 2026-05-25
 sources:
   - "Raw/Sources/Hemingway-2021epsl.md"
-source_count: 1
+  - "Raw/Sources/Henkes-2014gca.md"
+source_count: 2
 aliases:
   - "Clumped isotopes"
   - "Δ₄₇"
@@ -83,7 +84,8 @@ By comparing predicted Δ₄₇ values (after post-burial reordering) with obser
 
 ## See also
 
+- [[CarbonateIsotopeThermalAlteration]] — Empirical constraints on thermal alteration and bond reordering preservation domains
 - [[RadiocarbonOrganicMatter]] — Radioactive isotope chronometry complementary to paleothermometry
 - [[CarbonIsotopeFractionationPlants]] — Stable isotope fractionation processes
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for carbonate isotope analysis
-- Source paper: [[Hemingway-2021epsl]] — Kinetic model for clumped isotope bond reordering
+- Source papers: [[Hemingway-2021epsl]] (kinetic model for bond reordering), [[Henkes-2014gca]] (empirical constraints and preservation domains)
