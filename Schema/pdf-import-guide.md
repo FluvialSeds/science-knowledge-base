@@ -93,7 +93,24 @@ The script will automatically:
 - Generate summaries for all four sections
 - Create markdown in `Raw/Sources/lastname-year-journalacro.md`
 
-### 4. Review Generated Source
+### 4. Automatic OCR Cleanup (Local)
+
+Run the OCR cleanup script to remove common text extraction artifacts:
+
+```bash
+python3 scripts/cleanup_ocr.py Raw/Sources/lastname-year-journalacro.md
+```
+
+This script fixes:
+- Garbled characters (ﬁ → fi, ﬂ → fl, etc.)
+- Encoding artifacts (/C255, /C176, etc.)
+- Random spaces within words
+- Fragmented numbers (3. 6 → 3.6)
+- Multiple spaces and formatting issues
+
+Run this **before** manual review to reduce OCR artifacts that would need token-intensive rewrites.
+
+### 5. Review Generated Source
 
 The script creates a markdown file in `Raw/Sources/lastname-year-journalacro.md`:
 
@@ -131,7 +148,7 @@ tags:
 
 **Text Quality Requirements:** Before marking a source as `Processed: true`, the body text must meet the following quality standards (see Body Text Quality Checklist below).
 
-**If sections need refinement:** Edit the file to improve accuracy and quality. The automated extraction is a starting point but requires review and cleanup before the source can be considered complete.
+**If sections need refinement:** Edit the file to improve accuracy and quality. After running OCR cleanup, the automated extraction should be more readable. Only rewrite sections that remain incoherent.
 
 **Important metadata cleanup:**
 - **Title format**: Use sentence case (capitalize only the first word and proper nouns), NOT title case
@@ -209,7 +226,7 @@ If a PDF has extensive OCR errors (scanned document, poor image quality), consid
 - Using the PDF's abstract as a reference for the Overall Scientific Topic section
 - Noting in a comment if OCR quality was particularly challenging
 
-### 5. Compile Into Wiki Notes
+### 6. Compile Into Wiki Notes
 
 Follow the standard ingest workflow:
 

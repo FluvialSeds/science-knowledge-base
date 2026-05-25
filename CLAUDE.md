@@ -26,25 +26,26 @@ This document tells agents how to work with this LLM Wiki.
 When processing a new Raw source:
 
 1. Search `Wiki/catalog.jsonl` for related topics and concepts: `python3 scripts/wiki_tool.py search-catalog --query "your keywords"`
-2. Open only the most relevant existing Wiki notes.
-3. Create or update focused notes in `Wiki/` that compile the source material.
-4. Add the Raw source path to the `sources` list in each compiled note.
-5. Update `source_count` to match the number of sources.
-6. **Clean source body text** (mandatory before step 7):
+2. **Run OCR cleanup locally** (reduces token usage): `python3 scripts/cleanup_ocr.py Raw/Sources/filename.md`
+3. Open only the most relevant existing Wiki notes.
+4. Create or update focused notes in `Wiki/` that compile the source material.
+5. Add the Raw source path to the `sources` list in each compiled note.
+6. Update `source_count` to match the number of sources.
+7. **Clean source body text** (mandatory before step 8):
    - Remove OCR artifacts, formatting errors, and encoding issues
    - Ensure all sections (Overall Scientific Topic, Methods, Results, Implications) are coherent and accurate
    - Verify against the original PDF to catch extraction errors
    - See `Schema/pdf-import-guide.md` Body Text Quality Checklist for details
-7. **Add wikilinks (mandatory)**:
+8. **Add wikilinks (mandatory)**:
    - Add inline wikilinks within text to related concepts using `[[ConceptName]]` syntax
    - Add a "See also" section at the end linking to:
      - Related concept notes: `[[RelatedConcept]]`
      - Source paper: `[[SourceFileName]]` (the Raw source markdown file)
    - Use `python3 scripts/wiki_tool.py suggest-links --note "Wiki/Concepts/YourNote.md"` to get suggestions
-8. **Mark source as processed**: Set `Processed: true` in the Raw source frontmatter (mandatory once compiled into Wiki notes and body text is clean).
-9. Run maintenance checks and commit.
-10. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
-11. **Log the ingest**: `python3 scripts/wiki_tool.py log --title "Ingest: [Source Title]" --details "List of new/updated Wiki notes and what was compiled from the source"`
+9. **Mark source as processed**: Set `Processed: true` in the Raw source frontmatter (mandatory once compiled into Wiki notes and body text is clean).
+10. Run maintenance checks and commit.
+11. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
+12. **Log the ingest**: `python3 scripts/wiki_tool.py log --title "Ingest: [Source Title]" --details "List of new/updated Wiki notes and what was compiled from the source"`
 
 ## Query Workflow
 
