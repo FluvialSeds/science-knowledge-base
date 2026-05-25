@@ -106,6 +106,9 @@ ContentType:
   - "pdf"
   - "journal-article"
 Created: 2026-05-24
+Journal: "[Journal name]"
+Volume: "[Volume number]"
+Pages: "[Page range]"
 Processed: false
 tags:
   - "source"
@@ -134,6 +137,10 @@ tags:
   - NOT: `"Hemingway, J.D.; Hilton, R.G.; Hovius, N."`
 - **Reference field**: Replace `"extracted-from-..."` with actual DOI or URL
   - Example: `"https://doi.org/10.1126/science.aao6463"` or full URL to the paper
+- **Journal, Volume, Pages** (mandatory for journal articles):
+  - **Journal**: Name of the journal (e.g., "Chemical Geology", "Science", "Nature")
+  - **Volume**: Volume number (e.g., "466") or leave empty `""` if not applicable
+  - **Pages**: Page range (e.g., "454–465") or article number (e.g., "e12345"), leave empty `""` if not available
 
 ### 5. Compile Into Wiki Notes
 

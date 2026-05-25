@@ -85,12 +85,15 @@ Examples:
 
 ## File Structure
 
-- **`Raw/Sources/`**: Original source material (markdown, articles, notes). Each source has title, author, reference, created date, and processed flag.
+- **`Raw/Sources/`**: Original source material (markdown, articles, notes). Each source has title, author, reference, created date, journal/volume/pages (for journal articles), and processed flag.
 - **`Raw/Files/`**: Binary source files (PDFs, images) referenced by Raw sources.
 - **`Wiki/Topics/`**: High-level topic notes (e.g., "Machine Learning", "Web Development").
 - **`Wiki/Concepts/`**: Detailed concept notes (e.g., "Transformer Architecture", "REST API Design").
 - **`Wiki/Entities/`**: Person, organization, or product notes.
 - **`Wiki/Projects/`**: Project and initiative notes.
-- **`Wiki/Logs/`**: Chronological entries and activity logs.
+- **`Wiki/log.md`**: Chronological log of all ingestions, schema changes, and maintenance activities.
 - **`Schema/`**: Rules, templates, and metadata about the Wiki.
-- **`scripts/wiki_tool.py`**: The deterministic tool for building, querying, and linting the Wiki.
+- **`scripts/`**: Automation and maintenance tools:
+  - `wiki_tool.py`: Deterministic tool for building, querying, linting, and maintaining the Wiki
+  - `pdf_to_source.py`: Converts PDF research papers into structured source markdown notes
+  - `audit_public.py`: Validates public-facing content and metadata
