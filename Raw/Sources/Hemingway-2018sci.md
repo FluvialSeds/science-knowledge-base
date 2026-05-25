@@ -9,6 +9,7 @@ Created: 2026-05-24
 Journal: "Science"
 Volume: "360"
 Pages: "209-212"
+Year: "2018"
 Processed: true
 tags:
   - "source"
@@ -16,7 +17,6 @@ tags:
 
 # Microbial oxidation of lithospheric organic carbon in rapidly eroding tropical mountain soils
 
-**Journal:** Science, Volume 360, Pages 209–212 (2018)
 
 ## Overall Scientific Topic
 

@@ -9,6 +9,7 @@ Created: 2026-05-25
 Journal: "Geochimica et Cosmochimica Acta"
 Volume: "139"
 Pages: "362–382"
+Year: "2014"
 Processed: true
 tags:
   - "source"
@@ -16,7 +17,6 @@ tags:
 
 # Temperature limits for preservation of primary calcite clumped isotope paleotemperatures
 
-**Journal:** Geochimica et Cosmochimica Acta, Volume 139, Pages 362–382 (2014)
 
 ## Overall Scientific Topic
 

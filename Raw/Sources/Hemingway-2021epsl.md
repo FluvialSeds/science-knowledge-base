@@ -9,6 +9,7 @@ Created: 2026-05-25
 Journal: "Earth and Planetary Science Letters"
 Volume: "566"
 Pages: "116962"
+Year: "2021"
 Processed: true
 tags:
   - "source"
@@ -16,7 +17,6 @@ tags:
 
 # A disordered kinetic model for clumped isotope bond reordering in carbonates
 
-**Journal:** Earth and Planetary Science Letters, Volume 566, Article 116962 (2021)
 
 ## Overall Scientific Topic
 

@@ -9,6 +9,7 @@ Created: 2026-05-24
 Journal: "Organic Geochemistry"
 Volume: "123"
 Pages: "144–147"
+Year: "2018"
 Processed: true
 tags:
   - "source"
@@ -16,7 +17,6 @@ tags:
 
 # A novel method to measure the δ¹³C composition of intact bacteriohopanepolyols
 
-**Journal:** Organic Geochemistry, Volume 123, Pages 144–147 (2018)
 
 ## Overall Scientific Topic
 

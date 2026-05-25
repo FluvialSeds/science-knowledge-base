@@ -9,6 +9,7 @@ Created: 2026-05-24
 Journal: "Chemical Geology"
 Volume: "466"
 Pages: "454–465"
+Year: "2017"
 Processed: true
 tags:
   - "source"
@@ -16,7 +17,6 @@ tags:
 
 # Hydrologic controls on seasonal and inter-annual variability of Congo River particulate organic matter source and reservoir age
 
-**Journal:** Chemical Geology, Volume 466, Pages 454–465 (2017)
 
 ## Overall Scientific Topic
 

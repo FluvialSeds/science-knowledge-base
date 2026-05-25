@@ -9,6 +9,7 @@ Created: 2026-05-25
 Journal: "Geochimica et Cosmochimica Acta"
 Volume: "244"
 Pages: "216–228"
+Year: "2019"
 Processed: true
 tags:
   - "source"
@@ -16,7 +17,6 @@ tags:
 
 # Glacier meltwater and monsoon precipitation drive Upper Ganges Basin dissolved organic matter composition
 
-**Journal:** Geochimica et Cosmochimica Acta, Volume 244, Pages 216–228 (2019)
 
 ## Overall Scientific Topic
 

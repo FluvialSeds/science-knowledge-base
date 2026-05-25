@@ -9,6 +9,7 @@ Created: 2026-05-25
 Journal: "Geochimica et Cosmochimica Acta"
 Volume: "336"
 Pages: "353–371"
+Year: "2022"
 Processed: true
 tags:
   - "source"
@@ -16,7 +17,6 @@ tags:
 
 # Theoretical estimates of sulfoxyanion triple-oxygen equilibrium isotope effects and their implications
 
-**Journal:** Geochimica et Cosmochimica Acta, Volume 336, Pages 353–371 (2022)
 
 ## Overall Scientific Topic
 

@@ -9,6 +9,7 @@ Created: 2026-05-25
 Journal: "Radiocarbon"
 Volume: "59"
 Pages: "179–193"
+Year: "2017"
 Processed: true
 tags:
   - "source"
@@ -16,7 +17,6 @@ tags:
 
 # Assessing the blank carbon contribution, isotope mass balance, and kinetic isotope fractionation of the ramped pyrolysis/oxidation instrument at NOSAMS
 
-**Journal:** Radiocarbon, Volume 59, Issue 1, Pages 179–193 (2017)
 
 ## Overall Scientific Topic
 

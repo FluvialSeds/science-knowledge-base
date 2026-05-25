@@ -9,6 +9,7 @@ Created: 2026-05-25
 Journal: "Nature"
 Volume: "570"
 Pages: "228–231"
+Year: "2019"
 Processed: true
 tags:
   - "source"
@@ -16,7 +17,6 @@ tags:
 
 # Mineral protection regulates long-term global preservation of natural organic carbon
 
-**Journal:** Nature, Volume 570, Pages 228–231 (13 June 2019)
 
 ## Overall Scientific Topic
 

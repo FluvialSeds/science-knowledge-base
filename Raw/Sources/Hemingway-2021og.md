@@ -9,6 +9,7 @@ Created: 2026-05-25
 Journal: "Organic Geochemistry"
 Volume: "158"
 Pages: "104267"
+Year: "2021"
 Processed: true
 tags:
   - "source"
@@ -16,7 +17,6 @@ tags:
 
 # Biosynthetic isotope fractionation negligibly impacts biomarker 14C ages
 
-**Journal:** Organic Geochemistry, Volume 158, Article 104267 (2021)
 
 ## Overall Scientific Topic
 

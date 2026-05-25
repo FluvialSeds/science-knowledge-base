@@ -9,6 +9,7 @@ Created: 2026-05-25
 Journal: "Proceedings of the National Academy of Sciences"
 Volume: "117"
 Pages: "7650–7657"
+Year: "2020"
 Processed: true
 tags:
   - "source"
@@ -16,7 +17,6 @@ tags:
 
 # Triple oxygen isotope insight into terrestrial pyrite oxidation
 
-**Journal:** Proceedings of the National Academy of Sciences, Volume 117, Issue 14, Pages 7650–7657 (April 7, 2020)
 
 ## Overall Scientific Topic
 
