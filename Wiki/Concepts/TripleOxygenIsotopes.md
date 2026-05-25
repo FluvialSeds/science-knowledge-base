@@ -7,7 +7,8 @@ created: 2026-05-25
 updated: 2026-05-25
 sources:
   - "Raw/Sources/Hemingway-2020pnas.md"
-source_count: 1
+  - "Raw/Sources/Hemingway-2022gca.md"
+source_count: 2
 aliases:
   - "Δ¹⁷O"
   - "Delta17O"
@@ -74,7 +75,8 @@ Combining Δ¹⁷O with other isotopic tracers (δ³⁴S, δ¹⁸O, Δ⁴⁷ clu
 
 ## See also
 
+- [[SulfoxyanionIsotopeEffects]] — Equilibrium fractionation factors for sulfur-cycle intermediates
 - [[RadiocarbonOrganicMatter]] — Radioactive isotope tracing in biogeochemical cycles
 - [[CarbonIsotopeFractionationPlants]] — Mass-dependent fractionation in photosynthesis
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for isotope measurements
-- Source paper: [[Hemingway-2020pnas]] — Oxygen isotopes in terrestrial pyrite oxidation
+- Source papers: [[Hemingway-2020pnas]] (oxygen isotopes in terrestrial pyrite oxidation), [[Hemingway-2022gca]] (computational fractionation factors)
