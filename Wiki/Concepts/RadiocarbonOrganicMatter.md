@@ -7,7 +7,9 @@ created: 2026-05-24
 updated: 2026-05-24
 sources:
   - "Raw/Sources/Hemingway-2017cg.md"
-source_count: 1
+  - "Raw/Sources/Hemingway-2017rad.md"
+  - "Raw/Sources/Hemingway-2019nat.md"
+source_count: 3
 aliases:
   - "Radiocarbon dating"
   - "Δ¹⁴C"
@@ -55,6 +57,15 @@ In large rivers, Δ¹⁴C measurements on particulate organic matter (POM) revea
 **Example: Congo River**
 During periods of low discharge from tributaries draining the Cuvette Congolaise swamp forest, Δ¹⁴C values are depleted (ca. −148‰), reflecting pre-aged POM from wetland soils. During high discharge periods, Δ¹⁴C values shift toward modern (−50‰), indicating dilution by younger vegetation-derived carbon.
 
+## Radiocarbon across Bond Strengths
+
+When organic matter is analyzed by [[RampedPyrolysisOxidation]], radiocarbon ages reveal how carbon age varies with thermal stability (bond strength):
+
+- **Weakly bound carbon**: Modern to young radiocarbon ages (0–5,000 years), consistent with recent primary production
+- **Strongly bound, mineral-protected carbon**: Old radiocarbon ages (>10,000 years), indicating long persistence from [[OrganoMineralBonds]]
+
+This stratification demonstrates that [[OrganicCarbonPreservation]] through mineral protection extends the lifetime of old carbon in the biosphere, controlling its sequestration and atmospheric CO₂ implications.
+
 ## Complementary to Other Tracers
 
 Δ¹⁴C works synergistically with:
@@ -62,12 +73,19 @@ During periods of low discharge from tributaries draining the Cuvette Congolaise
 - [[CarbonIsotopeFractionationPlants]] — Source partitioning by δ¹³C
 - [[GDGTBiomarkers]] — Biomarker-specific age and source information
 - [[LocalVsDistalBiomarkerSignals]] — Temporal and spatial signal integration
+- [[RampedPyrolysisOxidation]] — Revealing radiocarbon ages across bond strengths
+- [[RadiocarbonAnalyticalMethods]] — Analytical methods and blank correction
+- [[OrganicCarbonPreservation]] — Understanding how radiocarbon ages relate to preservation mechanisms
 
-Together, these methods provide a multi-tracer framework for understanding organic matter cycling in fluvial systems.
+Together, these methods provide a multi-tracer framework for understanding organic matter cycling in fluvial systems and across the terrestrial carbon cycle.
 
 ## See also
 
+- [[RampedPyrolysisOxidation]] — Analytical technique revealing radiocarbon ages across bond strengths
+- [[RadiocarbonAnalyticalMethods]] — Blank correction and measurement protocols
+- [[OrganicCarbonPreservation]] — How radiocarbon ages reveal preservation mechanisms
+- [[OrganoMineralBonds]] — Mineral protection and radiocarbon age persistence
 - [[LocalVsDistalBiomarkerSignals]] — Temporal biomarker variability in large rivers
 - [[PlantWaxBiomarkers]] — Plant-derived organic matter characterization
 - [[GDGTBiomarkers]] — Membrane lipid biomarkers and source discrimination
-- Source paper: [[Hemingway-2017cg]] — Radiocarbon application to Congo River POM
+- Source papers: [[Hemingway-2017cg]] (radiocarbon in Congo POM), [[Hemingway-2017rad]] (analytical methods), [[Hemingway-2019nat]] (radiocarbon and mineral protection)

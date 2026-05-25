@@ -4,7 +4,7 @@ This document tells agents how to work with this LLM Wiki.
 
 ## Core Principles
 
-1. **Treat `Raw/Sources/` as source material, not as compiled notes.** Raw sources preserve original context, citations, and metadata. Do not edit them unless cleaning formatting.
+1. **Treat `Raw/Sources/` as source material, not as compiled notes.** Raw sources preserve original context, citations, and metadata. Body text must be clean and coherent (free of OCR artifacts and formatting errors). Do not edit for content bias, but DO clean OCR errors, formatting issues, and ensure factual accuracy. These are canonical sources; quality matters.
 
 2. **Write reusable knowledge only under `Wiki/`.** Compiled notes in `Wiki/Topics/`, `Wiki/Concepts/`, `Wiki/Entities/`, `Wiki/Projects/`, and `Wiki/Logs/` are the primary knowledge base.
 
@@ -30,16 +30,21 @@ When processing a new Raw source:
 3. Create or update focused notes in `Wiki/` that compile the source material.
 4. Add the Raw source path to the `sources` list in each compiled note.
 5. Update `source_count` to match the number of sources.
-6. **Add wikilinks (mandatory)**:
+6. **Clean source body text** (mandatory before step 7):
+   - Remove OCR artifacts, formatting errors, and encoding issues
+   - Ensure all sections (Overall Scientific Topic, Methods, Results, Implications) are coherent and accurate
+   - Verify against the original PDF to catch extraction errors
+   - See `Schema/pdf-import-guide.md` Body Text Quality Checklist for details
+7. **Add wikilinks (mandatory)**:
    - Add inline wikilinks within text to related concepts using `[[ConceptName]]` syntax
    - Add a "See also" section at the end linking to:
      - Related concept notes: `[[RelatedConcept]]`
      - Source paper: `[[SourceFileName]]` (the Raw source markdown file)
    - Use `python3 scripts/wiki_tool.py suggest-links --note "Wiki/Concepts/YourNote.md"` to get suggestions
-7. **Mark source as processed**: Set `Processed: true` in the Raw source frontmatter (mandatory once compiled into Wiki notes).
-8. Run maintenance checks and commit.
-9. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
-10. **Log the ingest**: `python3 scripts/wiki_tool.py log --title "Ingest: [Source Title]" --details "List of new/updated Wiki notes and what was compiled from the source"`
+8. **Mark source as processed**: Set `Processed: true` in the Raw source frontmatter (mandatory once compiled into Wiki notes and body text is clean).
+9. Run maintenance checks and commit.
+10. Update the source manifest: `python3 scripts/wiki_tool.py source-scan --update --accept-covered`
+11. **Log the ingest**: `python3 scripts/wiki_tool.py log --title "Ingest: [Source Title]" --details "List of new/updated Wiki notes and what was compiled from the source"`
 
 ## Query Workflow
 

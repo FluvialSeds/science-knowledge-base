@@ -129,7 +129,9 @@ tags:
 [Automatically extracted and summarized from Discussion/Conclusion]
 ```
 
-**If sections need refinement:** Edit the file to improve accuracy. The automated extraction is a good starting point but may need tweaks for complex papers.
+**Text Quality Requirements:** Before marking a source as `Processed: true`, the body text must meet the following quality standards (see Body Text Quality Checklist below).
+
+**If sections need refinement:** Edit the file to improve accuracy and quality. The automated extraction is a starting point but requires review and cleanup before the source can be considered complete.
 
 **Important metadata cleanup:**
 - **Author format**: Must be comma-separated full names: `"FirstName MiddleInitial. LastName, FirstName MiddleInitial. LastName, ..."`
@@ -141,6 +143,64 @@ tags:
   - **Journal**: Name of the journal (e.g., "Chemical Geology", "Science", "Nature")
   - **Volume**: Volume number (e.g., "466") or leave empty `""` if not applicable
   - **Pages**: Page range (e.g., "454–465") or article number (e.g., "e12345"), leave empty `""` if not available
+
+### 4b. Body Text Quality Cleanup (Mandatory Before Processing)
+
+Before proceeding to Wiki compilation, the source body text must be reviewed and cleaned for quality. This is a **mandatory** step to ensure Raw sources preserve clean, coherent material.
+
+**Body Text Quality Checklist:**
+
+- [ ] **Title is accurate and complete** — Not truncated, malformed, or a DOI/URL
+  - Compare against the actual PDF title page
+  - Fix incomplete titles like "Glacier meltwater and monsoon precipitation drive Upper" → "Glacier meltwater and monsoon precipitation drive Upper Ganges Basin dissolved organic matter composition"
+
+- [ ] **No OCR artifacts or encoding errors** — Common issues to fix:
+  - Random spaces within words: "ﬁelds" → "fields", "orderto" → "order to"
+  - Garbled characters: "/C255", "/C176C", "/C01", "ﬂections" → "deflections"
+  - Broken formatting: "t ob e( 3. 6 )" → "3.6", "min–1)t ob e" → "at 5°C/min"
+  - Degree symbols: "450/C176C, 4 h" → "450°C, 4 h"
+
+- [ ] **Overall Scientific Topic is coherent** — Should be 3–4 sentences summarizing:
+  - What problem/question the paper addresses
+  - Why it matters (scientific significance)
+  - Brief overview of the approach
+  - Should read naturally without OCR artifacts
+
+- [ ] **Methods section is clear and coherent** — Should describe:
+  - Study sites/samples (where, what, how many)
+  - Analytical techniques and instruments
+  - Experimental design and procedures
+  - Should flow logically without OCR errors or truncation
+
+- [ ] **Results section accurately reflects key findings** — Should present:
+  - Main quantitative results (measurements, values, ranges)
+  - Key patterns or relationships observed
+  - Statistical or analytical outcomes
+  - Should be factually accurate based on the PDF content
+
+- [ ] **Implications section addresses significance** — Should explain:
+  - What the results mean for the field
+  - How findings advance understanding
+  - Applications or follow-up questions
+  - Should avoid speculation beyond the paper's scope
+
+- [ ] **No author affiliations or footer text** — Remove department addresses, author notes, and publication metadata that belongs in frontmatter, not body text
+
+- [ ] **Spelling and grammar are correct** — Fix obvious errors introduced by OCR, but preserve the tone and voice of the original paper
+
+**Cleanup Strategy:**
+1. Read the PDF version of each section directly
+2. Compare PDF text to the extracted markdown
+3. Rewrite sections with significant OCR errors rather than trying to patch individual characters
+4. Ensure sentences are complete and coherent
+5. Verify factual accuracy against the PDF source
+
+**When OCR is Poor:**
+If a PDF has extensive OCR errors (scanned document, poor image quality), consider:
+- Rewriting sections based on manual reading of the PDF
+- Focusing on the most critical information (Overall Topic, key Methods, main Results)
+- Using the PDF's abstract as a reference for the Overall Scientific Topic section
+- Noting in a comment if OCR quality was particularly challenging
 
 ### 5. Compile Into Wiki Notes
 
