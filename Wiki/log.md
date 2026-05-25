@@ -157,3 +157,8 @@ Created concept note on vitamin B12-dependent 2-methylhopanoid biosynthesis in N
 *Logged: 2026-05-25 13:19:15*
 
 Created concept note on diatom-diazotroph symbioses and anammox-driven nitrogen cycle perturbations during Mediterranean sapropel formation. Demonstrates tightly coupled feedback between nitrogen fixation, anammox, deep-water anoxia, and organic carbon sequestration.
+
+## Refactor: Standardize concept filenames and fix incomplete sentences
+*Logged: 2026-05-25 18:48:47*
+
+Renamed two concept files from kebab-case to PascalCase: Mineral-Protection-Organic-Carbon.md → MineralProtectionOrganicCarbon.md and Petrogenic-Carbon-Oxidation.md → PetrogenicCarbonOxidation.md. Fixed incomplete sentences in both files (missing subjects/objects) and added comprehensive wikilinks to related concepts. Both files now properly link to OrganicCarbonPreservation, OrganoMineralBonds, CarbonCycleMountainSystems, and other related concepts.

@@ -14,14 +14,14 @@
 - [[LocalVsDistalBiomarkerSignals]] — Local vs Distal Biomarker Signals in River Sediments
 - [[MethylhopanoidBiosynthesisNitrification]] — Methylhopanoid Biosynthesis and Nitrification
 - [[MicrobialOxidationOrganicCarbon]] — Microbial Oxidation of Organic Carbon in Mountain Soils
-- [[Mineral-Protection-Organic-Carbon]] — Mineral Protection of Organic Carbon
+- [[MineralProtectionOrganicCarbon]] — Mineral Protection of Organic Carbon
 - [[Nitrification]] — Nitrification
 - [[NitrogenCycle]] — Nitrogen Cycle
 - [[NitrogenFixation]] — Nitrogen Fixation
 - [[OceanicAnoxicEvents]] — Oceanic Anoxic Events
 - [[OrganicCarbonPreservation]] — Organic Carbon Preservation Mechanisms
 - [[OrganoMineralBonds]] — Organo-Mineral Bonds and Organic Carbon Protection
-- [[Petrogenic-Carbon-Oxidation]] — Petrogenic Carbon Oxidation
+- [[PetrogenicCarbonOxidation]] — Petrogenic Carbon Oxidation
 - [[PetrogenicOrganicCarbon]] — Petrogenic Organic Carbon
 - [[PlantWaxBiomarkers]] — Plant-Wax Biomarkers as Ecosystem Proxies
 - [[RadiocarbonAnalyticalMethods]] — Radiocarbon Analytical Methods

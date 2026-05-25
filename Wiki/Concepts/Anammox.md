@@ -17,7 +17,7 @@ aliases:
 
 ## Core Concept
 
- (anaerobic ammonia oxidation) is a microbial metabolic process that oxidizes ammonia (NH₄⁺) to nitrogen gas (N₂) using nitrite (NO₂⁻) as the electron acceptor, under strictly anaerobic conditions. This process is performed by a distinct group of bacteria (phylum Planctomycetes) and represents a major pathway in the [[NitrogenCycle]], particularly in oxygen-depleted marine and freshwater environments. Unlike [[Nitrification]], which requires dissolved oxygen, anammox bacteria thrive in  and contribute significantly to nitrogen loss from aquatic systems.
+ Anaerobic ammonia oxidation (anammox) is a microbial metabolic process that oxidizes ammonia (NH₄⁺) to nitrogen gas (N₂) using nitrite (NO₂⁻) as the electron acceptor, under strictly anaerobic conditions. This process is performed by a distinct group of bacteria (phylum Planctomycetes) and represents a major pathway in the [[NitrogenCycle]], particularly in oxygen-depleted marine and freshwater environments. Unlike [[Nitrification]], which requires dissolved oxygen, anammox bacteria thrive in  and contribute significantly to nitrogen loss from aquatic systems.
 
 ## Metabolic Pathway
 
