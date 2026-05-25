@@ -7,6 +7,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources:
   - "Raw/Sources/Henkes-2014gca.md"
+  - "Raw/Sources/Hemingway-2021epsl.md"
 source_count: 1
 aliases:
   - "Calcite thermal alteration"
@@ -16,6 +17,8 @@ aliases:
 ---
 
 # Carbonate Isotope Thermal Alteration and Bond Reordering Kinetics
+
+## Core Concept
 
 [[ClumpedIsotopePaleothermometry|Clumped isotope paleothermometry]] provides powerful tools for reconstructing ancient temperatures from fossil carbonate archives such as brachiopod shells. However, solid-state reordering of C–O bonds in the calcite crystal lattice during burial can alter the clumped isotope composition (Δ₄₇) without leaving visible evidence of alteration in shell microstructure, trace element concentrations, or other conventional preservation metrics. This decoupling between microstructural preservation and chemical integrity creates a fundamental challenge: samples that appear well-preserved by standard criteria may have thermally reset clumped isotope signals. Understanding and quantifying this thermal alteration is essential for distinguishing genuine paleoclimate information from post-depositional overprints.
 
@@ -55,11 +58,10 @@ This kinetic framework enables:
 3. **Correction models**: For samples in intermediate alteration states, predict the degree of Δ₄₇ overprinting and estimate the original paleoclimate signal
 4. **Basin-scale reconstructions**: Evaluate whether multiple samples from a stratum preserve coherent paleoclimate information or have been selectively altered
 
-By quantifying the relationship between burial temperature, time, and clumped isotope preservation, this framework transforms [[ClumpedIsotopePaleothermometry]] from a qualitative paleoclimate tool into a quantitative approach with explicitly defined validity limits.
+By quantifying the relationship between burial temperature, time, and clumped isotope preservation, this framework transforms [[ClumpedIsotopePaleothermometry|clumped isotope paleothermometry]] from a qualitative paleoclimate tool into a quantitative approach with explicitly defined validity limits.
 
 ## See also
 
 - [[ClumpedIsotopePaleothermometry]] — Theoretical basis and applications of Δ₄₇ paleothermometry
 - [[OrganicCarbonPreservation]] — Complementary framework for understanding preservation mechanisms
-- Source paper:  — Empirical constraints on calcite C–O bond reordering kinetics
-- Source paper: [[Henkes-2014gca]]
+- Source paper: [[Henkes-2014gca]] — Empirical constraints on calcite C–O bond reordering kinetics, [[Hemingway-2021epsl]] — Theoretical model for carbonate C–O bond reordering kinetics

@@ -48,4 +48,4 @@ Ancient sediment records may reveal how organic carbon preservation—and thus a
 - [[OrganoMineralBonds]] — Chemistry and types of organo-mineral interactions
 - [[RampedPyrolysisOxidation]] — How activation energy distributions reveal preservation mechanisms
 - [[RadiocarbonOrganicMatter]] — Radiocarbon evidence for mineral-protected carbon
-- Source paper: [[Hemingway-2019nat]]
+- Source paper: [[Hemingway-2019nat]] — Global compilation of preservation mechanisms

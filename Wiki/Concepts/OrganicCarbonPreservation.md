@@ -16,6 +16,8 @@ aliases:
 
 # Organic Carbon Preservation Mechanisms
 
+## Core Concept
+
 Most organic carbon produced by photosynthesis is rapidly respired back to CO₂ by microorganisms in soils and sediments. However, a small fraction escapes remineralization and is preserved over geological timescales, sequestering carbon and controlling atmospheric CO₂ levels over million-year periods. Two major mechanisms explain why some organic carbon (OC) persists while other carbon is readily respired: **selective preservation** and **mineral protection**.
 
 ## Selective Preservation
@@ -88,5 +90,4 @@ Selective preservation and mineral protection are not mutually exclusive:
 - [[RampedPyrolysisOxidation]] — How RPO reveals preservation mechanisms
 - [[RadiocarbonOrganicMatter]] — Radiocarbon evidence for mineral protection
 - [[RadiocarbonAnalyticalMethods]] — Methods for measuring preserved carbon ages
-- Source paper:  — Global dataset of OC preservation mechanisms
-- Source paper: [[Hemingway-2019nat]]
+- Source paper: [[Hemingway-2019nat]] — Global dataset of OC preservation mechanisms

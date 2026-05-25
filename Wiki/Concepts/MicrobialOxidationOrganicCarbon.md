@@ -15,6 +15,8 @@ aliases:
 
 # Microbial Oxidation of Organic Carbon in Mountain Soils
 
+## Core Concept
+
 In rapidly eroding tropical mountain systems, petrogenic organic carbon exhumed from bedrock is oxidized primarily through **microbial processes** in hillslope and colluvial soils rather than through abiotic weathering alone.
 
 ## Process and Mechanism
@@ -50,5 +52,4 @@ Microbial oxidation of [[PetrogenicOrganicCarbon|petrogenic carbon]] in mountain
 
 - [[PetrogenicOrganicCarbon]] — The substrate being oxidized: ancient organic matter in bedrock
 - [[CarbonCycleMountainSystems]] — How oxidation rates couple to erosion and affect global climate
-- Source paper:  — Taiwan study demonstrating microbially-mediated oxidation
-- Source paper: [[Hemingway-2018sci]]
+- Source paper: [[Hemingway-2018sci]] — Taiwan study demonstrating microbially-mediated oxidation

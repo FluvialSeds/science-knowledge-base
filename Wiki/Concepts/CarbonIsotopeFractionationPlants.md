@@ -16,6 +16,8 @@ aliases:
 
 # Carbon Isotope Fractionation and Plant Photosynthetic Pathways
 
+## Core Concept
+
 Stable carbon isotope composition (δ¹³C) of plant-wax lipids reflects the photosynthetic pathway used by plants, providing a powerful tracer for distinguishing vegetation types in sedimentary archives.
 
 ## C₃ vs C₄ Fractionation
@@ -57,5 +59,4 @@ Using δ¹³C measurements alongside homologue distributions provides complement
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for measuring δ¹³C on individual compounds
 - [[PlantWaxBiomarkers]] — Details on n-alkanes, n-alcohols, and n-alkanoic acids
 - [[LocalVsDistalBiomarkerSignals]] — How to interpret biomarker signals at different timescales
-- Source paper:  — Congo River study applying isotope methods
-- Source paper: [[Hemingway-2016gca]]
+- Source paper: [[Hemingway-2016gca]] — Congo River study applying isotope methods

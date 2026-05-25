@@ -77,11 +77,9 @@ Understanding how past anoxic events (like [[OceanicAnoxicEvents|oceanic anoxic 
 
 ## See also
 
--  — Oxygen-depleted water columns in modern oceans
 - [[NitrogenCycle]] — Nitrogen cycling processes
 - [[Anammox]] — Anaerobic ammonia oxidation under anoxic conditions
 - [[Nitrification]] — Aerobic ammonia oxidation (suppressed under anoxia)
 - [[OceanicAnoxicEvents]] — Past widespread ocean anoxic episodes
 - [[SapropelNitrogenCycleCoupling]] — Anoxia development during Mediterranean sapropel formation
-- Source paper:  — Anoxia in Mediterranean sapropels
-- Source paper: [[Elling-2021epsl]]
+- Source paper: [[Elling-2021epsl]] — Estimates anoxia during Mediterranean sapropel events

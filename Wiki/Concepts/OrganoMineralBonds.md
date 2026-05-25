@@ -17,6 +17,8 @@ aliases:
 
 # Organo-Mineral Bonds and Organic Carbon Protection
 
+## Core Concept
+
 Organo-mineral bonds—physico-chemical interactions between organic compounds and mineral surfaces—are the primary mechanism preserving organic carbon in soils and sediments over millennia. The strength, diversity, and persistence of these bonds control how long organic carbon persists in the biosphere before being respired to CO₂, fundamentally regulating atmospheric composition and global climate over geological timescales.
 
 ## Types of Organo-Mineral Interactions
@@ -62,7 +64,7 @@ Organo-mineral bonds—physico-chemical interactions between organic compounds a
 
 ## Bond-Strength Diversity as a Signature of Mineral Protection
 
-When soils and sediments are analyzed by [[RampedPyrolysisOxidation]], organic carbon is released across a range of temperatures reflecting different bond strengths (activation energies). Over time, mineral-protected samples show:
+When soils and sediments are analyzed by [[RampedPyrolysisOxidation|RPO]], organic carbon is released across a range of temperatures reflecting different bond strengths (activation energies). Over time, mineral-protected samples show:
 
 **Broadening of activation energy (E) distributions:**
 - Increasingly diverse bond strengths as organo-mineral bonds form
@@ -75,7 +77,7 @@ When soils and sediments are analyzed by [[RampedPyrolysisOxidation]], organic c
 
 ## Radiocarbon Evidence for Mineral Protection
 
-[[RadiocarbonOrganicMatter]] measurements across activation energy windows reveal:
+[[RadiocarbonOrganicMatter|Radiocarbon]] measurements across activation energy windows reveal:
 
 **Weakly bound (low-E) carbon:**
 - Modern to young radiocarbon ages (0-5,000 years before present)
@@ -140,5 +142,4 @@ The effectiveness of mineral protection—and thus global OC preservation—is c
 - [[RampedPyrolysisOxidation]] — How RPO measures bond-strength diversity
 - [[RadiocarbonOrganicMatter]] — Radiocarbon ages of mineral-protected carbon
 - [[RadiocarbonAnalyticalMethods]] — Methods for analyzing mineral-protected carbon
-- Source paper:  — Global evidence for mineral protection
-- Source paper: [[Hemingway-2019nat]]
+- Source paper: [[Hemingway-2019nat]] — Global evidence for mineral protection

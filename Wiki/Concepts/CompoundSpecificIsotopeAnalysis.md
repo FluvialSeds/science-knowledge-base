@@ -18,6 +18,8 @@ aliases:
 
 # Compound-Specific Isotope Analysis (GC-IRMS)
 
+## Core Concept
+
 Compound-specific isotope analysis measures the stable carbon isotope composition (δ¹³C) of individual organic compounds separated by high-pressure liquid chromatography (UPLC) or gas chromatography (GC) and analyzed via isotope ratio mass spectrometry (IRMS). This technique enables precise isotopic characterization of biomarkers at compound-level resolution, rather than bulk samples.
 
 ## Analytical Approach
@@ -55,5 +57,4 @@ Precision is controlled through:
 - [[PlantWaxBiomarkers]] — Application to plant-derived lipids
 - [[CarbonIsotopeFractionationPlants]] — Photosynthetic pathway discrimination using δ¹³C
 - [[LocalVsDistalBiomarkerSignals]] — Spatial signal interpretation at different timescales
-- Source papers:  — Plant-wax δ¹³C analysis in Congo River;  — Method for intact BHP δ¹³C analysis
-- Source papers: [[Hemingway-2016gca]], [[Hemingway-2018og]]
+- Source papers: [[Hemingway-2016gca]] — Congo River study utilizing GC-IRMS on plant waxes, [[Hemingway-2018og]] — Method for compound-specific isotope analysis of BHPs

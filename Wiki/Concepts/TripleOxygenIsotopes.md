@@ -19,6 +19,8 @@ aliases:
 
 # Triple Oxygen Isotope Compositions and Atmospheric Tracers
 
+## Core Concept
+
 Triple oxygen isotope compositions (reported as Δ¹⁷O, representing mass-independent fractionation of oxygen isotopes) provide a unique tracer of atmospheric processes and oxygen sources in biogeochemical cycles. The Δ¹⁷O anomaly in atmospheric O₂ and CO₂ is generated through photochemical reactions in the stratosphere and is controlled by the relative partial pressures of these gases (pO₂/pCO₂). This atmospheric Δ¹⁷O signal is incorporated into minerals and chemical species formed on Earth's surface, potentially recording information about ancient atmospheric composition.
 
 ## Mass-Independent Fractionation in the Atmosphere
@@ -79,5 +81,4 @@ Combining Δ¹⁷O with other isotopic tracers (δ³⁴S, δ¹⁸O, Δ⁴⁷ clu
 - [[RadiocarbonOrganicMatter]] — Radioactive isotope tracing in biogeochemical cycles
 - [[CarbonIsotopeFractionationPlants]] — Mass-dependent fractionation in photosynthesis
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for isotope measurements
-- Source papers:  (oxygen isotopes in terrestrial pyrite oxidation),  (computational fractionation factors)
-- Source papers: [[Hemingway-2020pnas]], [[Hemingway-2022gca]]
+- Source papers: [[Hemingway-2020pnas]] — oxygen isotopes in terrestrial pyrite oxidation, [[Hemingway-2022gca]] — computational fractionation factors

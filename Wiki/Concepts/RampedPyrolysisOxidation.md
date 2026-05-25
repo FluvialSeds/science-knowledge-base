@@ -18,6 +18,8 @@ aliases:
 
 # Ramped Pyrolysis/Oxidation (RPO)
 
+## Core Concept
+
 Ramped Pyrolysis/Oxidation (RPO) is a compound-specific analytical technique that heats organic samples across a temperature range (typically 150–1000°C) at a controlled rate (e.g., 5°C/min) while measuring the composition and age of carbon released at each temperature step. RPO reveals how organic carbon bond strength varies within a sample and links this bond-strength diversity to radiocarbon age, activation energy distributions, and preservation mechanisms.
 
 ## Analytical Approach
@@ -69,5 +71,4 @@ Different compound classes and source materials release carbon across different 
 - [[RadiocarbonAnalyticalMethods]] — Blank correction and measurement protocols
 - [[OrganicCarbonPreservation]] — Understanding preservation mechanisms revealed by RPO data
 - [[OrganoMineralBonds]] — Interpreting organo-mineral interactions from RPO results
-- Source papers:  (blank correction),  (bond-strength diversity)
-- Source papers: [[Hemingway-2017rad]], [[Hemingway-2019nat]]
+- Source papers: [[Hemingway-2017rad]] — blank correction, [[Hemingway-2019nat]] — bond-strength diversity

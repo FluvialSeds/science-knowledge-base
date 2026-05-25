@@ -17,6 +17,8 @@ aliases:
 
 # Dissolved Organic Matter (DOM)
 
+## Core Concept
+
 Dissolved organic matter (DOM) comprises the organic compounds dissolved in water, ranging from small molecules (amino acids, sugars) to large polymeric structures (humic substances, carbohydrates). DOM composition varies dramatically across environments and drives biogeochemical cycling in aquatic systems by controlling nutrient availability, light penetration, and microbial respiration rates.
 
 ## Composition and Functional Groups
@@ -98,5 +100,4 @@ Increased glacier melt due to warming will initially bias exported DOM toward a 
 - [[GlacierDerivedOrganicCarbon]] — DOM sources and variability in glaciated basins
 - [[RadiocarbonOrganicMatter]] — Radiocarbon dating of DOM
 - [[LocalVsDistalBiomarkerSignals]] — Integration of DOM and POM signals across river networks
-- Source paper:  — DOM composition in Upper Ganges Basin
-- Source paper: [[Hemingway-2019gca]]
+- Source paper: [[Hemingway-2019gca]] — DOM composition in Upper Ganges Basin

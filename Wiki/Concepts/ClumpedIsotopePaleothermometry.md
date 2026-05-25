@@ -19,6 +19,8 @@ aliases:
 
 # Clumped Isotope Paleothermometry
 
+## Core Concept
+
 Clumped isotope thermometry measures the extent to which heavy stable isotopes (¹³C and ¹⁸O) bond with each other in carbonate minerals, a phenomenon that depends on temperature during mineral formation. Because the degree of heavy-isotope clustering increases at lower temperatures, clumped isotope compositions directly record the temperature at which carbonate minerals crystallized. This approach provides a powerful paleothermometer for reconstructing past climate and thermal conditions from sedimentary and authigenic carbonate archives.
 
 ## Theoretical Basis
@@ -88,5 +90,4 @@ By comparing predicted Δ₄₇ values (after post-burial reordering) with obser
 - [[RadiocarbonOrganicMatter]] — Radioactive isotope chronometry complementary to paleothermometry
 - [[CarbonIsotopeFractionationPlants]] — Stable isotope fractionation processes
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for carbonate isotope analysis
-- Source papers:  (kinetic model for bond reordering),  (empirical constraints and preservation domains)
-- Source papers: [[Hemingway-2021epsl]], [[Henkes-2014gca]]
+- Source papers: [[Hemingway-2021epsl]] — Kinetic model for bond reordering, [[Henkes-2014gca]] — Empirical constraints and preservation domains

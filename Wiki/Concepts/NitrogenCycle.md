@@ -22,7 +22,7 @@ The  is the global biogeochemical cycle that describes the movement and transfor
 
 ## Major Nitrogen Transformations
 
-**Nitrogen fixation**: [[NitrogenFixation]] by cyanobacteria and other diazotrophic microbes converts atmospheric N₂ into bioavailable ammonia. This is the primary input of new fixed nitrogen to most ecosystems.
+**Nitrogen fixation**: [[NitrogenFixation|nitrogen fixation]] by cyanobacteria and other diazotrophic microbes converts atmospheric N₂ into bioavailable ammonia. This is the primary input of new fixed nitrogen to most ecosystems.
 
 **Nitrification**: [[Nitrification]] by ammonia-oxidizing and nitrite-oxidizing bacteria oxidizes ammonia to nitrite and then to nitrate under aerobic conditions. This process regenerates bioavailable nitrogen from organic matter and controls nitrogen availability in oxygen-containing environments.
 
@@ -73,4 +73,4 @@ Understanding past nitrogen cycle changes helps interpret:
 - [[MethylhopanoidBiosynthesisNitrification]] — Nitrifier biomarkers
 - [[SapropelNitrogenCycleCoupling]] — Nitrogen cycle feedbacks in Mediterranean sapropels
 - Source papers: ,
-- Source papers: [[Elling-2020pnas]], [[Elling-2021epsl]]
+- Source papers: [[Elling-2020pnas]] — Linking 2-methyl BHP synthesis to nitrogen cycling, [[Elling-2021epsl]] — Nitrogen cycling during Mediterranean sapropel events

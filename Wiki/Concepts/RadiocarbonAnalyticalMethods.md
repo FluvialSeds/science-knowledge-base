@@ -16,6 +16,8 @@ aliases:
 
 # Radiocarbon Analytical Methods
 
+## Core Concept
+
 Radiocarbon dating requires careful measurement of ¹⁴C/¹²C ratios and rigorous assessment of blank carbon contamination. Blank carbon—introduced during sample preparation, combustion, or analysis—directly compromises the accuracy of radiocarbon age determinations, particularly for samples with low carbon concentrations or high ages.
 
 ## Blank Carbon Sources and Correction
@@ -43,7 +45,7 @@ The impact of blank carbon scales inversely with sample size:
 
 ## Kinetic Isotope Fractionation
 
-During thermal analysis (such as [[RampedPyrolysisOxidation]]), kinetic isotope fractionation can occur—the preferential release of ¹²C vs ¹³C at different temperatures due to differences in bond-breaking kinetics. This fractionation must be accounted for to avoid biased stable isotope and radiocarbon measurements.
+During thermal analysis (such as [[RampedPyrolysisOxidation|RPO]]), kinetic isotope fractionation can occur—the preferential release of ¹²C vs ¹³C at different temperatures due to differences in bond-breaking kinetics. This fractionation must be accounted for to avoid biased stable isotope and radiocarbon measurements.
 
 ## Quality Assurance
 
@@ -58,5 +60,4 @@ During thermal analysis (such as [[RampedPyrolysisOxidation]]), kinetic isotope 
 - [[RampedPyrolysisOxidation]] — Thermal analysis technique requiring blank correction
 - [[RadiocarbonOrganicMatter]] — Application of corrected radiocarbon data to source partitioning
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical foundations for isotope measurements
-- Source paper:  — Detailed blank carbon assessment for NOSAMS RPO
-- Source paper: [[Hemingway-2017rad]]
+- Source paper: [[Hemingway-2017rad]] — Detailed blank carbon assessment for NOSAMS RPO

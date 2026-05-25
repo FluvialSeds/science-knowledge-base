@@ -15,6 +15,8 @@ aliases:
 
 # Plant-Wax Biomarkers as Ecosystem Proxies
 
+## Core Concept
+
 Plant-wax lipids (n-alkanes, n-alcohols, and n-alkanoic acids) are organic compounds produced by plants that serve as biomarkers for reconstructing terrestrial ecosystem structure and vegetation composition in sedimentary records. These compounds are preserved in river sediments and can be analyzed for stable carbon isotope composition (δ¹³C) to determine the relative contributions of different photosynthetic pathways (C₃ vs C₄ plants).
 
 ## Key Compound Classes
@@ -52,5 +54,4 @@ Plant-wax biomarkers are used to reconstruct:
 - [[GDGTBiomarkers]] — Complementary membrane lipid biomarkers
 - [[RadiocarbonOrganicMatter]] — Radiocarbon age determination in organic matter
 - [[LocalVsDistalBiomarkerSignals]] — Spatial and temporal scale considerations for biomarker interpretation
-- Source paper:  — Plant-wax lipids in Congo River sediments
-- Source paper: [[Hemingway-2016gca]]
+- Source paper: [[Hemingway-2016gca]] — Plant-wax lipids in Congo River sediments

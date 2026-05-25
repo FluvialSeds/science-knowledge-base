@@ -17,7 +17,7 @@ aliases:
 
 ## Core Concept
 
-The biosynthesis of 2-methylhopanoids is directly linked to [[Nitrification]] through a vitamin B12 (cobalamin)-dependent enzymatic mechanism. *Nitrobacter* species (nitrite-oxidizing bacteria) produce 2-methylhopanoids via a reaction mechanism that requires both a radical S-adenosylmethionine (SAM) enzyme and cobalamin as an essential cofactor. This metabolic coupling means that 2-methylhopanoid abundance in sediments serves as a biomarker for enhanced [[NitrogenCycle]] activity in past environments.
+The biosynthesis of 2-methylhopanoids is directly linked to [[Nitrification|nitrification]] through a vitamin B12 (cobalamin)-dependent enzymatic mechanism. *Nitrobacter* species (nitrite-oxidizing bacteria) produce 2-methylhopanoids via a reaction mechanism that requires both a radical S-adenosylmethionine (SAM) enzyme and cobalamin as an essential cofactor. This metabolic coupling means that 2-methylhopanoid abundance in sediments serves as a biomarker for enhanced [[NitrogenCycle|nitrogen cycle]] activity in past environments.
 
 ## Reaction Mechanism
 
@@ -37,5 +37,4 @@ In contrast to other organisms (like certain cyanobacteria and *Rhodospirillum* 
 - [[NitrogenCycle]] — Global biogeochemical cycling of fixed nitrogen
 - [[BacteriohopanepolyolBiomarkers]] — Hopanoid structures as bacterial biomarkers
 - [[OceanicAnoxicEvents]] — Past episodes of marine oxygen depletion
-- Source paper:  — Vitamin B12-dependent hopanoid biosynthesis in nitrifiers
-- Source paper: [[Elling-2020pnas]]
+- Source paper: [[Elling-2020pnas]] — Vitamin B12-dependent hopanoid biosynthesis in nitrifiers

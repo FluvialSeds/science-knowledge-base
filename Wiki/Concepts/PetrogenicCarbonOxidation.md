@@ -17,7 +17,7 @@ aliases:
 
 ## Core Concept
 
-Petrogenic carbon oxidation is the oxidative weathering of ancient organic matter locked in bedrock that is released during mountain erosion and soil formation. This process represents a significant source of atmospheric CO₂ that can partially or fully counteract CO₂ drawdown achieved through silicate weathering and burial of biospheric organic carbon.
+[[PetrogenicOrganicCarbon|Petrogenic organic carbon]] oxidation is the oxidative weathering of ancient organic matter locked in bedrock that is released during mountain erosion and soil formation. This process represents a significant source of atmospheric CO₂ that can partially or fully counteract CO₂ drawdown achieved through silicate weathering and burial of biospheric organic carbon.
 
 ## Process and Flux
 
@@ -45,4 +45,4 @@ This work fundamentally changes our understanding of the global carbon cycle in 
 - [[MicrobialOxidationOrganicCarbon]] — Microbial processes oxidizing organic carbon
 - [[CarbonCycleMountainSystems]] — How petrogenic oxidation fits in the broader mountain carbon cycle
 - [[RadiocarbonOrganicMatter]] — Radiocarbon evidence of petrogenic carbon oxidation
-- Source paper: [[Hemingway-2018sci]]
+- Source paper: [[Hemingway-2018sci]] — OCpetro oxidation in Taiwanese soils

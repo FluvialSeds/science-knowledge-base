@@ -18,7 +18,7 @@ aliases:
 
 ## Core Concept
 
- (OAEs) are widespread episodes of reduced oxygen (anoxia) in ancient ocean water columns, most notably during the Cretaceous Period and other intervals of Earth history. These events resulted in the deposition of organic-rich black shale sediments and fundamentally altered marine [[NitrogenCycle|nitrogen cycling]], , and biological communities. OAEs are typically tied to climate warming, changes in ocean circulation patterns, and elevated marine productivity.
+ Oceanic anoxic events (OAEs) are widespread episodes of reduced oxygen (anoxia) in ancient ocean water columns, most notably during the Cretaceous Period and other intervals of Earth history. These events resulted in the deposition of organic-rich black shale sediments and fundamentally altered marine [[NitrogenCycle|nitrogen cycling]] and biological communities. OAEs are typically tied to climate warming, changes in ocean circulation patterns, and elevated marine productivity.
 
 ## Characteristics and Evidence
 
@@ -66,5 +66,4 @@ Understanding OAEs is crucial for predicting how future ocean [[DeepWaterAnoxia|
 - [[Nitrification]] — Aerobic ammonia oxidation
 - [[Anammox]] — Anaerobic ammonia oxidation
 - [[SapropelNitrogenCycleCoupling]] — Comparison with Mediterranean sapropel nitrogen cycling
-- Source paper:  — OAE comparison with Mediterranean sapropels
-- Source paper: [[Elling-2021epsl]]
+- Source paper: [[Elling-2021epsl]] — OAE comparison with Mediterranean sapropels

@@ -30,7 +30,7 @@ This reaction is energetically expensive, requiring 16 ATP molecules per N₂ mo
 
 ## Diazotrophic Communities
 
-Organisms capable of  (diazotrophs) include:
+Organisms capable of nitrogen fixation (diazotrophs) include:
 
 **Cyanobacteria**: Photosynthetic bacteria that fix nitrogen while conducting photosynthesis
 - Filamentous cyanobacteria with specialized heterocysts that protect nitrogenase from oxygen
@@ -46,7 +46,7 @@ In marine systems, cyanobacteria (particularly *Trichodesmium*) are responsible 
 
 ## Environmental Triggers
 
- rates increase when:
+ Nitrogen fixation rates increase when:
 - **Nitrogen is limiting**: Low bioavailable nitrogen (ammonia and nitrate) stimulates nitrogen fixers
 - **Phosphorus is available**: Phosphorus often co-limits nitrogen fixation rates
 - **Iron is accessible**: Iron is required for nitrogenase function; iron limitation suppresses fixation
@@ -54,7 +54,7 @@ In marine systems, cyanobacteria (particularly *Trichodesmium*) are responsible 
 
 ## Paleoceanographic Significance
 
-In paleoceanographic records,  is inferred from:
+In paleoceanographic records, nitrogen fixation is inferred from:
 - **Nitrogen isotope ratios**: Nitrogen-fixing organisms deplete ¹⁵N, leaving distinctive δ¹⁵N signatures
 - **Biomarker distributions**: Cyanobacterial and diazotrophic lipid biomarkers indicate fixation activity
 - **Stoichiometry of organic matter**: The ratio of carbon to nitrogen (C:N) reflects whether nitrogen fixation has supplemented other nitrogen sources
@@ -63,7 +63,7 @@ Enhanced  during past anoxic events (like [[SapropelNitrogenCycleCoupling|Medite
 
 ## Modern and Paleoceanographic Implications
 
- is sensitive to climate and oceanographic changes:
+ Nitrogen fixation is sensitive to climate and oceanographic changes:
 - Warming oceans favor some nitrogen fixers over others
 - Changes in iron delivery (e.g., from dust or upwelling) directly alter fixation rates
 - Anoxia expansion can suppress oxygen-sensitive fixers while favoring anaerobic diazotrophs
@@ -78,5 +78,4 @@ Understanding how past  responded to climate and oceanographic changes helps pre
 - [[Anammox]] — Anaerobic ammonia oxidation
 - [[SapropelNitrogenCycleCoupling]] — Nitrogen fixation feedback during Mediterranean sapropel formation
 - [[DeepWaterAnoxia]] — Oxygen depletion favoring some nitrogen fixers
-- Source paper:  — Diazotrophs during Mediterranean sapropel events
-- Source paper: [[Elling-2021epsl]]
+- Source paper: [[Elling-2021epsl]] — Diazotrophs during Mediterranean sapropel events

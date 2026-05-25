@@ -16,6 +16,8 @@ aliases:
 
 # GDGT Biomarkers as Environmental Proxies
 
+## Core Concept
+
 Glycerol dialkyl glycerol tetraethers (GDGTs) are lipid biomarkers produced by bacteria and archaea that preserve environmental information in sediments. Two major classes—branched (brGDGTs) and isoprenoid (isoGDGTs)—serve as proxies for paleoenvironmental conditions and organic matter provenance in marine and riverine systems.
 
 ## Branched GDGTs (brGDGTs)
@@ -51,5 +53,4 @@ The molecular composition of both brGDGTs and isoGDGTs allows distinction betwee
 - [[LocalVsDistalBiomarkerSignals]] — Temporal and spatial scales of biomarker signals in rivers
 - [[PlantWaxBiomarkers]] — Plant-derived biomarkers and complementary source information
 - [[RadiocarbonOrganicMatter]] — Radiocarbon dating and pre-aged carbon detection
-- Source paper:  — GDGT application to Congo River POM sources
-- Source paper: [[Hemingway-2017cg]]
+- Source paper: [[Hemingway-2017cg]] — Time series of GDGT compositions in the Congo River

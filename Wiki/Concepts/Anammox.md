@@ -17,7 +17,7 @@ aliases:
 
 ## Core Concept
 
- Anaerobic ammonia oxidation (anammox) is a microbial metabolic process that oxidizes ammonia (NH₄⁺) to nitrogen gas (N₂) using nitrite (NO₂⁻) as the electron acceptor, under strictly anaerobic conditions. This process is performed by a distinct group of bacteria (phylum Planctomycetes) and represents a major pathway in the [[NitrogenCycle]], particularly in oxygen-depleted marine and freshwater environments. Unlike [[Nitrification]], which requires dissolved oxygen, anammox bacteria thrive in  and contribute significantly to nitrogen loss from aquatic systems.
+ Anaerobic ammonia oxidation (anammox) is a microbial metabolic process that oxidizes ammonia (NH₄⁺) to nitrogen gas (N₂) using nitrite (NO₂⁻) as the electron acceptor, under strictly anaerobic conditions. This process is performed by a distinct group of bacteria (phylum Planctomycetes) and represents a major pathway in the [[NitrogenCycle|nitrogen cycle]], particularly in oxygen-depleted marine and freshwater environments. Unlike [[Nitrification|nitrification]], which requires dissolved oxygen, anammox bacteria thrive in  and contribute significantly to nitrogen loss from aquatic systems.
 
 ## Metabolic Pathway
 
@@ -43,9 +43,9 @@ Anammox activity increases with decreasing oxygen availability and moderate ammo
 ## Paleoceanographic and Paleoclimatic Significance
 
 The presence of anammox biomarkers in sedimentary records indicates:
-- Development of [[DeepWaterAnoxia]] in past oceans and basins
+- Development of [[DeepWaterAnoxia|deep water anoxia]] in past oceans and basins
 - Coupling of nitrogen cycling to water column stratification and redox conditions
-- Responses of [[NitrogenCycle]] to climate-driven changes in ocean ventilation
+- Responses of [[NitrogenCycle|nitrogen cycle]] to climate-driven changes in ocean ventilation
 - Nutrient cycling during sapropel formation and other anoxic episodes
 
 High anammox activity in the past often correlates with enhanced carbon burial and organic-rich sediment deposition, suggesting tight coupling between nitrogen cycling and carbon sequestration.
@@ -57,5 +57,4 @@ High anammox activity in the past often correlates with enhanced carbon burial a
 - [[BacteriohopanepolyolBiomarkers]] — Lipid biomarkers diagnostic of anammox bacteria
 - [[DeepWaterAnoxia]] — Oxygen depletion in marine depth zones
 - [[SapropelNitrogenCycleCoupling]] — Anammox role in Mediterranean sapropel formation
-- Source paper:  — Anammox bacteria during Mediterranean sapropel events
-- Source paper: [[Elling-2021epsl]]
+- Source paper: [[Elling-2021epsl]] — Anammox bacteria during Mediterranean sapropel events

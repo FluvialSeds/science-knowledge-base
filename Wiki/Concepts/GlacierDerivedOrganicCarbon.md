@@ -16,6 +16,8 @@ aliases:
 
 # Glacier-Derived Organic Carbon
 
+## Core Concept
+
 Mountain glaciers store and release dissolved organic matter (DOM) with distinct chemical and isotopic properties that reflect subglacial weathering, microbial activity, and organic matter preservation at depth. Glacier-derived DOM is enriched in aliphatic and peptide-like compounds—highly bioavailable forms that are rapidly respired when exported to river networks, contributing significantly to aquatic CO₂ emissions in glacier-fed systems.
 
 ## Glacier DOM Characteristics
@@ -95,6 +97,4 @@ Glacier-derived DOM export is highly sensitive to climate-driven changes in glac
 - [[DissolvedOrganicMatter]] — DOM composition and bioavailability
 - [[RadiocarbonOrganicMatter]] — Radiocarbon signatures of glacier DOM
 - [[LocalVsDistalBiomarkerSignals]] — Integration of glacier and terrestrial DOM signals in large rivers
--  — Analogous processes in tropical river systems
-- Source paper:  — Glacier-DOM composition in Upper Ganges Basin
-- Source paper: [[Hemingway-2019gca]]
+- Source paper: [[Hemingway-2019gca]] — DOM composition in Upper Ganges Basin

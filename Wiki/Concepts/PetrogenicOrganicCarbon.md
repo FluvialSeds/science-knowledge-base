@@ -16,6 +16,8 @@ aliases:
 
 # Petrogenic Organic Carbon
 
+## Core Concept
+
 Petrogenic organic carbon (OCpetro) is ancient, lithospheric organic matter locked in bedrock that was buried millions to billions of years ago. Unlike biospheric organic carbon (produced by living organisms), petrogenic carbon is derived from the geological record and becomes exposed through mountain exhumation and erosion.
 
 ## Sources and Distribution
@@ -29,7 +31,7 @@ It accumulates in bedrock over geological timescales and becomes accessible to o
 
 ## Oxidation and CO₂ Release
 
-When bedrock containing petrogenic organic carbon is exhumed and eroded, the exposed carbon can be oxidized to CO₂ through abiotic and microbial processes. In rapidly eroding tropical mountain soils, approximately **67 ± 11%** of petrogenic organic carbon initially present in exhumed bedrock is oxidized during soil formation.
+When bedrock containing petrogenic organic carbon is exhumed and eroded, the exposed carbon can be [[PetrogenicCarbonOxidation|oxidized]] to CO₂ through abiotic and microbial processes. In rapidly eroding tropical mountain soils, approximately **67 ± 11%** of petrogenic organic carbon initially present in exhumed bedrock is oxidized during soil formation.
 
 ## Significance in the Carbon Cycle
 
@@ -43,5 +45,4 @@ Thus, in rapidly eroding mountain systems, [[MicrobialOxidationOrganicCarbon|pet
 
 - [[MicrobialOxidationOrganicCarbon]] — How microbes oxidize petrogenic carbon in soils
 - [[CarbonCycleMountainSystems]] — How petrogenic carbon oxidation fits in the broader carbon cycle
-- Source paper:  — Taiwan study quantifying petrogenic carbon oxidation rates
-- Source paper: [[Hemingway-2018sci]]
+- Source paper: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation rates

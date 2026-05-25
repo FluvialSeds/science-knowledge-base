@@ -15,6 +15,8 @@ aliases:
 
 # Carbon Cycle in Mountain Systems: CO₂ Sources and Sinks
 
+## Core Concept
+
 Mountain belts and rapidly eroding orogens are major regulators of atmospheric CO₂ and climate on geological timescales (million-year timeframes). They both consume and release atmospheric carbon through competing processes.
 
 ## CO₂ Drawdown (Sinks)
@@ -58,5 +60,4 @@ This framework connects tectonics directly to climate regulation on geological t
 - [[PetrogenicOrganicCarbon]] — Ancient carbon in bedrock that gets oxidized during erosion
 - [[MicrobialOxidationOrganicCarbon]] — The oxidation process and rates in mountain soils
 - [[PlantWaxBiomarkers]] — Biomarkers used to track carbon sources and cycling
-- Source paper:  — Taiwan study quantifying petrogenic carbon oxidation as a CO₂ source
-- Source paper: [[Hemingway-2018sci]]
+- Source paper: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation as a CO₂ source

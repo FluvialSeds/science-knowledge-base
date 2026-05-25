@@ -18,6 +18,8 @@ aliases:
 
 # Sulfoxyanion Isotope Effects
 
+## Core Concept
+
 Many important sulfur redox reactions in both biotic and abiotic environments proceed through intermediate sulfoxyanion species—including sulfite (SO₃²⁻, SO₂(OH)⁻), sulfoxylate (SO₂²⁻), and thiosulfate (S₂O₃²⁻)—which may rapidly exchange oxygen atoms with surrounding water. These intermediate species have distinct equilibrium oxygen isotope fractionation factors (¹⁸α and ¹⁷α) relative to water, meaning they fractionate isotopes differently than the stable sulfate products typically preserved in geological records. Understanding these fractionation factors is essential for mechanistically interpreting sulfate [[TripleOxygenIsotopes|triple-oxygen isotope]] compositions in both modern and ancient sulfur-cycle processes.
 
 ## Computational Predictions of Fractionation Factors
@@ -76,5 +78,4 @@ By knowing how each intermediate species fractionates oxygen isotopes, researche
 ## See also
 
 - [[TripleOxygenIsotopes]] — Δ¹⁷O as paleoatmospheric tracer and sulfur-cycle proxy
--  — Computational chemistry methods for fractionation factor predictions
-- Source paper: [[Hemingway-2022gca]]
+- Source paper: [[Hemingway-2022gca]] — Computational chemistry methods for fractionation factor predictions

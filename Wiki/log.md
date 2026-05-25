@@ -1,5 +1,3 @@
-# Logs
-
 ## First Ingest: LLM Wiki Demo Source
 *Logged: 2026-05-24 13:25:15*
 

@@ -87,4 +87,4 @@ This stability makes bacteriohopanepolyol biomarkers reliable tracers of past mi
 - [[NitrogenCycle]] — Processes traced by hopanoid biomarkers
 - [[PlantWaxBiomarkers]] — Complementary lipid biomarker class
 - [[GDGTBiomarkers]] — Complementary membrane lipid biomarkers from archaea
-- Source papers: [[Elling-2020pnas]], [[Elling-2021epsl]]
+- Source papers: [[Elling-2020pnas]] — 2-methyl BHP synthesis investigation, [[Elling-2021epsl]] — BHPs during Mediterranean sapropel events

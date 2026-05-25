@@ -21,6 +21,8 @@ aliases:
 
 # Radiocarbon (Δ¹⁴C) as a Tracer of Organic Matter Age
 
+## Core Concept
+
 Radiocarbon composition (reported as Δ¹⁴C in per mil notation relative to modern carbon) measures the proportion of radioactive ¹⁴C in organic matter and reveals whether carbon is modern (recently fixed by photosynthesis), bomb-enriched (from atmospheric nuclear weapons testing, 1950s-1960s), or pre-aged (from ancient terrestrial or geological sources).
 
 ## Δ¹⁴C Values and Interpretation
@@ -73,23 +75,23 @@ Radiocarbon ages of lipid biomarkers accurately reflect carbon-cycle dynamics, v
 
 ## Radiocarbon across Bond Strengths
 
-When organic matter is analyzed by [[RampedPyrolysisOxidation]], radiocarbon ages reveal how carbon age varies with thermal stability (bond strength):
+When organic matter is analyzed by [[RampedPyrolysisOxidation|RPO]], radiocarbon ages reveal how carbon age varies with thermal stability (bond strength):
 
 - **Weakly bound carbon**: Modern to young radiocarbon ages (0–5,000 years), consistent with recent primary production
-- **Strongly bound, mineral-protected carbon**: Old radiocarbon ages (>10,000 years), indicating long persistence from [[OrganoMineralBonds]]
+- **Strongly bound, mineral-protected carbon**: Old radiocarbon ages (>10,000 years), indicating long persistence from [[OrganoMineralBonds|organo-mineral bonds]]
 
-This stratification demonstrates that [[OrganicCarbonPreservation]] through mineral protection extends the lifetime of old carbon in the biosphere, controlling its sequestration and atmospheric CO₂ implications.
+This stratification demonstrates that [[OrganicCarbonPreservation|OC preservation]] through mineral protection extends the lifetime of old carbon in the biosphere, controlling its sequestration and atmospheric CO₂ implications.
 
 ## Complementary to Other Tracers
 
 Δ¹⁴C works synergistically with:
-- [[PlantWaxBiomarkers]] — Photosynthetic pathway discrimination (C₃ vs C₄)
-- [[CarbonIsotopeFractionationPlants]] — Source partitioning by δ¹³C
-- [[GDGTBiomarkers]] — Biomarker-specific age and source information
-- [[LocalVsDistalBiomarkerSignals]] — Temporal and spatial signal integration
-- [[RampedPyrolysisOxidation]] — Revealing radiocarbon ages across bond strengths
-- [[RadiocarbonAnalyticalMethods]] — Analytical methods and blank correction
-- [[OrganicCarbonPreservation]] — Understanding how radiocarbon ages relate to preservation mechanisms
+- [[PlantWaxBiomarkers|Plant-wax biomarkers]] — Photosynthetic pathway discrimination (C₃ vs C₄)
+- [[CarbonIsotopeFractionationPlants|Carbon isotope fractionation in plants]] — Source partitioning by δ¹³C
+- [[GDGTBiomarkers|GDGT biomarkers]] — Biomarker-specific age and source information
+- [[LocalVsDistalBiomarkerSignals|Local vs. distal biomarker signals]] — Temporal and spatial signal integration
+- [[RampedPyrolysisOxidation|RPO]] — Revealing radiocarbon ages across bond strengths
+- [[RadiocarbonAnalyticalMethods|Radiocarbon analytical methods]] — Analytical methods and blank correction
+- [[OrganicCarbonPreservation|OC preservation]] — Understanding how radiocarbon ages relate to preservation mechanisms
 
 Together, these methods provide a multi-tracer framework for understanding organic matter cycling in fluvial systems and across the terrestrial carbon cycle.
 
@@ -102,5 +104,4 @@ Together, these methods provide a multi-tracer framework for understanding organ
 - [[LocalVsDistalBiomarkerSignals]] — Temporal biomarker variability in large rivers
 - [[PlantWaxBiomarkers]] — Plant-derived organic matter characterization
 - [[GDGTBiomarkers]] — Membrane lipid biomarkers and source discrimination
-- Source papers:  (radiocarbon in Congo POM),  (analytical methods),  (radiocarbon and mineral protection),  (biomarker radiocarbon and biosynthetic fractionation)
-- Source papers: [[Hemingway-2017cg]], [[Hemingway-2017rad]], [[Hemingway-2019nat]], [[Hemingway-2021og]]
+- Source papers: [[Hemingway-2017cg]] — radiocarbon in Congo POM, [[Hemingway-2017rad]] — analytical methods, [[Hemingway-2019nat]] — radiocarbon and mineral protection, [[Hemingway-2021og]] — biomarker radiocarbon and biosynthetic fractionation

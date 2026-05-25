@@ -17,7 +17,7 @@ aliases:
 
 ## Core Concept
 
- is the biological oxidation of ammonia (NH₃) to nitrite (NO₂⁻) and nitrate (NO₃⁻), a fundamental process in the [[NitrogenCycle]]. This two-step oxidation is carried out by specialized bacteria and archaea called nitrifiers, which use the oxidation of inorganic nitrogen as their primary energy source (chemolithoautotrophy). Nitrification occurs across diverse aquatic and terrestrial environments and is essential for converting bioavailable nitrogen into forms that can be further transformed by other microbes.
+ is the biological oxidation of ammonia (NH₃) to nitrite (NO₂⁻) and nitrate (NO₃⁻), a fundamental process in the [[NitrogenCycle|nitrogen cycle]]. This two-step oxidation is carried out by specialized bacteria and archaea called nitrifiers, which use the oxidation of inorganic nitrogen as their primary energy source (chemolithoautotrophy). Nitrification occurs across diverse aquatic and terrestrial environments and is essential for converting bioavailable nitrogen into forms that can be further transformed by other microbes.
 
 ## Nitrifier Communities
 
@@ -48,8 +48,8 @@ Nitrification rates are controlled by:
 ## Paleoceanographic Applications
 
 In paleoceanographic records, nitrifier biomarker abundance and carbon isotope signatures provide constraints on:
-- Past [[NitrogenCycle]] perturbations
-- Nutrient availability during [[OceanicAnoxicEvents]]
+- Past [[NitrogenCycle|nitrogen cycle]] perturbations
+- Nutrient availability during [[OceanicAnoxicEvents|oceanic anoxic events]]
 - Coupling between nitrogen cycling and 
 - Changes in water column redox state over geological time
 
@@ -59,5 +59,4 @@ In paleoceanographic records, nitrifier biomarker abundance and carbon isotope s
 - [[Anammox]] — Anaerobic ammonia oxidation as alternative nitrogen pathway
 - [[MethylhopanoidBiosynthesisNitrification]] — Vitamin B12-dependent hopanoid synthesis in nitrifiers
 - [[BacteriohopanepolyolBiomarkers]] — Hopanoid lipids as biomarkers
-- Source paper:  — Hopanoid biosynthesis in Nitrobacter
-- Source paper: [[Elling-2020pnas]]
+- Source paper: [[Elling-2020pnas]] — Hopanoid biosynthesis in Nitrobacter
