@@ -15,7 +15,8 @@
       "Bash(git commit -m ' *)",
       "Bash(python3 scripts/wiki_tool.py log --title \"Ingest: Hemingway-2017cg \\(Congo River biomarkers and radiocarbon\\)\" --details \"Created two new concept notes: GDGTBiomarkers documenting branched and isoprenoid GDGT proxies and applications to riverine source partitioning, and RadiocarbonOrganicMatter covering Δ14C as tracer of pre-aged vs modern organic matter. Updated LocalVsDistalBiomarkerSignals to add Hemingway-2017cg as source and link to new concepts. Updated PlantWaxBiomarkers with links to GDGT and radiocarbon concepts. Paper integrates plant-wax lipids, GDGT biomarkers, and radiocarbon as complementary tracers for Congo River POM sources and discharge-driven temporal variability.\")",
       "Bash(git commit -m 'Log ingestion: Hemingway-2017cg Congo River biomarkers *)",
-      "Bash(git commit -m 'Clean up and improve main body text of source files *)"
+      "Bash(git commit -m 'Clean up and improve main body text of source files *)",
+      "Bash(python3 scripts/wiki_tool.py search-catalog --query \"Congo\")"
     ]
   }
 }
