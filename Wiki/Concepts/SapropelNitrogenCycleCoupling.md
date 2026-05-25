@@ -44,4 +44,4 @@ The sapropel-nitrogen cycle coupling reveals how biological feedbacks can rapidl
 - [[DeepWaterAnoxia]] — Oxygen depletion in ocean depth zones
 - [[MediterraneanBasin]] — Eastern Mediterranean paleoceanography and physical setting
 - [[BacteriohopanepolyolBiomarkers]] — Hopanoid structures as bacterial and archaeal biomarkers
-- Source paper: [[Elling2021epsl]] — Diatom-diazotroph symbioses in Mediterranean sapropels
+- Source paper: [[Elling-2021epsl]] — Diatom-diazotroph symbioses in Mediterranean sapropels

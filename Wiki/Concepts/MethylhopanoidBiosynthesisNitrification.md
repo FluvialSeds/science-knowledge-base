@@ -38,4 +38,4 @@ In contrast to other organisms (like certain cyanobacteria and *Rhodospirillum* 
 - [[BacteriohopanepolyolBiomarkers]] — Hopanoid structures as bacterial biomarkers
 - [[VitaminB12]] — Cobalamin cofactor and its role in bacterial metabolism
 - [[OceanicAnoxicEvents]] — Past episodes of marine oxygen depletion
-- Source paper: [[Elling2020pnas]] — Vitamin B12-dependent hopanoid biosynthesis in nitrifiers
+- Source paper: [[Elling-2020pnas]] — Vitamin B12-dependent hopanoid biosynthesis in nitrifiers
