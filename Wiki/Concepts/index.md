@@ -15,6 +15,7 @@
 - [[GDGTBiomarkers]] — GDGT Biomarkers as Environmental Proxies
 - [[GlacierDerivedOrganicCarbon]] — Glacier-Derived Organic Carbon
 - [[GrossPrimaryProductivityReconstruction]] — Gross Primary Productivity Reconstruction from Sulfate Isotopes
+- [[HydrogeochemicalMixingModels]] — Hydrogeochemical Mixing Models for Source Apportionment
 - [[IronOxideDissolvedOrganicCarbonProxy]] — Iron Oxide-Preserved Dissolved Organic Carbon as a Paleoceanographic Proxy
 - [[IronOxideOxygenIsotopeAnalysis]] — High-Temperature Conversion IRMS for Iron Oxide Oxygen Isotopes
 - [[LocalVsDistalBiomarkerSignals]] — Local vs Distal Biomarker Signals in River Sediments
@@ -31,6 +32,7 @@
 - [[OrganoMineralBonds]] — Organo-Mineral Bonds and Organic Carbon Protection
 - [[PaleoFireReconstructionFromBiomarkers]] — Paleofires Reconstructed from Biomarkers
 - [[PaleoceneEoceneThermalMaximumHydrology]] — Paleocene-Eocene Thermal Maximum and Hydrologic Intensification
+- [[ParticleSinkingEcosystemEvolution]] — Particle Sinking Efficiency and Long-Term Ocean Carbon Cycling
 - [[PermafrostCarbonMobilizationArcticRivers]] — Permafrost Carbon Mobilization in Arctic Fluvial Networks
 - [[PetrogenicCarbonOxidation]] — Petrogenic Carbon Oxidation
 - [[PetrogenicOrganicCarbon]] — Petrogenic Organic Carbon
@@ -38,8 +40,10 @@
 - [[PyriteBurialAtmosphericOxygen]] — Pyrite Burial and Long-Term Atmospheric Oxygen Evolution
 - [[RadiocarbonAnalyticalMethods]] — Radiocarbon Analytical Methods
 - [[RadiocarbonOrganicMatter]] — Radiocarbon (Δ¹⁴C) as a Tracer of Organic Matter Age
+- [[RadiocarbonSignaturesArctic]] — Radiocarbon Signatures in Arctic Fluvial DIC
 - [[RampedPyrolysisOxidation]] — Ramped Pyrolysis/Oxidation (RPO)
 - [[SapropelNitrogenCycleCoupling]] — Sapropel Formation and Nitrogen Cycle Coupling
+- [[SedimentologicalControlsOnBiogeochemistry]] — Sedimentological Controls on Long-Term Biogeochemical Cycles
 - [[StableWaterIsotopesGlacierMeltwater]] — Stable Water Isotopes for Glacier Meltwater Apportionment
 - [[StrontiumIsotopeVariabilityRivers]] — Strontium Isotope Variability in Large Rivers
 - [[SulfoxyanionIsotopeEffects]] — Sulfoxyanion Isotope Effects

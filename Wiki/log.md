@@ -195,3 +195,8 @@ Biomarker approaches for terrestrial paleoenvironmental reconstruction. Created 
 *Logged: 2026-05-26 22:44:48*
 
 Created 6 new concept notes: StableWaterIsotopesGlacierMeltwater (Boral-2019jh), StrontiumIsotopeVariabilityRivers (Boral-2021epsl), IronOxideOxygenIsotopeAnalysis (Galili-2025analchem), IronOxideDissolvedOrganicCarbonProxy (Galili-2025nat), PermafrostCarbonMobilizationArcticRivers (Drake-2018jgr), PyriteBurialAtmosphericOxygen (Mertens-2026natgeo). Marked all 6 sources as processed. Built catalog: 48 entries. All maintenance checks pass.
+
+## Ingest: Create additional concept notes from multi-topic sources
+*Logged: 2026-05-26 23:00:17*
+
+Added 4 new concept notes extracting distinct topics from previously ingested sources: HydrogeochemicalMixingModels (Boral-2021epsl), RadiocarbonSignaturesArctic (Drake-2018jgr), ParticleSinkingEcosystemEvolution (Galili-2025nat), SedimentologicalControlsOnBiogeochemistry (Mertens-2026natgeo). Catalog now contains 52 entries. All maintenance checks pass.
