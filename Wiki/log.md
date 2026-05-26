@@ -190,3 +190,8 @@ Clay hydroxyl isotopes and PETM hydrologic enhancement. Created 2 concept notes:
 *Logged: 2026-05-25 22:04:14*
 
 Biomarker approaches for terrestrial paleoenvironmental reconstruction. Created 3 concept notes: BiomarkerIsotopeCompositionForPaleoreconstruction, PaleoFireReconstructionFromBiomarkers, BiogeochemicalCyclingFromBiomarkers. Cleaned all body text sections from PDF OCR artifacts. Source marked as processed.
+
+## Ingest: Five analyzed papers and Arctic permafrost carbon study
+*Logged: 2026-05-26 22:44:48*
+
+Created 6 new concept notes: StableWaterIsotopesGlacierMeltwater (Boral-2019jh), StrontiumIsotopeVariabilityRivers (Boral-2021epsl), IronOxideOxygenIsotopeAnalysis (Galili-2025analchem), IronOxideDissolvedOrganicCarbonProxy (Galili-2025nat), PermafrostCarbonMobilizationArcticRivers (Drake-2018jgr), PyriteBurialAtmosphericOxygen (Mertens-2026natgeo). Marked all 6 sources as processed. Built catalog: 48 entries. All maintenance checks pass.

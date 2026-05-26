@@ -15,6 +15,8 @@
 - [[GDGTBiomarkers]] — GDGT Biomarkers as Environmental Proxies
 - [[GlacierDerivedOrganicCarbon]] — Glacier-Derived Organic Carbon
 - [[GrossPrimaryProductivityReconstruction]] — Gross Primary Productivity Reconstruction from Sulfate Isotopes
+- [[IronOxideDissolvedOrganicCarbonProxy]] — Iron Oxide-Preserved Dissolved Organic Carbon as a Paleoceanographic Proxy
+- [[IronOxideOxygenIsotopeAnalysis]] — High-Temperature Conversion IRMS for Iron Oxide Oxygen Isotopes
 - [[LocalVsDistalBiomarkerSignals]] — Local vs Distal Biomarker Signals in River Sediments
 - [[MarineBariteIsotopeRecord]] — Marine Barite as a High-Resolution Paleoceanographic Archive
 - [[MethylhopanoidBiosynthesisNitrification]] — Methylhopanoid Biosynthesis and Nitrification
@@ -29,13 +31,17 @@
 - [[OrganoMineralBonds]] — Organo-Mineral Bonds and Organic Carbon Protection
 - [[PaleoFireReconstructionFromBiomarkers]] — Paleofires Reconstructed from Biomarkers
 - [[PaleoceneEoceneThermalMaximumHydrology]] — Paleocene-Eocene Thermal Maximum and Hydrologic Intensification
+- [[PermafrostCarbonMobilizationArcticRivers]] — Permafrost Carbon Mobilization in Arctic Fluvial Networks
 - [[PetrogenicCarbonOxidation]] — Petrogenic Carbon Oxidation
 - [[PetrogenicOrganicCarbon]] — Petrogenic Organic Carbon
 - [[PlantWaxBiomarkers]] — Plant-Wax Biomarkers as Ecosystem Proxies
+- [[PyriteBurialAtmosphericOxygen]] — Pyrite Burial and Long-Term Atmospheric Oxygen Evolution
 - [[RadiocarbonAnalyticalMethods]] — Radiocarbon Analytical Methods
 - [[RadiocarbonOrganicMatter]] — Radiocarbon (Δ¹⁴C) as a Tracer of Organic Matter Age
 - [[RampedPyrolysisOxidation]] — Ramped Pyrolysis/Oxidation (RPO)
 - [[SapropelNitrogenCycleCoupling]] — Sapropel Formation and Nitrogen Cycle Coupling
+- [[StableWaterIsotopesGlacierMeltwater]] — Stable Water Isotopes for Glacier Meltwater Apportionment
+- [[StrontiumIsotopeVariabilityRivers]] — Strontium Isotope Variability in Large Rivers
 - [[SulfoxyanionIsotopeEffects]] — Sulfoxyanion Isotope Effects
 - [[TripleOxygenIsotopePaleoxyProbe]] — Triple Oxygen Isotope Composition as a Paleoproductivity Proxy
 - [[TripleOxygenIsotopes]] — Triple Oxygen Isotope Compositions and Atmospheric Tracers
