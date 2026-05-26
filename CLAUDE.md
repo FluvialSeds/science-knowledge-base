@@ -21,6 +21,25 @@ This document tells agents how to work with this LLM Wiki.
 
 6. **Do not invent citations or create unsupported claims.** Every fact in a Wiki note must be traceable to a Raw source. If a claim cannot be linked to a source, do not include it.
 
+## Source Ingestion Pathways
+
+Two pathways exist for ingesting sources into the wiki:
+
+**Pathway A: Direct PDF Extraction** (`Raw/Files/*.pdf`)
+- Automated extraction via `pdf_to_source.py` with OCR cleanup
+- Produces `Raw/Sources/*.md` automatically
+- May require significant cleanup of metadata and body text quality issues
+- Use when: Quick ingestion is acceptable and manual extraction is not available
+
+**Pathway B: Extracted Markdown Files** (`Raw/Extracted/*.md`)
+- User manually extracts text from PDF and saves as markdown in `Raw/Extracted/`
+- High-quality output with correct metadata and well-structured body text
+- Minimal cleanup needed; output typically ready for concept note creation
+- Use when: Source requires high-quality extraction and manual extraction is feasible
+- **Process**: Read extracted markdown → Create source markdown in `Raw/Sources/` → Proceed with concept note creation
+
+Pathway B is preferred when available due to superior output quality and lower total token cost (despite higher upfront extraction cost).
+
 ## Ingest Workflow
 
 When processing a new Raw source:
@@ -148,6 +167,7 @@ Examples:
 
 - **`Raw/Sources/`**: Original source material (markdown, articles, notes). Each source has title, author, reference, created date, journal/volume/pages (for journal articles), and processed flag.
 - **`Raw/Files/`**: Binary source files (PDFs, images) referenced by Raw sources.
+- **`Raw/Extracted/`**: Manually extracted markdown files from PDFs in `Raw/Files/`. User-created extractions are processed via Pathway B to create high-quality `Raw/Sources/` files.
 - **`Wiki/Topics/`**: High-level topic notes (e.g., "Machine Learning", "Web Development").
 - **`Wiki/Concepts/`**: Detailed concept notes (e.g., "Transformer Architecture", "REST API Design").
 - **`Wiki/Entities/`**: Person, organization, or product notes.
