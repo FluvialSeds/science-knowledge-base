@@ -75,4 +75,9 @@ The HTC-IRMS method was validated against traditional fluorination techniques:
 
 ## See also
 
+- [[IsotopicProxiesPaleoceanography]] — Isotopic proxies for paleoceanographic and paleoclimate reconstruction
+- [[TripleOxygenIsotopes]] — Triple oxygen isotope fractionation and paleoenvironmental applications
+- [[ClayHydroxylIsotopesPaleoxyProbe]] — Oxygen isotopes in minerals for paleoclimate reconstruction
+- [[BiomarkerIsotopeCompositionForPaleoreconstruction]] — Isotopic signatures of biomarkers in paleoenvironmental studies
+- [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for compound-specific isotope measurements
 - Source paper: [[Galili-2025analchem]] — High-precision oxygen-isotope analysis of iron (oxyhydr)oxides using HTC-IRMS

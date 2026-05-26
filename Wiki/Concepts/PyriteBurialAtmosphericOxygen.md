@@ -104,4 +104,10 @@ The δ³⁴S composition of buried pyrite provides an independent check on pyrit
 
 ## See also
 
+- [[SapropelNitrogenCycleCoupling]] — Sedimentary anoxic events and biogeochemical cycling
+- [[TripleOxygenIsotopes]] — Triple oxygen isotope fractionation and paleoenvironmental applications
+- [[IsotopicProxiesPaleoceanography]] — Isotopic proxies for paleoceanographic reconstruction
+- [[SulfoxyanionIsotopeEffects]] — Sulfur isotope fractionation in marine systems
+- [[MicrobialSulfateReductionControl]] — Microbial sulfate reduction and isotope effects
+- [[OrganoMineralBonds]] — Mineral-organic interactions in sediments
 - Source paper: [[Mertens-2026natgeo]] — Sedimentary conditions drive modern pyrite burial flux to exceed oxidation

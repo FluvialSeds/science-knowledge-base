@@ -89,4 +89,10 @@ As permafrost thaw accelerates with warming:
 
 ## See also
 
+- [[RadiocarbonOrganicMatter]] — Radiocarbon signatures of organic matter for age determination
+- [[DissolvedOrganicMatter]] — Dissolved organic matter composition and cycling
+- [[MineralProtectionOrganicCarbon]] — Mineral protection of organic carbon
+- [[RadiocarbonAnalyticalMethods]] — Modern radiocarbon analytical techniques
+- [[OrganicCarbonCycling]] — Organic carbon preservation and mountain carbon cycle
+- [[MicrobialOxidationOrganicCarbon]] — Microbial oxidation of organic carbon
 - Source paper: [[Drake-2018jgr]] — The ephemeral signature of permafrost carbon in Arctic fluvial networks

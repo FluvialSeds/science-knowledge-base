@@ -18,7 +18,7 @@ aliases:
 
 ## Core Concept
 
-[[DissolvedOrganicCarbon|Dissolved organic carbon (DOC)]] is the largest reduced carbon reservoir in modern oceans and fundamentally regulates marine communities and atmospheric CO₂ levels. Yet the geologic history of marine DOC remains largely unconstrained because DOC is chemically labile and rarely preserved in the geological record. This constraint is lifted through a novel direct proxy: iron (oxyhydr)oxide minerals in marine sediments naturally adsorb and preserve dissolved organic molecules from ambient seawater. By analyzing the carbon-13 isotope composition (δ¹³C) and redox state of organic matter bound to iron oxides in paleoceanographic samples spanning billions of years, scientists can reconstruct how marine DOC reservoirs have evolved in response to ecosystem development, changes in sinking particle dynamics, and variations in deep-ocean oxygen availability.
+[[DissolvedOrganicMatter|Dissolved organic carbon (DOC)]] is the largest reduced carbon reservoir in modern oceans and fundamentally regulates marine communities and atmospheric CO₂ levels. Yet the geologic history of marine DOC remains largely unconstrained because DOC is chemically labile and rarely preserved in the geological record. This constraint is lifted through a novel direct proxy: iron (oxyhydr)oxide minerals in marine sediments naturally adsorb and preserve dissolved organic molecules from ambient seawater. By analyzing the carbon-13 isotope composition (δ¹³C) and redox state of organic matter bound to iron oxides in paleoceanographic samples spanning billions of years, scientists can reconstruct how marine DOC reservoirs have evolved in response to ecosystem development, changes in sinking particle dynamics, and variations in deep-ocean oxygen availability.
 
 ## Why Iron Oxides Preserve DOC
 
@@ -88,4 +88,10 @@ The iron oxide DOC proxy demonstrates that:
 
 ## See also
 
+- [[DissolvedOrganicMatter]] — Dissolved organic matter composition and biogeochemical roles
+- [[IsotopicProxiesPaleoceanography]] — Isotopic proxies for paleoceanographic reconstruction
+- [[RadiocarbonOrganicMatter]] — Radiocarbon signatures of organic matter and paleoenvironmental interpretation
+- [[MineralProtectionOrganicCarbon]] — Mineral protection mechanisms and organic carbon preservation
+- [[TripleOxygenIsotopePaleoxyProbe]] — Triple oxygen isotopes as paleoproductivity and atmospheric oxygen proxies
+- [[GrossPrimaryProductivityReconstruction]] — Paleoproductivity reconstruction from geochemical records
 - Source paper: [[Galili-2025nat]] — The geologic history of marine dissolved organic carbon reconstructed from iron oxide-preserved organic matter

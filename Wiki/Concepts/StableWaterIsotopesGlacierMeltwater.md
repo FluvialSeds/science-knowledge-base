@@ -54,7 +54,7 @@ The dual-tracer approach uses δ¹⁸O and deuterium excess as independent trace
 
 ## Key Finding: Rain-Induced Glacier Melting
 
-In Himalayan systems, glacier meltwater contributions are highest during the [[IndianSummerMonsoon|Indian summer monsoon]] (ISM) and post-monsoon seasons, contrary to conventional expectations that peak glacier melting occurs during pre-monsoon (dry) months. Energy balance calculations show that freezing rainfall during monsoon months releases latent heat sufficient to trigger significant additional glacier melting beyond normal thermal melting. This rain-induced melting mechanism represents ~3–11% of total discharge during peak monsoon periods and illustrates how rainfall distribution patterns—not just temperature—control glacier meltwater dynamics in maritime climates.
+In Himalayan systems, glacier meltwater contributions are highest during the Indian summer monsoon (ISM) and post-monsoon seasons, contrary to conventional expectations that peak glacier melting occurs during pre-monsoon (dry) months. Energy balance calculations show that freezing rainfall during monsoon months releases latent heat sufficient to trigger significant additional glacier melting beyond normal thermal melting. This rain-induced melting mechanism represents ~3–11% of total discharge during peak monsoon periods and illustrates how rainfall distribution patterns—not just temperature—control glacier meltwater dynamics in maritime climates.
 
 ## Applications to Climate Change
 
@@ -67,4 +67,7 @@ These dynamics are critical for understanding water security in regions dependen
 
 ## See also
 
+- [[IsotopicProxiesPaleoceanography]] — Isotopic proxies for paleoceanographic reconstruction including water isotope tracers
+- [[CarbonIsotopeFractionationPlants]] — Stable isotope fractionation in environmental systems
+- [[ClayHydroxylIsotopesPaleoxyProbe]] — Oxygen isotopes in minerals as paleoclimate proxies
 - Source paper: [[Boral-2019jh]] — Spatio-temporal variability of glacier meltwater in Ganges headwaters using water isotope models

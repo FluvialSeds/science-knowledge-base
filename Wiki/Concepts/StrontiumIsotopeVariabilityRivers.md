@@ -18,7 +18,7 @@ aliases:
 
 ## Core Concept
 
-The ⁸⁷Sr/⁸⁶Sr ratio in dissolved river water reflects the weathering signatures of rocks and minerals in the upstream drainage basin. [[RadiogenicIsotopes|Radiogenic strontium]] (high ⁸⁷Sr/⁸⁶Sr) is preferentially released by weathering of ancient continental crust with high rubidium-to-strontium ratios, while [[UnradiogenicIsotopes|unradiogenic strontium]] (low ⁸⁷Sr/⁸⁶Sr) dominates inputs from young oceanic basalts or unlithified sediments. On short timescales (days to weeks), dissolved ⁸⁷Sr/⁸⁶Sr in major rivers shows extreme variability driven by rainfall distribution across the watershed, in-stream interactions with particulate materials, and tributary contributions. These fluctuations rival the largest isotopic shifts observed across geological time, highlighting the sensitivity of riverine Sr isotope compositions to modern hydrological and sediment transport processes.
+The ⁸⁷Sr/⁸⁶Sr ratio in dissolved river water reflects the weathering signatures of rocks and minerals in the upstream drainage basin. Radiogenic strontium (high ⁸⁷Sr/⁸⁶Sr) is preferentially released by weathering of ancient continental crust with high rubidium-to-strontium ratios, while unradiogenic strontium (low ⁸⁷Sr/⁸⁶Sr) dominates inputs from young oceanic basalts or unlithified sediments. On short timescales (days to weeks), dissolved ⁸⁷Sr/⁸⁶Sr in major rivers shows extreme variability driven by rainfall distribution across the watershed, in-stream interactions with particulate materials, and tributary contributions. These fluctuations rival the largest isotopic shifts observed across geological time, highlighting the sensitivity of riverine Sr isotope compositions to modern hydrological and sediment transport processes.
 
 ## Dissolved Versus Suspended Particulate Strontium
 
@@ -63,4 +63,8 @@ The extreme short-term variability in riverine Sr isotope compositions has profo
 
 ## See also
 
+- [[IsotopicProxiesPaleoceanography]] — Isotopic proxies for paleoceanographic and paleoclimate reconstruction
+- [[CarbonIsotopeFractionationPlants]] — Stable isotope fractionation principles and applications
+- [[MineralProtectionOrganicCarbon]] — Mineral-water interactions controlling elemental cycling
+- [[LocalVsDistalBiomarkerSignals]] — Spatial integration of geochemical signals from diverse sources
 - Source paper: [[Boral-2021epsl]] — Controls on short-term dissolved ⁸⁷Sr/⁸⁶Sr variations in Ganga-Brahmaputra rivers
