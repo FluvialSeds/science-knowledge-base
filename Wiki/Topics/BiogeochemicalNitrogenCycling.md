@@ -4,11 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
-sources:
-  - "Raw/Sources/Elling-2020pnas.md"
-  - "Raw/Sources/Elling-2021epsl.md"
-source_count: 2
+updated: 2026-05-27
 aliases:
   - "Marine nitrogen cycle"
   - "Microbial nitrogen transformations"
@@ -58,5 +54,4 @@ Understanding how the nitrogen cycle has responded to past climate changes provi
 - [[SapropelNitrogenCycleCoupling]] — Nitrogen cycle feedbacks during sapropel formation
 - [[OceanicAnoxicEvents]] — Anoxic episodes in Earth history
 - [[DeepWaterAnoxia]] — Oxygen depletion in ocean depth zones
-- Source paper: [[Elling-2020pnas]] — Methylhopanoid biosynthesis and vitamin B₁₂ control of nitrification
-- Source paper: [[Elling-2021epsl]] — Nitrogen cycle perturbations during Mediterranean sapropel formation
+- [[DarkOxygenProductionPathways]] — Hidden oxygen sources supporting microbial communities in anoxic zones

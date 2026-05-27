@@ -4,11 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
-sources:
-  - "Raw/Sources/Hemingway-2018sci.md"
-  - "Raw/Sources/Hemingway-2019nat.md"
-source_count: 2
+updated: 2026-05-27
 aliases:
   - "Carbon preservation and cycling"
   - "Mountain carbon cycle"
@@ -19,7 +15,7 @@ aliases:
 
 ## Overview
 
-Organic carbon cycles through Earth's surface in multiple forms and across multiple timescales—from recently synthesized biospheric carbon to ancient petrogenic carbon locked in bedrock for hundreds of millions of years. This topic explores the mechanisms that preserve organic carbon against microbial remineralization, the processes that transport and transform carbon from mountains to oceans, and the fundamental coupling between tectonic uplift, erosion, and atmospheric CO₂ levels. Understanding organic carbon cycling is essential for predicting how changes in climate, erosion rates, and weathering patterns will affect long-term atmospheric composition and climate regulation.
+Organic carbon cycles through Earth's surface in multiple forms and across multiple timescales—from recently synthesized biospheric carbon to ancient petrogenic carbon locked in bedrock for hundreds of millions of years. This topic explores the mechanisms that preserve organic carbon against microbial remineralization, the processes that transport and transform carbon from soil-bedrock systems to mountain watersheds to oceans, and the fundamental coupling between erosion, weathering, climate, and atmospheric CO₂ levels. Understanding organic carbon cycling across these scales is essential for predicting how terrestrial and mountain ecosystems will respond to climate change, land-use alteration, and natural disturbance.
 
 ## Pathways of Organic Carbon Through Earth Systems
 
@@ -63,13 +59,15 @@ Understanding how organic carbon cycles through mountain systems and reaches the
 - [[MineralProtectionOrganicCarbon]] — Mineral protection as the dominant preservation mechanism
 - [[OrganoMineralBonds]] — Chemistry of organo-mineral interactions
 - [[PetrogenicOrganicCarbon]] — Ancient bedrock carbon sources
+- [[SoilPrimingEffects]] — Fresh carbon triggering mineralization of old carbon pools
 - [[PetrogenicCarbonOxidation]] — Oxidation of ancient carbon during erosion
 - [[MicrobialOxidationOrganicCarbon]] — Microbial remineralization in soils
 - [[DissolvedOrganicMatter]] — Transport of organic carbon in aquatic systems
 - [[GlacierDerivedOrganicCarbon]] — Glacier inputs of organic carbon
 - [[CarbonCycleMountainSystems]] — Coupling between tectonics and atmospheric CO₂
+- [[ClimateControlsTerrestrialOrganicMatterCycling]] — Climate-dependent organic matter turnover times
+- [[FattyAcidLigninPhenolRadiocarbonBiomarkers]] — Compound-specific radiocarbon biomarkers
 - [[RampedPyrolysisOxidation]] — Analytical technique for measuring carbon bond strengths
 - [[RadiocarbonOrganicMatter]] — Radiocarbon evidence for mineral protection
+- [[RadiocarbonAnalyticalMethods]] — Methods for measuring organic carbon ages
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical method for tracing organic carbon sources
-- Source paper: [[Hemingway-2018sci]] — Petrogenic carbon oxidation in Taiwan mountain soils
-- Source paper: [[Hemingway-2019nat]] — Mineral protection and organic carbon preservation mechanisms

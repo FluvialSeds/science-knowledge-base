@@ -235,3 +235,8 @@ Documented and implemented 'updated' date field protocol to ensure every concept
 *Logged: 2026-05-27 22:09:18*
 
 Created new concept 'SoilPrimingEffects' describing how fresh OC inputs trigger mineralization of old carbon pools. Updated PetrogenicOrganicCarbon with soil-bedrock continuum mechanics, priming unknowns, and radiocarbon complications. Updated RadiocarbonOrganicMatter with petrogenic carbon radiocarbon biasing section. Updated OrganicCarbonPreservation with priming interactions. All See also sections updated with new wikilinks and source papers. Evans-2025agua marked Processed: true.
+
+## Reorganize topics and add new overarching structures
+*Logged: 2026-05-27 22:18:13*
+
+Created two new topic nodes to organize expanded concept network: (1) GreatOxidationEventAndEarlyEarthBiogeochemistry—consolidates GOE mechanisms, quinone evolution, dark oxygen pathways, MIF/triple-O isotopes; (2) SoilCarbonDynamicsAndPedogeochemistry—integrates soil-bedrock continuum, petrogenic carbon cycling, priming effects, radiocarbon complications, land-use impacts. Removed sources from all topic metadata and See also sections (sources now linked only to concepts). Expanded OrganicCarbonCycling, IsotopicProxiesPaleoceanography, and BiogeochemicalNitrogenCycling to incorporate new concepts. Topics now serve as pure organizational hubs for concept nodes, improving clarity of knowledge architecture.

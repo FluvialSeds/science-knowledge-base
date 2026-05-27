@@ -4,14 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
-sources:
-  - "Raw/Sources/Waldeck-2022pnas.md"
-  - "Raw/Sources/Hemingway-2018sci.md"
-  - "Raw/Sources/Hemingway-2019nat.md"
-  - "Raw/Sources/Elling-2020pnas.md"
-  - "Raw/Sources/Elling-2021epsl.md"
-source_count: 5
+updated: 2026-05-27
 aliases:
   - "Paleoceanographic proxies"
   - "Biomarker and isotope paleoproxies"
@@ -89,6 +82,8 @@ These proxies have been applied to reconstruct:
 
 - [[TripleOxygenIsotopePaleoxyProbe]] — Δ¹⁷O as a paleoproductivity and pO₂ proxy
 - [[TripleOxygenIsotopes]] — Triple oxygen isotope fractionation theory
+- [[MassIndependentFractionationAtmosphere]] — O-MIF and S-MIF in atmospheric proxies
+- [[AtmosphericOxygenSulfurIsotopeRecords]] — Paleoceanographic applications of atmospheric isotope records
 - [[MarineBariteIsotopeRecord]] — Marine barite as a paleoceanographic archive
 - [[MicrobialSulfateReductionControl]] — Microbial control of sulfate isotope composition
 - [[GrossPrimaryProductivityReconstruction]] — Paleoproductivity from isotope records
@@ -97,18 +92,15 @@ These proxies have been applied to reconstruct:
 - [[GDGTBiomarkers]] — GDGT biomarkers from archaea and bacteria
 - [[PlantWaxBiomarkers]] — Terrestrial biomarkers in marine sediments
 - [[LocalVsDistalBiomarkerSignals]] — Spatial patterns of biomarker sources
+- [[FattyAcidLigninPhenolRadiocarbonBiomarkers]] — Compound-specific radiocarbon biomarkers
 - [[CarbonIsotopeFractionationPlants]] — Carbon isotope fractionation in photosynthesis
 - [[RadiocarbonOrganicMatter]] — Radiocarbon as a tracer of organic matter age
 - [[RadiocarbonAnalyticalMethods]] — Modern radiocarbon analytical techniques
+- [[OnlineRampedOxidationAMS]] — Online ORO-AMS for thermal fractionation radiocarbon dating
+- [[ThermalFractionationRadiocarbon]] — Thermal fractionation patterns in radiocarbon
 - [[CompoundSpecificIsotopeAnalysis]] — GC-IRMS methods for compound-specific analysis
 - [[RampedPyrolysisOxidation]] — RPO method for measuring organic carbon bond strengths
 - [[CarbonateIsotopeThermalAlteration]] — Clumped isotopes in carbonates
 - [[ClumpedIsotopePaleothermometry]] — Clumped isotope paleothermometry
 - [[SulfoxyanionIsotopeEffects]] — Sulfur isotope fractionation
-- [[RadiocarbonOrganicMatter]] — Radiocarbon evidence for mineral protection
 - [[MineralProtectionOrganicCarbon]] — Mineral protection mechanisms
-- Source paper: [[Waldeck-2022pnas]] — Marine sulfate triple oxygen isotopes spanning 130 million years
-- Source paper: [[Hemingway-2018sci]] — Petrogenic carbon oxidation and tectonic-climate coupling
-- Source paper: [[Hemingway-2019nat]] — Mineral protection and organic carbon preservation
-- Source paper: [[Elling-2020pnas]] — Methylhopanoid biomarkers of nitrification
-- Source paper: [[Elling-2021epsl]] — Nitrogen cycle coupling during sapropel formation
