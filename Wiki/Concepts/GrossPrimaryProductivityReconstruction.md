@@ -4,7 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-27
 sources:
   - "Raw/Sources/Waldeck-2022pnas.md"
 source_count: 1
@@ -18,13 +18,13 @@ aliases:
 
 ## Core Concept
 
-Gross primary productivity (GPP)—the total amount of organic matter synthesized by photosynthetic organisms before respiration—can be reconstructed from marine sulfate isotope records by deciphering how photosynthetically-produced oxygen has modulated isotopic signatures over time. The [[TripleOxygenIsotopePaleoxyProbe|triple oxygen isotope composition (Δ¹⁷O) of marine sulfate]] provides a direct link between primary productivity and atmospheric oxygen composition because photosynthetic oxygen production at Earth's surface dilutes the negative ¹⁷O anomaly produced in the stratosphere through exchange reactions. By analyzing how Δ¹⁷O varies in concert with [[MarineBariteIsotopeRecord|marine barite records]], paleoceanographers can quantify how [[GrossPrimaryProductivityReconstruction|productivity has changed]] through the Cretaceous and Cenozoic, revealing the coupling between climate, ocean circulation, nutrient cycling, and biological productivity across tens of millions of years.
+Gross primary productivity (GPP)—the total amount of organic matter synthesized by photosynthetic organisms before respiration—can be reconstructed from marine sulfate isotope records by deciphering how photosynthetically-produced oxygen has modulated isotopic signatures over time. The [[TripleOxygenIsotopePaleoxyProbe|triple oxygen isotope composition (Δ¹⁷O) of marine sulfate]] provides a direct link between primary productivity and atmospheric oxygen composition because photosynthetic oxygen production at Earth's surface dilutes the negative ¹⁷O anomaly produced in the stratosphere through exchange reactions. By analyzing how Δ¹⁷O varies in concert with [[MarineBariteIsotopeRecord|marine barite records]], paleoceanographers can quantify how productivity has changed through the Cretaceous and Cenozoic, revealing the coupling between climate, ocean circulation, nutrient cycling, and biological productivity across tens of millions of years.
 
 ## The Productivity-Isotope Connection
 
 The atmospheric oxygen isotope composition is determined by a balance between two competing processes: (1) stratospheric exchange reactions that produce a large negative ¹⁷O anomaly (Δ¹⁷O < 0), and (2) dilution by photosynthetically-produced oxygen at Earth's surface. The magnitude of the stratospheric anomaly depends on pO₂/pCO₂ ratios, while the degree of dilution depends on how much oxygen is produced through photosynthesis relative to the total atmospheric oxygen inventory.
 
-When [[GrossPrimaryProductivityReconstruction|primary productivity increases]], more oxygen is produced, reducing the relative influence of the stratospheric signal and making the Δ¹⁷O value less negative (larger, or "less depleted"). Conversely, during periods of low productivity, the stratospheric signal dominates, and Δ¹⁷O becomes more negative. Because between 10% and 25% of oxygen atoms in marine sulfate derive from atmospheric O₂, the [[TripleOxygenIsotopePaleoxyProbe|triple oxygen isotope signature]] of [[MarineBariteIsotopeRecord|marine barite]] thus encodes a direct record of how much photosynthetic oxygen has been produced.
+When photosynthetically-produced oxygen increases, more oxygen is produced, reducing the relative influence of the stratospheric signal and making the Δ¹⁷O value less negative (larger, or "less depleted"). Conversely, during periods of low productivity, the stratospheric signal dominates, and Δ¹⁷O becomes more negative. Because between 10% and 25% of oxygen atoms in marine sulfate derive from atmospheric O₂, the [[TripleOxygenIsotopePaleoxyProbe|triple oxygen isotope signature]] of [[MarineBariteIsotopeRecord|marine barite]] thus encodes a direct record of how much photosynthetic oxygen has been produced.
 
 ## Paleoproductivity Trends Over 130 Million Years
 
@@ -56,5 +56,5 @@ Reconstruction of paleoproductivity from sulfate isotopes reveals how ocean prod
 
 - [[TripleOxygenIsotopePaleoxyProbe]] — How Δ¹⁷O records productivity-driven oxygen isotope variations
 - [[MarineBariteIsotopeRecord]] — Marine barite as the archive of paleoproductivity signals
-- [[MicrobialSulfateReductionControl]] — How productivity drives [[MicrobialSulfateReductionControl|microbial processes]] that control sulfate composition
+- [[MicrobialSulfateReductionControl]] — How productivity drives microbial processes that control sulfate composition
 - Source paper: [[Waldeck-2022pnas]] — 130 million year paleoproductivity and atmospheric oxygen reconstruction
