@@ -60,6 +60,7 @@
 - [[RampedPyrolysisOxidation]] — Ramped Pyrolysis/Oxidation (RPO)
 - [[SapropelNitrogenCycleCoupling]] — Sapropel Formation and Nitrogen Cycle Coupling
 - [[SedimentologicalControlsOnBiogeochemistry]] — Sedimentological Controls on Long-Term Biogeochemical Cycles
+- [[SoilPrimingEffects]] — Soil Priming Effects
 - [[StableWaterIsotopesGlacierMeltwater]] — Stable Water Isotopes for Glacier Meltwater Apportionment
 - [[StrontiumIsotopeVariabilityRivers]] — Strontium Isotope Variability in Large Rivers
 - [[SulfoxyanionIsotopeEffects]] — Sulfoxyanion Isotope Effects

@@ -230,3 +230,8 @@ Updated 'updated' date field from 2026-05-25 to 2026-05-27 to reflect today's ed
 *Logged: 2026-05-27 21:05:19*
 
 Documented and implemented 'updated' date field protocol to ensure every concept note edit is tracked. Updates made to: (1) CLAUDE.md—added metadata dates requirement to Ingest Quality Checklist; (2) Schema/frontmatter-schema.md—marked updated field CRITICAL with enforcement explanation; (3) Schema/workflow-examples.md—added section with examples of when to update dates; (4) Schema/lint-checklist.md—added date validation to checklist; (5) Schema/naming-conventions.md—added detailed conventions and rationale; (6) scripts/wiki_tool.py—enhanced lint function with validation for updated/created date format and logical ordering. Lint now enforces: updated exists, is YYYY-MM-DD format, and updated >= created. User memory created for persistent reference.
+
+## Ingest: Evans-2025agua petrogenic organic carbon in soils
+*Logged: 2026-05-27 22:09:18*
+
+Created new concept 'SoilPrimingEffects' describing how fresh OC inputs trigger mineralization of old carbon pools. Updated PetrogenicOrganicCarbon with soil-bedrock continuum mechanics, priming unknowns, and radiocarbon complications. Updated RadiocarbonOrganicMatter with petrogenic carbon radiocarbon biasing section. Updated OrganicCarbonPreservation with priming interactions. All See also sections updated with new wikilinks and source papers. Evans-2025agua marked Processed: true.

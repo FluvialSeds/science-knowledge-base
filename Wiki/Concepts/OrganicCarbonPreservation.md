@@ -4,10 +4,11 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-27
 sources:
   - "Raw/Sources/Hemingway-2019nat.md"
-source_count: 1
+  - "Raw/Sources/Evans-2025agua.md"
+source_count: 2
 aliases:
   - "Carbon preservation mechanisms"
   - "Organic matter preservation"
@@ -82,6 +83,17 @@ Bond-strength diversity in ancient sediments can reveal how OC preservation mech
 Selective preservation and mineral protection are not mutually exclusive:
 - Some recalcitrant compounds resist decomposition even without mineral protection
 - But minerals also protect bioavailable, labile compounds from degradation
+
+## Priming Effects and Carbon Preservation Interactions
+
+[[SoilPrimingEffects|Fresh organic carbon inputs can stimulate accelerated mineralization of old, previously protected organic carbon]] pools. This phenomenon creates a paradoxical situation where increased primary productivity or litter inputs do not necessarily increase total soil carbon storage, and may instead trigger net carbon loss through microbial activation.
+
+The strength of priming effects likely depends on preservation mechanisms:
+- InSoilPrimingEffects]] — How fresh carbon can trigger mineralization of old carbon
+- [[PetrogenicOrganicCarbon]] — Ancient carbon preservation in soil-bedrock systems
+- [[RadiocarbonOrganicMatter]] — Radiocarbon evidence for mineral protection
+- [[RadiocarbonAnalyticalMethods]] — Methods for measuring preserved carbon ages
+- Source papers: [[Hemingway-2019nat]] — Global dataset of OC preservation mechanisms; [[Evans-2025agua]] — Soil carbon preservation and priming effect unknownn controls whether preservation mechanisms result in net carbon storage or loss
 - The relative importance of each mechanism varies by environment and timescale
 
 ## See also

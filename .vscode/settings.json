@@ -1,0 +1,20 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^python3 scripts/wiki_tool\\.py search-catalog --query \"organic carbon\" 2>&1 \\| head -50$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^python3 scripts/wiki_tool\\.py search-catalog --query \"soil carbon weathering bedrock land use\" 2>&1$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^python3 scripts/wiki_tool\\.py search-catalog --query \"soil\" 2>&1 && echo \"---\" && python3 scripts/wiki_tool\\.py search-catalog --query \"priming\" 2>&1$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd /Users/jhemingway/Library/CloudStorage/ProtonDrive-jordon\\.d\\.hemingway@pm\\.me-folder/science-knowledge-base && python3 scripts/wiki_tool\\.py build && python3 scripts/wiki_tool\\.py lint && python3 scripts/wiki_tool\\.py log --title \"Ingest: Evans-2025agua petrogenic organic carbon in soils\" --details \"Created new concept 'SoilPrimingEffects' describing how fresh OC inputs trigger mineralization of old carbon pools\\. Updated PetrogenicOrganicCarbon with soil-bedrock continuum mechanics, priming unknowns, and radiocarbon complications\\. Updated RadiocarbonOrganicMatter with petrogenic carbon radiocarbon biasing section\\. Updated OrganicCarbonPreservation with priming interactions\\. All See also sections updated with new wikilinks and source papers\\. Evans-2025agua marked Processed: true\\.\" && git add -A && git commit -m \"Ingest Evans-2025agua: Soil petrogenic organic carbon cycling\n\nCreated new concept:\n- SoilPrimingEffects: Fresh OC inputs triggering old carbon mineralization\n\nUpdated existing concepts:\n- PetrogenicOrganicCarbon: Added soil-bedrock interactions, priming effects, land-use impacts, radiocarbon complications \\(source_count: 1→2\\)\n- RadiocarbonOrganicMatter: Added section on petrogenic carbon radiocarbon biasing in soils \\(source_count: 7→8\\)\n- OrganicCarbonPreservation: Added priming effects interactions section \\(source_count: 1→2\\)\n\nUpdated See also sections:\n- All three concept notes updated with cross-links and source paper citations\n- New SoilPrimingEffects concept integrated into preservation and petrogenic carbon narratives\n\nSource file marked as Processed: true\\.\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

@@ -13,7 +13,8 @@ sources:
   - "Raw/Sources/Drake-2026natgeo.md"
   - "Raw/Sources/Eglinton-2021pnas.md"
   - "Raw/Sources/Bolandini-2025rad.md"
-source_count: 7
+  - "Raw/Sources/Evans-2025agua.md"
+source_count: 8
 aliases:
   - "Radiocarbon dating"
   - "Δ¹⁴C"
@@ -99,6 +100,18 @@ In lake systems with peatland catchments, seasonal and long-term variations in �
 - **Climate-driven perturbations**: Long-term changes in precipitation and evaporation that alter water table elevation modulate the proportion of aged versus modern carbon entering lake systems, making [[AgedCarbonMobilizationTropicalPeatlands|radiocarbon signatures a powerful indicator of peatland water balance changes]]
 - **Strongly bound, mineral-protected carbon**: Old radiocarbon ages (>10,000 years), indicating long persistence from [[OrganoMineralBonds|organo-mineral bonds]]
 
+
+## Radiocarbon Complications: Petrogenic Carbon in Soils
+
+[[PetrogenicOrganicCarbon|Petrogenic organic carbon]] from ancient bedrock can become incorporated into soil systems through weathering and erosion. This creates a "pre-aged" organic carbon pool with highly depleted radiocarbon ages (ancient Δ¹⁴C values), fundamentally altering soil radiocarbon interpretations:
+
+**Radiocarbon biasing effects:**
+- Total soil radiocarbon measurements become dominated by ancient petrogenic carbon, shifting mean Δ¹⁴C values toward pre-aged signatures (highly negative Δ¹⁴C)
+- Conventional radiocarbon-based estimates of soil carbon residence times systematically overestimate biospheric carbon ages
+- In landscapes underlain by organic-rich bedrock (particularly shales), petrogenic inputs can be substantial enough to bias regional radiocarbon chronologies if not properly accounted for
+
+**Implications for carbon modeling:**
+Standard soil carbon models often fail to distinguish petrogenic carbon from biospheric carbon, leading to systematic errors in estimating soil carbon stocks and turnover times. Incorporating petrogenic contributions is essential for accurate predictions of soil carbon response to climate change and land-use alteration, particularly in tectonically active regions with high erosion rates and in landscapes with organic-rich parent materials.
 This stratification demonstrates that [[OrganicCarbonPreservation|OC preservation]] through mineral protection extends the lifetime of old carbon in the biosphere, controlling its sequestration and atmospheric CO₂ implications.
 
 ## Complementary to Other Tracers
@@ -124,10 +137,12 @@ Together, these methods provide a multi-tracer framework for understanding organ
 - [[FattyAcidLigninPhenolRadiocarbonBiomarkers]] — Compound-specific radiocarbon biomarkers
 - [[OrganicCarbonPreservation]] — How radiocarbon ages reveal preservation mechanisms
 - [[OrganoMineralBonds]] — Mineral protection and radiocarbon age persistence
+- [[PetrogenicOrganicCarbon]] — Ancient carbon in bedrock and its radiocarbon complications in soil systems
+- [[SoilPrimingEffects]] — How fresh carbon inputs affect old carbon mineralization
 - [[AgedCarbonMobilizationTropicalPeatlands]] — Millennially-aged carbon mobilization from peatlands to lake systems
 - [[HumicLakesGreenhouseGasCycling]] — Aged carbon cycling in humic tropical lake systems
 - [[LocalVsDistalBiomarkerSignals]] — Temporal biomarker variability in large rivers
 - [[PlantWaxBiomarkers]] — Plant-derived organic matter characterization
 - [[GDGTBiomarkers]] — Membrane lipid biomarkers and source discrimination
 - [[DissolvedOrganicMatter]] — Sources and composition of dissolved organic matter in aquatic systems
-- Source papers: [[Hemingway-2017cg]] — Radiocarbon in Congo particulate organic matter; [[Hemingway-2017rad]] — Radiocarbon analytical methods and blank correction; [[Hemingway-2019nat]] — Radiocarbon and mineral protection mechanisms; [[Hemingway-2021og]] — Biomarker radiocarbon and biosynthetic fractionation; [[Drake-2026natgeo]] — Millennially-aged carbon in Congo Basin humic lakes; [[Eglinton-2021pnas]] — Climate controls on fluvial biomarker radiocarbon ages; [[Bolandini-2025rad]] — Online ORO-AMS thermal dissection radiocarbon dating
+- Source papers: [[Hemingway-2017cg]] — Radiocarbon in Congo particulate organic matter; [[Hemingway-2017rad]] — Radiocarbon analytical methods and blank correction; [[Hemingway-2019nat]] — Radiocarbon and mineral protection mechanisms; [[Hemingway-2021og]] — Biomarker radiocarbon and biosynthetic fractionation; [[Drake-2026natgeo]] — Millennially-aged carbon in Congo Basin humic lakes; [[Eglinton-2021pnas]] — Climate controls on fluvial biomarker radiocarbon ages; [[Bolandini-2025rad]] — Online ORO-AMS thermal dissection radiocarbon dating; [[Evans-2025agua]] — Petrogenic organic carbon cycling in soils and radiocarbon biasing
