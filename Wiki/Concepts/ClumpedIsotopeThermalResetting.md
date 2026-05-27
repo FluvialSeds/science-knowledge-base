@@ -6,9 +6,10 @@ status: stable
 created: 2026-05-27
 updated: 2026-05-27
 sources:
+  - "Raw/Sources/Hemingway-2021epsl.md"
   - "Raw/Sources/Kueter-2026epsl.md"
   - "Raw/Sources/Looser-2023gca.md"
-source_count: 2
+source_count: 3
 aliases:
   - "Clumped isotope kinetics"
   - "Thermal resetting of Δ₄₇"
@@ -20,7 +21,20 @@ aliases:
 
 ## Core Concept
 
-Clumped isotope signatures (Δ₄₇) in carbonate minerals record temperature at the time of mineral formation but are susceptible to thermal resetting during burial and heating. The kinetics of this resetting process—the rate at which heavy-isotope bonds are broken and reformed (reordered) at elevated temperatures—depend critically on carbonate material properties. Laboratory heating experiments and kinetic modeling reveal material-specific activation energies and frequency factors that control thermal resetting rates, enabling quantitative prediction of how Δ₄₇ signatures are altered during burial and assessment of whether measured values preserve primary paleoclimate information or have been thermally reset.
+Clumped isotope signatures (Δ₄₇) in carbonate minerals record temperature at the time of mineral formation but are susceptible to thermal resetting during burial and heating. The kinetics of this resetting process—the rate at which heavy-isotope bonds are broken and reformed (reordered) at elevated temperatures—can be described using a disordered kinetic model based on transition state theory. This theoretical framework, combined with laboratory heating experiments, reveals material-specific activation energies and frequency factors that control thermal resetting rates in different carbonate phases. Together, these approaches enable quantitative prediction of how Δ₄₇ signatures are altered during burial and assessment of whether measured values preserve primary paleoclimate information or have been thermally reset.
+
+## Theoretical Framework: The Disordered Kinetic Model
+
+A comprehensive kinetic model describes clumped isotope bond reordering using transition state theory and activation energy distributions. The model incorporates:
+
+- **Activation energy distribution**: Rather than a single activation energy, the model accounts for a distribution of activation energies reflecting the diversity of bond environments and reordering pathways in carbonate minerals
+- **Pre-exponential (frequency) factors**: Control the attempt frequency for bond reordering
+- **Temperature and time dependence**: Quantitatively predicts how reordering rates change with burial temperature and exposure duration
+
+The disordered kinetic model successfully describes how original paleoclimate Δ₄₇ signals are progressively modified during burial, enabling researchers to:
+1. Predict Δ₄₇ values after a known time-temperature history
+2. Assess whether measured values reflect primary paleoclimate or thermal reset
+3. Optimize sample selection for paleoclimate studies
 
 ## Experimental Determination of Kinetic Parameters
 
@@ -110,4 +124,4 @@ In metamorphic and basement rocks subjected to sustained elevated temperatures, 
 - [[CarbonateIsotopeThermalAlteration]] — Empirical constraints on preservation domains
 - [[RadiocarbonOrganicMatter]] — Radiocarbon as an independent chronometer for thermal history
 - [[RampedPyrolysisOxidation]] — Thermal analysis methods complementary to kinetic studies
-- Source papers: [[Kueter-2026epsl]] — Precise kinetic parameters for thermal resetting, [[Looser-2023gca]] — Material-specific kinetics in belemnite and optical calcites
+- Source papers: [[Hemingway-2021epsl]] — Disordered kinetic model framework for bond reordering, [[Kueter-2026epsl]] — Precise kinetic parameters for thermal resetting, [[Looser-2023gca]] — Material-specific kinetics in belemnite and optical calcites
