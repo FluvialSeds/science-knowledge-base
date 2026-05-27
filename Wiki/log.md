@@ -200,3 +200,8 @@ Created 6 new concept notes: StableWaterIsotopesGlacierMeltwater (Boral-2019jh),
 *Logged: 2026-05-26 23:00:17*
 
 Added 4 new concept notes extracting distinct topics from previously ingested sources: HydrogeochemicalMixingModels (Boral-2021epsl), RadiocarbonSignaturesArctic (Drake-2018jgr), ParticleSinkingEcosystemEvolution (Galili-2025nat), SedimentologicalControlsOnBiogeochemistry (Mertens-2026natgeo). Catalog now contains 52 entries. All maintenance checks pass.
+
+## Ingest: Six new sources with distinct topic extraction
+*Logged: 2026-05-27 08:37:15*
+
+Created 5 new concept notes from 6 sources: HumicLakesGreenhouseGasCycling (Barthel 2026), AgedCarbonMobilizationTropicalPeatlands (Drake 2026), GreatOxidationEventMechanisms (Crockford 2026), ClumpedIsotopeThermalResetting (Kueter 2026, Looser 2023), HydrothermalDolomitization (Mueller 2026). Updated existing notes: ClumpedIsotopePaleothermometry (added Kueter & Looser), NitrogenCycle (added Barthel for freshwater denitrification), RadiocarbonOrganicMatter (added Drake for aged peat carbon). All maintenance checks passed.

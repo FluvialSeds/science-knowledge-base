@@ -4,13 +4,14 @@ tags:
 topics: []
 status: stable
 created: 2026-05-24
-updated: 2026-05-25
+updated: 2026-05-27
 sources:
   - "Raw/Sources/Hemingway-2017cg.md"
   - "Raw/Sources/Hemingway-2017rad.md"
   - "Raw/Sources/Hemingway-2019nat.md"
   - "Raw/Sources/Hemingway-2021og.md"
-source_count: 4
+  - "Raw/Sources/Drake-2026natgeo.md"
+source_count: 5
 aliases:
   - "Radiocarbon dating"
   - "Δ¹⁴C"
@@ -42,6 +43,7 @@ Radiocarbon composition (reported as Δ¹⁴C in per mil notation relative to mo
 - Derived from ancient terrestrial soils, paleosols, or geological sources
 - Can indicate long residence times or exhumation of old carbon
 - In riverine systems, reflects contributions from aged soil pools or petrogenic sources
+- In tropical peatland lakes, indicates mobilization of millennially-aged carbon from deep peat soils, demonstrating that peatland carbon accumulated over centuries to millennia can be rapidly remobilized and outgassed through changes in water table elevation
 
 ## Applications in River Systems
 
@@ -57,8 +59,8 @@ In large rivers, Δ¹⁴C measurements on particulate organic matter (POM) revea
 - High discharge can dilute aged carbon pools with fresh vegetation
 - Low discharge can concentrate aged carbon from floodplain sources
 
-**Example: Congo River**
-During periods of low discharge from tributaries draining the Cuvette Congolaise swamp forest, Δ¹⁴C values are depleted (ca. −148‰), reflecting pre-aged POM from wetland soils. During high discharge periods, Δ¹⁴C values shift toward modern (−50‰), indicating dilution by younger vegetation-derived carbon.
+**Example: Congo Basin River and Lake Systems**
+During periods of low discharge from tributaries draining the Cuvette Congolaise swamp forest, Δ¹⁴C values are depleted (ca. −148‰), reflecting pre-aged POM from wetland soils. During high discharge periods, Δ¹⁴C values shift toward modern (−50‰), indicating dilution by younger vegetation-derived carbon. In large humic lakes within the Congo Basin peatland complex, radiocarbon dating reveals that dissolved organic and inorganic carbon contain substantial contributions of millennially-aged carbon, demonstrating that peat-derived carbon accumulated over hundreds to thousands of years is being rapidly mobilized and transported through lake systems toward the atmosphere as CO₂ and CH₄.
 
 ## Radiocarbon Ages of Biomarkers
 
@@ -78,6 +80,15 @@ Radiocarbon ages of lipid biomarkers accurately reflect carbon-cycle dynamics, v
 When organic matter is analyzed by [[RampedPyrolysisOxidation|RPO]], radiocarbon ages reveal how carbon age varies with thermal stability (bond strength):
 
 - **Weakly bound carbon**: Modern to young radiocarbon ages (0–5,000 years), consistent with recent primary production
+- **Refractory carbon**: Can span from young to extremely old (> 10,000 years), reflecting either slow-degrading biopolymers or exhumed geological material
+
+## Radiocarbon as an Integrator of Hydrological Changes
+
+In lake systems with peatland catchments, seasonal and long-term variations in Δ¹⁴C of dissolved carbon directly reflect changes in the hydrological connectivity between peatlands and lakes:
+
+- **High water table conditions** (wet season): Lake water is dominantly composed of recently fixed carbon, with near-modern Δ¹⁴C values
+- **Low water table conditions** (dry season): Lakes receive increased contributions from deep peat groundwater, resulting in more depleted (pre-aged) Δ¹⁴C values
+- **Climate-driven perturbations**: Long-term changes in precipitation and evaporation that alter water table elevation modulate the proportion of aged versus modern carbon entering lake systems, making [[AgedCarbonMobilizationTropicalPeatlands|radiocarbon signatures a powerful indicator of peatland water balance changes]]
 - **Strongly bound, mineral-protected carbon**: Old radiocarbon ages (>10,000 years), indicating long persistence from [[OrganoMineralBonds|organo-mineral bonds]]
 
 This stratification demonstrates that [[OrganicCarbonPreservation|OC preservation]] through mineral protection extends the lifetime of old carbon in the biosphere, controlling its sequestration and atmospheric CO₂ implications.
@@ -101,7 +112,10 @@ Together, these methods provide a multi-tracer framework for understanding organ
 - [[RadiocarbonAnalyticalMethods]] — Blank correction and measurement protocols
 - [[OrganicCarbonPreservation]] — How radiocarbon ages reveal preservation mechanisms
 - [[OrganoMineralBonds]] — Mineral protection and radiocarbon age persistence
+- [[AgedCarbonMobilizationTropicalPeatlands]] — Millennially-aged carbon mobilization from peatlands to lake systems
+- [[HumicLakesGreenhouseGasCycling]] — Aged carbon cycling in humic tropical lake systems
 - [[LocalVsDistalBiomarkerSignals]] — Temporal biomarker variability in large rivers
 - [[PlantWaxBiomarkers]] — Plant-derived organic matter characterization
 - [[GDGTBiomarkers]] — Membrane lipid biomarkers and source discrimination
-- Source papers: [[Hemingway-2017cg]] — radiocarbon in Congo POM, [[Hemingway-2017rad]] — analytical methods, [[Hemingway-2019nat]] — radiocarbon and mineral protection, [[Hemingway-2021og]] — biomarker radiocarbon and biosynthetic fractionation
+- [[DissolvedOrganicMatter]] — Sources and composition of dissolved organic matter in aquatic systems
+- Source papers: [[Hemingway-2017cg]] — radiocarbon in Congo POM, [[Hemingway-2017rad]] — analytical methods, [[Hemingway-2019nat]] — radiocarbon and mineral protection, [[Hemingway-2021og]] — biomarker radiocarbon and biosynthetic fractionation, [[Drake-2026natgeo]] — millennially-aged carbon in Congo Basin humic lakes

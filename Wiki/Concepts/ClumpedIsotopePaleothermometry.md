@@ -4,11 +4,13 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-27
 sources:
   - "Raw/Sources/Hemingway-2021epsl.md"
   - "Raw/Sources/Henkes-2014gca.md"
-source_count: 2
+  - "Raw/Sources/Kueter-2026epsl.md"
+  - "Raw/Sources/Looser-2023gca.md"
+source_count: 4
 aliases:
   - "Clumped isotopes"
   - "Δ₄₇"
@@ -84,10 +86,15 @@ The disordered kinetic model enables researchers to:
 **Assessing paleoclimate fidelity:**
 By comparing predicted Δ₄₇ values (after post-burial reordering) with observed values, researchers can determine whether a sample has preserved primary paleoclimate information or has been thermally reset. This assessment is critical for building robust paleoclimate records.
 
+## Material-Specific Kinetic Parameters
+
+Laboratory heating experiments reveal that thermal resetting kinetics are highly material-dependent. Biogenic calcites (such as belemnite shells) reorder faster than abiogenic optical calcites at equivalent burial temperatures, with activation energies ranging from ~168 kJ mol⁻¹ (belemnites) to ~217–291 kJ mol⁻¹ (optical calcites). These differences reflect variations in mineralogy, crystal structure, and impurity content. Accurate paleothermometric interpretation therefore requires knowledge of the specific carbonate material being analyzed and application of appropriate kinetic constraints determined from laboratory experiments. The kinetic parameters also depend on sample thermal history—careful experimental design capturing both high-temperature short-duration and low-temperature long-duration heating is critical for accurate parameter determination.
+
 ## See also
 
+- [[ClumpedIsotopeThermalResetting]] — Laboratory kinetics of thermal resetting and material-specific parameters
 - [[CarbonateIsotopeThermalAlteration]] — Empirical constraints on thermal alteration and bond reordering preservation domains
 - [[RadiocarbonOrganicMatter]] — Radioactive isotope chronometry complementary to paleothermometry
 - [[CarbonIsotopeFractionationPlants]] — Stable isotope fractionation processes
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for carbonate isotope analysis
-- Source papers: [[Hemingway-2021epsl]] — Kinetic model for bond reordering, [[Henkes-2014gca]] — Empirical constraints and preservation domains
+- Source papers: [[Hemingway-2021epsl]] — Kinetic model for bond reordering, [[Henkes-2014gca]] — Empirical constraints and preservation domains, [[Kueter-2026epsl]] — Precise kinetic parameters for thermal resetting, [[Looser-2023gca]] — Material-specific kinetics

@@ -4,11 +4,12 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-27
 sources:
   - "Raw/Sources/Elling-2020pnas.md"
   - "Raw/Sources/Elling-2021epsl.md"
-source_count: 2
+  - "Raw/Sources/Barthel-2026jgr.md"
+source_count: 3
 aliases:
   - "N-cycle"
   - "Nitrogen biogeochemistry"
@@ -26,7 +27,7 @@ The  is the global biogeochemical cycle that describes the movement and transfor
 
 **Nitrification**: [[Nitrification]] by ammonia-oxidizing and nitrite-oxidizing bacteria oxidizes ammonia to nitrite and then to nitrate under aerobic conditions. This process regenerates bioavailable nitrogen from organic matter and controls nitrogen availability in oxygen-containing environments.
 
-**Denitrification**: Reduction of nitrate to nitrogen gas (N₂) under anaerobic conditions by heterotrophic bacteria, returning nitrogen to the atmosphere.
+**Denitrification**: Reduction of nitrate to nitrogen gas (N₂) under anaerobic conditions by heterotrophic bacteria, returning nitrogen to the atmosphere. In freshwater systems such as humic tropical lakes, sedimentary denitrification is often the dominant nitrogen-loss pathway, with near-quantitative reduction of N₂O to N₂ prior to outgassing, making sediments highly efficient sinks for fixed nitrogen.
 
 **Anammox**: [[Anammox|Anaerobic ammonia oxidation]] directly oxidizes ammonia to N₂ using nitrite as the electron acceptor under strictly anaerobic conditions, removing fixed nitrogen from the biosphere.
 
@@ -48,13 +49,15 @@ When environmental conditions change (climate shifts, ocean circulation changes,
 
 These perturbations can create reinforcing feedbacks where one change (e.g., increased stratification) enhances another (anoxia), which in turn amplifies the original change. Examples include [[SapropelNitrogenCycleCoupling|feedback mechanisms during Mediterranean sapropel formation]].
 
-## Paleoceanographic Signals
+## Paleoceanographic and Paleolimnic Signals
 
 The nitrogen cycle leaves multiple traces in sedimentary records:
 - **Nitrogen isotope ratios** (δ¹⁵N) reflect the balance between nitrogen-loss processes ([[Anammox|anammox]], denitrification) and nitrogen-fixation
+- **Position-specific isotope measurements** (δ¹⁵N_bulk, δ¹⁸O) distinguish different nitrogen cycling pathways and can trace N₂O formation through denitrification in freshwater systems
 - **Biomarker distributions**: Different nitrifier and denitrifier lipids indicate which processes dominate
 - **Carbon-nitrogen ratios** in organic matter reflect productivity and nitrogen availability
-- **Sediment composition**: Organic-rich deposits (black shales, sapropels) indicate enhanced productivity coupled to specific nitrogen cycling regimes
+- **Sediment composition**: Organic-rich deposits (black shales, sapropels, humic lake sediments) indicate enhanced productivity coupled to specific nitrogen cycling regimes
+- **N₂O signatures in modern systems**: The isotopic composition of dissolved N₂O provides direct evidence for the relative contributions of nitrification versus denitrification in forming atmospheric N₂O emissions
 
 ## Modern Applications
 
@@ -68,9 +71,9 @@ Understanding past nitrogen cycle changes helps interpret:
 - [[Nitrification]] — Aerobic ammonia oxidation
 - [[Anammox]] — Anaerobic ammonia oxidation
 - [[NitrogenFixation]] — Biological N₂ conversion to ammonia
+- [[HumicLakesGreenhouseGasCycling]] — Sedimentary denitrification and N₂O cycling in freshwater systems
 - [[DeepWaterAnoxia]] — Oxygen depletion in marine systems
 - [[OceanicAnoxicEvents]] — Past ocean anoxic episodes
 - [[MethylhopanoidBiosynthesisNitrification]] — Nitrifier biomarkers
 - [[SapropelNitrogenCycleCoupling]] — Nitrogen cycle feedbacks in Mediterranean sapropels
-- Source papers: ,
-- Source papers: [[Elling-2020pnas]] — Linking 2-methyl BHP synthesis to nitrogen cycling, [[Elling-2021epsl]] — Nitrogen cycling during Mediterranean sapropel events
+- Source papers: [[Elling-2020pnas]] — Linking 2-methyl BHP synthesis to nitrogen cycling, [[Elling-2021epsl]] — Nitrogen cycling during Mediterranean sapropel events, [[Barthel-2026jgr]] — Sedimentary denitrification in tropical humic lakes
