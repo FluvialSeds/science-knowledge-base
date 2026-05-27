@@ -8,6 +8,7 @@ Deterministic checks that must pass before commits.
 
 - [ ] All notes have one and only one tag from: `topic`, `concept`, `entity`, `project`, `log`
 - [ ] `created` and `updated` dates are in YYYY-MM-DD format
+- [ ] **CRITICAL: `updated` date matches today's date IF the note was edited today.** Every modification to body text, See also section, wikilinks, or sources MUST trigger an `updated:` date change. Stale `updated` dates indicate broken audit trails.
 - [ ] `sources` field is a list (empty list `[]` is allowed for initial seed notes only)
 - [ ] `source_count` exists and equals the length of `sources` list
 - [ ] All source paths in `sources` exist and are under `Raw/Sources/`

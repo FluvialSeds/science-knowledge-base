@@ -205,3 +205,28 @@ Added 4 new concept notes extracting distinct topics from previously ingested so
 *Logged: 2026-05-27 08:37:15*
 
 Created 5 new concept notes from 6 sources: HumicLakesGreenhouseGasCycling (Barthel 2026), AgedCarbonMobilizationTropicalPeatlands (Drake 2026), GreatOxidationEventMechanisms (Crockford 2026), ClumpedIsotopeThermalResetting (Kueter 2026, Looser 2023), HydrothermalDolomitization (Mueller 2026). Updated existing notes: ClumpedIsotopePaleothermometry (added Kueter & Looser), NitrogenCycle (added Barthel for freshwater denitrification), RadiocarbonOrganicMatter (added Drake for aged peat carbon). All maintenance checks passed.
+
+## Ingest: 6 source files and create concept network
+*Logged: 2026-05-27 20:46:51*
+
+Ingested 6 new source files (Bolandini-2025rad, Eglinton-2021pnas, Elling-2025pnas, Galili-2025as, Hemingway-2025tog, Ruff-2024fems) into Raw/Sources with full metadata verification. Created 12 new concept notes: OnlineRampedOxidationAMS, ThermalFractionationRadiocarbon, ClimateControlsTerrestrialOrganicMatterCycling, FattyAcidLigninPhenolRadiocarbonBiomarkers, QuinoneBiosynthesisAerobicMetabolismEvolution, MethylplastoquinoneAncientAerobicMetabolism, CavityRingDownSpectroscopyWaterIsotopes, HighThroughputWaterIsotopeMeasurement, MassIndependentFractionationAtmosphere, AtmosphericOxygenSulfurIsotopeRecords, DissolvedOxygenAnomaliesAnoxicEnvironments, DarkOxygenProductionPathways. Updated 6 existing concepts with new source references and expanded all related see-also cross-links. Catalog: 69 entries.
+
+## Fix: Integrate new sources into existing concepts
+*Logged: 2026-05-27 20:52:12*
+
+Corrected 6 existing concept notes to properly reflect newly ingested sources: (1) Updated 'updated' dates to 2026-05-27 for all modified notes; (2) Added direct wikilinks to new source papers in 'See also' sections; (3) Integrated substantive new content: BiomarkerIsotopeCompositionForPaleoreconstruction now includes section on climate-dependent radiocarbon biomarker ages; RadiocarbonAnalyticalMethods includes online ORO-AMS section; RadiocarbonOrganicMatter expanded with climate-dependent turnover and compound-specific ages; GreatOxidationEventMechanisms now discusses quinone biosynthesis and dark oxygen; DeepWaterAnoxia added section on dissolved oxygen anomalies. All builds/lint pass.
+
+## Fix: Complete source wikilinks in See also sections
+*Logged: 2026-05-27 20:58:44*
+
+Fixed 4 concept notes to ensure all metadata sources are wikilinked in See also sections: (1) DeepWaterAnoxia—added Ruff-2024fems and consolidated duplicate entries; (2) GreatOxidationEventMechanisms—added Elling-2025pnas and Hemingway-2025tog; (3) TripleOxygenIsotopes—added Hemingway-2025tog; (4) RadiocarbonOrganicMatter—consolidated two separate source paper bullets into single consolidated list. Also created lint-sources-protocol.md documenting requirement that all metadata.sources entries must be wikilinked in single See also bullet.
+
+## Fix: Update TripleOxygenIsotopes metadata date
+*Logged: 2026-05-27 21:01:40*
+
+Updated 'updated' date field from 2026-05-25 to 2026-05-27 to reflect today's edits to See also section. Established protocol: all concept note edits must immediately update the 'updated' date field to current date to maintain accurate change tracking.
+
+## Protocol: Establish updated date field enforcement across sessions
+*Logged: 2026-05-27 21:05:19*
+
+Documented and implemented 'updated' date field protocol to ensure every concept note edit is tracked. Updates made to: (1) CLAUDE.md—added metadata dates requirement to Ingest Quality Checklist; (2) Schema/frontmatter-schema.md—marked updated field CRITICAL with enforcement explanation; (3) Schema/workflow-examples.md—added section with examples of when to update dates; (4) Schema/lint-checklist.md—added date validation to checklist; (5) Schema/naming-conventions.md—added detailed conventions and rationale; (6) scripts/wiki_tool.py—enhanced lint function with validation for updated/created date format and logical ordering. Lint now enforces: updated exists, is YYYY-MM-DD format, and updated >= created. User memory created for persistent reference.

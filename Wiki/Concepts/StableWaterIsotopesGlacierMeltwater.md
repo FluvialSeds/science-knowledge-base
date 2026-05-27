@@ -4,7 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 sources:
   - "Raw/Sources/Boral-2019jh.md"
 source_count: 1
@@ -67,6 +67,8 @@ These dynamics are critical for understanding water security in regions dependen
 
 ## See also
 
+- [[CavityRingDownSpectroscopyWaterIsotopes]] — Modern CRDS instrumentation for high-precision water isotope analysis
+- [[HighThroughputWaterIsotopeMeasurement]] — Contemporary high-throughput water isotope measurement techniques
 - [[IsotopicProxiesPaleoceanography]] — Isotopic proxies for paleoceanographic reconstruction including water isotope tracers
 - [[CarbonIsotopeFractionationPlants]] — Stable isotope fractionation in environmental systems
 - [[ClayHydroxylIsotopesPaleoxyProbe]] — Oxygen isotopes in minerals as paleoclimate proxies

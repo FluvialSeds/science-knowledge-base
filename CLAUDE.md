@@ -117,6 +117,7 @@ Before committing any ingestion, verify:
 - ✓ **Concept filenames**: Use PascalCase (e.g., `DissolvedOrganicMatter.md`)—check existing files for naming pattern
 - ✓ **"See also" format**: Matches standard format with descriptions after " — " separator, includes source paper link
 - ✓ **Wikilinks**: Use PascalCase without hyphens (e.g., `[[NitrogenCycle]]` not `[[Nitrogen-Cycle]]`)
+- ✓ **Metadata dates updated**: For ANY edit to a concept note, update the `updated:` field to current date (YYYY-MM-DD). This includes new concept creation, See also edits, body text updates, and any other modifications.
 - ✓ **Maintenance checks pass**: `build`, `lint`, and `source-lint` all succeed
 - ✓ **Log entry**: Added to `Wiki/log.md` (not `Wiki/Logs/`)
 - ✓ **Source marked processed**: `Processed: true` in Raw source frontmatter

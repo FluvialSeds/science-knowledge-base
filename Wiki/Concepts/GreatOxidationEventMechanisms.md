@@ -7,7 +7,9 @@ created: 2026-05-27
 updated: 2026-05-27
 sources:
   - "Raw/Sources/Crockford-2026ncomms.md"
-source_count: 1
+  - "Raw/Sources/Elling-2025pnas.md"
+  - "Raw/Sources/Hemingway-2025tog.md"
+source_count: 3
 aliases:
   - "GOE mechanisms"
   - "Atmospheric oxygenation history"
@@ -48,8 +50,8 @@ Different regions—particularly ocean margins versus continental interiors—sh
 
 ## Biological and Geochemical Drivers of Oxygenation
 
-**Evolution of oxygenic photosynthesis:**
-The evolution of cyanobacteria capable of oxygenic photosynthesis was a prerequisite for atmospheric oxygen accumulation. However, the timing of cyanobacterial evolution relative to the GOE remains debated—evidence suggests cyanobacteria may have evolved prior to the GOE but initial oxygen production was locally restricted or rapidly consumed by reactions with reduced species in the oceans and atmosphere.
+**Evolution of aerobic respiration:**
+The evolution of cyanobacteria capable of oxygenic photosynthesis was a prerequisite for atmospheric oxygen accumulation. However, the timing of cyanobacterial evolution relative to the GOE remains debated. Recent evidence for [[QuinoneBiosynthesisAerobicMetabolismEvolution|quinone biosynthesis in ancient microbial lineages]] and [[MethylplastoquinoneAncientAerobicMetabolism|methyl-plastoquinone]] in Nitrospirota suggests cyanobacteria may have evolved prior to the GOE but initial oxygen production was locally restricted. Furthermore, [[DarkOxygenProductionPathways|dark oxygen production]] may have enabled aerobic metabolism before atmospheric oxygenation.
 
 **Organic matter sinking efficiency:**
 The fraction of photosynthetically produced organic matter that escapes respiration in surface waters and is buried in sediments directly controls net oxygen production:
@@ -86,9 +88,15 @@ The GOE represents the first major oxygen rise, but additional significant oxyge
 
 These later oxygenation events likely involved different biological innovations (diversification of multicellular life, evolution of terrestrial plants) and different geochemical drivers than the GOE.
 
-## Implications for Earth System Evolution
+## See also
 
-**Enabling aerobic metabolism:**
+- [[QuinoneBiosynthesisAerobicMetabolismEvolution]] — Quinone-based electron transport and ancient aerobic metabolism evolution
+- [[MethylplastoquinoneAncientAerobicMetabolism]] — Ancient aerobic metabolism biomarker in Nitrospirota
+- [[MassIndependentFractionationAtmosphere]] — O-MIF and S-MIF mechanisms for atmospheric oxygenation tracers
+- [[AtmosphericOxygenSulfurIsotopeRecords]] — Paleoceanographic applications of atmospheric isotope records
+- [[DarkOxygenProductionPathways]] — Abiotic and biotic oxygen production pathways
+- [[DissolvedOxygenAnomaliesAnoxicEnvironments]] — Oxygen heterogeneity in anoxic systems
+- Source papers: [[Crockford-2026ncomms]] — Paleoceanographic evidence for GOE timing and mechanisms; [[Elling-2025pnas]] — Quinone biosynthesis and ancient aerobic metabolism; [[Hemingway-2025tog]] — Mass-independent fractionation processes and paleoceanographic applications
 The rise of atmospheric oxygen enabled the evolution of aerobic respiration, which is far more energetically efficient than anaerobic fermentation. This metabolic innovation likely catalyzed the evolution of complex, multicellular organisms and contributed to the ecological diversification observed in the Proterozoic.
 
 **Ocean redox structure changes:**
@@ -110,9 +118,10 @@ New biomarker and genomic approaches may reveal when and where early aerobic met
 
 ## See also
 
-- [[PyriteBurialAtmosphericOxygen]] — Pyrite burial as a long-term oxygen source
-- [[TripleOxygenIsotopePaleoxyProbe]] — Triple oxygen isotope evidence for atmospheric oxygenation
-- [[OceanicAnoxicEvents]] — Younger examples of ocean anoxic perturbations
-- [[DeepWaterAnoxia]] — Oxygen minimum zone structure and controls
-- [[NitrogenCycle]] — Evolution of nitrogen cycling linked to oxygenation
-- Source papers: [[Crockford-2026ncomms]] — Revisiting mechanisms of the Great Oxidation Event
+- [[QuinoneBiosynthesisAerobicMetabolismEvolution]] — Quinone-based electron transport and ancient aerobic metabolism evolution
+- [[MethylplastoquinoneAncientAerobicMetabolism]] — Ancient aerobic metabolism biomarker in Nitrospirota
+- [[MassIndependentFractionationAtmosphere]] — O-MIF and S-MIF mechanisms for atmospheric oxygenation tracers
+- [[AtmosphericOxygenSulfurIsotopeRecords]] — Paleoceanographic applications of atmospheric isotope records
+- [[DarkOxygenProductionPathways]] — Abiotic and biotic oxygen production pathways
+- [[DissolvedOxygenAnomaliesAnoxicEnvironments]] — Oxygen heterogeneity in anoxic systems
+- Source papers: [[Crockford-2026ncomms]] — Paleoceanographic evidence for GOE timing and mechanisms; [[Elling-2025pnas]] — Quinone biosynthesis and ancient aerobic metabolism; [[Hemingway-2025tog]] — Mass-independent fractionation processes and paleoceanographic applications

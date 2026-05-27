@@ -2,6 +2,28 @@
 
 Consistent naming makes the vault easier to navigate and query.
 
+## Metadata Field Conventions
+
+### Updated Date Field
+
+The `updated:` date field is critical for maintaining change tracking and audit trails. **It MUST be updated to the current date (YYYY-MM-DD) for every edit to a concept note.**
+
+**Trigger updates for:**
+- Creating a new concept note (set `updated:` = today)
+- Adding/removing body text content
+- Updating the See also section
+- Adding/removing/modifying wikilinks
+- Changing source metadata
+- Any other structural or content modification
+
+**Do NOT update if:** Only reading/viewing the file (no changes made)
+
+**Example:**
+```yaml
+created: 2026-05-24      # NEVER changes
+updated: 2026-05-27      # Changed today — reflects current edit
+```
+
 ## File Naming
 
 ### Format

@@ -4,10 +4,11 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-27
 sources:
   - "Raw/Sources/Hemingway-2017rad.md"
-source_count: 1
+  - "Raw/Sources/Bolandini-2025rad.md"
+source_count: 2
 aliases:
   - "Radiocarbon measurement"
   - "Blank carbon correction"
@@ -47,6 +48,17 @@ The impact of blank carbon scales inversely with sample size:
 
 During thermal analysis (such as [[RampedPyrolysisOxidation|RPO]]), kinetic isotope fractionation can occur—the preferential release of ¹²C vs ¹³C at different temperatures due to differences in bond-breaking kinetics. This fractionation must be accounted for to avoid biased stable isotope and radiocarbon measurements.
 
+## Modern Advances: Online ORO-AMS
+
+Modern instrumental development has dramatically improved radiocarbon analysis capabilities through [[OnlineRampedOxidationAMS|online ramped oxidation (ORO) coupled to accelerator mass spectrometry (AMS)]]. This approach enables direct, real-time measurement of radiocarbon ages across [[ThermalFractionationRadiocarbon|thermal fractions]], eliminating the need for offline CO₂ collection and processing. Online ORO-AMS provides:
+
+- **Enhanced throughput**: 2–3× faster analysis per sample compared to offline RPO-IRMS + separate radiocarbon measurement
+- **Reduced contamination**: Closed-system design minimizes blank carbon introduction
+- **Direct thermal-radiocarbon coupling**: Simultaneous measurement of thermal release (CO₂ yield) and ¹⁴C/¹²C reveals how radiocarbon age varies with bond strength, providing mechanistic insight into carbon preservation
+- **Lower carbon requirements**: Efficient CO₂ ionization reduces minimum sample carbon requirements
+
+These advances enable large-scale paleoclimate and paleoceanographic studies previously limited by analytical throughput.
+
 ## Quality Assurance
 
 **Critical measurements for method validation:**
@@ -57,7 +69,9 @@ During thermal analysis (such as [[RampedPyrolysisOxidation|RPO]]), kinetic isot
 
 ## See also
 
+- [[OnlineRampedOxidationAMS]] — Modern online ORO-AMS approach enabling direct thermal fractionation radiocarbon measurement
+- [[ThermalFractionationRadiocarbon]] — Thermal fractionation patterns in radiocarbon dating
 - [[RampedPyrolysisOxidation]] — Thermal analysis technique requiring blank correction
 - [[RadiocarbonOrganicMatter]] — Application of corrected radiocarbon data to source partitioning
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical foundations for isotope measurements
-- Source paper: [[Hemingway-2017rad]] — Detailed blank carbon assessment for NOSAMS RPO
+- Source papers: [[Hemingway-2017rad]] — Detailed blank carbon assessment for NOSAMS RPO; [[Bolandini-2025rad]] — Online ORO-AMS development and thermal dissection radiocarbon dating

@@ -11,7 +11,9 @@ sources:
   - "Raw/Sources/Hemingway-2019nat.md"
   - "Raw/Sources/Hemingway-2021og.md"
   - "Raw/Sources/Drake-2026natgeo.md"
-source_count: 5
+  - "Raw/Sources/Eglinton-2021pnas.md"
+  - "Raw/Sources/Bolandini-2025rad.md"
+source_count: 7
 aliases:
   - "Radiocarbon dating"
   - "Δ¹⁴C"
@@ -53,6 +55,12 @@ In large rivers, Δ¹⁴C measurements on particulate organic matter (POM) revea
 - Modern Δ¹⁴C indicates fresh vegetation and in-stream production
 - Pre-aged (negative Δ¹⁴C) indicates soil-derived or geological organic matter
 - Mixing relationships allow quantification of multi-source POM composition
+
+**Climate-dependent variability:**
+[[ClimateControlsTerrestrialOrganicMatterCycling|Climate strongly controls the age of terrestrial organic matter exported by rivers]]. Warmer regions export younger carbon due to faster soil decomposition rates, while colder regions export old carbon accumulated in soils for centuries to millennia. This climate-dependent relationship means that paleoclimate changes alter biomarker radiocarbon ages in predictable ways, enabling past temperature or precipitation changes to be inferred from ancient fluvial or marine records.
+
+**Compound-specific ages:**
+[[FattyAcidLigninPhenolRadiocarbonBiomarkers|Different biomarker compounds]] have distinct radiocarbon ages reflecting their lability: fatty acids are typically younger (more readily decomposed) than lignin phenols (more resistant to degradation) from the same sample. This multi-compound approach enables more refined paleoclimate reconstructions.
 
 **Temporal variability:**
 - Discharge-driven changes in Δ¹⁴C document shifts in contributing watersheds
@@ -110,6 +118,10 @@ Together, these methods provide a multi-tracer framework for understanding organ
 
 - [[RampedPyrolysisOxidation]] — Analytical technique revealing radiocarbon ages across bond strengths
 - [[RadiocarbonAnalyticalMethods]] — Blank correction and measurement protocols
+- [[OnlineRampedOxidationAMS]] — Modern ORO-AMS enabling thermal fractionation radiocarbon dating
+- [[ThermalFractionationRadiocarbon]] — Thermal fractionation patterns
+- [[ClimateControlsTerrestrialOrganicMatterCycling]] — Climate-dependent organic matter turnover times
+- [[FattyAcidLigninPhenolRadiocarbonBiomarkers]] — Compound-specific radiocarbon biomarkers
 - [[OrganicCarbonPreservation]] — How radiocarbon ages reveal preservation mechanisms
 - [[OrganoMineralBonds]] — Mineral protection and radiocarbon age persistence
 - [[AgedCarbonMobilizationTropicalPeatlands]] — Millennially-aged carbon mobilization from peatlands to lake systems
@@ -118,4 +130,4 @@ Together, these methods provide a multi-tracer framework for understanding organ
 - [[PlantWaxBiomarkers]] — Plant-derived organic matter characterization
 - [[GDGTBiomarkers]] — Membrane lipid biomarkers and source discrimination
 - [[DissolvedOrganicMatter]] — Sources and composition of dissolved organic matter in aquatic systems
-- Source papers: [[Hemingway-2017cg]] — radiocarbon in Congo POM, [[Hemingway-2017rad]] — analytical methods, [[Hemingway-2019nat]] — radiocarbon and mineral protection, [[Hemingway-2021og]] — biomarker radiocarbon and biosynthetic fractionation, [[Drake-2026natgeo]] — millennially-aged carbon in Congo Basin humic lakes
+- Source papers: [[Hemingway-2017cg]] — Radiocarbon in Congo particulate organic matter; [[Hemingway-2017rad]] — Radiocarbon analytical methods and blank correction; [[Hemingway-2019nat]] — Radiocarbon and mineral protection mechanisms; [[Hemingway-2021og]] — Biomarker radiocarbon and biosynthetic fractionation; [[Drake-2026natgeo]] — Millennially-aged carbon in Congo Basin humic lakes; [[Eglinton-2021pnas]] — Climate controls on fluvial biomarker radiocarbon ages; [[Bolandini-2025rad]] — Online ORO-AMS thermal dissection radiocarbon dating

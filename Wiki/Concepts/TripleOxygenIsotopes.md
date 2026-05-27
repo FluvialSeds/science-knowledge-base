@@ -4,11 +4,12 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-27
 sources:
   - "Raw/Sources/Hemingway-2020pnas.md"
   - "Raw/Sources/Hemingway-2022gca.md"
-source_count: 2
+  - "Raw/Sources/Hemingway-2025tog.md"
+source_count: 3
 aliases:
   - "Δ¹⁷O"
   - "Delta17O"
@@ -75,10 +76,17 @@ While Δ¹⁷O in sulfate minerals preserves information about atmospheric and b
 **Improved methodology:**
 Combining Δ¹⁷O with other isotopic tracers (δ³⁴S, δ¹⁸O, Δ⁴⁷ clumped isotopes) and detailed process understanding improves paleoenvironmental interpretations.
 
+## Atmospheric Signatures and Paleoclimate Applications
+
+[[MassIndependentFractionationAtmosphere|Mass-independent fractionation (MIF)]] in oxygen and sulfur systems provides complementary atmospheric tracers. [[AtmosphericOxygenSulfurIsotopeRecords|Atmospheric O-MIF and S-MIF records]] preserve information about oxygen evolution and paleoceanographic conditions, with applications to [[GreatOxidationEventMechanisms|Great Oxidation Event]] reconstruction and paleoproductivity estimation.
+
 ## See also
 
+- [[MassIndependentFractionationAtmosphere]] — Mechanisms of O-MIF and S-MIF generation
+- [[AtmosphericOxygenSulfurIsotopeRecords]] — Paleoceanographic applications of atmospheric isotope records
 - [[SulfoxyanionIsotopeEffects]] — Equilibrium fractionation factors for sulfur-cycle intermediates
 - [[RadiocarbonOrganicMatter]] — Radioactive isotope tracing in biogeochemical cycles
 - [[CarbonIsotopeFractionationPlants]] — Mass-dependent fractionation in photosynthesis
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for isotope measurements
-- Source papers: [[Hemingway-2020pnas]] — oxygen isotopes in terrestrial pyrite oxidation, [[Hemingway-2022gca]] — computational fractionation factors
+- [[GreatOxidationEventMechanisms]] — GOE timing and mechanisms
+- Source papers: [[Hemingway-2020pnas]] — Oxygen isotopes in terrestrial pyrite oxidation; [[Hemingway-2022gca]] — Computational fractionation factors; [[Hemingway-2025tog]] — Mass-independent fractionation processes in the atmosphere

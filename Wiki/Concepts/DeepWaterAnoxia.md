@@ -4,10 +4,11 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-27
 sources:
   - "Raw/Sources/Elling-2021epsl.md"
-source_count: 1
+  - "Raw/Sources/Ruff-2024fems.md"
+source_count: 2
 aliases:
   - "Deep-water oxygen depletion"
   - "Anoxic basins"
@@ -65,21 +66,25 @@ When deep water becomes anoxic, the [[NitrogenCycle|nitrogen cycle]] shifts dram
 - **Trace metal enrichments**: Metals like molybdenum, copper, and uranium concentrate under anoxic conditions
 - **Isotope anomalies**: Unusual δ¹⁵N and δ¹³C values reflect anaerobic [[NitrogenCycle|nitrogen cycling]]
 
-## Modern Relevance
+## Modern Relevance and Hidden Oxygen Dynamics
 
-Ocean  is expanding in modern times due to:
+Ocean deoxygenation is expanding in modern times due to:
 - Climate warming reducing oxygen solubility
 - Intensified stratification limiting oxygen replenishment
 - Coastal eutrophication increasing oxygen demand
 - Altered circulation patterns reducing ventilation
 
-Understanding how past anoxic events (like [[OceanicAnoxicEvents|oceanic anoxic events]] and [[SapropelNitrogenCycleCoupling|Mediterranean sapropels]]) developed and persisted provides insights into how modern ocean deoxygenation will proceed and what ecosystem changes to expect.
+However, recent discoveries of [[DissolvedOxygenAnomaliesAnoxicEnvironments|dissolved oxygen anomalies in apparently anoxic environments]] reveal that oxygen is far more heterogeneously distributed than previously recognized. [[DarkOxygenProductionPathways|Dark oxygen generation]] through abiotic water radiolysis and biotic pathways (particularly nitrogen compound disproportionation) creates localized oxygen oases within otherwise anoxic zones. These hidden oxygen dynamics complicate our understanding of anoxic system biogeochemistry and suggest that even ancient, apparently anoxic ocean basins may have harbored dispersed aerobic microbial communities.
+
+Understanding how past anoxic events (like [[OceanicAnoxicEvents|oceanic anoxic events]] and [[SapropelNitrogenCycleCoupling|Mediterranean sapropels]]) developed and persisted provides insights into how modern ocean deoxygenation will proceed and what ecosystem changes to expect. The discovery that anoxic systems contain cryptic oxygen sources suggests that oxygen-dependent processes may have been more prevalent in ancient anoxic oceans than bulk geochemical proxies indicate.
 
 ## See also
 
 - [[NitrogenCycle]] — Nitrogen cycling processes
-- [[Anammox]] — Anaerobic ammonia oxidation under anoxic conditions
-- [[Nitrification]] — Aerobic ammonia oxidation (suppressed under anoxia)
-- [[OceanicAnoxicEvents]] — Past widespread ocean anoxic episodes
-- [[SapropelNitrogenCycleCoupling]] — Anoxia development during Mediterranean sapropel formation
-- Source paper: [[Elling-2021epsl]] — Estimates anoxia during Mediterranean sapropel events
+- [[Nitrification]] — Aerobic nitrification processes
+- [[DissolvedOxygenAnomaliesAnoxicEnvironments]] — Oxygen anomalies in apparently anoxic environments
+- [[DarkOxygenProductionPathways]] — Dark oxygen production mechanisms
+- [[Anammox]] — Anaerobic ammonia oxidation
+- [[OceanicAnoxicEvents]] — Oceanic anoxic events
+- [[SapropelNitrogenCycleCoupling]] — Sapropel formation and nitrogen cycling
+- Source paper: [[Elling-2021epsl]] — Nitrogen cycling and deep-water anoxia during sapropel formation; [[Ruff-2024fems]] — Widespread dark oxygen production in anoxic environments

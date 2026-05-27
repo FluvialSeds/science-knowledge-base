@@ -59,7 +59,7 @@ aliases: []
 | `topics` | list | No | Related topic links (wikilinks to topic notes) |
 | `status` | string | No | Status: `seed`, `draft`, `stable`, `archived` |
 | `created` | date | Yes | Date the note was created (YYYY-MM-DD) |
-| `updated` | date | Yes | Date the note was last updated (YYYY-MM-DD) |
+| `updated` | date | Yes | **CRITICAL: Date the note was last updated (YYYY-MM-DD). MUST be updated for ANY edit—new content, See also changes, wikilink additions, or any other modification.** This field maintains accurate change tracking and audit trails. |
 | `sources` | list | Yes | List of Raw source paths that support this note |
 | `source_count` | integer | Yes | Must equal the length of `sources` (for lint validation) |
 | `aliases` | list | No | Alternative names for this note (used by Obsidian link suggestions) |

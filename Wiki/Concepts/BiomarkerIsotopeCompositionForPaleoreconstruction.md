@@ -4,10 +4,11 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-27
 sources:
   - "Raw/Sources/Inglis-2022areps.md"
-source_count: 1
+  - "Raw/Sources/Eglinton-2021pnas.md"
+source_count: 2
 aliases:
   - "Biomarker compound-specific isotopes"
   - "Isotopic signatures in organic biomarkers"
@@ -36,10 +37,23 @@ The oxygen isotopic composition (δ¹⁸O) of biomarkers, including the OH group
 
 Multivariate biomarker isotope analysis enables quantitative reconstruction of specific paleoclimate variables. Temperature reconstructions leverage the temperature-dependent fractionation of deuterium and oxygen isotopes during lipid synthesis, calibrated against modern vegetation samples. Precipitation reconstructions use the relationship between δD of plant water and δD of local precipitation. The integration of multiple isotope systems (δD, δ¹³C, δ¹⁸O) from different biomarker compounds provides independent constraints that reduce uncertainty in paleoclimate estimates and enable detection of compound-specific processes or source variation that might confound single-proxy interpretations.
 
+## Radiocarbon Ages of Biomarkers as Climate Tracers
+
+Biomarker [[RadiocarbonOrganicMatter|radiocarbon ages]] (Δ¹⁴C) reveal how different compounds reflect organic matter cycling rates controlled by climate. Analysis of 36 global rivers shows that radiocarbon ages of [[FattyAcidLigninPhenolRadiocarbonBiomarkers|fatty acids and lignin phenols]] vary systematically with climate:
+
+- **Tropical rivers** (warm climate): Export young fatty acids and lignin phenols, indicating rapid soil carbon cycling and decomposition
+- **Cold rivers** (high latitude): Export old biomarkers, reflecting slow soil organic matter turnover times of centuries to millennia
+- **Compound-specific patterns**: Fatty acids are typically younger (more labile) than lignin phenols (more refractory) from the same sample, providing multiple independent age constraints
+
+This climate-dependent biomarker aging relationship enables paleoclimate reconstruction from ancient fluvial or marine records: changes in biomarker radiocarbon ages reflect past shifts in temperature or moisture regime that altered decomposition rates. Additionally, the age stratification (young labile compounds vs. old refractory compounds) indicates whether preservation mechanisms have changed through time, distinguishing true paleoclimate shifts from changes in organic matter preservation.
+
 ## See also
 
 - [[PlantWaxBiomarkers]] — Plant wax lipids as paleovegetation and ecosystem proxies
 - [[CarbonIsotopeFractionationPlants]] — Carbon isotope fractionation in photosynthesis
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical methods for measuring isotope ratios in individual compounds
+- [[RadiocarbonOrganicMatter]] — Radiocarbon ages as tracers of organic matter cycling
+- [[ClimateControlsTerrestrialOrganicMatterCycling]] — Climate controls on organic matter cycling in rivers
+- [[FattyAcidLigninPhenolRadiocarbonBiomarkers]] — Fatty acid and lignin phenol radiocarbon biomarkers
 - [[IsotopicProxiesPaleoceanography]] — Framework for using stable isotopes to reconstruct paleoenvironments
-- Source paper: [[Inglis-2022areps]] — Comprehensive review of biomarker approaches for terrestrial paleoenvironmental reconstruction
+- Source papers: [[Inglis-2022areps]] — Comprehensive review of biomarker approaches for terrestrial paleoenvironmental reconstruction; [[Eglinton-2021pnas]] — Climate controls on fluvial biomarker radiocarbon ages

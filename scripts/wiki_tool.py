@@ -158,6 +158,23 @@ class WikiTool:
             if not tags or not any(t in valid_tags for t in tags):
                 errors.append(f"{note_path}: Invalid or missing tag (must be one of {valid_tags})")
 
+            # Check created and updated dates
+            created = frontmatter.get("created")
+            updated = frontmatter.get("updated")
+            date_pattern = r"^\d{4}-\d{2}-\d{2}$"
+            
+            if not created:
+                errors.append(f"{note_path}: Missing 'created' date")
+            elif not re.match(date_pattern, str(created)):
+                errors.append(f"{note_path}: 'created' date not in YYYY-MM-DD format: {created}")
+            
+            if not updated:
+                errors.append(f"{note_path}: Missing 'updated' date")
+            elif not re.match(date_pattern, str(updated)):
+                errors.append(f"{note_path}: 'updated' date not in YYYY-MM-DD format: {updated}")
+            elif created and updated < created:
+                errors.append(f"{note_path}: 'updated' date ({updated}) is before 'created' date ({created})")
+
             # Check source_count
             sources = frontmatter.get("sources", [])
             source_count = frontmatter.get("source_count", 0)

@@ -47,6 +47,28 @@ aliases:
   - "Neural net"
   - "ANN"
 ---
+```
+
+### Critical Rule: Updated Date Field
+
+**The `updated:` field MUST be changed every time ANY edit is made to a compiled note.** This includes:
+
+- ✓ Creating a new concept note (set `updated:` to today's date)
+- ✓ Adding or removing content from the body text
+- ✓ Updating the See also section with new wikilinks or descriptions
+- ✓ Adding sources to the metadata
+- ✓ Fixing wikilink formatting or correcting typos
+- ✓ Any structural or content modification
+
+**Example:** If you edit `Artificial Neural Network` on 2024-01-25 to add new wikilinks in the See also section:
+
+```yaml
+---
+...
+created: 2024-01-20
+updated: 2024-01-25  # Changed from 2024-01-20 → reflects today's edit
+...
+---
 
 # Artificial Neural Network
 
