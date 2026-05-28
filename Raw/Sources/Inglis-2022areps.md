@@ -30,3 +30,5 @@ The review demonstrates that multiple independent biomarker proxies, when analyz
 ## Implications
 
 Biomarker approaches provide high-resolution paleoenvironmental records that enable quantitative reconstruction of physical climate variables, ecosystem composition and function, and biogeochemical cycling in terrestrial systems across millions of years. These proxies are particularly valuable for understanding how terrestrial ecosystems respond to abrupt climate change, with direct implications for predicting terrestrial ecosystem responses to future anthropogenic warming. The methodological frameworks reviewed here enable paleoclimatologists to move beyond binary ecosystem state descriptions toward quantitative, continuous paleoclimate reconstructions. Analyzing multiple biomarkers in tandem maximizes the information extracted from geological records while also providing internal consistency checks on paleoenvironmental interpretations.
+
+![[Inglis-2022areps.pdf]]

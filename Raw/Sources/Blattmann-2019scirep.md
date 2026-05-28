@@ -33,3 +33,5 @@ Major dissolved ion chemistry and radiocarbon signatures of DIC reveal the impor
 ## Implications
 
 The results reveal that weathering on Taiwan is offset by burial of terrestrial biospheric organic carbon in offshore sediments, tipping the balance such that the overall system acts as a net sink, consuming 0.24 ± 0.13 MtC/yr of atmospheric CO₂ over geological timescales. This study demonstrates that sulphuric acid weathering plays a crucial role in regulating long-term atmospheric CO₂ concentrations in rapidly eroding orogens.
+
+![[Blattmann-2019scirep.pdf]]

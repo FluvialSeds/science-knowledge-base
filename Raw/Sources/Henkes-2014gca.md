@@ -31,3 +31,5 @@ Laboratory heating experiments yielded Arrhenius parameters indistinguishable fr
 ## Implications
 
 Temperature–time diagrams were developed showing domains where primary clumped isotope compositions will be preserved, partially reordered, or fully reordered in calcite. These diagrams enable prediction of preservation fidelity for fossil carbonate paleothermometers in specific burial scenarios. The study concludes that calcite samples dwelling at ≤100°C for 10⁶–10⁸ year timescales should not experience significant solid-state C–O bond reordering. This framework allows researchers to assess whether observed clumped isotope paleothermatures reflect primary paleoenvironmental conditions or have been thermally altered by burial, thereby improving confidence in paleoclimate reconstructions from fossil carbonate archives.
+
+![[Henkes-2014gca.pdf]]

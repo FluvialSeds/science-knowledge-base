@@ -30,3 +30,5 @@ The HTC-IRMS method achieves precision of ±0.15‰ (1σ, n = 28) for oxygen-iso
 ## Implications
 
 This novel HTC-IRMS method dramatically expands access to oxygen-isotope measurements of iron oxides by eliminating the need for specialized fluorination equipment and hazardous chemical handling. The improved precision and accessibility enhance the utility of iron oxide oxygen isotopes as palehydrologic and paleoclimate proxies in Earth and environmental sciences. The technique enables more researchers worldwide to employ iron oxide δ¹⁸O as a quantitative tracer for reconstructing past environmental conditions, hydrologic variability, and paleoclimate evolution across diverse settings and timescales.
+
+![[Galili-2025analchem.pdf]]

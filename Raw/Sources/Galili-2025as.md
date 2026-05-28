@@ -31,3 +31,5 @@ Long-term precision evaluated over one year using three USGS reference materials
 ## Implications
 
 The demonstrated long-term CRDS performance establishes that cavity ring-down spectroscopy using "Express" mode is a reliable tool for high-throughput water stable isotope analysis when implemented with careful methodology and continuous quality control. This framework enables widespread application of CRDS in hydrology (tracing water provenance and mixing), paleoclimatology (understanding past hydrological cycles), and biogeochemistry (tracking biological water uptake and cycling). The study provides practical guidance for CRDS users, documenting the system's capabilities and limitations based on empirical long-term operational experience. Results confirm that independent (manufacturer-independent) long-term precision and accuracy evaluation is essential for establishing confidence in optical isotope measurement methods and that continuous methodological refinement is required to maintain high-quality analytical results.
+
+![[Galili-2025as.pdf]]

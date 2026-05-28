@@ -31,3 +31,5 @@ A disordered kinetic model successfully describes the temperature and time depen
 ## Implications
 
 The disordered kinetic model provides a mechanistic framework for interpreting clumped isotope records in real geological samples with complex thermal histories. Applications include improved paleoclimate reconstructions from sedimentary carbonates, assessment of thermal alteration in buried strata, and optimization of sample selection and analytical approaches for paleoclimate studies. This work advances understanding of isotope kinetics in minerals and improves confidence in paleothermometric reconstructions from clumped isotope data.
+
+![[Hemingway-2021epsl.pdf]]

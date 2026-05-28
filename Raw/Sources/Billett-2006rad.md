@@ -33,3 +33,5 @@ Evasion rates on the main stream channel varied from 14 to 475 μg CO₂ m⁻² 
 ## Implications
 
 Recent methodological advances in using zeolite molecular sieves provide the opportunity to make direct measurements of ¹⁴CO₂ in various field situations without chemical manipulation of water samples. This direct method removes significant uncertainties associated with previous indirect approaches based on acidification and gas stripping of dissolved inorganic carbon. The ability to age and source evaded CO₂ directly will enhance understanding of carbon transport and cycling in the soil-water-atmosphere system, particularly in peatlands and tropical river systems.
+
+![[Billett-2006rad.pdf]]

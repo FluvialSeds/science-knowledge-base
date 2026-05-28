@@ -30,3 +30,5 @@ Glacier meltwater fractional contributions varied substantially over space and t
 ## Implications
 
 This study demonstrates that glacier meltwater contributions to Himalayan rivers exhibit complex seasonal dynamics driven by multiple mechanisms: protracted release of glacier meltwater from previous melting, rain-induced glacier melting triggered by ISM rainfall, and seasonal variability in snow cover and drainage network efficiency. The finding that glacier meltwater proportions are highest during warm ISM and post-ISM seasons (contrary to conventional expectations of peak contributions during hot pre-ISM months) has important implications for understanding hydrologic responses to climate change. The role of rain-induced glacier melting represents an under-appreciated mechanism that should be considered in hydrological models predicting future water availability in South Asian river systems dependent on Himalayan glaciers. These results underscore the value of ground-based isotopic observations for constraining water source contributions and improving process-based understanding of glacier-fed river systems.
+
+![[Boral-2019jh.pdf]]

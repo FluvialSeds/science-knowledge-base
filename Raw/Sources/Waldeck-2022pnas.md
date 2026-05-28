@@ -32,3 +32,5 @@ The stable isotope composition of seawater sulfate records the biogeochemical cy
 ## Implications
 
 The covariance between marine sulfate δ¹⁸O and δ³⁴S over the past 130 million years reveals that the composition of the marine sulfate reservoir is under strict control by microbial processes, particularly sulfate reduction. The apparent lack of a direct atmospheric O₂ signal in the triple oxygen isotope record indicates that biogeochemical cycling dominates over passive atmospheric influence, suggesting that changes in microbial metabolism and primary productivity have been the primary drivers of sulfate isotope variations throughout the Cretaceous and Cenozoic. These findings demonstrate the fundamental importance of microbial processes in regulating the chemical composition of the oceans across geological timescales.
+
+![[Waldeck-2022pnas.pdf]]

@@ -31,3 +31,5 @@ All eight studied aerobic Nitrospirota species contained mPQ (varying in polypre
 ## Implications
 
 The identification of mPQ and its ancient evolutionary origin demonstrate that the three modern HPQ types all evolved from a common ancestor that existed well before atmospheric oxygen accumulation. This evidence indicates that Cyanobacteriota and Pseudomonadota (and likely Nitrospirota) were ancestrally aerobic organisms capable of using high-potential quinones for efficient aerobic respiration, predating the Great Oxygenation Event by potentially 1+ billion years. The evolution of HPQs to reduce oxidative stress in aerobic conditions may have driven early diversification of aerobic metabolism in anoxic or weakly oxygenated niches. This work changes our understanding of when and how aerobic metabolism evolved and suggests that oxygen-utilizing metabolisms emerged and diversified in microbial lineages long before atmospheric oxygenation, with important implications for early Earth biogeochemistry.
+
+![[Elling-2025pnas.pdf]]

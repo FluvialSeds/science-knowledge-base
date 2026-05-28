@@ -33,3 +33,5 @@ Both δ²H and δ¹⁸O followed similar seasonal patterns with steady increase 
 ## Implications
 
 Depleted Δ¹⁴C-DIC and δ¹³C-DIC values during wet seasons reflect carbonate mineral dissolution involving soil-derived CO₂, while higher Δ¹⁴C and enriched δ¹³C-DIC values during dry seasons mirror atmospheric CO₂ signatures, implying supply by silicate weathering. Results show that different hydrological flow regimes play unique roles in regulating chemical weathering processes and seasonal variations in isotope systematics and export fluxes of both DIC and strontium from the Mississippi River.
+
+![[Cai-2020cg.pdf]]

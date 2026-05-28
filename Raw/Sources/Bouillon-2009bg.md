@@ -33,3 +33,5 @@ Biogeochemical signatures in headwater streams were highly variable. Along the m
 ## Implications
 
 Results indicate rapid remineralization of labile carbon pools in the river system. Despite high turbidity, the combination of relatively high oxygen saturation, low δ¹⁸O signatures of dissolved O₂, and low pCO₂ suggest significant in-stream primary production. The study demonstrates that carbon cycling in river systems is complex, with different fractions having different reactivities and remineralization rates controlled by hydrological retention and storage zones such as floodplains.
+
+![[Bouillon-2009bg.pdf]]

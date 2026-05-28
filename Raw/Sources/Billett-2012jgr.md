@@ -33,3 +33,5 @@ The δ¹³C composition of organic carbon differed significantly from dissolved 
 ## Implications
 
 Natural pipes vent old, deep peat CO₂ and POC (but not DOC) to the atmosphere, indicating that pipeflow provides connectivity with deep peat carbon stores. The sources of CO₂ and CH₄ are significantly more variable and dynamic than DOC and POC, suggesting that changing pipeflow patterns associated with environmental change may alter carbon export dynamics from peatlands.
+
+![[Billett-2012jgr.pdf]]

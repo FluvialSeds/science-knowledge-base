@@ -60,3 +60,5 @@ The findings challenge current assumptions in gross oxygen production estimates 
 For paleoclimate reconstructions, the work underscores that assumptions about constant isotope effect values may not hold across different climate states, and that paleoenvironmental changes affecting microbial communities or DOC composition would alter the isotope fractionation landscape and thus affect paleoproductivity estimates based solely on dissolved oxygen triple-oxygen isotope measurements.
 
 The revised understanding of oxygen isotope systematics provides a more accurate framework for using marine dissolved oxygen as a tracer of biogeochemical cycling and productivity across timescales from modern observations to ancient climate transitions.
+
+![[Sutherland-2022pnex.pdf]]

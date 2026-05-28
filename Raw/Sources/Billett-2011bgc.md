@@ -33,3 +33,5 @@ The δ¹³CVPDB values of DOC (range -28.3 to -28.8‰) were generally more ¹³
 ## Implications
 
 Contrary to other studies, the isotopic compositions of DOC and evasion CO₂ were very similar, suggesting a predominantly single carbon source (decomposition of soil organic matter) during the snowmelt period. No evidence suggests release of old (pre-bomb) carbon at the end of winter, though the drained site was associated with more ¹⁴C-depleted and ¹³C-enriched evasion CO₂, suggesting closer linkage to atmospheric CO₂. Results demonstrate strong connectivity between carbon cycling in the soil–plant–water system of boreal peatlands.
+
+![[Billett-2011bgc.pdf]]

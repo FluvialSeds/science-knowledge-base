@@ -30,3 +30,5 @@ Initial results demonstrate that the ORO-DTI-AMS system achieves long-term preci
 ## Implications
 
 The ORO-DTI-AMS system significantly enhances the utility of ramped oxidation for paleoclimate and biogeochemical research by streamlining sample processing and improving throughput. Direct online coupling eliminates manual CO₂ trapping, graphitization, and target preparation steps that previously required days per sample. Rapid, automated analysis enables large-scale surveys of soil carbon turnover dynamics, sediment provenance, organo-mineral interactions, petrogenic carbon transport, and age constraints for chronostratigraphic models. The ability to rapidly generate high-resolution ¹⁴C age depth profiles for organic matter components will improve understanding of carbon cycling across soils, sediments, and fluvial systems at multiple temporal scales.
+
+![[Bolandini-2025rad.pdf]]

@@ -265,3 +265,8 @@ Fixed 8 new concept files: changed status from seed to stable; consolidated sour
 *Logged: 2026-05-28 23:06:15*
 
 Removed extra tags from all 8 new concept files. All concept notes now have single tag: 'concept' only, conforming to standard schema.
+
+## PDF Embeddings: All Source Files
+*Logged: 2026-05-28 23:10:10*
+
+Added PDF wikilinks to all 58 source files in Raw/Sources. Each source file now embeds its corresponding PDF from Raw/Files using Obsidian wikilink format ![[FileName.pdf]]. Format matches user template from Alin-2008jgr.md.

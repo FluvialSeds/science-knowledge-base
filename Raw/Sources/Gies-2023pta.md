@@ -42,3 +42,5 @@ GDGTs serve as diagnostic tracers of soil-derived organic carbon because their r
 The correlation of GDGT radiocarbon ages with topsoil (0–30 cm) radiocarbon age indicates that these compounds reflect active soil cycling zones rather than deep, ancient soil carbon. For paleoenvironmental applications, GDGT-based radiocarbon measurements provide quantitative constraints on soil carbon turnover and erosional export, complementing plant biomarker records. The offset between GDGT and plant biomarker ¹⁴C ages can be used to partition how much exported organic carbon derives from soil versus fresh vegetation, improving paleoclimate reconstructions.
 
 The findings underscore that mineral stabilization, not just selective preservation of recalcitrant compounds, drives the long residence times observed for terrestrial organic matter in soil systems and during fluvial export to oceans.
+
+![[Gies-2023pta.pdf]]

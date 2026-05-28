@@ -30,3 +30,5 @@ The analysis reveals that: (1) OCpetro is prevalent in surface environments glob
 ## Implications
 
 Incorporating OCpetro into soil carbon models is essential for accurate carbon cycle accounting, especially given ongoing climate change and accelerating bedrock weathering in high-latitude and -altitude regions. The authors argue that conceptualizing the bedrock–soil continuum as a unified system, rather than discrete Earth System compartments, is critical for resolving OCpetro cycling processes. Cross-disciplinary collaboration between soil scientists, geochemists, and ecosystem ecologists is urgently needed to quantify OCpetro transport rates, microbial decomposition kinetics, priming effects, and response to land management. Better understanding OCpetro dynamics will improve soil carbon models, enable more accurate projections of soil carbon response to climate change, and help design effective land-management strategies for carbon sequestration and Net Zero emissions goals.
+
+![[Evans-2025agua.pdf]]

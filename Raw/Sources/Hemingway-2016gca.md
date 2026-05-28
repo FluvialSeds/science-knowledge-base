@@ -31,3 +31,5 @@ The three plant-wax lipid classes showed fundamentally different patterns of var
 ## Implications
 
 This study demonstrates that analyzing multiple plant-wax lipid classes and chain lengths provides complementary information for distinguishing local vs. distal (catchment-integrated) ecosystem signals in large river systems. n-Alkanes, with their stable temporal behavior and weak discharge response, appear better suited for reconstructing long-term catchment-scale vegetation changes and paleoclimate signals in sedimentary archives. n-Alcohols and n-alkanoic acids are more sensitive to short-term hydrological changes and local ecosystem inputs. These findings have important implications for paleoclimate and paleovegetation reconstructions using plant-wax biomarkers: researchers should carefully consider which compound classes are most appropriate for their specific research questions, as different lipid classes integrate ecosystem information over different spatial and temporal scales. This work provides a framework for more robust interpretation of plant-wax biomarker records in both modern and ancient sediments.
+
+![[Hemingway-2016gca.pdf]]

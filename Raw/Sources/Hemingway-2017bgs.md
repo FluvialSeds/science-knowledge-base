@@ -48,3 +48,5 @@ The activation energy distribution provides a quantitative descriptor of organic
 This method is broadly applicable to any serial oxidation technique, not just RPO. The approach enables direct mechanistic interpretation of how organic matter chemical composition (bond strength, functional group reactivity) determines both thermal decomposition kinetics and isotopic signatures. For paleoclimate and paleoenvironmental reconstruction, the E vs. isotope relationships provide quantitative constraints on the degree of diagenetic alteration, mineral protection, and thermal history experienced by ancient organic matter in sedimentary archives.
 
 The regularized inverse method represents a significant methodological advance for extracting kinetic information from thermal decomposition data, with applications extending beyond geochemistry to materials science and combustion analysis.
+
+![[Hemingway-2017bgs.pdf]]

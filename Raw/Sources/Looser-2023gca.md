@@ -30,3 +30,5 @@ Both belemnite and optical calcite showed predictable, temperature-dependent rat
 ## Implications
 
 Material-specific kinetic parameters enable more accurate paleothermometric interpretation of clumped isotope records from naturally buried carbonate minerals. The results demonstrate that paleothermometric calibrations must account for the source and type of carbonate material being analyzed. Kinetic understanding allows forward modeling of how clumped isotope signatures change during burial, enabling thermal history reconstruction from carbonate samples that have experienced complex thermal pathways. The framework provides a template for improving paleoceanographic and paleoclimate reconstructions based on carbonate-hosted isotopic proxies.
+
+![[Looser-2023gca.pdf]]

@@ -31,3 +31,5 @@ The NOSAMS RPO blank averages 3.6 μg C distributed across the full temperature 
 ## Implications
 
 Careful characterization of blank carbon contribution is critical for radiocarbon measurements using RPO, especially for environmental samples with low carbon concentrations or high radiocarbon ages. The results provide guidelines for blank correction protocols and demonstrate the importance of rigorous analytical quality assurance in radiocarbon dating. Understanding kinetic isotope fractionation during thermal analysis ensures accurate stable isotope measurements alongside radiocarbon determinations.
+
+![[Hemingway-2017rad.pdf]]

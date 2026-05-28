@@ -30,3 +30,5 @@ Dissolved inorganic carbon concentrations ranged from 153 to 3,903 μM and were 
 ## Implications
 
 The findings demonstrate that substrate availability determines the source of carbon respired by microbes in Arctic streams and rivers, with a downstream continuum from permafrost-derived organic carbon to modern terrestrial carbon to aquatic biomass. The rapid respiration of permafrost-derived organic matter and masking of aged DIC by modern DIC production and physical processes (CO₂ off-gassing) confound efforts to quantify permafrost carbon mobilization to fluvial networks. The high biolability of aged organic carbon and the lability-age continuum observed in the Kolyma may apply to other systems receiving aged components mixed with modern organic matter. The integration of DOM and DIC age dynamics into existing biogeochemical frameworks will help researchers better partition modern versus aged carbon cycling in Arctic and other fluvial systems, with implications for understanding how permafrost thaw and mobilization responds to climate change.
+
+![[Drake-2018jgr.pdf]]

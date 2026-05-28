@@ -50,3 +50,5 @@ The discovery that BHP isomer composition varies systematically between samples 
 The improved baseline separation also enables future compound-specific radiocarbon and stable isotope analysis of individual BHP isomers, allowing detailed reconstruction of the sources and residence times of bacterial-derived organic matter in marine systems. This is particularly valuable because bacteria are major contributors to the organic matter pool exported from soils and coastal systems to the ocean.
 
 The method provides a foundation for more detailed isotope work linking BHP isomer identity to their isotopic signatures, which will improve interpretation of bacterial biomarkers in ancient sediments and rocks.
+
+![[Kusch-2018og.pdf]]

@@ -31,3 +31,5 @@ Approximately 67 ± 11% of the petrogenic organic carbon present in exhumed bedr
 ## Implications
 
 The oxidation of petrogenic organic carbon in mountain soils represents a significant source of atmospheric CO₂ that can partially or fully counteract the CO₂ drawdown achieved by silicate weathering and burial of biospheric carbon. This finding changes our understanding of the carbon cycle in rapidly eroding mountain systems and suggests that tectonically active regions may act as net sources of CO₂ to the atmosphere rather than net sinks. These results have important implications for long-term climate regulation and understanding how mountain building influences global biogeochemical cycles over geological timescales.
+
+![[Hemingway-2018sci.pdf]]

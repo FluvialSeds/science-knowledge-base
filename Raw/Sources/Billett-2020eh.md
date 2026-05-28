@@ -33,3 +33,5 @@ Chamber conditions varied considerably with the different methodologies, with ma
 ## Implications
 
 The findings support continued use of floating chamber methods for direct measurement of evaded CO₂ isotopic composition. While chambers do produce different physical conditions (as indicated by varying CO₂ concentrations), these differences do not significantly alter the isotopic signature of the collected samples. This methodological consistency is important for comparing results across different studies and environments, and enables confident interpretation of evaded CO₂ as reflecting the true isotopic composition of carbon lost to the atmosphere.
+
+![[Billett-2020eh.pdf]]

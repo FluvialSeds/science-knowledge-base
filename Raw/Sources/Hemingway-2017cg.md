@@ -31,3 +31,5 @@ Low and variable Δ¹⁴C values during 2011 (annual mean = −148 ± 82‰) coi
 ## Implications
 
 Headwater POM is replaced and/or diluted by C₃ vegetation and pre-aged soils during transit through the Cuvette Congolaise, whereas left-bank tributaries export significantly less pre-aged material. Hydrologic variability is a major control on POM provenance, demonstrated by the strong correlation between discharge and both radiocarbon age (Δ¹⁴C) and GDGT molecular composition. These results demonstrate that seasonal and inter-annual discharge variations fundamentally reshape the isotopic and molecular composition of exported organic matter, with implications for understanding how climate variability affects carbon cycling in major tropical river systems.
+
+![[Hemingway-2017cg.pdf]]

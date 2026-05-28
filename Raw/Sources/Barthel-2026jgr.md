@@ -30,3 +30,5 @@ All three greenhouse gases (CO₂, CH₄, N₂O) showed supersaturation relative
 ## Implications
 
 Lake Mai Ndombe exemplifies how carbon and nitrogen inputs, total water depth, and dissolved oxygen saturation serve as major drivers of greenhouse gas flux and composition from tropical humic lakes. The high consumption rates of methane and nitrous oxide through microbial processes, despite substantial outgassing, indicates that these emissions are sensitive to small perturbations in lake depth, dissolved oxygen content, and microbial community composition. The results provide critical mechanistic insight into greenhouse gas cycling in tropical African lakes and highlight how such systems will likely respond to anthropogenic climate change—with implications for global greenhouse gas budgets and climate feedbacks.
+
+![[Barthel-2026jgr.pdf]]

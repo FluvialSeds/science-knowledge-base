@@ -33,3 +33,5 @@ Water chemistry showed that DIC concentrations were mainly controlled by carbona
 ## Implications
 
 Results demonstrate that carbon dynamics in subtropical rivers are highly affected by aquatic photosynthesis, with significant implications for carbon cycling within river systems. Karst areas play a particularly important role in global carbon cycles through aged DIC export and atmospheric CO₂ consumption. The study emphasizes the critical importance of in-stream carbon biogeochemical processes, especially photosynthesis, in determining riverine carbon export and carbon budgets.
+
+![[Chen-2021scitot.pdf]]

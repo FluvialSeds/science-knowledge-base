@@ -30,3 +30,5 @@ Dissolved ⁸⁷Sr/⁸⁶Sr compositions of both the Ganga and Brahmaputra showe
 ## Implications
 
 The high-resolution strontium isotope time-series data demonstrate that short-term riverine Sr isotope variability is sensitive to rainfall distribution patterns and monsoon dynamics in the Himalayan watersheds. The strong correlation between dissolved and particulate strontium isotope compositions throughout the water column indicates that in-stream weathering and sediment-water interactions are important secondary controls on riverine Sr isotope composition beyond primary source weathering. These findings have implications for interpreting marine strontium isotope records, particularly during periods of monsoon variability or climate change affecting precipitation patterns. The hydrogeochemical mixing model approach provides a framework for predicting how changes in watershed rainfall and hydrology will affect the composition of strontium exported to the ocean.
+
+![[Boral-2021epsl.pdf]]

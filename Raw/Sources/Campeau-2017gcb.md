@@ -33,3 +33,5 @@ The age of aquatic carbon in runoff varied little throughout the year and appear
 ## Implications
 
 The findings show a relatively large resilience of the source of aquatic carbon export to forecasted hydroclimatic changes. Young radiocarbon signatures of exported carbon suggest limited vulnerability of deep peat stores to mobilization through aquatic pathways. The enrichment of dissolved and gaseous carbon with post-bomb ¹⁴C throughout the peat profile indicates that peat pore waters are characterized by recently fixed carbon even at depth, possibly due to diffusion of modern carbon and continuous exchange with younger material.
+
+![[Campeau-2017gcb.pdf]]

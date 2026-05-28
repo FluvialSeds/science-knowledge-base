@@ -52,3 +52,5 @@ The correlation between genomic denitrification potential and independent paleoc
 These findings establish sediment microbiomes as a novel archive of paleoclimate information. In the Arabian Sea and other OMZ-influenced systems, microbial community composition may serve as an additional paleoceanographic proxy complementing conventional geochemical and paleontological indicators.
 
 The work highlights the sensitivity of microbial communities to paleoceanographic conditions and suggests that careful analysis of sedimentary microbial genetic content can extract paleoclimate signals from "fossilized" microbiomes preserved in ancient sediments.
+
+![[Orsi-2017scirep.pdf]]

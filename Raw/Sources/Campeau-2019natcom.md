@@ -33,3 +33,5 @@ The ¹⁴C-CO₂ is consistently in tune with the current atmospheric ¹⁴C-CO�
 ## Implications
 
 These findings indicate that stream CO₂ emissions act as a shortcut returning CO₂ recently fixed by forest vegetation to the atmosphere. The results expose a positive feedback mechanism within the carbon budget of forested catchments, where stream CO₂ emissions will be highly sensitive to changes in forest carbon allocation patterns associated with climate and land-use changes. Understanding this linkage is critical for predicting how boreal forest carbon cycles will respond to future environmental changes.
+
+![[Campeau-2019natcom.pdf]]

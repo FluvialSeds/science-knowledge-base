@@ -31,3 +31,5 @@ Across all mineral-containing samples, activation energy distributions broaden o
 ## Implications
 
 These results provide globally coherent evidence for the proposed importance of mineral protection in promoting organic carbon preservation. Mineral interactions, not biochemical selectivity, appear to be the dominant mechanism controlling how long organic carbon persists in the biosphere before respiration. By controlling how much carbon escapes remineralization, mineral protection fundamentally regulates atmospheric CO₂ over geological timescales, suggesting that tectonic activity, mountain erosion, and mineral weathering may have regulated Earth's climate over million-year cycles. Future studies of bond-strength diversity in ancient sediments may reveal how organic carbon preservation—and thus atmospheric composition and climate—has varied over geological time.
+
+![[Hemingway-2019nat.pdf]]

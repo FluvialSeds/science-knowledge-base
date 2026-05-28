@@ -33,3 +33,5 @@ Post-flood differences were observed in the degree of decay, age, and concentrat
 ## Implications
 
 The interplay between storage and mobilization of carbon and greenhouse gases in arid and semiarid regions is potentially sensitive to changing climate conditions, particularly hydrologic variability. As human appropriation of water resources continues to increase, the episodic drying and rewetting of once natural riverbeds and deltas may fundamentally alter the processing and storage of carbon in such systems. These findings highlight the need to better quantify carbon cycling dynamics in temporarily dry watercourses globally.
+
+![[Bianchi-2017jgr.pdf]]

@@ -29,3 +29,5 @@ The compilation reveals that: (1) MIF arises in Earth's atmosphere through photo
 ## Implications
 
 MIF signals represent the strongest and most direct proxies available for understanding Earth's atmospheric composition in the deep geologic past, particularly before the Great Oxidation Event. O-MIF and S-MIF records in the geologic archive directly reflect atmospheric oxidation state and are minimally affected by secondary processes like diagenesis compared to other paleoclimate proxies. Future research should target: mechanistic understanding of MIF in emerging isotope systems (mercury, selenium); improved quantification of fractionation factors across atmospheric conditions; reconciliation of apparent inconsistencies in certain geologic MIF records; and development of in situ MIF measurement techniques. These advances will enhance our ability to reconstruct ancient atmospheric compositions and validate hypotheses about atmospheric evolution through Earth history.
+
+![[Hemingway-2025tog.pdf]]

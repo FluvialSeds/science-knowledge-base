@@ -30,3 +30,5 @@ Kinetic parameters differ substantially between biogenic belemnite calcite and a
 ## Implications
 
 Material-specific kinetic parameters enable more accurate interpretation of clumped isotope records from naturally buried carbonates by accounting for thermal resetting during burial. The kinetic framework allows quantitative prediction of how burial temperature and duration alter clumped isotope signatures, enabling correction of paleothermometric signals in rocks that have experienced complex thermal histories. The results emphasize the importance of careful experimental design in kinetic studies and provide a template for determining accurate thermal history corrections in other paleoceanographic and paleoclimate proxies sensitive to thermal alteration.
+
+![[Kueter-2026epsl.pdf]]

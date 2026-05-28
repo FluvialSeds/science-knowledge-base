@@ -50,3 +50,5 @@ This discovery has significant consequences for paleoproductivity estimates base
 For modern oceanographic applications, understanding ROS-mediated oxygen isotope fractionation is essential for accurate quantification of gross primary productivity and net metabolic state from dissolved oxygen isotope measurements. Future work should focus on measuring ROS production rates across different marine environments to better constrain the contribution of ROS-mediated oxygen cycling to bulk oxygen isotope systematics.
 
 The work demonstrates that seemingly simple biogeochemical cycles (oxygen cycling) involve previously underappreciated intermediate reactions that have significant isotope effects and can substantially alter the apparent isotope signature of the overall process.
+
+![[Sutherland-2022gca.pdf]]

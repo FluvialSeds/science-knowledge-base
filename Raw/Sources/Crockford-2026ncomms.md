@@ -30,3 +30,5 @@ The review demonstrates that multiple independent lines of geochemical evidence 
 ## Implications
 
 The Great Oxidation Event represents a critical juncture in Earth history, enabling the rise of aerobic respiration and complex life. Understanding the mechanisms and rates of this oxygenation has implications for interpreting other planetary transitions in atmospheric composition and for assessing how rapid biosphere and atmosphere coupling can be. The paper highlights the importance of integrating multiple geochemical proxies and modeling approaches to understand long-term atmospheric evolution.
+
+![[Crockford-2026ncomms.pdf]]

@@ -31,3 +31,5 @@ Theoretical bulk-solution ¹⁸α predictions yielded root-mean-square errors (R
 ## Implications
 
 The theoretical fractionation factor framework provides a foundation for interpreting triple-oxygen isotope observations in sulfur-cycle processes including pyrite oxidation, microbial sulfate reduction, thiosulfate disproportionation, and hydrothermal anhydrite precipitation. The results highlight that individual sulfoxyanion species (not bulk solutions) control isotope fractionation, particularly when specific species dominate at particular pH conditions. This work enables more mechanistic interpretation of sulfate δ¹⁸O and Δ¹⁷O records in modern and ancient environments, improving constraints on Earth's redox state evolution and sulfur biogeochemistry.
+
+![[Hemingway-2022gca.pdf]]

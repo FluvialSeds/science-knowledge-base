@@ -31,3 +31,5 @@ Kinetic analysis reveals that biosynthetic mass-dependent fractionation (¹³C/�
 ## Implications
 
 Radiocarbon ages of acetogenic lipid biomarkers accurately reflect carbon-cycle turnover times without significant bias from biosynthetic isotope fractionation. This validates the use of biomarker ¹⁴C ages for reconstructing organic matter provenance, turnover times, and aging in environmental samples. The work provides confidence in paleoenvironmental and paleoclimate applications relying on biomarker radiocarbon measurements, particularly in contexts where understanding carbon-cycle dynamics is critical.
+
+![[Hemingway-2021og.pdf]]

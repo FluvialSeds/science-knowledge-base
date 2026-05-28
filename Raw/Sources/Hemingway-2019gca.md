@@ -31,3 +31,5 @@ Aliphatic and peptide-like compounds were abundant in glacier-fed headwaters but
 ## Implications
 
 Short-term (coming decades) increases in glacier melt flux driven by climate warming will further bias exported DOM toward an aliphatic-rich, bioavailable signal, especially during the monsoon and post-monsoon seasons, increasing aquatic respiration and CO₂ emissions. In contrast, eventual decreases in glacier melt flux due to glacier mass loss will drive DOM composition toward a soil-like, aromatic-rich, less bioavailable composition, likely reducing aquatic respiration rates. These results demonstrate the tight coupling between glacier mass balance, monsoon precipitation, and the quality and quantity of organic carbon exported from mountain river systems.
+
+![[Hemingway-2019gca.pdf]]

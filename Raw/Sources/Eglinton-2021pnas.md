@@ -30,3 +30,5 @@ Biomarker ¹⁴C ages ranged widely across the global sample set, from above mod
 ## Implications
 
 The discovery that riverine biomarker ages scale with soil OC turnover times establishes that riverine biomarkers can constrain the sensitivity of carbon dynamics to environmental controls on broad spatial scales. This relationship enables extraction of paleo-climate information from fluvially-dominated sedimentary sequences to infer past variations in soil OC turnover in response to climate and anthropogenic perturbations. Future monitoring of riverine organic carbon composition may help detect climate-change-induced perturbations of soil OC turnover and stocks. These findings suggest that the ubiquitous occurrence of long-lived soil OC pools renders soil carbon globally vulnerable to perturbations from future temperature and precipitation increases, with direct implications for understanding the response of terrestrial carbon reservoirs to ongoing climate change.
+
+![[Eglinton-2021pnas.pdf]]

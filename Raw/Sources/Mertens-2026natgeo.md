@@ -30,3 +30,5 @@ The diagenetic model accurately predicts pyrite formation signals in sediment co
 ## Implications
 
 The finding that modern pyrite burial exceeds oxidation indicates Earth's atmosphere is currently in a state of net oxygen accumulation driven by sedimentary sulfur burial processes. This result has profound implications for understanding atmospheric oxygen evolution and long-term carbon-oxygen cycling in Earth's climate system. The identification of flooded shelf area as the primary control on pyrite burial throughout the Phanerozoic provides a mechanistic framework for interpreting the geologic record of atmospheric composition changes in response to sea-level variation and continental configuration. These results demonstrate that sedimentological conditions controlling organic carbon and reactive iron delivery to marine sediments are critical determinants of planetary atmospheric composition on geological timescales.
+
+![[Mertens-2026natgeo.pdf]]

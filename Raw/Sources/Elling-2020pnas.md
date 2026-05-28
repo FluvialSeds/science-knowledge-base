@@ -30,3 +30,5 @@ The results confirm that 2-methylhopanoid biosynthesis depends on both radical S
 ## Implications
 
 The discovery that 2-methylhopanoid production depends on vitamin B12-dependent enzymatic mechanisms links this biomarker directly to microbial processes during oceanic anoxic events. Since Nitrobacter species require exogenous cobalamin, the production of 2-methylhopanoids signals enhanced nitrification activity coupled with favorable conditions for syntrophic interactions between ammonia- and nitrite-oxidizing nitrifiers. These findings provide a mechanistic basis for interpreting 2-methylhopanoid distributions in paleoceanographic records as indicators of nutrient-driven perturbations to the marine nitrogen cycle during past anoxic episodes. The research demonstrates how understanding the biochemistry of biomarker synthesis improves paleoclimate and paleontologic interpretations.
+
+![[Elling-2020pnas.pdf]]

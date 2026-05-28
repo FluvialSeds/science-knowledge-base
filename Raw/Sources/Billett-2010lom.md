@@ -33,3 +33,5 @@ Whilst on some occasions the radiocarbon ages of evaded CO₂ and DIC were simil
 ## Implications
 
 Care must be taken in applying the indirect approach to estimate evasion CO₂ isotopic composition, particularly in systems with variable pH, high CO₂ saturation, or where equilibrium conditions may not hold. The direct method using molecular sieves provides more reliable measurements of evaded CO₂ isotopic composition, especially in low-productivity systems where degassing may cause significant pH changes that affect DIC partitioning calculations.
+
+![[Billett-2010lom.pdf]]

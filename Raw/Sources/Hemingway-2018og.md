@@ -31,3 +31,5 @@ All δ¹³C results are reported in per mil (‰) notation relative to Vienna Pe
 ## Implications
 
 Intact BHP δ¹³C measurements can greatly improve the interpretation of environmental signals by avoiding the need for side-chain cleavage, which reduces BHP source-specificity. This development enables researchers to apply compound-specific isotope analysis to bacterial lipid biomarkers, opening new avenues for tracing microbial communities and their metabolic pathways in ancient and modern sediments. The method's ability to measure δ¹³C on structurally intact BHPs allows detection of heterogeneous pools within sediments, revealing separate biosynthetic origins or post-depositional processes that modify BHP structures.
+
+![[Hemingway-2018og.pdf]]

@@ -34,4 +34,4 @@ Isotopic, elemental, and biomarker results suggest that organic carbon in the St
 
 The results demonstrate that the interplay between sediment storage and carbon cycling in the Fly-Strickland system generates a unique signature compared to smaller mountainous rivers. Despite the high sediment yields and aged organic matter characteristics of small mountainous rivers, the presence of lowland floodplain storage significantly affects both the radiocarbon content and biomarker composition of exported carbon. Understanding these processes is critical for constraining global riverine POC fluxes and their role in the carbon cycle, particularly in tropical regions with high sediment yields and extensive floodplain systems.
 
-![[Alin-2008jgr.pdf]]
+![[Alin-2008jgr.pdf]]![[Alin-2008jgr.pdf]]

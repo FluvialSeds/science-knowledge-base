@@ -30,3 +30,5 @@ Radiocarbon analysis revealed that dissolved organic carbon and CO₂ in the stu
 ## Implications
 
 Large humic lakes in tropical peatlands serve as sites where ancient carbon accumulated in peat soils over millennia is rapidly remobilized and outgassed as greenhouse gases. This finding highlights the vulnerability of peatland carbon stores to mobilization and atmospheric release. Climate change-driven changes in water table elevation and drought could accelerate peat carbon mobilization through these lake systems, creating a positive feedback to warming. The results suggest that tropical peatland-lake systems should be prioritized in carbon cycle modeling and climate change impact assessments.
+
+![[Drake-2026natgeo.pdf]]

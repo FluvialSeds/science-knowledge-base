@@ -30,3 +30,5 @@ Oxygen-isotope measurements and organic carbon analysis of iron oxides in paleoc
 ## Implications
 
 This study establishes iron oxide-bound organic carbon as a powerful direct proxy for reconstructing marine DOC history and demonstrates that DOC reservoir dynamics have been fundamental to regulating both atmospheric composition and marine ecosystem evolution throughout Earth's history. The results indicate that changes in particle sinking efficiency (a consequence of evolving eukaryotic life forms) fundamentally altered carbon cycling in the ocean and atmosphere on billion-year timescales. These findings provide a mechanistic framework for understanding how future changes in ocean circulation, productivity, and oxygen availability will affect marine DOC reservoirs and atmospheric CO₂ levels in response to anthropogenic climate change.
+
+![[Galili-2025nat.pdf]]

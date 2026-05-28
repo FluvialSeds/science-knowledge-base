@@ -31,3 +31,5 @@ Metagenomic analysis reveals that the enzyme putatively capable of NO dismutatio
 ## Implications
 
 Dark oxygen production represents a significant, previously underappreciated biogeochemical process that fundamentally changes our understanding of subsurface microbial ecology and physiology. The widespread occurrence of oxygen-producing metabolic pathways and the persistence of aerobic microbes in apparently anoxic environments indicates that cryptic O₂ cycling is ubiquitous and likely influences redox dynamics, nutrient cycling, and microbial community structure in subsurface ecosystems globally. Recognition of DOP has important implications for: (1) understanding microbe survival strategies in anoxic habitats; (2) modeling subsurface redox geochemistry; (3) predicting pollutant transport and degradation in groundwater; and (4) interpreting biogeochemical signals in sediments and natural waters. Future research should characterize the kinetics and distribution of DOP pathways, quantify their contribution to global oxygen fluxes, and determine their roles in coupled biogeochemical cycles throughout the subsurface biosphere.
+
+![[Ruff-2024fems.pdf]]

@@ -33,3 +33,5 @@ The age of DOC released in the drainage system of peatlands is consistently youn
 ## Implications
 
 The source of older CO₂ is likely to be both geogenic (carbonate weathering) and biogenic (decomposition of soil organic matter). These findings suggest that destabilization of the peatland carbon pool through climate change may preferentially release old carbon to the atmosphere as CO₂, potentially amplifying climate feedback mechanisms. Antecedent moisture conditions affect both within- and between-site differences in the isotopic signature of DOC and CO₂.
+
+![[Billett-2007grl.pdf]]

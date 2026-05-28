@@ -31,3 +31,5 @@ Sulfate in high-elevation headwaters is quantitatively sourced by pyrite oxidati
 ## Implications
 
 The geologic application of sulfate Δ¹⁷O as a proxy for past pO₂/pCO₂ must account for: (1) alternative oxygen sources during pyrite oxidation, particularly reactive oxygen species rather than direct molecular O₂ incorporation, and (2) secondary overprinting by microbial sulfur cycling in warm, low-elevation environments. These findings refine the interpretation of sulfate Δ¹⁷O records in ancient sediments and improve constraints on paleo-atmospheric oxygen levels.
+
+![[Hemingway-2020pnas.pdf]]
