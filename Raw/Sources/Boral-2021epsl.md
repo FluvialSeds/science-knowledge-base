@@ -2,9 +2,7 @@
 Title: "Controls on short-term dissolved 87Sr/86Sr variations in large rivers: Evidence from the Ganga–Brahmaputra"
 Author: "Soumita Boral, Bernhard Peucker-Ehrenbrink, Jordon D. Hemingway, Indra S. Sen, Valier Galy, Gregory J. Fiske"
 Reference: "https://doi.org/10.1016/j.epsl.2021.116958"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-26
 Journal: "Earth and Planetary Science Letters"
 Volume: "566"

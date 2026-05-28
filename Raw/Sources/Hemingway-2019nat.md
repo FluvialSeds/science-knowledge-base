@@ -2,9 +2,7 @@
 Title: "Mineral protection regulates long-term global preservation of natural organic carbon"
 Author: "Jordon D. Hemingway, Daniel H. Rothman, Katherine E. Grant, Sarah Z. Rosengard, Timothy I. Eglinton, Louis A. Derry, Valier V. Galy"
 Reference: "https://doi.org/10.1038/s41586-019-1280-6"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-25
 Journal: "Nature"
 Volume: "570"

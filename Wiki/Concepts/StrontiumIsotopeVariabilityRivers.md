@@ -4,10 +4,11 @@ tags:
 topics: []
 status: stable
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-28
 sources:
   - "Raw/Sources/Boral-2021epsl.md"
-source_count: 1
+  - "Raw/Sources/Cai-2020cg.md"
+source_count: 2
 aliases:
   - "Dissolved strontium isotopes"
   - "Riverine Sr isotope compositions"
@@ -63,8 +64,9 @@ The extreme short-term variability in riverine Sr isotope compositions has profo
 
 ## See also
 
+- [[ChemicalWeatheringDissolvedInorganicCarbon]] — Chemical weathering pathways and DIC production
 - [[IsotopicProxiesPaleoceanography]] — Isotopic proxies for paleoceanographic and paleoclimate reconstruction
 - [[CarbonIsotopeFractionationPlants]] — Stable isotope fractionation principles and applications
 - [[MineralProtectionOrganicCarbon]] — Mineral-water interactions controlling elemental cycling
 - [[LocalVsDistalBiomarkerSignals]] — Spatial integration of geochemical signals from diverse sources
-- Source paper: [[Boral-2021epsl]] — Controls on short-term dissolved ⁸⁷Sr/⁸⁶Sr variations in Ganga-Brahmaputra rivers
+- Source papers: [[Boral-2021epsl]] — Controls on short-term dissolved ⁸⁷Sr/⁸⁶Sr variations in Ganga-Brahmaputra rivers; [[Cai-2020cg]] — Seasonal strontium and carbon isotope variations in Lower Mississippi River

@@ -4,7 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-24
-updated: 2026-05-27
+updated: 2026-05-28
 sources:
   - "Raw/Sources/Hemingway-2017cg.md"
   - "Raw/Sources/Hemingway-2017rad.md"
@@ -131,6 +131,7 @@ Together, these methods provide a multi-tracer framework for understanding organ
 
 - [[RampedPyrolysisOxidation]] — Analytical technique revealing radiocarbon ages across bond strengths
 - [[RadiocarbonAnalyticalMethods]] — Blank correction and measurement protocols
+- [[RadiocarbonMethodsAquaticCO2Analysis]] — Direct radiocarbon measurement of evaded aquatic CO₂
 - [[OnlineRampedOxidationAMS]] — Modern ORO-AMS enabling thermal fractionation radiocarbon dating
 - [[ThermalFractionationRadiocarbon]] — Thermal fractionation patterns
 - [[ClimateControlsTerrestrialOrganicMatterCycling]] — Climate-dependent organic matter turnover times
@@ -140,6 +141,9 @@ Together, these methods provide a multi-tracer framework for understanding organ
 - [[PetrogenicOrganicCarbon]] — Ancient carbon in bedrock and its radiocarbon complications in soil systems
 - [[SoilPrimingEffects]] — How fresh carbon inputs affect old carbon mineralization
 - [[AgedCarbonMobilizationTropicalPeatlands]] — Millennially-aged carbon mobilization from peatlands to lake systems
+- [[RadiocarbonAgeSignaturesAquaticCarbon]] — Age heterogeneity between aquatic carbon fractions
+- [[PeatlandCarbonExportToAquaticSystems]] — Peatland-aquatic carbon linkages and aged carbon export
+- [[AquaticCO2EvasionFlux]] — CO₂ evasion from aquatic systems
 - [[HumicLakesGreenhouseGasCycling]] — Aged carbon cycling in humic tropical lake systems
 - [[LocalVsDistalBiomarkerSignals]] — Temporal biomarker variability in large rivers
 - [[PlantWaxBiomarkers]] — Plant-derived organic matter characterization

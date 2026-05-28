@@ -2,9 +2,7 @@
 Title: "Climate control on terrestrial biospheric carbon turnover"
 Author: "Timothy I. Eglinton, Valier V. Galy, Jordon D. Hemingway, Xiaojuan Feng, Hongyan Bao, Thomas M. Blattmann, Angela F. Dickens, Hannah Gies, Liviu Giosan, Negar Haghipour, Pengfei Hou, Maarten Lupker, Cameron P. McIntyre, Daniel B. Montluçon, Bernhard Peucker-Ehrenbrink, Camilo Ponton, Enno Schefuß, Melissa S. Schwab, Britta M. Voss, Lukas Wacker, Ying Wu, Meixun Zhao"
 Reference: "https://doi.org/10.1073/pnas.2011585118"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2020-06-05
 Journal: "PNAS"
 Volume: "118"

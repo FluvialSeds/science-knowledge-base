@@ -2,9 +2,7 @@
 Title: "Precise kinetic parameters for thermal resetting of clumped isotope signatures in biogenic and abiogenic calcites"
 Author: "Nico Kueter, Nathan Looser, Jordon D. Hemingway, Nils B. Gies, Gregory D. Price, Alberto Perez-Huerta, Stefano M. Bernasconi"
 Reference: "https://doi.org/10.1016/j.epsl.2026.119955"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-27
 Journal: "Earth and Planetary Science Letters"
 Volume: "682"

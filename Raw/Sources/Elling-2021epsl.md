@@ -2,9 +2,7 @@
 Title: "Linking diatom-diazotroph symbioses to nitrogen cycle perturbations and deep-water anoxia: Insights from Mediterranean sapropel events"
 Author: "Felix J. Elling, Jordon D. Hemingway, Jenan J. Kharbush, Kevin W. Becker, Catherine A. Polik, Ann Pearson"
 Reference: "https://doi.org/10.1016/j.epsl.2021.117110"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-25
 Journal: "Earth and Planetary Science Letters"
 Volume: "571"

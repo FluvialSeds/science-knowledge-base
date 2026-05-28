@@ -245,3 +245,23 @@ Created two new topic nodes to organize expanded concept network: (1) GreatOxida
 *Logged: 2026-05-28 12:49:37*
 
 Created 7 new source files (Bao-2019rad, Gies-2023pta, Hemingway-2017bgs, Kusch-2018og, Orsi-2017scirep, Sutherland-2022gca, Sutherland-2022pnex) with verified metadata. Created 5 new concept notes: AcidPretreatementRadiocarbonAnalysis, MineralControlTerrestrialCarbonStorageExport, BacterialHopanoidDiversityStructuralIsomerism, TripleOxygenIsotopeRespirationFractionation, SedimentMicrobiomePaleoclimatology. Updated 7 existing concepts: RadiocarbonAnalyticalMethods (added Bao-2019rad), MineralProtectionOrganicCarbon (added Gies-2023pta), BacteriohopanepolyolBiomarkers (added Kusch-2018og), TripleOxygenIsotopes (added Sutherland-2022gca & Sutherland-2022pnex), GrossPrimaryProductivityReconstruction (added Sutherland-2022pnex), DeepWaterAnoxia (added Orsi-2017scirep), RampedPyrolysisOxidation (added Hemingway-2017bgs). Updated timestamps to 2026-05-28, added new concept sections, updated See also wikilinks. Build: 77 catalog entries. Lint: all notes valid.
+
+## Ingest & Process: DIC River Manuscripts
+*Logged: 2026-05-28 22:44:15*
+
+Created 8 new concept notes from 15 newly ingested DIC/radiocarbon/river carbon research papers. Concepts: RadiocarbonMethodsAquaticCO2Analysis, RadiocarbonAgeSignaturesAquaticCarbon, AquaticCO2EvasionFlux, PeatlandCarbonExportToAquaticSystems, TropicalRiverCarbonCycling, KarstRiverCarbonDynamics, ChemicalWeatheringDissolvedInorganicCarbon, DrylandRiverCarbonDynamics. All source files processed. Wikilinks and references established between concepts. Maintenance checks (build, lint, source-lint) passed.
+
+## Concept Integration: New DIC River Research
+*Logged: 2026-05-28 22:56:26*
+
+Updated 6 existing concept files with new research findings from 15 newly ingested DIC river manuscripts. Added cross-references to new concepts and source papers in: RadiocarbonAnalyticalMethods, HumicLakesGreenhouseGasCycling, DissolvedOrganicMatter, RadiocarbonOrganicMatter, StrontiumIsotopeVariabilityRivers, CarbonCycleMountainSystems. New concepts now integrated bidirectionally with existing knowledge structure.
+
+## Format Standardization & Source Integration
+*Logged: 2026-05-28 23:04:34*
+
+Fixed 8 new concept files: changed status from seed to stable; consolidated source paper wikilinks into single bullet points per protocol. Added missing source papers to 3 updated concepts: DissolvedOrganicMatter (added Campeau papers), RadiocarbonAnalyticalMethods (added Billett aquatic papers), StrontiumIsotopeVariabilityRivers (added Cai-2020cg). All source paper wikilinks now follow standardized format with descriptions.
+
+## Tag Standardization
+*Logged: 2026-05-28 23:06:15*
+
+Removed extra tags from all 8 new concept files. All concept notes now have single tag: 'concept' only, conforming to standard schema.

@@ -4,10 +4,11 @@ tags:
 topics: []
 status: stable
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-05-28
 sources:
   - "Raw/Sources/Hemingway-2018sci.md"
-source_count: 1
+  - "Raw/Sources/Blattmann-2019scirep.md"
+source_count: 2
 aliases:
   - "Orogenic carbon cycle"
   - "Tectonics and climate"
@@ -23,7 +24,7 @@ Mountain belts and rapidly eroding orogens are major regulators of atmospheric C
 
 Mountains act as CO₂ sinks through:
 
-1. **Silicate weathering**: Weathering of silicate minerals consumes atmospheric CO₂ through the reaction of CO₂ with feldspar and other rock-forming minerals. This process increases with erosion rate.
+1. **Silicate weathering**: [[ChemicalWeatheringDissolvedInorganicCarbon|Weathering of silicate minerals consumes atmospheric CO₂]] through the reaction of CO₂ with feldspar and other rock-forming minerals. This process increases with erosion rate. Both carbonic acid (from atmospheric CO₂) and sulfuric acid (from pyrite oxidation) drive weathering reactions that produce dissolved inorganic carbon (DIC) in riverine systems.
 
 2. **Biospheric organic carbon burial**: Erosion exports organic carbon produced by living organisms to the ocean, where it is buried in sediments. This removes CO₂ from the atmosphere on geological timescales.
 
@@ -57,7 +58,8 @@ This framework connects tectonics directly to climate regulation on geological t
 
 ## See also
 
+- [[ChemicalWeatheringDissolvedInorganicCarbon]] — Weathering pathways and DIC production in orogenic systems
 - [[PetrogenicOrganicCarbon]] — Ancient carbon in bedrock that gets oxidized during erosion
 - [[MicrobialOxidationOrganicCarbon]] — The oxidation process and rates in mountain soils
 - [[PlantWaxBiomarkers]] — Biomarkers used to track carbon sources and cycling
-- Source paper: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation as a CO₂ source
+- Source papers: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation as a CO₂ source; [[Blattmann-2019scirep]] — Sulphuric acid-mediated weathering in Taiwan orogenic system

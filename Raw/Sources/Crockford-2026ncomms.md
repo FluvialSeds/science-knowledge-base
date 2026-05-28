@@ -2,9 +2,7 @@
 Title: "Revisiting the greatness of Earth's great oxidation"
 Author: "Peter W. Crockford, Ichiko Sugiyama, Michael A. Kipp, Jihua Hao, Lyle L. Nelson, Jordon D. Hemingway, Sabine Wimmer, Mojtaba Fakhraee"
 Reference: "https://doi.org/10.1038/s43247-026-03518-8"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-27
 Journal: "Communications Earth & Environment"
 Volume: "7"

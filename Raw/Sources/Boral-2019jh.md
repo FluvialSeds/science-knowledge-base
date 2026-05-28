@@ -2,9 +2,7 @@
 Title: "Stable water isotope modeling reveals spatio-temporal variability of glacier meltwater contributions to Ganges River headwaters"
 Author: "Soumita Boral, Indra S. Sen, Dibakar Ghosal, Bernhard Peucker-Ehrenbrink, Jordon D. Hemingway"
 Reference: "https://doi.org/10.1016/j.jhydrol.2019.123983"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-26
 Journal: "Journal of Hydrology"
 Volume: "577"

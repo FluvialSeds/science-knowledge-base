@@ -2,9 +2,7 @@
 Title: "High-precision oxygen-isotope analysis of iron (oxyhydr)oxides using high-temperature conversion isotope ratio mass spectrometry"
 Author: "Nir Galili, Anna Somlyay, Giorgia Aquila, Reto Wijker, Philip Gautschi, Lukas Wacker, Jordon D. Hemingway"
 Reference: "https://doi.org/10.1021/acs.analchem.4c04676"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-26
 Journal: "Analytical Chemistry"
 Volume: "97"

@@ -41,6 +41,19 @@
             "matchCommandLine": true
         },
         "git add": true,
-        "git commit": true
+        "git commit": true,
+        "/^cd /Users/jhemingway/Library/CloudStorage/ProtonDrive-jordon\\.d\\.hemingway@pm\\.me-folder/science-knowledge-base/Raw/Extracted && mv Bianchi-2007jgr\\.md Bianchi-2017jgr\\.md && mv Billett-2018eh\\.md Billett-2020eh\\.md && ls -1 \\| sort$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "awk": true,
+        "/^python3 scripts/wiki_tool\\.py source-lint 2>&1 \\| tail -30$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^python3 scripts/wiki_tool\\.py log --title \"Concept Integration: New DIC River Research\" --details \"Updated 6 existing concept files with new research findings from 15 newly ingested DIC river manuscripts\\. Added cross-references to new concepts and source papers in: RadiocarbonAnalyticalMethods, HumicLakesGreenhouseGasCycling, DissolvedOrganicMatter, RadiocarbonOrganicMatter, StrontiumIsotopeVariabilityRivers, CarbonCycleMountainSystems\\. New concepts now integrated bidirectionally with existing knowledge structure\\.\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
     }
 }

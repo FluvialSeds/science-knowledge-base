@@ -2,9 +2,7 @@
 Title: "Biosynthetic isotope fractionation negligibly impacts biomarker 14C ages"
 Author: "Jordon D. Hemingway"
 Reference: "https://doi.org/10.1016/j.orggeochem.2021.104267"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-25
 Journal: "Organic Geochemistry"
 Volume: "158"

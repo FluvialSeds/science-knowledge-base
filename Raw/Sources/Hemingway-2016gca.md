@@ -2,9 +2,7 @@
 Title: "Multiple plant-wax compounds record differential sources and ecosystem structure in large river catchments"
 Author: "Jordon D. Hemingway, Enno Schefuss, Bienvenu Jean Dinga, Helena Pryer, Valier V. Galy"
 Reference: "https://doi.org/10.1016/j.gca.2016.04.003"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-24
 Journal: "Geochimica et Cosmochimica Acta"
 Volume: "184"

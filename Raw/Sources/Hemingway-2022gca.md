@@ -2,9 +2,7 @@
 Title: "Theoretical estimates of sulfoxyanion triple-oxygen equilibrium isotope effects and their implications"
 Author: "Jordon D. Hemingway, Madison L. Goldberg, Kevin M. Sutherland, David T. Johnston"
 Reference: "https://doi.org/10.1016/j.gca.2022.07.011"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-25
 Journal: "Geochimica et Cosmochimica Acta"
 Volume: "336"

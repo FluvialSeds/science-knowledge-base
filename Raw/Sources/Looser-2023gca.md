@@ -2,9 +2,7 @@
 Title: "Thermally-induced clumped isotope resetting in belemnite and optical calcites: towards material-specific kinetics"
 Author: "Nathan Looser, Paul Petschnig, Jordon D. Hemingway, Alvaro Fernandez, Luiz Morales Grafulha, Alberto Perez-Huerta, Madeleine L. Vickers, Gregory D. Price, Max W. Schmidt, Stefano M. Bernasconi"
 Reference: "https://doi.org/10.1016/j.gca.2023.03.030"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-27
 Journal: "Geochimica et Cosmochimica Acta"
 Volume: "350"

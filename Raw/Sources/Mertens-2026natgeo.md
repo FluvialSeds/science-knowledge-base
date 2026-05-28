@@ -2,9 +2,7 @@
 Title: "Sedimentary conditions drive modern pyrite burial flux to exceed oxidation"
 Author: "Cornelia Mertens, Sarah Paradis, Jordon D. Hemingway"
 Reference: "https://doi.org/10.1038/s41561-025-01855-5"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-26
 Journal: "Nature Geoscience"
 Volume: "19"

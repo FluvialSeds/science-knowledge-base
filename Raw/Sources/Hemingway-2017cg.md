@@ -2,9 +2,7 @@
 Title: "Hydrologic controls on seasonal and inter-annual variability of Congo River particulate organic matter source and reservoir age"
 Author: "Jordon D. Hemingway, Enno Schefuß, Robert G.M. Spencer, Bienvenu Jean Dinga, Timothy I. Eglinton, Cameron McIntyre, Valier V. Galy"
 Reference: "https://doi.org/10.1016/j.chemgeo.2017.06.034"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-24
 Journal: "Chemical Geology"
 Volume: "466"

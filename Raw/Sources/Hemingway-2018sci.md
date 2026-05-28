@@ -2,9 +2,7 @@
 Title: "Microbial oxidation of lithospheric organic carbon in rapidly eroding tropical mountain soils"
 Author: "Jordon D. Hemingway, Robert G. Hilton, Niels Hovius, Timothy I. Eglinton, Negar Haghipour, Lukas Wacker, Meng-Chiang Chen, Valier V. Galy"
 Reference: "https://doi.org/10.1126/science.aao6463"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-24
 Journal: "Science"
 Volume: "360"

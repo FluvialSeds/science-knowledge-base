@@ -2,9 +2,7 @@
 Title: "A disordered kinetic model for clumped isotope bond reordering in carbonates"
 Author: "Jordon D. Hemingway, Gregory A. Henkes"
 Reference: "https://doi.org/10.1016/j.epsl.2021.116962"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-25
 Journal: "Earth and Planetary Science Letters"
 Volume: "566"

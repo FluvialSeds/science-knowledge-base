@@ -2,9 +2,7 @@
 Title: "Clay hydroxyl isotopes show an enhanced hydrologic cycle during the Paleocene-Eocene Thermal Maximum"
 Author: "Gregory L. Walters, Simon J. Kemp, Jordon D. Hemingway, David T. Johnston, David A. Hodell"
 Reference: "https://doi.org/10.1038/s41467-022-35545-2"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2022-12-14
 Journal: "Nature Communications"
 Volume: "13"

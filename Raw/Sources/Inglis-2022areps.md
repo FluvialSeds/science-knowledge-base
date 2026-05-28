@@ -2,9 +2,7 @@
 Title: "Biomarker Approaches for Reconstructing Terrestrial Environmental Change"
 Author: "Gordon N. Inglis, Tripti Bhattacharya, Jordon D. Hemingway, Emily H. Hollingsworth, Sarah J. Feakins, Jessica E. Tierney"
 Reference: "https://doi.org/10.1146/annurev-earth-032320-095943"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-25
 Journal: "Annual Review of Earth and Planetary Sciences"
 Volume: "50"

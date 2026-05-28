@@ -2,9 +2,7 @@
 Title: "Glacier meltwater and monsoon precipitation drive Upper Ganges Basin dissolved organic matter composition"
 Author: "Jordon D. Hemingway, Robert G.M. Spencer, David C. Podgorski, Phoebe Zito, Indra S. Sen, Valier V. Galy"
 Reference: "https://doi.org/10.1016/j.gca.2018.10.012"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-25
 Journal: "Geochimica et Cosmochimica Acta"
 Volume: "244"

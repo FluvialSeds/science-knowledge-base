@@ -2,9 +2,7 @@
 Title: "Towards online ramped oxidation (ORO)-AMS for thermal dissection and serial radiocarbon analysis of complex organic matter"
 Author: "Marco A. Bolandini, Daniele De Maria, Negar Haghipour, Lukas Wacker, Jordon D. Hemingway, Timothy I. Eglinton, Lisa Bröder"
 Reference: "https://doi.org/10.1017/RDC.2025.6"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2024-03-18
 Journal: "Radiocarbon"
 Volume: "67"

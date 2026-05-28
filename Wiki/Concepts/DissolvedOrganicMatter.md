@@ -4,10 +4,12 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-28
 sources:
   - "Raw/Sources/Hemingway-2019gca.md"
-source_count: 1
+  - "Raw/Sources/Campeau-2017gcb.md"
+  - "Raw/Sources/Campeau-2019natcom.md"
+source_count: 3
 aliases:
   - "DOM"
   - "Dissolved organic carbon"
@@ -78,6 +80,10 @@ DOM composition varies predictably with:
 
 DOM composition directly controls carbon cycling in aquatic ecosystems:
 
+## Age Heterogeneity of Dissolved Carbon
+
+A fundamental finding across peatland, forest, and river systems is that different dissolved carbon fractions have markedly different radiocarbon ages. [[DissolvedOrganicCarbon|Dissolved organic carbon (DOC)]] is consistently young (modern to ~200 years BP), reflecting decomposition of recently fixed plant material. In contrast, dissolved inorganic carbon (DIC) and CO₂ released by [[AquaticCO2EvasionFlux|evasion from surface waters]] can be substantially older (hundreds to thousands of years BP), indicating mobilization of aged carbon from deep soil and peat layers or geogenic carbonate weathering. This age separation reveals distinct pathways: DOC primarily represents lateral transport of recent plant-derived organic matter, while older gaseous CO₂ is mobilized from subsurface reservoirs accumulated over long timescales. [[RadiocarbonAgeSignaturesAquaticCarbon|This age contrast between DOM and other carbon forms]] has profound implications for understanding how climate-driven changes in [[PeatlandCarbonExportToAquaticSystems|peatland water tables]] and hydrological connectivity affect the composition and age of carbon exported to atmosphere and ocean.
+
 **Carbon respiration rates:**
 - Bioavailable DOM is rapidly respired to CO₂ by heterotrophic microorganisms
 - Refractory DOM persists in water columns and is exported to marine environments
@@ -99,5 +105,8 @@ Increased glacier melt due to warming will initially bias exported DOM toward a 
 
 - [[GlacierDerivedOrganicCarbon]] — DOM sources and variability in glaciated basins
 - [[RadiocarbonOrganicMatter]] — Radiocarbon dating of DOM
+- [[RadiocarbonAgeSignaturesAquaticCarbon]] — Age heterogeneity across aquatic carbon fractions
+- [[AquaticCO2EvasionFlux]] — CO₂ evasion and aged carbon mobilization
+- [[PeatlandCarbonExportToAquaticSystems]] — Peatland DOM and DIC export
 - [[LocalVsDistalBiomarkerSignals]] — Integration of DOM and POM signals across river networks
-- Source paper: [[Hemingway-2019gca]] — DOM composition in Upper Ganges Basin
+- Source papers: [[Hemingway-2019gca]] — DOM composition in Upper Ganges Basin; [[Campeau-2017gcb]] — Aquatic export of young carbon from boreal fen; [[Campeau-2019natcom]] — Stream CO₂ emissions fueled by current forest carbon fixation

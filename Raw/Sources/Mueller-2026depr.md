@@ -2,9 +2,7 @@
 Title: "Hydrothermal dolomitisation of a deep-water bioherm isolated in a non-dolomitised intraplatform basin within the Norian Dolomia Principale"
 Author: "Martin Müller, Stefano M. Bernasconi, Vincenzo Picotti, Jordon D. Hemingway"
 Reference: "https://doi.org/10.1002/dep2.70060"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-27
 Journal: "Depositional Record"
 Volume: "12"

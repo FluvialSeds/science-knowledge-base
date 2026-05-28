@@ -2,9 +2,7 @@
 Title: A novel quinone biosynthetic pathway illuminates the evolution of aerobic metabolism
 Author: Felix J. Elling, Fabien Pierrel, Sophie-Carole Chobert, Sophie S. Abby, Thomas W. Evans, Arthur Reveillard, Ludovic Pelo, Juliette Schneobelen, Jordon D. Hemingway, Ahcène Boumendjelb, Kevin W. Becker, Pieter Blom, Julia Cordes, Vinitra Nathan, Frauke Baymann, Sebastian Lücke, Eva Spiecd, Jared R. Leadbetter, Kai-Uwe Hinrichse, Roger E. Summons, Ann Pearson
 Reference: https://doi.org/10.1073/pnas.2421994122
-ContentType:
-  - pdf
-  - journal-article
+ContentType: "journal-article"
 Created: 2024-10-24
 Journal: PNAS
 Volume: "122"

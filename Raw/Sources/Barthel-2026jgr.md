@@ -2,9 +2,7 @@
 Title: "Constraining greenhouse gas cycling and emissions in Africa's largest humic lake"
 Author: "Madeleine Barthel, Travis W. Drake, Antoine de Clippele, Loes W. de Groot, Mareike Engelhardt, Negar Haghipour, Yemeng Hou, Nico Kueter, Dariusz Lewicka-Szczebak, Alphonse Ludjwera Bahati, Cynthia L. Tschumbu, Kristof Van Oost, Josephine N. Wabakanghanzi, Roland A. Werner, Jacques Zambo Mandea, Johan Six, Jordon D. Hemingway"
 Reference: "https://doi.org/10.1029/2025JG009218"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-27
 Journal: "Journal of Geophysical Research: Biogeosciences"
 Volume: "131"

@@ -4,7 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-28
 sources:
   - "Raw/Sources/Barthel-2026jgr.md"
 source_count: 1
@@ -23,7 +23,7 @@ Humic tropical lakes in carbon-rich peatland and wetland complexes are globally 
 ## Greenhouse Gas Distributions and Sources
 
 **Carbon dioxide (CO₂):**
-Carbon-isotope measurements (δ¹³C) reveal that CO₂ is primarily sourced from respiration of labile (bioavailable) organic carbon rather than refractory dissolved organic matter. CO₂ concentrations increase with water depth, reflecting both surface gas exchange and in situ biological production at depth.
+Carbon-isotope measurements (δ¹³C) reveal that CO₂ is primarily sourced from respiration of labile (bioavailable) organic carbon rather than refractory dissolved organic matter. CO₂ concentrations increase with water depth, reflecting both surface gas exchange and in situ biological production at depth. Direct radiocarbon (¹⁴C) measurements of evaded CO₂, collected using [[RadiocarbonMethodsAquaticCO2Analysis|floating chambers with zeolite molecular sieves]], reveal that CO₂ released to the atmosphere often carries substantially older radiocarbon signatures (hundreds to thousands of years BP) compared to the co-occurring dissolved organic carbon in the same lake. This age contrast indicates that deep, aged carbon pools mobilized from lake sediments and surrounding peatlands represent significant sources of atmospheric CO₂ from humic tropical lakes, with implications for understanding how climate-driven changes in water table elevation and peatland connectivity will affect the age and source composition of greenhouse gas emissions.
 
 **Methane (CH₄):**
 Sedimentary methanogenesis is the dominant source of CH₄ in the water column. However, aerobic methanotrophy—oxidation of CH₄ by methanotrophic bacteria in oxic waters—removes the majority of pelagic methane before outgassing. In well-stratified systems, up to 90% of methane produced in sediments can be reoxidized before reaching the atmosphere, substantially reducing net CH₄ emissions relative to sedimentary production rates.
@@ -77,4 +77,8 @@ Disturbance of upstream peatlands and changes in water table elevation could acc
 - [[DissolvedOrganicMatter]] — Sources and cycling of organic carbon in water columns
 - [[AgedCarbonMobilizationTropicalPeatlands]] — Aged carbon transport from peatlands to lakes
 - [[DeepWaterAnoxia]] — Oxygen depletion and anaerobic microbial communities
+- [[RadiocarbonMethodsAquaticCO2Analysis]] — Direct measurement of radiocarbon in evaded CO₂
+- [[RadiocarbonAgeSignaturesAquaticCarbon]] — Age heterogeneity of aquatic carbon pools
+- [[AquaticCO2EvasionFlux]] — CO₂ evasion dynamics from aquatic systems
+- [[PeatlandCarbonExportToAquaticSystems]] — Peatland-lake carbon coupling and aged carbon mobilization
 - Source papers: [[Barthel-2026jgr]] — Greenhouse gas cycling in Lake Mai Ndombe, Congo Basin

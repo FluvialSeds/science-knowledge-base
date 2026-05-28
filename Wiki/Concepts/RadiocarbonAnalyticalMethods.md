@@ -9,7 +9,10 @@ sources:
   - "Raw/Sources/Hemingway-2017rad.md"
   - "Raw/Sources/Bolandini-2025rad.md"
   - "Raw/Sources/Bao-2019rad.md"
-source_count: 3
+  - "Raw/Sources/Billett-2006rad.md"
+  - "Raw/Sources/Billett-2010lom.md"
+  - "Raw/Sources/Billett-2020eh.md"
+source_count: 6
 aliases:
   - "Radiocarbon measurement"
   - "Blank carbon correction"
@@ -61,6 +64,10 @@ Modern instrumental development has dramatically improved radiocarbon analysis c
 
 These advances enable large-scale paleoclimate and paleoceanographic studies previously limited by analytical throughput.
 
+## Direct Radiocarbon Analysis of Aquatic CO₂ Evasion
+
+For understanding [[AquaticCO2EvasionFlux|aquatic CO₂ evasion]] and [[RadiocarbonAgeSignaturesAquaticCarbon|radiocarbon age signatures]], direct measurement of evaded CO₂ requires specialized field collection methods distinct from traditional offline sample preparation. A key approach employs zeolite molecular sieves to directly trap CO₂ evaded from surface waters in floating chambers, avoiding chemical manipulation of dissolved inorganic carbon (DIC) that introduces uncertainty. The trapped CO₂ is subsequently combusted and analyzed by conventional radiocarbon methods (AMS), yielding the direct isotopic signature of gas-phase carbon leaving aquatic systems. This direct measurement approach has revolutionized understanding of carbon sources in [[PeatlandCarbonExportToAquaticSystems|peatlands]] and [[TropicalRiverCarbonCycling|tropical rivers]], revealing that evaded CO₂ can be substantially older than co-occurring dissolved organic carbon due to mobilization of deeper, aged carbon pools.
+
 ## Acid Pretreatment Effects on Radiocarbon Ages
 
 Removal of inorganic carbonate from sediment samples prior to radiocarbon analysis is essential to prevent contamination from dissolved inorganic carbon and diagenetic carbonate minerals. However, two standard acid-treatment methods—rinsing with HCl and acid fumigation with vapor-phase HCl—have differential effects on measured radiocarbon ages depending on sample carbonate content and organic carbon composition:
@@ -86,5 +93,7 @@ These differential effects mean that [[AcidPretreatementRadiocarbonAnalysis|acid
 - [[ThermalFractionationRadiocarbon]] — Thermal fractionation patterns in radiocarbon dating
 - [[RampedPyrolysisOxidation]] — Thermal analysis technique requiring blank correction
 - [[RadiocarbonOrganicMatter]] — Application of corrected radiocarbon data to source partitioning
+- [[RadiocarbonMethodsAquaticCO2Analysis]] — Direct measurement methods for aquatic CO₂ radiocarbon
+- [[RadiocarbonAgeSignaturesAquaticCarbon]] — Age heterogeneity revealed by aquatic radiocarbon analysis
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical foundations for isotope measurements
-- Source papers: [[Hemingway-2017rad]] — Detailed blank carbon assessment for NOSAMS RPO; [[Bolandini-2025rad]] — Online ORO-AMS development and thermal dissection radiocarbon dating; [[Bao-2019rad]] — Acid pretreatment effects on radiocarbon measurements in high-carbonate sediments
+- Source papers: [[Hemingway-2017rad]] — Detailed blank carbon assessment for NOSAMS RPO; [[Bolandini-2025rad]] — Online ORO-AMS development and thermal dissection radiocarbon dating; [[Bao-2019rad]] — Acid pretreatment effects on radiocarbon measurements in high-carbonate sediments; [[Billett-2006rad]] — Direct measurement of ¹⁴C in CO₂ evaded from peatland streams; [[Billett-2010lom]] — Comparison of direct and indirect methods for measuring evasion CO₂ isotopic composition; [[Billett-2020eh]] — Assessment of chamber methodologies for sampling aquatic CO₂ evasion

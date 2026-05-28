@@ -2,9 +2,7 @@
 Title: "Cavity ring-down spectroscopy performance and procedures for high-throughput δ¹⁸O and δ²H measurement in water using 'Express' mode"
 Author: "Nir Galili, Thomas M. Blattmann, Anna Somlyay, Nora Gallarotti, Timothy I. Eglinton, Jordon D. Hemingway"
 Reference: "https://doi.org/10.1177/00037028241302355"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2024-08-23
 Journal: "Applied Spectroscopy"
 Volume: "79"

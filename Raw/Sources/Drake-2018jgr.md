@@ -2,9 +2,7 @@
 Title: "The Ephemeral Signature of Permafrost Carbon in an Arctic Fluvial Network"
 Author: "Travis W. Drake, François Guillemette, Jordon D. Hemingway, Jeffery P. Chanton, David C. Podgorski, Nikita S. Zimov, Robert G. M. Spencer"
 Reference: "https://doi.org/10.1029/2017JG004311"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-26
 Journal: "Journal of Geophysical Research: Biogeosciences"
 Volume: "123"

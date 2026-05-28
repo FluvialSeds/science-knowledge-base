@@ -2,9 +2,7 @@
 Title: "Mass-independent fractionation processes in the atmosphere"
 Author: "Jordon D. Hemingway, Mark Claire"
 Reference: "https://doi.org/10.1016/B978-0-323-99762-1.00084-X"
-ContentType:
-  - "pdf"
-  - "book-chapter"
+ContentType: "book-chapter"
 Created: 2025-01-01
 Journal: "Treatise on Geochemistry"
 Edition: "3e"

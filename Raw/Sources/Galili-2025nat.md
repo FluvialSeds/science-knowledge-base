@@ -2,9 +2,7 @@
 Title: "The geologic history of marine dissolved organic carbon from iron oxides"
 Author: "Nir Galili, Stefano M. Bernasconi, Alon Nissan, Uria Alcolombri, Giorgia Aquila, Marcella Di Bella, Thomas M. Blattmann, Negar Haghipour, Francesco Italiano, Madalina Jaggi, Ifat Kaplan-Ashiri, Kang Soo Lee, Maxwell A. Lechte, Cara Magnabosco, Susannah M. Porter, Maxim Rudmin, Robert G. M. Spencer, Roman Stocker, Zhe Wang, Stephan Wohlwend, Jordon D. Hemingway"
 Reference: "https://doi.org/10.1038/s41586-025-09383-3"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-26
 Journal: "Nature"
 Volume: "644"

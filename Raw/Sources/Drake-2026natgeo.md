@@ -2,9 +2,7 @@
 Title: "Millennial-aged peat carbon outgassed by large humic lakes in the Congo Basin"
 Author: "Travis W. Drake, Jordon D. Hemingway, Matti Barthel, Antoine de Clippele, Negar Haghipour, Jose N. Wabakanghanzi, Kristof Van Oost, Johan Six"
 Reference: "https://doi.org/10.1038/s41561-026-01924-3"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-27
 Journal: "Nature Geoscience"
 Volume: "19"

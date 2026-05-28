@@ -2,9 +2,7 @@
 Title: "Triple oxygen isotope insight into terrestrial pyrite oxidation"
 Author: "Jordon D. Hemingway, Haley Olson, Alexandra V. Turchyn, Edward T. Tipper, Mike J. Bickle, David T. Johnston"
 Reference: "https://doi.org/10.1073/pnas.1917518117"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-25
 Journal: "Proceedings of the National Academy of Sciences"
 Volume: "117"

@@ -2,9 +2,7 @@
 Title: "Temperature limits for preservation of primary calcite clumped isotope paleotemperatures"
 Author: "Gregory A. Henkes, Benjamin H. Passey, Ethan L. Grossman, Brock J. Shenton, Alberto Pérez-Huerta, Thomas E. Yancey"
 Reference: "https://doi.org/10.1016/j.gca.2014.04.040"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-25
 Journal: "Geochimica et Cosmochimica Acta"
 Volume: "139"

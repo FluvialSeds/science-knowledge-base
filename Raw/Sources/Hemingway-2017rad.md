@@ -2,9 +2,7 @@
 Title: "Assessing the blank carbon contribution, isotope mass balance, and kinetic isotope fractionation of the ramped pyrolysis/oxidation instrument at NOSAMS"
 Author: "Jordon D. Hemingway, Katherine Grant, Sarah Z. Rosengard, Valier V. Galy"
 Reference: "https://doi.org/10.1017/RDC.2017.3"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-25
 Journal: "Radiocarbon"
 Volume: "59"

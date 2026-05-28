@@ -3,6 +3,7 @@
 - [[AcidPretreatementRadiocarbonAnalysis]] — Acid pretreatment methods for radiocarbon analysis
 - [[AgedCarbonMobilizationTropicalPeatlands]] — Aged Carbon Mobilization in Tropical Peatlands
 - [[Anammox]] — Anammox
+- [[AquaticCO2EvasionFlux]] — Aquatic CO₂ Evasion Flux
 - [[AtmosphericOxygenSulfurIsotopeRecords]] — Atmospheric Oxygen and Sulfur Isotope Records as Paleoceanographic Proxies
 - [[BacterialHopanoidDiversityStructuralIsomerism]] — Bacterial hopanoid diversity and structural isomerism
 - [[BacteriohopanepolyolBiomarkers]] — Bacteriohopanepolyol Biomarkers
@@ -12,6 +13,7 @@
 - [[CarbonIsotopeFractionationPlants]] — Carbon Isotope Fractionation and Plant Photosynthetic Pathways
 - [[CarbonateIsotopeThermalAlteration]] — Carbonate Isotope Thermal Alteration and Bond Reordering Kinetics
 - [[CavityRingDownSpectroscopyWaterIsotopes]] — Cavity Ring-Down Spectroscopy (CRDS) for Stable Water Isotopes
+- [[ChemicalWeatheringDissolvedInorganicCarbon]] — Chemical Weathering and Dissolved Inorganic Carbon
 - [[ClayHydroxylIsotopesPaleoxyProbe]] — Clay Hydroxyl Isotopes as a Paleoproxy for Hydrologic Cycling
 - [[ClimateControlsTerrestrialOrganicMatterCycling]] — Climate Controls on Terrestrial Organic Matter Cycling in Rivers
 - [[ClumpedIsotopePaleothermometry]] — Clumped Isotope Paleothermometry
@@ -21,6 +23,7 @@
 - [[DeepWaterAnoxia]] — Deep Water Anoxia
 - [[DissolvedOrganicMatter]] — Dissolved Organic Matter (DOM)
 - [[DissolvedOxygenAnomaliesAnoxicEnvironments]] — Dissolved Oxygen Anomalies in Anoxic Environments
+- [[DrylandRiverCarbonDynamics]] — Dryland River Carbon Dynamics
 - [[FattyAcidLigninPhenolRadiocarbonBiomarkers]] — Fatty Acid and Lignin Phenol Radiocarbon Biomarkers
 - [[GDGTBiomarkers]] — GDGT Biomarkers as Environmental Proxies
 - [[GlacierDerivedOrganicCarbon]] — Glacier-Derived Organic Carbon
@@ -32,6 +35,7 @@
 - [[HydrothermalDolomitization]] — Hydrothermal Dolomitization
 - [[IronOxideDissolvedOrganicCarbonProxy]] — Iron Oxide-Preserved Dissolved Organic Carbon as a Paleoceanographic Proxy
 - [[IronOxideOxygenIsotopeAnalysis]] — High-Temperature Conversion IRMS for Iron Oxide Oxygen Isotopes
+- [[KarstRiverCarbonDynamics]] — Karst River Carbon Dynamics
 - [[LocalVsDistalBiomarkerSignals]] — Local vs Distal Biomarker Signals in River Sediments
 - [[MarineBariteIsotopeRecord]] — Marine Barite as a High-Resolution Paleoceanographic Archive
 - [[MassIndependentFractionationAtmosphere]] — Mass-Independent Fractionation (MIF) in Oxygen and Sulfur Isotopes
@@ -51,13 +55,16 @@
 - [[PaleoFireReconstructionFromBiomarkers]] — Paleofires Reconstructed from Biomarkers
 - [[PaleoceneEoceneThermalMaximumHydrology]] — Paleocene-Eocene Thermal Maximum and Hydrologic Intensification
 - [[ParticleSinkingEcosystemEvolution]] — Particle Sinking Efficiency and Long-Term Ocean Carbon Cycling
+- [[PeatlandCarbonExportToAquaticSystems]] — Peatland Carbon Export to Aquatic Systems
 - [[PermafrostCarbonMobilizationArcticRivers]] — Permafrost Carbon Mobilization in Arctic Fluvial Networks
 - [[PetrogenicCarbonOxidation]] — Petrogenic Carbon Oxidation
 - [[PetrogenicOrganicCarbon]] — Petrogenic Organic Carbon
 - [[PlantWaxBiomarkers]] — Plant-Wax Biomarkers as Ecosystem Proxies
 - [[PyriteBurialAtmosphericOxygen]] — Pyrite Burial and Long-Term Atmospheric Oxygen Evolution
 - [[QuinoneBiosynthesisAerobicMetabolismEvolution]] — Quinone Biosynthesis and Aerobic Metabolism Evolution
+- [[RadiocarbonAgeSignaturesAquaticCarbon]] — Radiocarbon Age Signatures of Aquatic Carbon
 - [[RadiocarbonAnalyticalMethods]] — Radiocarbon Analytical Methods
+- [[RadiocarbonMethodsAquaticCO2Analysis]] — Radiocarbon Methods for Aquatic CO₂ Analysis
 - [[RadiocarbonOrganicMatter]] — Radiocarbon (Δ¹⁴C) as a Tracer of Organic Matter Age
 - [[RadiocarbonSignaturesArctic]] — Radiocarbon Signatures in Arctic Fluvial DIC
 - [[RampedPyrolysisOxidation]] — Ramped Pyrolysis/Oxidation (RPO)
@@ -72,3 +79,4 @@
 - [[TripleOxygenIsotopePaleoxyProbe]] — Triple Oxygen Isotope Composition as a Paleoproductivity Proxy
 - [[TripleOxygenIsotopeRespirationFractionation]] — Triple-oxygen isotope fractionation in respiration
 - [[TripleOxygenIsotopes]] — Triple Oxygen Isotope Compositions and Atmospheric Tracers
+- [[TropicalRiverCarbonCycling]] — Tropical River Carbon Cycling

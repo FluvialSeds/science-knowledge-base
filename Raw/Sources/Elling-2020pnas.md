@@ -2,9 +2,7 @@
 Title: "Vitamin B12-dependent biosynthesis ties amplified 2-methylhopanoid production during oceanic anoxic events to nitrification"
 Author: "Felix J. Elling, Jordon D. Hemingway, Thomas W. Evans, Jenan J. Kharbush, Eva Spieck, Roger E. Summons, Ann Pearson"
 Reference: "https://doi.org/10.1073/pnas.2012357117"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2026-05-25
 Journal: "PNAS"
 Volume: "117"

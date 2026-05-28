@@ -2,9 +2,7 @@
 Title: The known unknowns of petrogenic organic carbon in soils
 Author: Daniel L. Evans, Sebastian Doetterl, Nora Gallarotti, Eleanor Georgiadis, Sami Nabhan, Stephan H. Wartenweiler, Timo M. Y. Rhyner, Benedict V. A. Mittelbach, Timothy I. Eglinton, Jordon D. Hemingway, Thomas M. Blattmann
 Reference: https://doi.org/10.1029/2024AV001625
-ContentType:
-  - pdf
-  - journal-article
+ContentType: "journal-article"
 Created: 2024-12-16
 Journal: AGU Advances
 Volume: "6"

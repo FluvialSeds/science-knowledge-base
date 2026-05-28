@@ -2,9 +2,7 @@
 Title: "Widespread occurrence of dissolved oxygen anomalies, aerobic microbes, and oxygen-producing metabolic pathways in apparently anoxic environments"
 Author: "S. Emil Ruff, Laura Schwab, Emeline Vidal, Jordon D. Hemingway, Beate Kraft, Ranjani Murali"
 Reference: "https://doi.org/10.1093/femsec/fiae132"
-ContentType:
-  - "pdf"
-  - "journal-article"
+ContentType: "journal-article"
 Created: 2024-05-15
 Journal: "FEMS Microbiology Ecology"
 Volume: "100"
