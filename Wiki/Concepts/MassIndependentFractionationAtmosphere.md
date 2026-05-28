@@ -124,5 +124,5 @@ Determining which specific mechanism (self-shielding, spin effects, symmetry) do
 - [[TripleOxygenIsotopes]] — Triple oxygen isotope compositions and paleoceanographic applications
 - [[GreatOxidationEventMechanisms]] — GOE timing, mechanisms, and paleoceanographic evidence
 - [[AtmosphericOxygenSulfurIsotopeRecords]] — Atmospheric isotope records as paleoproxies
-- [[GrossP primaryProductivityReconstruction]] — GPP reconstruction from isotope proxies
+- [[GrossPrimaryProductivityReconstruction]] — GPP reconstruction from isotope proxies
 - Source paper: [[Hemingway-2025tog]] — Comprehensive review of mass-independent fractionation processes

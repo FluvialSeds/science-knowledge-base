@@ -4,13 +4,15 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-28
 sources:
   - "Raw/Sources/Hemingway-2019nat.md"
-source_count: 1
+  - "Raw/Sources/Gies-2023pta.md"
+source_count: 2
 aliases:
   - "Organo-mineral interactions"
   - "Mineral-bound organic matter"
+  - "Mineral-stabilized carbon"
 ---
 
 # Mineral Protection of Organic Carbon
@@ -42,10 +44,16 @@ Mineral protection fundamentally regulates atmospheric CO₂ over geological tim
 
 Ancient sediment records may reveal how organic carbon preservation—and thus atmospheric composition and climate—has varied over geological time.
 
+## Multi-Molecular Evidence for Mineral Control on Carbon Storage
+
+Compound-specific radiocarbon analysis of different biomarker classes in river sediments reveals that mineral protection is the dominant control on terrestrial carbon export and residence time. Analysis of glycerol dialkyl glycerol tetraethers (GDGTs), plant-derived biomarkers (lignin phenols, fatty acids), and other organic compounds shows that **GDGTs accumulate radiocarbon ages significantly older than higher plant biomarkers**. This age offset reflects differential mineral protection: microbial lipids like GDGTs are synthesized within soil mineral matrices and become closely associated with clays and oxides, while plant-derived biomarkers are initially labile surface inputs. The systematic ¹⁴C age difference between GDGTs (older) and plant biomarkers (younger) indicates that mineral stabilization extends GDGT residence time by 100s to 1000s of years compared to labile plant waxes. This observation directly demonstrates that mineral-soil interactions—not intrinsic compound recalcitrance—control how long different organic components persist in soils before riverine export, fundamentally reshaping our understanding of terrestrial carbon cycling and export.
+
 ## See also
 
 - [[OrganicCarbonPreservation]] — Comparison of selective preservation and mineral protection mechanisms
 - [[OrganoMineralBonds]] — Chemistry and types of organo-mineral interactions
 - [[RampedPyrolysisOxidation]] — How activation energy distributions reveal preservation mechanisms
 - [[RadiocarbonOrganicMatter]] — Radiocarbon evidence for mineral-protected carbon
-- Source paper: [[Hemingway-2019nat]] — Global compilation of preservation mechanisms
+- [[GDGTBiomarkers]] — GDGTs as mineral-associated biomarkers
+- [[MineralControlTerrestrialCarbonStorageExport]] — Multi-molecular evidence of mineral controls on terrestrial carbon cycling
+- Source papers: [[Hemingway-2019nat]] — Global compilation of preservation mechanisms; [[Gies-2023pta]] — Multi-molecular radiocarbon evidence for mineral control on terrestrial carbon storage

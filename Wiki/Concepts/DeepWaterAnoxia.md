@@ -4,15 +4,17 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-27
+updated: 2026-05-28
 sources:
   - "Raw/Sources/Elling-2021epsl.md"
   - "Raw/Sources/Ruff-2024fems.md"
-source_count: 2
+  - "Raw/Sources/Orsi-2017scirep.md"
+source_count: 3
 aliases:
   - "Deep-water oxygen depletion"
   - "Anoxic basins"
   - "Hypoxic zones"
+  - "Paleomicrobiome"
 ---
 
 # Deep Water Anoxia
@@ -78,6 +80,12 @@ However, recent discoveries of [[DissolvedOxygenAnomaliesAnoxicEnvironments|diss
 
 Understanding how past anoxic events (like [[OceanicAnoxicEvents|oceanic anoxic events]] and [[SapropelNitrogenCycleCoupling|Mediterranean sapropels]]) developed and persisted provides insights into how modern ocean deoxygenation will proceed and what ecosystem changes to expect. The discovery that anoxic systems contain cryptic oxygen sources suggests that oxygen-dependent processes may have been more prevalent in ancient anoxic oceans than bulk geochemical proxies indicate.
 
+## Paleomicrobiome Paleoclimate Records
+
+Metagenomic analysis of sedimentary DNA from oxygen minimum zones reveals a novel paleoclimate signal: microbial communities in ancient anoxic sediments preserve genomic evidence of the paleoceanographic conditions during deposition. Unlike bulk post-burial diagenetic controls that homogenize microbial communities based on electron acceptor availability, specific bacterial taxa show **paleoenvironmental selection patterns** reflecting the redox conditions when sediments were first buried. For example, denitrification genes (responsible for sequential reduction of NO₃⁻ to N₂) are enriched in stratigraphic intervals deposited during oxygen minimum zone conditions, correlating with independent paleoclimate proxies (authigenic minerals, biomarkers, oxygen isotopes). This paleomicrobiome signal persists despite millions of years of burial, enabled by dual metabolic capabilities: denitrifiers produce fermentation pathways allowing survival in long-term anoxic conditions after their preferred substrate (nitrate) is depleted.
+
+This genomic paleoclimate signal offers centennial-scale temporal resolution of how microbial communities respond to climate oscillations (glacial-interglacial cycles) and provides an independent archive complementary to traditional geochemical proxies. Paleomicrobiome records reveal not just which microbes existed, but their metabolic potential and adaptations to specific paleoceanographic conditions, adding a layer of biological information previously invisible to paleoceanographers.
+
 ## See also
 
 - [[NitrogenCycle]] — Nitrogen cycling processes
@@ -87,4 +95,5 @@ Understanding how past anoxic events (like [[OceanicAnoxicEvents|oceanic anoxic 
 - [[Anammox]] — Anaerobic ammonia oxidation
 - [[OceanicAnoxicEvents]] — Oceanic anoxic events
 - [[SapropelNitrogenCycleCoupling]] — Sapropel formation and nitrogen cycling
-- Source paper: [[Elling-2021epsl]] — Nitrogen cycling and deep-water anoxia during sapropel formation; [[Ruff-2024fems]] — Widespread dark oxygen production in anoxic environments
+- [[SedimentMicrobiomePaleoclimatology]] — Paleomicrobiome records as paleoclimate archives
+- Source papers: [[Elling-2021epsl]] — Nitrogen cycling and deep-water anoxia during sapropel formation; [[Ruff-2024fems]] — Widespread dark oxygen production in anoxic environments; [[Orsi-2017scirep]] — Climate oscillations reflected in sedimentary microbiomes of oxygen minimum zones

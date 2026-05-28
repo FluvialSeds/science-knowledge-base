@@ -4,15 +4,17 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-27
+updated: 2026-05-28
 sources:
   - "Raw/Sources/Hemingway-2017rad.md"
   - "Raw/Sources/Bolandini-2025rad.md"
-source_count: 2
+  - "Raw/Sources/Bao-2019rad.md"
+source_count: 3
 aliases:
   - "Radiocarbon measurement"
   - "Blank carbon correction"
   - "Radiocarbon analysis"
+  - "Acid pretreatment effects"
 ---
 
 # Radiocarbon Analytical Methods
@@ -59,6 +61,16 @@ Modern instrumental development has dramatically improved radiocarbon analysis c
 
 These advances enable large-scale paleoclimate and paleoceanographic studies previously limited by analytical throughput.
 
+## Acid Pretreatment Effects on Radiocarbon Ages
+
+Removal of inorganic carbonate from sediment samples prior to radiocarbon analysis is essential to prevent contamination from dissolved inorganic carbon and diagenetic carbonate minerals. However, two standard acid-treatment methods—rinsing with HCl and acid fumigation with vapor-phase HCl—have differential effects on measured radiocarbon ages depending on sample carbonate content and organic carbon composition:
+
+- **HCl rinsing**: In low-carbonate samples, direct acid treatment preferentially removes young, labile organic carbon while carbonate dissolves, artificially aging bulk ¹⁴C measurements by 100s to 1000s of years. Conversely, in high-carbonate samples (>10–20% CaCO₃), rinsing may artificially rejuvenate ages by removing old, mineral-associated organic matter, creating sample-dependent artifacts.
+
+- **Acid fumigation**: Vapor-phase HCl treatment selectively removes thermally labile, young organic carbon in both low- and high-carbonate systems, consistently producing artificially aged radiocarbon measurements.
+
+These differential effects mean that [[AcidPretreatementRadiocarbonAnalysis|acid pretreatment artifacts]] vary systematically with sample type, requiring careful characterization of pretreatment effects for accurate paleoclimate reconstruction. In high-carbonate systems, comparison between acid-treated and untreated samples, or analysis using [[RampedPyrolysisOxidation|ramped pyrolysis/oxidation]] to measure radiocarbon across thermal fractions, can help quantify pretreatment-induced biases.
+
 ## Quality Assurance
 
 **Critical measurements for method validation:**
@@ -69,9 +81,10 @@ These advances enable large-scale paleoclimate and paleoceanographic studies pre
 
 ## See also
 
+- [[AcidPretreatementRadiocarbonAnalysis]] — Acid pretreatment methods for carbonate removal and associated artifacts
 - [[OnlineRampedOxidationAMS]] — Modern online ORO-AMS approach enabling direct thermal fractionation radiocarbon measurement
 - [[ThermalFractionationRadiocarbon]] — Thermal fractionation patterns in radiocarbon dating
 - [[RampedPyrolysisOxidation]] — Thermal analysis technique requiring blank correction
 - [[RadiocarbonOrganicMatter]] — Application of corrected radiocarbon data to source partitioning
 - [[CompoundSpecificIsotopeAnalysis]] — Analytical foundations for isotope measurements
-- Source papers: [[Hemingway-2017rad]] — Detailed blank carbon assessment for NOSAMS RPO; [[Bolandini-2025rad]] — Online ORO-AMS development and thermal dissection radiocarbon dating
+- Source papers: [[Hemingway-2017rad]] — Detailed blank carbon assessment for NOSAMS RPO; [[Bolandini-2025rad]] — Online ORO-AMS development and thermal dissection radiocarbon dating; [[Bao-2019rad]] — Acid pretreatment effects on radiocarbon measurements in high-carbonate sediments

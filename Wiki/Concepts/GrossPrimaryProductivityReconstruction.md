@@ -4,14 +4,16 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-27
+updated: 2026-05-28
 sources:
   - "Raw/Sources/Waldeck-2022pnas.md"
-source_count: 1
+  - "Raw/Sources/Sutherland-2022pnex.md"
+source_count: 2
 aliases:
   - "Paleoproductivity reconstruction"
   - "GPP estimation from isotopes"
   - "Ocean productivity over geological time"
+  - "Gross oxygen production"
 ---
 
 # Gross Primary Productivity Reconstruction from Sulfate Isotopes
@@ -52,9 +54,17 @@ Reconstruction of paleoproductivity from sulfate isotopes reveals how ocean prod
 - **Biogeochemistry responds rapidly to forcing**: Productivity changes induced by climate variations leave imprints on isotopic records within thousand-year timescales, indicating that the biogeochemical system responds sensitively to external forcing
 - **Long-term carbon cycling is productivity-dependent**: Variations in productivity affect how much organic carbon is exported to depth and ultimately buried, influencing the long-term carbon cycle and atmospheric CO₂ levels on geological timescales
 
+## Revised Estimates Accounting for Reactive Oxygen Species and Photochemical Processes
+
+Traditional gross oxygen production (GOP) estimates from marine dissolved oxygen triple-oxygen isotopes assumed a single, constant fractionation factor for microbial respiration. However, recent evidence reveals that respiration's apparent isotope effect varies due to: (1) **reactive oxygen species (ROS) recycling** (superoxide dismutase, catalase, and Fenton-like reactions), which recycles ~20% of oxygen utilization with a distinct isotope signature; and (2) **photochemical oxidation of dissolved organic carbon**, which consumes oxygen non-biologically with isotope effects varying by DOM source.
+
+When both ROS and photochemical processes are incorporated into GOP models, calculated productivity estimates change by >20% compared to models using previous canonical isotope effect values. This dramatic impact underscores that [[GrossPrimaryProductivityReconstruction|paleoproductivity reconstruction]] from dissolved oxygen triple-oxygen isotopes requires careful constraint of these previously underappreciated processes. In coastal systems, photochemical DOC oxidation becomes particularly important, while in the open ocean, ROS-mediated cycling dominates non-biological oxygen sinks. These revised models significantly improve agreement between triple-oxygen isotope-based GOP estimates and other independent productivity proxies.
+
 ## See also
 
 - [[TripleOxygenIsotopePaleoxyProbe]] — How Δ¹⁷O records productivity-driven oxygen isotope variations
+- [[TripleOxygenIsotopeRespirationFractionation]] — ROS and photochemical effects on respiration isotope fractionation
 - [[MarineBariteIsotopeRecord]] — Marine barite as the archive of paleoproductivity signals
 - [[MicrobialSulfateReductionControl]] — How productivity drives microbial processes that control sulfate composition
-- Source paper: [[Waldeck-2022pnas]] — 130 million year paleoproductivity and atmospheric oxygen reconstruction
+- [[DissolvedOrganicMatter]] — Photochemical reactivity of DOC affecting oxygen budgets
+- Source papers: [[Waldeck-2022pnas]] — 130 million year paleoproductivity and atmospheric oxygen reconstruction; [[Sutherland-2022pnex]] — Revised GOP estimates incorporating ROS and photochemical oxidation effects

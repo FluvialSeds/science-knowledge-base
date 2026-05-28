@@ -4,15 +4,17 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-28
 sources:
   - "Raw/Sources/Elling-2020pnas.md"
   - "Raw/Sources/Elling-2021epsl.md"
-source_count: 2
+  - "Raw/Sources/Kusch-2018og.md"
+source_count: 3
 aliases:
   - "Hopanoid biomarkers"
   - "Bacteriohopanoids"
   - "BHP"
+  - "BHP isomers"
 ---
 
 # Bacteriohopanepolyol Biomarkers
@@ -69,6 +71,16 @@ Key hopanoid structures used as biomarkers include:
 - **Diploptene and diplopterol**: Widespread hopanoids from diverse bacteria
 - **Cyanobacterial hopanoids**: Often methylated; diagnostic of photosynthetic nitrogen fixers
 
+## Structural Isomer Diversity
+
+Recent advances in high-performance liquid chromatography reveal that bacteriohopanepolyol biomarkers exist as **multiple structural isomers** in natural samples. During early diagenesis, some hopanoid side chains undergo condensation reactions forming larger composite molecules (polymeric hopanoids). These composites can form through multiple reaction pathways, creating distinct structural isomers with different chromatographic retention times and mass spectra. Analysis of marine sediments shows:
+
+- **High isomer diversity**: Individual samples contain dozens of distinct BHP structural isomers even among supposedly "simple" compounds
+- **Sample-specific isomer fingerprints**: Different sediment samples and depositional environments show characteristic BHP isomer abundance distributions
+- **Environmental and community controls**: BHP isomer compositions vary systematically with redox conditions, microbial communities, and paleoceanographic settings
+
+This structural diversity opens new paleoenvironmental applications. Individual BHP isomers can be isolated for [[CompoundSpecificIsotopeAnalysis|compound-specific radiocarbon and stable isotope analysis]], providing source-specific information about different bacterial producers. In paleoclimate reconstruction, BHP isomer fingerprints may serve as refined proxies for ocean redox conditions, complementing bulk hopanoid abundances.
+
 ## Preservation in Sediments
 
 Bacteriohopanepolyol biomarkers are diagenetically stable over geological time:
@@ -87,4 +99,6 @@ This stability makes bacteriohopanepolyol biomarkers reliable tracers of past mi
 - [[NitrogenCycle]] — Processes traced by hopanoid biomarkers
 - [[PlantWaxBiomarkers]] — Complementary lipid biomarker class
 - [[GDGTBiomarkers]] — Complementary membrane lipid biomarkers from archaea
-- Source papers: [[Elling-2020pnas]] — 2-methyl BHP synthesis investigation, [[Elling-2021epsl]] — BHPs during Mediterranean sapropel events
+- [[BacterialHopanoidDiversityStructuralIsomerism]] — Structural isomers and environmental applications
+- [[CompoundSpecificIsotopeAnalysis]] — Methods for isotope analysis of individual BHP isomers
+- Source papers: [[Elling-2020pnas]] — 2-methyl BHP synthesis investigation; [[Elling-2021epsl]] — BHPs during Mediterranean sapropel events; [[Kusch-2018og]] — Improved chromatography resolving multiple BHP isomers
