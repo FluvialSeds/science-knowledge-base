@@ -1,10 +1,12 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "BiogeochemicalNitrogenCycling"
+  - "GreatOxidationEventAndEarlyEarthBiogeochemistry"
 status: stable
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Ruff-2024fems.md"
 source_count: 1

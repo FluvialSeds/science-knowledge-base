@@ -1,10 +1,12 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "AquaticAndFluvialCarbonCycling"
+  - "IsotopicProxiesPaleoceanography"
 status: stable
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - Raw/Sources/Billett-2006rad.md
   - Raw/Sources/Billett-2010lom.md

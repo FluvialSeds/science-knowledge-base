@@ -1,12 +1,13 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "GreatOxidationEventAndEarlyEarthBiogeochemistry"
 status: stable
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-29
 sources:
-  - "Raw/Sources/Crockford-2026ncomms.md"
+  - "Raw/Sources/Crockford-2026cee.md"
   - "Raw/Sources/Elling-2025pnas.md"
   - "Raw/Sources/Hemingway-2025tog.md"
 source_count: 3
@@ -88,15 +89,6 @@ The GOE represents the first major oxygen rise, but additional significant oxyge
 
 These later oxygenation events likely involved different biological innovations (diversification of multicellular life, evolution of terrestrial plants) and different geochemical drivers than the GOE.
 
-## See also
-
-- [[QuinoneBiosynthesisAerobicMetabolismEvolution]] — Quinone-based electron transport and ancient aerobic metabolism evolution
-- [[MethylplastoquinoneAncientAerobicMetabolism]] — Ancient aerobic metabolism biomarker in Nitrospirota
-- [[MassIndependentFractionationAtmosphere]] — O-MIF and S-MIF mechanisms for atmospheric oxygenation tracers
-- [[AtmosphericOxygenSulfurIsotopeRecords]] — Paleoceanographic applications of atmospheric isotope records
-- [[DarkOxygenProductionPathways]] — Abiotic and biotic oxygen production pathways
-- [[DissolvedOxygenAnomaliesAnoxicEnvironments]] — Oxygen heterogeneity in anoxic systems
-- Source papers: [[Crockford-2026ncomms]] — Paleoceanographic evidence for GOE timing and mechanisms; [[Elling-2025pnas]] — Quinone biosynthesis and ancient aerobic metabolism; [[Hemingway-2025tog]] — Mass-independent fractionation processes and paleoceanographic applications
 The rise of atmospheric oxygen enabled the evolution of aerobic respiration, which is far more energetically efficient than anaerobic fermentation. This metabolic innovation likely catalyzed the evolution of complex, multicellular organisms and contributed to the ecological diversification observed in the Proterozoic.
 
 **Ocean redox structure changes:**
@@ -124,4 +116,4 @@ New biomarker and genomic approaches may reveal when and where early aerobic met
 - [[AtmosphericOxygenSulfurIsotopeRecords]] — Paleoceanographic applications of atmospheric isotope records
 - [[DarkOxygenProductionPathways]] — Abiotic and biotic oxygen production pathways
 - [[DissolvedOxygenAnomaliesAnoxicEnvironments]] — Oxygen heterogeneity in anoxic systems
-- Source papers: [[Crockford-2026ncomms]] — Paleoceanographic evidence for GOE timing and mechanisms; [[Elling-2025pnas]] — Quinone biosynthesis and ancient aerobic metabolism; [[Hemingway-2025tog]] — Mass-independent fractionation processes and paleoceanographic applications
+- Source papers: [[Crockford-2026cee]] — Paleoceanographic evidence for GOE timing and mechanisms; [[Elling-2025pnas]] — Quinone biosynthesis and ancient aerobic metabolism; [[Hemingway-2025tog]] — Mass-independent fractionation processes and paleoceanographic applications

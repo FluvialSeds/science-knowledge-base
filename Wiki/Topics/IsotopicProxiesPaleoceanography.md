@@ -4,7 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-27
+updated: 2026-05-29
 aliases:
   - "Paleoceanographic proxies"
   - "Biomarker and isotope paleoproxies"
@@ -96,6 +96,9 @@ These proxies have been applied to reconstruct:
 - [[CarbonIsotopeFractionationPlants]] — Carbon isotope fractionation in photosynthesis
 - [[RadiocarbonOrganicMatter]] — Radiocarbon as a tracer of organic matter age
 - [[RadiocarbonAnalyticalMethods]] — Modern radiocarbon analytical techniques
+- [[RadiocarbonMethodsAquaticCO2Analysis]] — Direct measurement of radiocarbon in aquatic CO₂
+- [[RadiocarbonAgeSignaturesAquaticCarbon]] — Age heterogeneity of aquatic carbon fractions
+- [[AquaticCO2EvasionFlux]] — Water-atmosphere CO₂ exchange and paleoceanographic signals
 - [[OnlineRampedOxidationAMS]] — Online ORO-AMS for thermal fractionation radiocarbon dating
 - [[ThermalFractionationRadiocarbon]] — Thermal fractionation patterns in radiocarbon
 - [[CompoundSpecificIsotopeAnalysis]] — GC-IRMS methods for compound-specific analysis

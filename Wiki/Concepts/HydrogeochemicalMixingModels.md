@@ -1,10 +1,11 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "AquaticAndFluvialCarbonCycling"
 status: stable
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Boral-2021epsl.md"
 source_count: 1

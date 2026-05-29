@@ -31,4 +31,4 @@ Petrographic observations reveal two distinct dolomite generations: an early pha
 
 Hydrothermal dolomitisation controlled by fluid circulation through permeable carbonate structures explains the spatial heterogeneity of dolomite in ancient carbonates. The bioherm-specific dolomitisation indicates that organic mounds and other high-relief structures focus fluid flow and create pathways for dolomitizing fluid circulation. These findings provide a mechanistic framework for understanding dolomite distribution in basin-scale carbonate successions and for interpreting dolomite as a paleofluid indicator. The results emphasize the importance of structural features and fluid circulation in controlling diagenetic mineralogy in carbonate rocks.
 
-![[Mueller-2026depr.pdf]]
+![[Mueller-2026deprec.pdf]]

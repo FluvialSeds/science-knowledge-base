@@ -4,7 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-27
+updated: 2026-05-29
 aliases:
   - "Carbon preservation and cycling"
   - "Mountain carbon cycle"
@@ -62,6 +62,7 @@ Understanding how organic carbon cycles through mountain systems and reaches the
 - [[SoilPrimingEffects]] — Fresh carbon triggering mineralization of old carbon pools
 - [[PetrogenicCarbonOxidation]] — Oxidation of ancient carbon during erosion
 - [[MicrobialOxidationOrganicCarbon]] — Microbial remineralization in soils
+- [[ChemicalWeatheringDissolvedInorganicCarbon]] — Chemical weathering and DIC production
 - [[DissolvedOrganicMatter]] — Transport of organic carbon in aquatic systems
 - [[GlacierDerivedOrganicCarbon]] — Glacier inputs of organic carbon
 - [[CarbonCycleMountainSystems]] — Coupling between tectonics and atmospheric CO₂

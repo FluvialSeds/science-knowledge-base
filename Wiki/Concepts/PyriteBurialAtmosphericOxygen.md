@@ -1,10 +1,11 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "GreatOxidationEventAndEarlyEarthBiogeochemistry"
 status: stable
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Mertens-2026natgeo.md"
 source_count: 1

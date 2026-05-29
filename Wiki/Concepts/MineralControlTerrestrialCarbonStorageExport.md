@@ -1,10 +1,11 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Gies-2023pta.md"
 source_count: 1

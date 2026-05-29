@@ -1,10 +1,11 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "OrganicCarbonCycling"
 status: stable
 created: 2026-05-24
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Hemingway-2018sci.md"
   - "Raw/Sources/Blattmann-2019scirep.md"

@@ -1,10 +1,11 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Drake-2026natgeo.md"
 source_count: 1

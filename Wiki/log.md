@@ -269,4 +269,14 @@ Removed extra tags from all 8 new concept files. All concept notes now have sing
 ## PDF Embeddings: All Source Files
 *Logged: 2026-05-28 23:10:10*
 
-Added PDF wikilinks to all 58 source files in Raw/Sources. Each source file now embeds its corresponding PDF from Raw/Files using Obsidian wikilink format ![[FileName.pdf]]. Format matches user template from Alin-2008jgr.md.
+Added PDF wikilinks to all 58 source files in Raw/Sources. Each source file now embeds its corresponding PDF from Raw/Files using Obsidian wikilink format `![[FileName.pdf]]`. Format matches user template from Alin-2008jgr.md.
+
+## Topic Structure: New Aquatic Topic & Concept Linking
+*Logged: 2026-05-29 20:34:03*
+
+Created new topic 'AquaticAndFluvialCarbonCycling' (86th catalog entry) encompassing all fluvial carbon cycling concepts. Updated concept frontmatter to link all 8 new concepts + 1 updated concept (DissolvedOrganicMatter) to appropriate topics. Updated 3 existing topics (OrganicCarbonCycling, SoilCarbonDynamicsAndPedogeochemistry, IsotopicProxiesPaleoceanography) with new concept wikilinks. All concepts now linked to at least one topic.
+
+## Complete Topic Linking: All 86 Concepts Organized
+*Logged: 2026-05-29 20:44:19*
+
+Successfully assigned all 86 concepts to 6 topic categories. 81 concepts with empty topics [] assigned via: 56 extracted from topic See also sections matching, 25 manually categorized by semantic content. Ensured topic assignments match wikilinks in all topic See also sections. Updated all modified concept files metadata with current date (2026-05-29).

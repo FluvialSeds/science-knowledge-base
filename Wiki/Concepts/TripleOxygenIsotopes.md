@@ -1,10 +1,12 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "GreatOxidationEventAndEarlyEarthBiogeochemistry"
+  - "IsotopicProxiesPaleoceanography"
 status: stable
 created: 2026-05-25
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Hemingway-2020pnas.md"
   - "Raw/Sources/Hemingway-2022gca.md"

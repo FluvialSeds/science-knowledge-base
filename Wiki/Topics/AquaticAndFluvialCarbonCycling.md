@@ -1,0 +1,106 @@
+---
+tags:
+  - "topic"
+topics: []
+status: stable
+created: 2026-05-29
+updated: 2026-05-29
+aliases:
+  - "Fluvial carbon transport"
+  - "River and stream carbon cycling"
+  - "Aquatic dissolved inorganic carbon"
+  - "Water-atmosphere carbon exchange"
+---
+
+# Aquatic and Fluvial Carbon Cycling
+
+## Overview
+
+Carbon cycles through aquatic systems—rivers, streams, lakes, and estuaries—in multiple forms: as dissolved inorganic carbon (DIC) produced by weathering and respiration, as dissolved organic matter (DOM) transported from terrestrial sources, and as CO₂ gas that exchanges with the atmosphere. Aquatic carbon cycling controls how much carbon is exported from terrestrial watersheds to the ocean and how much is returned to the atmosphere as greenhouse gas emissions. Understanding these pathways is essential for constraining global carbon budgets, predicting how climate change will alter carbon fluxes, and interpreting paleoceanographic records preserved in marine sediments.
+
+## Carbon Sources and Transport Pathways
+
+Aquatic carbon derives from multiple terrestrial and aquatic sources with distinct ages and isotopic signatures:
+
+**Weathering-derived dissolved inorganic carbon (DIC):**
+[[ChemicalWeatheringDissolvedInorganicCarbon|Chemical weathering produces DIC through carbonic acid (from atmospheric CO₂) and sulfuric acid (from pyrite oxidation) attack on silicate and carbonate minerals]]. The relative proportions of these weathering pathways determine the isotopic composition and radiocarbon age of riverine DIC. In rapidly eroding mountain systems, multiple weathering regimes coexist spatially, creating complex patterns of DIC variation along river courses.
+
+**Terrestrial organic carbon export:**
+[[DissolvedOrganicMatter|Dissolved organic matter (DOM)]] is transported from terrestrial sources (soils, peatlands, forests) to aquatic systems, where it becomes available for microbial degradation and conversion to CO₂. A fundamental discovery is the age heterogeneity of different carbon fractions: while [[DissolvedOrganicMatter|DOM is consistently young (modern to ~200 years old)]], DIC and evaded CO₂ can be substantially older, indicating mobilization of [[PeatlandCarbonExportToAquaticSystems|aged carbon from deep peat and soil layers]].
+
+**Peatland carbon mobilization:**
+[[PeatlandCarbonExportToAquaticSystems|Peatland carbon export to aquatic systems]] exemplifies the coupling between terrestrial and aquatic carbon cycling. Hydrological changes that alter peatland water tables preferentially mobilize aged subsurface carbon, changing both the magnitude and radiocarbon age of carbon exported to lakes and streams. This creates a direct linkage between climate-driven hydrological perturbations and aquatic carbon dynamics.
+
+## Age Heterogeneity as a Key Constraint on Carbon Sources
+
+A critical finding across diverse aquatic systems is that different carbon fractions have markedly different radiocarbon ages:
+
+[[RadiocarbonAgeSignaturesAquaticCarbon|Age heterogeneity of aquatic carbon]] reveals that CO₂ evasion and DIC represent distinct carbon sources and pathways compared to DOM. This age separation has profound implications:
+
+- **DOC-DIC age contrast**: Young DOM contrasts with old DIC and CO₂, indicating that gaseous carbon is preferentially mobilized from depth and subsurface reservoirs
+- **Forest-stream coupling**: Some forest streams export CO₂ sourced from recent photosynthetic carbon (current productivity) rather than ancient soil carbon, demonstrating that carbon source partitioning depends on watershed connectivity and hydrological regime
+- **Peatland destabilization**: Climate-driven changes in peatland water tables can preferentially release millennially-aged carbon, amplifying climate feedbacks
+
+## Radiocarbon as a Tool for Revealing Carbon Pathways
+
+[[RadiocarbonMethodsAquaticCO2Analysis|Direct radiocarbon measurement of evaded CO₂]] using molecular sieve methods enables source partitioning of aquatic CO₂. Unlike indirect approaches that acidify water samples and strip DIC, direct measurement preserves the true isotopic signature of carbon lost by evasion, eliminating artifacts and enabling reliable detection of aged carbon mobilization.
+
+The methodological development of aquatic radiocarbon analysis has revealed that:
+- Aged CO₂ in peatland streams indicates deep carbon pool mobilization
+- Variable CO₂ ages along river courses reveal spatial heterogeneity in carbon source connectivity
+- Seasonal variation in CO₂ age tracks changes in contributing watersheds and water table elevation
+
+## Spatial Variability and the Headwaters-to-Delta Continuum
+
+Carbon cycling in fluvial systems exhibits systematic spatial variation from headwaters to the coast:
+
+**Tropical river carbon cycling:**
+[[TropicalRiverCarbonCycling|Tropical rivers]] export substantial quantities of organic carbon with complex age distributions. Headwater streams may carry aged carbon from specific geologic formations, while downstream reaches are modified by floodplain inundation, macrophyte productivity, and estuarine mixing. Basin-scale carbon surveys reveal that tropical rivers rival the Amazon in particulate organic carbon export, with significant contributions from radiocarbon-depleted ancient sources.
+
+**Karst river carbon dynamics:**
+[[KarstRiverCarbonDynamics|Karst systems]] represent an end-member in aquatic carbon cycling where carbonate weathering produces abundant DIC and photosynthesis is vigorous due to high DIC availability and clear water. Water mixing from different flowpaths (rapid fracture flow vs. slow diffuse flow through carbonate matrix) creates complex isotopic heterogeneity and carbon age variations along single river courses.
+
+**Dryland river carbon dynamics:**
+[[DrylandRiverCarbonDynamics|Arid and semiarid rivers]] accumulate carbon during drought periods, creating episodic pulses of carbon mobilization during flow restoration. This carbon-water coupling means that dryland rivers are exquisitely sensitive to hydrological variability and climate change, with implications for understanding how river carbon cycling responds to extreme precipitation and drought events.
+
+## Greenhouse Gas Emissions from Aquatic Systems
+
+[[AquaticCO2EvasionFlux|CO₂ evasion from aquatic systems]] contributes substantially to global carbon budgets, particularly in systems with high organic carbon content or rapid respiration. The flux depends on:
+
+- **Water-atmosphere gas exchange rates**: Influenced by wind speed, water temperature, and surface area-to-volume ratios
+- **Dissolved CO₂ saturation state**: Reflects the balance between DIC production (from weathering and respiration) and loss (by evasion and burial)
+- **Age and source of evaded CO₂**: Determines whether aquatic CO₂ emissions represent recently fixed carbon (no net climate impact) or ancient carbon (amplifying climate feedback)
+
+Understanding which carbon pools are preferentially lost to the atmosphere—young vs. old, biogenic vs. geogenic—is essential for predicting how climate change and watershed management will alter carbon cycle feedbacks.
+
+## Regional Patterns and Global Implications
+
+The newly discovered patterns of aquatic carbon cycling—particularly the age contrast between different carbon fractions and the sensitivity to hydrological change—have important implications for:
+
+- **Global carbon budgets**: Aquatic systems may be net sources of greenhouse gases with complex age structures that require compound-specific radiocarbon analysis to quantify accurately
+- **Climate feedbacks**: Destabilization of aged carbon pools in peatlands and other systems through climate-driven hydrological change may amplify warming through positive carbon cycle feedbacks
+- **Paleoceanographic interpretation**: Riverine carbon exported to oceans carries age signatures that encode information about terrestrial climate, erosion rates, and weathering regimes—signals preserved in paleoceanographic archives
+
+## Analytical Approaches
+
+Multiple complementary techniques reveal different aspects of aquatic carbon cycling:
+
+- [[RadiocarbonMethodsAquaticCO2Analysis|Direct radiocarbon measurement of evaded CO₂]] provides the most reliable estimates of CO₂ age and source
+- [[RadiocarbonAgeSignaturesAquaticCarbon|Radiocarbon analysis of DIC, DOM, and particulate carbon]] reveals age distributions and carbon source partitioning
+- [[ChemicalWeatheringDissolvedInorganicCarbon|Isotopic analysis of DIC]] reveals which weathering pathways (carbonic vs. sulfuric acid) dominate
+- Discharge-dependent sampling captures temporal variability in carbon age and source composition
+
+## See also
+
+- [[RadiocarbonMethodsAquaticCO2Analysis]] — Direct measurement of radiocarbon in evaded aquatic CO₂
+- [[RadiocarbonAgeSignaturesAquaticCarbon]] — Age heterogeneity between aquatic carbon fractions
+- [[AquaticCO2EvasionFlux]] — Water-atmosphere CO₂ exchange and greenhouse gas emissions
+- [[PeatlandCarbonExportToAquaticSystems]] — Peatland-aquatic carbon linkages and aged carbon mobilization
+- [[TropicalRiverCarbonCycling]] — Basin-scale carbon cycling in tropical river systems
+- [[KarstRiverCarbonDynamics]] — Carbonate weathering and DIC production in karst rivers
+- [[DrylandRiverCarbonDynamics]] — Carbon accumulation and mobilization in arid river systems
+- [[ChemicalWeatheringDissolvedInorganicCarbon]] — Weathering pathways and DIC production
+- [[DissolvedOrganicMatter]] — DOM sources, transport, and cycling in aquatic systems
+- [[RadiocarbonOrganicMatter]] — Radiocarbon composition as a tracer of organic matter age
+- [[HumicLakesGreenhouseGasCycling]] — Greenhouse gas cycling in tropical humic lakes
+- [[StrontiumIsotopeVariabilityRivers]] — Isotopic constraints on riverine mixing and weathering

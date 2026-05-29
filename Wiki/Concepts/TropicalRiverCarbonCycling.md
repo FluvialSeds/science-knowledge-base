@@ -1,10 +1,11 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "AquaticAndFluvialCarbonCycling"
 status: stable
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - Raw/Sources/Alin-2008jgr.md
   - Raw/Sources/Bouillon-2009bg.md

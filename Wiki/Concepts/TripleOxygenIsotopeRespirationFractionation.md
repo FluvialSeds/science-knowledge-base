@@ -1,10 +1,11 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "IsotopicProxiesPaleoceanography"
 status: stable
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Sutherland-2022gca.md"
   - "Raw/Sources/Sutherland-2022pnex.md"

@@ -1,10 +1,12 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "OrganicCarbonCycling"
+  - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Evans-2025agua.md"
 source_count: 1

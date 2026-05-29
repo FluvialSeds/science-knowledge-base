@@ -1,10 +1,11 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "GreatOxidationEventAndEarlyEarthBiogeochemistry"
 status: stable
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Elling-2025pnas.md"
 source_count: 1

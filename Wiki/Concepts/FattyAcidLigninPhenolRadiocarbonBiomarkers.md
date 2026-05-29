@@ -1,10 +1,13 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "IsotopicProxiesPaleoceanography"
+  - "OrganicCarbonCycling"
+  - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Eglinton-2021pnas.md"
 source_count: 1

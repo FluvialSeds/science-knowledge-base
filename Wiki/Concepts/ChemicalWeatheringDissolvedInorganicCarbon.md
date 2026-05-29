@@ -1,10 +1,13 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "AquaticAndFluvialCarbonCycling"
+  - "OrganicCarbonCycling"
+  - "OrganicCarbonCycling"
 status: stable
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - Raw/Sources/Blattmann-2019scirep.md
   - Raw/Sources/Cai-2020cg.md

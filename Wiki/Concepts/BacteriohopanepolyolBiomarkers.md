@@ -1,10 +1,12 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "BiogeochemicalNitrogenCycling"
+  - "IsotopicProxiesPaleoceanography"
 status: stable
 created: 2026-05-25
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Elling-2020pnas.md"
   - "Raw/Sources/Elling-2021epsl.md"

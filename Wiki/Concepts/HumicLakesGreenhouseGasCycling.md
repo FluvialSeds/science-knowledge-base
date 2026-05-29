@@ -1,10 +1,11 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "AquaticAndFluvialCarbonCycling"
 status: stable
 created: 2026-05-27
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Barthel-2026jgr.md"
 source_count: 1

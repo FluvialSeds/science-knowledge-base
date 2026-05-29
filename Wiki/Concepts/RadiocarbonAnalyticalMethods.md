@@ -1,10 +1,13 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "IsotopicProxiesPaleoceanography"
+  - "OrganicCarbonCycling"
+  - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-25
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Hemingway-2017rad.md"
   - "Raw/Sources/Bolandini-2025rad.md"

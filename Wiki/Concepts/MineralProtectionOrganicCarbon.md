@@ -1,10 +1,12 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "IsotopicProxiesPaleoceanography"
+  - "OrganicCarbonCycling"
 status: stable
 created: 2026-05-25
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Hemingway-2019nat.md"
   - "Raw/Sources/Gies-2023pta.md"

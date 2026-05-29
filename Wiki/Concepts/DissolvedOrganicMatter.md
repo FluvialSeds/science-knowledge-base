@@ -1,10 +1,13 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "AquaticAndFluvialCarbonCycling"
+  - "OrganicCarbonCycling"
+  - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-25
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Hemingway-2019gca.md"
   - "Raw/Sources/Campeau-2017gcb.md"
@@ -82,7 +85,7 @@ DOM composition directly controls carbon cycling in aquatic ecosystems:
 
 ## Age Heterogeneity of Dissolved Carbon
 
-A fundamental finding across peatland, forest, and river systems is that different dissolved carbon fractions have markedly different radiocarbon ages. [[DissolvedOrganicCarbon|Dissolved organic carbon (DOC)]] is consistently young (modern to ~200 years BP), reflecting decomposition of recently fixed plant material. In contrast, dissolved inorganic carbon (DIC) and CO₂ released by [[AquaticCO2EvasionFlux|evasion from surface waters]] can be substantially older (hundreds to thousands of years BP), indicating mobilization of aged carbon from deep soil and peat layers or geogenic carbonate weathering. This age separation reveals distinct pathways: DOC primarily represents lateral transport of recent plant-derived organic matter, while older gaseous CO₂ is mobilized from subsurface reservoirs accumulated over long timescales. [[RadiocarbonAgeSignaturesAquaticCarbon|This age contrast between DOM and other carbon forms]] has profound implications for understanding how climate-driven changes in [[PeatlandCarbonExportToAquaticSystems|peatland water tables]] and hydrological connectivity affect the composition and age of carbon exported to atmosphere and ocean.
+A fundamental finding across peatland, forest, and river systems is that different dissolved carbon fractions have markedly different radiocarbon ages. [[DissolvedOrganicMatter|Dissolved organic carbon (DOC)]] is consistently young (modern to ~200 years BP), reflecting decomposition of recently fixed plant material. In contrast, dissolved inorganic carbon (DIC) and CO₂ released by [[AquaticCO2EvasionFlux|evasion from surface waters]] can be substantially older (hundreds to thousands of years BP), indicating mobilization of aged carbon from deep soil and peat layers or geogenic carbonate weathering. This age separation reveals distinct pathways: DOC primarily represents lateral transport of recent plant-derived organic matter, while older gaseous CO₂ is mobilized from subsurface reservoirs accumulated over long timescales. [[RadiocarbonAgeSignaturesAquaticCarbon|This age contrast between DOM and other carbon forms]] has profound implications for understanding how climate-driven changes in [[PeatlandCarbonExportToAquaticSystems|peatland water tables]] and hydrological connectivity affect the composition and age of carbon exported to atmosphere and ocean.
 
 **Carbon respiration rates:**
 - Bioavailable DOM is rapidly respired to CO₂ by heterotrophic microorganisms

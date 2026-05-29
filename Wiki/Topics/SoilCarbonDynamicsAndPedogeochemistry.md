@@ -4,7 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-29
 aliases:
   - "Soil carbon cycling"
   - "Bedrock-soil continuum"
@@ -97,6 +97,8 @@ Only by addressing these components can soil carbon models accurately predict so
 - [[OrganoMineralBonds]] — Mineral protection chemistry in soil systems
 - [[SoilPrimingEffects]] — Fresh carbon triggering old carbon mineralization
 - [[RadiocarbonOrganicMatter]] — Radiocarbon ages and soil carbon dating complications
+- [[PeatlandCarbonExportToAquaticSystems]] — Carbon mobilization from peatlands to aquatic systems
+- [[DissolvedOrganicMatter]] — DOM production and transport from soils to aquatic systems
 - [[ClimateControlsTerrestrialOrganicMatterCycling]] — Climate-dependent organic matter turnover
 - [[FattyAcidLigninPhenolRadiocarbonBiomarkers]] — Compound-specific radiocarbon biomarkers for paleoclimate
 - [[MicrobialOxidationOrganicCarbon]] — Microbial remineralization in soil systems

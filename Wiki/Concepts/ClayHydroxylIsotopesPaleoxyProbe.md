@@ -1,10 +1,11 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "IsotopicProxiesPaleoceanography"
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Walters-2022natcomms.md"
 source_count: 1

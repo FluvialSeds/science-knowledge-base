@@ -1,10 +1,12 @@
 ---
 tags:
   - "concept"
-topics: []
+topics:
+  - "OrganicCarbonCycling"
+  - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-29
 sources:
   - "Raw/Sources/Hemingway-2019nat.md"
 source_count: 1
