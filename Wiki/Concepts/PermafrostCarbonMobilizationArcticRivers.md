@@ -5,10 +5,12 @@ topics:
   - "AquaticAndFluvialCarbonCycling"
 status: stable
 created: 2026-05-26
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - "Raw/Sources/Drake-2018jgr.md"
-source_count: 1
+  - "Raw/Sources/Dean-2018erl.md"
+  - "Raw/Sources/GonzalezMoguel-2021jgr.md"
+source_count: 3
 aliases:
   - "Permafrost-derived organic carbon"
   - "Radiocarbon signatures in Arctic streams"

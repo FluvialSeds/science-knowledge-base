@@ -6,10 +6,11 @@ topics:
   - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-27
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - "Raw/Sources/Evans-2025agua.md"
-source_count: 1
+  - "Raw/Sources/Kelsey-2020as.md"
+source_count: 2
 aliases:
   - "Priming effect"
   - "Carbon priming"

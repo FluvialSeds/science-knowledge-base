@@ -5,10 +5,11 @@ topics:
   - "AquaticAndFluvialCarbonCycling"
 status: stable
 created: 2026-05-28
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - Raw/Sources/Bianchi-2017jgr.md
-source_count: 1
+  - "Raw/Sources/Jull-2019rad.md"
+source_count: 2
 aliases:
   - "Arid river carbon cycling"
   - "Dryland carbon mobilization"

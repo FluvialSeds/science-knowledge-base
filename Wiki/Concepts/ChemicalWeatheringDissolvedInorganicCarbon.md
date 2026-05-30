@@ -7,12 +7,15 @@ topics:
   - "OrganicCarbonCycling"
 status: stable
 created: 2026-05-28
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - Raw/Sources/Blattmann-2019scirep.md
   - Raw/Sources/Cai-2020cg.md
   - Raw/Sources/Aravena-1992rad.md
-source_count: 3
+  - "Raw/Sources/Coularis-2016rad.md"
+  - "Raw/Sources/Ishikawa-2016rad.md"
+  - "Raw/Sources/Jull-2016rad.md"
+source_count: 6
 aliases:
   - "Weathering and DIC production"
   - "Chemical weathering carbon cycle"

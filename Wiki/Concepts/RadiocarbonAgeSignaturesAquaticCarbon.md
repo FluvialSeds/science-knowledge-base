@@ -6,14 +6,30 @@ topics:
   - "IsotopicProxiesPaleoceanography"
 status: stable
 created: 2026-05-28
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - Raw/Sources/Billett-2007grl.md
   - Raw/Sources/Billett-2011bgc.md
   - Raw/Sources/Billett-2012jgr.md
   - Raw/Sources/Campeau-2019natcom.md
   - Raw/Sources/Aravena-1992rad.md
-source_count: 5
+  - "Raw/Sources/Caraco-2010ecol.md"
+  - "Raw/Sources/Coularis-2016rad.md"
+  - "Raw/Sources/Dean-2017wr.md"
+  - "Raw/Sources/Dean-2018erl.md"
+  - "Raw/Sources/Doran-2014lo.md"
+  - "Raw/Sources/Garnett-2012bgc.md"
+  - "Raw/Sources/Garnett-2012scitot.md"
+  - "Raw/Sources/Garnett-2016eh_a.md"
+  - "Raw/Sources/Garnett-2016eh_b.md"
+  - "Raw/Sources/Genereux-2009wrr.md"
+  - "Raw/Sources/GonzalezMoguel-2021jgr.md"
+  - "Raw/Sources/Hossler-2012jgr.md"
+  - "Raw/Sources/Ishikawa-2016rad.md"
+  - "Raw/Sources/Jull-2016rad.md"
+  - "Raw/Sources/Jull-2019rad.md"
+  - "Raw/Sources/Kelsey-2020as.md"
+source_count: 21
 aliases:
   - "Age heterogeneity aquatic carbon"
   - "CO₂ vs DOC age contrast"

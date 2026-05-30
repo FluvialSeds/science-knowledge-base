@@ -5,10 +5,11 @@ topics:
   - "OrganicCarbonCycling"
 status: stable
 created: 2026-05-25
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - "Raw/Sources/Hemingway-2019gca.md"
-source_count: 1
+  - "Raw/Sources/Doran-2014lo.md"
+source_count: 2
 aliases:
   - "Glacier-fed DOM"
   - "Glacial meltwater organic matter"

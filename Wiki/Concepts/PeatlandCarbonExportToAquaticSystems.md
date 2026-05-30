@@ -6,14 +6,18 @@ topics:
   - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-28
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - Raw/Sources/Billett-2007grl.md
   - Raw/Sources/Billett-2011bgc.md
   - Raw/Sources/Billett-2012jgr.md
   - Raw/Sources/Campeau-2017gcb.md
   - Raw/Sources/Campeau-2019natcom.md
-source_count: 5
+  - "Raw/Sources/Garnett-2012bgc.md"
+  - "Raw/Sources/Garnett-2012scitot.md"
+  - "Raw/Sources/Garnett-2016eh_a.md"
+  - "Raw/Sources/Garnett-2016eh_b.md"
+source_count: 9
 aliases:
   - "Peatland-aquatic carbon linkages"
   - "Peatland DOC and CO₂ export"

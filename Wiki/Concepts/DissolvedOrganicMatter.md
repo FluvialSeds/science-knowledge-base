@@ -7,12 +7,21 @@ topics:
   - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-25
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - "Raw/Sources/Hemingway-2019gca.md"
   - "Raw/Sources/Campeau-2017gcb.md"
   - "Raw/Sources/Campeau-2019natcom.md"
-source_count: 3
+  - "Raw/Sources/Caraco-2010ecol.md"
+  - "Raw/Sources/Dean-2018erl.md"
+  - "Raw/Sources/Garnett-2012scitot.md"
+  - "Raw/Sources/Hossler-2012jgr.md"
+  - "Raw/Sources/Ishikawa-2016rad.md"
+  - "Raw/Sources/Jull-2016rad.md"
+  - "Raw/Sources/Jull-2019rad.md"
+  - "Raw/Sources/GonzalezMoguel-2021jgr.md"
+  - "Raw/Sources/Kelsey-2020as.md"
+source_count: 12
 aliases:
   - "DOM"
   - "Dissolved organic carbon"

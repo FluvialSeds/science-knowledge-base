@@ -7,7 +7,7 @@ topics:
   - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-25
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - "Raw/Sources/Hemingway-2017rad.md"
   - "Raw/Sources/Bolandini-2025rad.md"
@@ -15,7 +15,23 @@ sources:
   - "Raw/Sources/Billett-2006rad.md"
   - "Raw/Sources/Billett-2010lom.md"
   - "Raw/Sources/Billett-2020eh.md"
-source_count: 6
+  - "Raw/Sources/Caraco-2010ecol.md"
+  - "Raw/Sources/Coularis-2016rad.md"
+  - "Raw/Sources/Dean-2017wr.md"
+  - "Raw/Sources/Dean-2018erl.md"
+  - "Raw/Sources/Doran-2014lo.md"
+  - "Raw/Sources/Garnett-2012bgc.md"
+  - "Raw/Sources/Garnett-2012scitot.md"
+  - "Raw/Sources/Garnett-2016eh_a.md"
+  - "Raw/Sources/Garnett-2016eh_b.md"
+  - "Raw/Sources/Genereux-2009wrr.md"
+  - "Raw/Sources/GonzalezMoguel-2021jgr.md"
+  - "Raw/Sources/Hossler-2012jgr.md"
+  - "Raw/Sources/Ishikawa-2016rad.md"
+  - "Raw/Sources/Jull-2016rad.md"
+  - "Raw/Sources/Jull-2019rad.md"
+  - "Raw/Sources/Kelsey-2020as.md"
+source_count: 22
 aliases:
   - "Radiocarbon measurement"
   - "Blank carbon correction"

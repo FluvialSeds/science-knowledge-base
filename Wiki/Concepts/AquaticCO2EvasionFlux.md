@@ -7,13 +7,17 @@ topics:
   - "IsotopicProxiesPaleoceanography"
 status: stable
 created: 2026-05-28
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - Raw/Sources/Billett-2006rad.md
   - Raw/Sources/Billett-2010lom.md
   - Raw/Sources/Billett-2020eh.md
   - Raw/Sources/Campeau-2019natcom.md
-source_count: 4
+  - "Raw/Sources/Garnett-2012bgc.md"
+  - "Raw/Sources/Garnett-2012scitot.md"
+  - "Raw/Sources/Garnett-2016eh_a.md"
+  - "Raw/Sources/Dean-2017wr.md"
+source_count: 8
 aliases:
   - "Water-atmosphere CO₂ exchange"
   - "Aquatic gas evasion"

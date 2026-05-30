@@ -5,10 +5,15 @@ topics:
   - "AquaticAndFluvialCarbonCycling"
 status: stable
 created: 2026-05-26
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - "Raw/Sources/Boral-2021epsl.md"
-source_count: 1
+  - "Raw/Sources/Caraco-2010ecol.md"
+  - "Raw/Sources/Hossler-2012jgr.md"
+  - "Raw/Sources/Genereux-2009wrr.md"
+  - "Raw/Sources/Doran-2014lo.md"
+  - "Raw/Sources/GonzalezMoguel-2021jgr.md"
+source_count: 6
 aliases:
   - "Geochemical mixing models"
   - "Multi-tracer mixing models"
