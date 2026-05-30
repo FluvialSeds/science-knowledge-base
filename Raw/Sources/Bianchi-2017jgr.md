@@ -10,10 +10,7 @@ Pages: "607-627"
 Year: "2017"
 Processed: true
 tags:
-  - "dissolved-organic-carbon"
-  - "greenhouse-gases"
-  - "radiocarbon"
-  - "arid-rivers"
+  - "source"
 ---
 
 # The experimental flow to the Colorado River delta: Effects on carbon mobilization in a dry watercourse

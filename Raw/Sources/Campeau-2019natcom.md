@@ -10,10 +10,7 @@ Pages: "1876"
 Year: "2019"
 Processed: true
 tags:
-  - "radiocarbon"
-  - "forest-carbon"
-  - "CO2-emissions"
-  - "stream-carbon"
+  - "source"
 ---
 
 # Current forest carbon fixation fuels stream CO₂ emissions

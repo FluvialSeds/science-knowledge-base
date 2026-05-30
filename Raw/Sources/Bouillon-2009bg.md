@@ -10,10 +10,7 @@ Pages: "2475-2493"
 Year: "2009"
 Processed: true
 tags:
-  - "river-carbon"
-  - "radiocarbon"
-  - "dissolved-organic-carbon"
-  - "tropical-rivers"
+  - "source"
 ---
 
 # Distribution, origin and cycling of carbon in the Tana River (Kenya): a dry season basin-scale survey from headwaters to the delta

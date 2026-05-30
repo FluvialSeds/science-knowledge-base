@@ -10,10 +10,7 @@ Pages: "273-286"
 Year: "2011"
 Processed: true
 tags:
-  - "radiocarbon"
-  - "boreal-peatland"
-  - "dissolved-organic-carbon"
-  - "snowmelt"
+  - "source"
 ---
 
 # Age and source of different forms of carbon released from boreal peatland streams during spring snowmelt in E. Finland

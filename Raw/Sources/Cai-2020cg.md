@@ -10,10 +10,7 @@ Pages: "119810"
 Year: "2020"
 Processed: true
 tags:
-  - "stable-isotopes"
-  - "radiocarbon"
-  - "chemical-weathering"
-  - "large-rivers"
+  - "source"
 ---
 
 # Seasonal variations in strontium and carbon isotope systematics in the Lower Mississippi River: Implications for chemical weathering

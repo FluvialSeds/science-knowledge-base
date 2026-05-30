@@ -11,7 +11,7 @@ Pages: e2421994122
 Year: "2025"
 Processed: true
 tags:
-  - source
+  - "source"
 ---
 
 # A novel quinone biosynthetic pathway illuminates the evolution of aerobic metabolism

@@ -10,15 +10,12 @@ Pages: "F01S05"
 Year: "2008"
 Processed: true
 tags:
-  - "dissolved-inorganic-carbon"
-  - "radiocarbon"
-  - "river-carbon"
-  - "papua-new-guinea"
+  - "source"
 ---
 
 # Biogeochemical characterization of carbon sources in the Strickland and Fly rivers, Papua New Guinea
 
-## Overview Scientific Topic
+## Overall Scientific Topic
 
 The highstanding islands of Oceania discharge significant quantities of particulate organic carbon to nearshore marine environments. The Fly-Strickland fluvial dispersal system is the largest river basin in tropical Oceania and has high sediment yields, aged organic matter in suspended-sediment load, and lowland sediment storage capacity. The Fly River basin has the highest soil organic carbon content in a database of 60 major world river basins.
 
@@ -34,4 +31,4 @@ Isotopic, elemental, and biomarker results suggest that organic carbon in the St
 
 The results demonstrate that the interplay between sediment storage and carbon cycling in the Fly-Strickland system generates a unique signature compared to smaller mountainous rivers. Despite the high sediment yields and aged organic matter characteristics of small mountainous rivers, the presence of lowland floodplain storage significantly affects both the radiocarbon content and biomarker composition of exported carbon. Understanding these processes is critical for constraining global riverine POC fluxes and their role in the carbon cycle, particularly in tropical regions with high sediment yields and extensive floodplain systems.
 
-![[Alin-2008jgr.pdf]]![[Alin-2008jgr.pdf]]
+![[Alin-2008jgr.pdf]]

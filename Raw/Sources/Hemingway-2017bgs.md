@@ -10,11 +10,7 @@ Pages: "5099–5114"
 Year: "2017"
 Processed: true
 tags:
-  - "ramped-pyrolysis-oxidation"
-  - "activation-energy"
-  - "organic-carbon-reactivity"
-  - "isotope-composition"
-  - "bond-strength"
+  - "source"
 ---
 
 # An inverse method to relate organic carbon reactivity to isotope composition from serial oxidation

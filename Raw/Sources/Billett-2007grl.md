@@ -10,10 +10,7 @@ Pages: "L23401"
 Year: "2007"
 Processed: true
 tags:
-  - "radiocarbon"
-  - "CO2-evasion"
-  - "dissolved-organic-carbon"
-  - "peatland-carbon"
+  - "source"
 ---
 
 # UK peatland streams release old carbon dioxide to the atmosphere and young dissolved organic carbon to rivers

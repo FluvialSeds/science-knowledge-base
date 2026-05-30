@@ -10,10 +10,7 @@ Pages: "61-68"
 Year: "2006"
 Processed: true
 tags:
-  - "radiocarbon"
-  - "CO2-evasion"
-  - "aquatic-carbon"
-  - "peatland-streams"
+  - "source"
 ---
 
 # A direct method to measure ¹⁴CO₂ lost by evasion from surface waters

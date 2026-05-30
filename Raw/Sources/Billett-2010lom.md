@@ -10,10 +10,7 @@ Pages: "45-53"
 Year: "2010"
 Processed: true
 tags:
-  - "radiocarbon-methodology"
-  - "CO2-evasion"
-  - "dissolved-inorganic-carbon"
-  - "isotope-methods"
+  - "source"
 ---
 
 # Isotopic composition of carbon dioxide lost by evasion from surface water to the atmosphere: Methodological comparison of a direct and indirect approach

@@ -10,10 +10,7 @@ Pages: "e2191"
 Year: "2020"
 Processed: true
 tags:
-  - "radiocarbon-methodology"
-  - "CO2-evasion"
-  - "chamber-methods"
-  - "aquatic-carbon"
+  - "source"
 ---
 
 # An assessment of chamber ¹⁴C methodologies for sampling aquatic CO₂ evasion

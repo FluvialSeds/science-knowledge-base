@@ -10,11 +10,7 @@ Pages: "6040"
 Year: "2017"
 Processed: true
 tags:
-  - "microbial-community"
-  - "metagenomics"
-  - "paleoclimate"
-  - "oxygen-minimum-zones"
-  - "sediment-microbiome"
+  - "source"
 ---
 
 # Climate oscillations reflected within the microbiome of Arabian Sea sediments

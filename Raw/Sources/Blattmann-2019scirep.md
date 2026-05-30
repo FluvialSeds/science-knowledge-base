@@ -10,10 +10,7 @@ Pages: "2945"
 Year: "2019"
 Processed: true
 tags:
-  - "chemical-weathering"
-  - "radiocarbon"
-  - "dissolved-inorganic-carbon"
-  - "orogenesis"
+  - "source"
 ---
 
 # Sulphuric acid-mediated weathering on Taiwan buffers geological atmospheric carbon sinks

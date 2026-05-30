@@ -10,11 +10,7 @@ Pages: "20220328"
 Year: "2023"
 Processed: true
 tags:
-  - "radiocarbon"
-  - "mineral-protection"
-  - "soil-carbon"
-  - "biomarkers"
-  - "terrestrial-carbon-cycling"
+  - "source"
 ---
 
 # Multi-molecular ¹⁴C evidence for mineral control on terrestrial carbon storage and export

@@ -10,11 +10,7 @@ Pages: "1–11"
 Year: "2022"
 Processed: true
 tags:
-  - "triple-oxygen-isotopes"
-  - "gross-primary-productivity"
-  - "photochemical-oxidation"
-  - "dissolved-organic-carbon"
-  - "gross-oxygen-production"
+  - "source"
 ---
 
 # Revised microbial and photochemical triple-oxygen isotope effects improve marine gross oxygen production estimates

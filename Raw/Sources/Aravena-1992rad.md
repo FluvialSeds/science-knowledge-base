@@ -10,11 +10,7 @@ Pages: "636-645"
 Year: "1992"
 Processed: true
 tags:
-  - "dissolved-inorganic-carbon"
-  - "radiocarbon"
-  - "groundwater"
-  - "soil-carbon"
-  - "lake-watershed"
+  - "source"
 ---
 
 # Evaluating dissolved inorganic carbon cycling in a forested lake watershed using carbon isotopes
@@ -35,5 +31,4 @@ Soil CO₂ concentration profiles show three distinct seasonal patterns: an incr
 
 The isotopic data demonstrate that soil CO₂ production, diffusion, and hydrological pathways collectively control DIC cycling in forested watersheds. The presence of older groundwater components suggests connections to deep bedrock reservoirs. These processes are fundamental to understanding the acid neutralization capacity of acid-sensitive lake watersheds and predicting responses to future environmental changes.
 
-![[Aravena-1992rad.pdf]]
 ![[Aravena-1992rad.pdf]]

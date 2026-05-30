@@ -10,10 +10,7 @@ Pages: "148347"
 Year: "2021"
 Processed: true
 tags:
-  - "stable-isotopes"
-  - "radiocarbon"
-  - "karst-rivers"
-  - "aquatic-photosynthesis"
+  - "source"
 ---
 
 # Multiple controls on carbon dynamics in mixed karst and non-karst mountainous rivers, Southwest China, revealed by carbon isotopes (δ¹³C and Δ¹⁴C)

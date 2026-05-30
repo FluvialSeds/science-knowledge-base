@@ -2,9 +2,7 @@
 Title: The triple oxygen isotope composition of marine sulfate and 130 million years of microbial control
 Author: Anna R. Waldeck, Jordon D. Hemingway, Weiqi Yao, Adina Paytan, David T. Johnston
 Reference: https://doi.org/10.1073/pnas.2202018119
-ContentType:
-  - pdf
-  - journal-article
+ContentType: "journal-article"
 Created: 2022-08-09
 Journal: Proceedings of the National Academy of Sciences
 Volume: "119"
@@ -12,7 +10,7 @@ Pages: e2202018119
 Year: "2022"
 Processed: true
 tags:
-  - source
+  - "source"
 ---
 
 # The triple oxygen isotope composition of marine sulfate and 130 million years of microbial control

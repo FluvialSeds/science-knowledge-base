@@ -31,7 +31,7 @@ Three microbial processes form the backbone of the marine nitrogen cycle, each w
 
 Paleoceanographic records reveal that during certain intervals—most notably during [[SapropelNitrogenCycleCoupling|Mediterranean sapropel deposition]]—the nitrogen cycle became tightly coupled to other aspects of ocean biogeochemistry. [[OceanicAnoxicEvents|Oceanic anoxic events (OAEs)]] and [[DeepWaterAnoxia|deep water anoxia]] fundamentally alter the balance between these three processes, creating distinctive geochemical and biomarker signatures that can be read in the geological record.
 
-The evidence from both [[Elling-2020pnas|Elling et al. 2020]] and [[Elling-2021epsl|Elling et al. 2021]] demonstrates that:
+The evidence demonstrates that:
 
 1. **Biomarkers directly record past microbial activity**: The abundance and isotopic composition of [[MethylhopanoidBiosynthesisNitrification|methylhopanoids]] and [[BacteriohopanepolyolBiomarkers|aminobacteriohopanepolyols]] in sediments reflect the past activity of nitrifiers and anammox bacteria
 2. **Nitrogen cycle perturbations are feedbacks, not forcing**: Enhanced nitrogen fixation during sapropel events is a response to nitrogen limitation created by [[Anammox|anammox-driven nitrogen loss]], creating reinforcing cycles

@@ -280,3 +280,8 @@ Created new topic 'AquaticAndFluvialCarbonCycling' (86th catalog entry) encompas
 *Logged: 2026-05-29 20:44:19*
 
 Successfully assigned all 86 concepts to 6 topic categories. 81 concepts with empty topics [] assigned via: 56 extracted from topic See also sections matching, 25 manually categorized by semantic content. Ensured topic assignments match wikilinks in all topic See also sections. Updated all modified concept files metadata with current date (2026-05-29).
+
+## Ingest: 16 Manuscripts + Quality Assurance Pass
+*Logged: 2026-05-30 14:32:00*
+
+Batch ingested 16 newly extracted manuscripts into Raw/Sources/ with complete metadata standardization: Caraco-2010ecol, Coularis-2016rad, Dean-2017wr, Dean-2018erl, Doran-2014lo, Garnett-2012bgc, Garnett-2012scitot, Garnett-2016eh_a, Garnett-2016eh_b, Genereux-2009wrr, GonzalezMoguel-2021jgr, Hossler-2012jgr, Ishikawa-2016rad, Jull-2016rad, Jull-2019rad, Kelsey-2020as. All 16 files created with verified DOIs (https://doi.org/ prefix), standardized YAML frontmatter, 4-section body structure (Overall Scientific Topic/Methods/Results/Implications), PDF wikilinks, tags: ["source"], and Processed: false. Simultaneously standardized all 74 existing source files to use only tags: ["source"], removing old topic-specific tags. Fixed template compliance in 17 files: "Overview Scientific Topic" → "Overall Scientific Topic" (matches _templates/source-note.md). Corrected isotope notation in 17 files to proper superscript format (14C → ¹⁴C, δ13C → δ¹³C, etc.). Corrected Garnett-2012scitot metadata: updated DOI from 03.061 to 03.087, corrected title, added authors (Hardie, Murray), updated volume to 427-428, updated pages to 277-285. All 74 source files now meet template requirements and quality standards.

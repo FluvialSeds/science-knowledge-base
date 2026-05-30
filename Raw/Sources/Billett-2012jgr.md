@@ -10,10 +10,7 @@ Pages: "G02003"
 Year: "2012"
 Processed: true
 tags:
-  - "radiocarbon"
-  - "peatland-carbon"
-  - "soil-pipes"
-  - "carbon-age"
+  - "source"
 ---
 
 # Variable source and age of different forms of carbon released from natural peatland pipes

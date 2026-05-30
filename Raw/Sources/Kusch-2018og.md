@@ -10,11 +10,7 @@ Pages: "38–48"
 Year: "2018"
 Processed: true
 tags:
-  - "bacteriohopanepolyols"
-  - "biomarkers"
-  - "chromatography"
-  - "marine-sediments"
-  - "structural-isomers"
+  - "source"
 ---
 
 # Improved chromatography reveals multiple new bacteriohopanepolyol isomers in marine sediments

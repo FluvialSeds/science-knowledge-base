@@ -10,11 +10,7 @@ Pages: "86–101"
 Year: "2022"
 Processed: true
 tags:
-  - "triple-oxygen-isotopes"
-  - "reactive-oxygen-species"
-  - "respiration"
-  - "gross-primary-productivity"
-  - "oxygen-cycling"
+  - "source"
 ---
 
 # The influence of reactive oxygen species on respiration isotope effects

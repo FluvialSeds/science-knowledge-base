@@ -10,10 +10,7 @@ Pages: "5523-5536"
 Year: "2017"
 Processed: true
 tags:
-  - "radiocarbon"
-  - "boreal-peatland"
-  - "dissolved-organic-carbon"
-  - "carbon-export"
+  - "source"
 ---
 
 # Aquatic export of young dissolved and gaseous carbon from a pristine boreal fen: Implications for peat carbon stock stability

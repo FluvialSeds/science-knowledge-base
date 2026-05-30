@@ -10,10 +10,7 @@ Pages: "395–413"
 Year: "2019"
 Processed: true
 tags:
-  - "radiocarbon"
-  - "acid-pretreatment"
-  - "sediment-organic-matter"
-  - "ramped-pyrolysis-oxidation"
+  - "source"
 ---
 
 # Influence of different acid treatments on the radiocarbon content spectrum of sedimentary organic matter determined by RPO/accelerator mass spectrometry
