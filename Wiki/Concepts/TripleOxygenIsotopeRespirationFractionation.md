@@ -97,4 +97,4 @@ This means that paleoproductivity estimates based on ancient triple-oxygen isoto
 - [[DissolvedOrganicMatter]] — Composition and photochemical reactivity of DOM
 - [[MicrobialOxidationOrganicCarbon]] — Microbial remineralization and respiration
 - [[RadiocarbonOrganicMatter]] — Alternative approach to dating organic matter
-- Source papers: [[Sutherland-2022gca]] — Influence of ROS on respiration isotope effects; [[Sutherland-2022pnex]] — Revised TOI effects improve GOP estimates
+- Source papers: [[Sutherland-2022gca]] — Influence of ROS on respiration isotope effects, [[Sutherland-2022pnex]] — Revised TOI effects improve GOP estimates

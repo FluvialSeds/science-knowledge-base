@@ -68,4 +68,4 @@ In soil systems, petrogenic carbon weathering and oxidation contribute to total 
 - [[MicrobialOxidationOrganicCarbon]] — How microbes oxidize petrogenic carbon in soils
 - [[CarbonCycleMountainSystems]] — How petrogenic carbon oxidation fits in the broader carbon cycle
 - [[RadiocarbonOrganicMatter]] — Radiocarbon ages and implications for soil carbon dating
-- Source papers: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation rates; [[Evans-2025agua]] — Critical knowledge gaps in petrogenic carbon cycling in soils and land-use impacts
+- Source papers: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation rates, [[Evans-2025agua]] — Critical knowledge gaps in petrogenic carbon cycling in soils and land-use impacts

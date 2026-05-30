@@ -70,4 +70,4 @@ The extreme short-term variability in riverine Sr isotope compositions has profo
 - [[CarbonIsotopeFractionationPlants]] — Stable isotope fractionation principles and applications
 - [[MineralProtectionOrganicCarbon]] — Mineral-water interactions controlling elemental cycling
 - [[LocalVsDistalBiomarkerSignals]] — Spatial integration of geochemical signals from diverse sources
-- Source papers: [[Boral-2021epsl]] — Controls on short-term dissolved ⁸⁷Sr/⁸⁶Sr variations in Ganga-Brahmaputra rivers; [[Cai-2020cg]] — Seasonal strontium and carbon isotope variations in Lower Mississippi River
+- Source papers: [[Boral-2021epsl]] — Controls on short-term dissolved ⁸⁷Sr/⁸⁶Sr variations in Ganga-Brahmaputra rivers, [[Cai-2020cg]] — Seasonal strontium and carbon isotope variations in Lower Mississippi River

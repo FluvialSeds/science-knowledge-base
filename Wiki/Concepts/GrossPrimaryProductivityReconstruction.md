@@ -68,4 +68,4 @@ When both ROS and photochemical processes are incorporated into GOP models, calc
 - [[MarineBariteIsotopeRecord]] — Marine barite as the archive of paleoproductivity signals
 - [[MicrobialSulfateReductionControl]] — How productivity drives microbial processes that control sulfate composition
 - [[DissolvedOrganicMatter]] — Photochemical reactivity of DOC affecting oxygen budgets
-- Source papers: [[Waldeck-2022pnas]] — 130 million year paleoproductivity and atmospheric oxygen reconstruction; [[Sutherland-2022pnex]] — Revised GOP estimates incorporating ROS and photochemical oxidation effects
+- Source papers: [[Waldeck-2022pnas]] — 130 million year paleoproductivity and atmospheric oxygen reconstruction, [[Sutherland-2022pnex]] — Revised GOP estimates incorporating ROS and photochemical oxidation effects

@@ -88,4 +88,4 @@ This approach reveals that **thermal reactivity (bond strength) is a more fundam
 - [[OrganicCarbonPreservation]] — Understanding preservation mechanisms revealed by RPO data
 - [[OrganoMineralBonds]] — Interpreting organo-mineral interactions from RPO results
 - [[MineralProtectionOrganicCarbon]] — How mineral protection controls carbon reactivity
-- Source papers: [[Hemingway-2017rad]] — Blank correction; [[Hemingway-2019nat]] — Bond-strength diversity; [[Hemingway-2017bgs]] — Activation energy distributions and thermal reactivity of organic carbon
+- Source papers: [[Hemingway-2017rad]] — Blank correction, [[Hemingway-2019nat]] — Bond-strength diversity, [[Hemingway-2017bgs]] — Activation energy distributions and thermal reactivity of organic carbon

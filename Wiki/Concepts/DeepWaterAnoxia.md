@@ -97,4 +97,4 @@ This genomic paleoclimate signal offers centennial-scale temporal resolution of 
 - [[OceanicAnoxicEvents]] — Oceanic anoxic events
 - [[SapropelNitrogenCycleCoupling]] — Sapropel formation and nitrogen cycling
 - [[SedimentMicrobiomePaleoclimatology]] — Paleomicrobiome records as paleoclimate archives
-- Source papers: [[Elling-2021epsl]] — Nitrogen cycling and deep-water anoxia during sapropel formation; [[Ruff-2024fems]] — Widespread dark oxygen production in anoxic environments; [[Orsi-2017scirep]] — Climate oscillations reflected in sedimentary microbiomes of oxygen minimum zones
+- Source papers: [[Elling-2021epsl]] — Nitrogen cycling and deep-water anoxia during sapropel formation, [[Ruff-2024fems]] — Widespread dark oxygen production in anoxic environments, [[Orsi-2017scirep]] — Climate oscillations reflected in sedimentary microbiomes of oxygen minimum zones

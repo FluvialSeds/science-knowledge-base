@@ -43,4 +43,4 @@ The method has been successfully applied to peatland streams with low pH and hig
 - [[RadiocarbonOrganicMatter]] — Radiocarbon composition measures organic matter age
 - [[AquaticCO2EvasionFlux]] — Measurement and characterization of CO₂ evasion from aquatic systems
 - [[RadiocarbonAgeSignaturesAquaticCarbon]] — Age heterogeneity of aquatic carbon pools
-- Source papers: [[Billett-2006rad]] — Direct measurement of ¹⁴C in CO₂ evaded from peatland streams; [[Billett-2010lom]] — Comparison of direct and indirect methods for measuring evasion CO₂ isotopic composition; [[Billett-2020eh]] — Assessment of chamber methodologies for sampling aquatic CO₂ evasion
+- Source papers: [[Billett-2006rad]] — Direct measurement of ¹⁴C in CO₂ evaded from peatland streams, [[Billett-2010lom]] — Comparison of direct and indirect methods for measuring evasion CO₂ isotopic composition, [[Billett-2020eh]] — Assessment of chamber methodologies for sampling aquatic CO₂ evasion

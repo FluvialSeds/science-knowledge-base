@@ -103,4 +103,4 @@ This stability makes bacteriohopanepolyol biomarkers reliable tracers of past mi
 - [[GDGTBiomarkers]] — Complementary membrane lipid biomarkers from archaea
 - [[BacterialHopanoidDiversityStructuralIsomerism]] — Structural isomers and environmental applications
 - [[CompoundSpecificIsotopeAnalysis]] — Methods for isotope analysis of individual BHP isomers
-- Source papers: [[Elling-2020pnas]] — 2-methyl BHP synthesis investigation; [[Elling-2021epsl]] — BHPs during Mediterranean sapropel events; [[Kusch-2018og]] — Improved chromatography resolving multiple BHP isomers
+- Source papers: [[Elling-2020pnas]] — 2-methyl BHP synthesis investigation, [[Elling-2021epsl]] — BHPs during Mediterranean sapropel events, [[Kusch-2018og]] — Improved chromatography resolving multiple BHP isomers

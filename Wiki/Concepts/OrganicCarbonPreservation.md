@@ -95,7 +95,7 @@ The strength of priming effects likely depends on preservation mechanisms:
 - [[PetrogenicOrganicCarbon]] — Ancient carbon preservation in soil-bedrock systems
 - [[RadiocarbonOrganicMatter]] — Radiocarbon evidence for mineral protection
 - [[RadiocarbonAnalyticalMethods]] — Methods for measuring preserved carbon ages
-- Source papers: [[Hemingway-2019nat]] — Global dataset of OC preservation mechanisms; [[Evans-2025agua]] — Soil carbon preservation and priming effect unknownn controls whether preservation mechanisms result in net carbon storage or loss
+- Source papers: [[Hemingway-2019nat]] — Global dataset of OC preservation mechanisms, [[Evans-2025agua]] — Soil carbon preservation and priming effect unknownn controls whether preservation mechanisms result in net carbon storage or loss
 - The relative importance of each mechanism varies by environment and timescale
 
 ## See also

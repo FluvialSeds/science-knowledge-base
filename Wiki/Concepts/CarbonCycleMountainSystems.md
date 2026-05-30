@@ -63,4 +63,4 @@ This framework connects tectonics directly to climate regulation on geological t
 - [[PetrogenicOrganicCarbon]] — Ancient carbon in bedrock that gets oxidized during erosion
 - [[MicrobialOxidationOrganicCarbon]] — The oxidation process and rates in mountain soils
 - [[PlantWaxBiomarkers]] — Biomarkers used to track carbon sources and cycling
-- Source papers: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation as a CO₂ source; [[Blattmann-2019scirep]] — Sulphuric acid-mediated weathering in Taiwan orogenic system
+- Source papers: [[Hemingway-2018sci]] — Taiwan study quantifying petrogenic carbon oxidation as a CO₂ source, [[Blattmann-2019scirep]] — Sulphuric acid-mediated weathering in Taiwan orogenic system

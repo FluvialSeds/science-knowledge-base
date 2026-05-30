@@ -57,4 +57,4 @@ This climate-dependent biomarker aging relationship enables paleoclimate reconst
 - [[ClimateControlsTerrestrialOrganicMatterCycling]] — Climate controls on organic matter cycling in rivers
 - [[FattyAcidLigninPhenolRadiocarbonBiomarkers]] — Fatty acid and lignin phenol radiocarbon biomarkers
 - [[IsotopicProxiesPaleoceanography]] — Framework for using stable isotopes to reconstruct paleoenvironments
-- Source papers: [[Inglis-2022areps]] — Comprehensive review of biomarker approaches for terrestrial paleoenvironmental reconstruction; [[Eglinton-2021pnas]] — Climate controls on fluvial biomarker radiocarbon ages
+- Source papers: [[Inglis-2022areps]] — Comprehensive review of biomarker approaches for terrestrial paleoenvironmental reconstruction, [[Eglinton-2021pnas]] — Climate controls on fluvial biomarker radiocarbon ages

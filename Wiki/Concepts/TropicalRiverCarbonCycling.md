@@ -44,4 +44,4 @@ Carbon cycling in tropical rivers exhibits systematic changes from headwaters to
 - [[OrganicCarbonCycling]] — Organic carbon preservation in mountain systems
 - [[MineralProtectionOrganicCarbon]] — Mineral protection mechanisms for organic carbon
 - [[CarbonIsotopeFractionationPlants]] — Stable carbon isotope variations in tropical vegetation
-- Source papers: [[Alin-2008jgr]] — Biogeochemical characterization in Strickland and Fly rivers, Papua New Guinea; [[Bouillon-2009bg]] — Carbon distribution and cycling in Tana River from headwaters to delta
+- Source papers: [[Alin-2008jgr]] — Biogeochemical characterization in Strickland and Fly rivers, Papua New Guinea, [[Bouillon-2009bg]] — Carbon distribution and cycling in Tana River from headwaters to delta

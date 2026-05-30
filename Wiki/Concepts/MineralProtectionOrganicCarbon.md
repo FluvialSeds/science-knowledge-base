@@ -58,4 +58,4 @@ Compound-specific radiocarbon analysis of different biomarker classes in river s
 - [[RadiocarbonOrganicMatter]] — Radiocarbon evidence for mineral-protected carbon
 - [[GDGTBiomarkers]] — GDGTs as mineral-associated biomarkers
 - [[MineralControlTerrestrialCarbonStorageExport]] — Multi-molecular evidence of mineral controls on terrestrial carbon cycling
-- Source papers: [[Hemingway-2019nat]] — Global compilation of preservation mechanisms; [[Gies-2023pta]] — Multi-molecular radiocarbon evidence for mineral control on terrestrial carbon storage
+- Source papers: [[Hemingway-2019nat]] — Global compilation of preservation mechanisms, [[Gies-2023pta]] — Multi-molecular radiocarbon evidence for mineral control on terrestrial carbon storage
