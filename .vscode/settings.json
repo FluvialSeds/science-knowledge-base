@@ -58,6 +58,14 @@
         "/^python3 -c \"import json; data = \\[json\\.loads\\(line\\) for line in open\\('Wiki/catalog\\.jsonl'\\)\\]; topics = \\{\\}; \\[topics\\.setdefault\\(t, \\[\\]\\)\\.append\\(c\\['title'\\]\\) for c in data for t in c\\.get\\('topics', \\[\\]\\)\\]; print\\('Topics and their concepts:'\\); \\[print\\(f'\\\\n\\{t\\}: \\{len\\(concepts\\)\\} concepts\\\\n  ' \\+ '\\\\n  '\\.join\\(sorted\\(concepts\\)\\[:10\\]\\)\\) for t, concepts in sorted\\(topics\\.items\\(\\)\\)\\]\" 2>&1 \\| head -50$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^python3 scripts/wiki_tool\\.py search-catalog --query \"dissolved inorganic carbon DIC sources rivers streams aquatic continuum\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^python3 scripts/wiki_tool\\.py search-catalog --query \"DIC inorganic carbon\" && echo \"---\" && python3 scripts/wiki_tool\\.py search-catalog --query \"chemical weathering\" && echo \"---\" && python3 scripts/wiki_tool\\.py search-catalog --query \"river carbon cycling\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
