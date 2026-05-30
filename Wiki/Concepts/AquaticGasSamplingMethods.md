@@ -86,4 +86,4 @@ These sampling techniques have transformed radiocarbon dating of aquatic gases, 
 - [[MethaneRadiocarbonSignatures]] — Radiocarbon ages of CH₄ vs CO₂
 - [[AquaticCO2EvasionFlux]] — CO₂ evasion processes
 - [[PeatlandCarbonExportToAquaticSystems]] — Peatland carbon cycling
-- Source papers: [[Dean-2017wr|Dean et al. 2017]] — Coiled membrane vessel method; [[Garnett-2016eh_a|Garnett et al. 2016 (EH_A)]] — Super headspace method; [[Garnett-2016eh_b|Garnett et al. 2016 (EH_B)]] — Rapid CH₄ collection
+- Source papers: [[Dean-2017wr]] — Coiled membrane vessel method; [[Garnett-2016eh_a]] — Super headspace method; [[Garnett-2016eh_b]] — Rapid CH₄ collection

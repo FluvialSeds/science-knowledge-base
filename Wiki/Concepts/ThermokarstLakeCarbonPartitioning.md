@@ -82,4 +82,4 @@ Thermokarst lakes in sporadic permafrost regions exhibit contrasting carbon sour
 - [[PeatlandCarbonExportToAquaticSystems]] — Peatland carbon cycling
 - [[MethaneRadiocarbonSignatures]] — CH₄ radiocarbon signatures
 - [[HydrogeochemicalMixingModels]] — Mixing models for complex systems
-- Source paper: [[GonzalezMoguel-2021jgr|Gonzalez Moguel et al. 2021]] — Thermokarst lake carbon fractionation in Nunavik
+- Source paper: [[GonzalezMoguel-2021jgr]] — Thermokarst lake carbon fractionation in Nunavik

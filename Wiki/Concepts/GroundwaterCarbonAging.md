@@ -75,4 +75,4 @@ This study demonstrates the value of multiple isotopic tracers for understanding
 - [[HydrogeochemicalMixingModels]] — Mixing models for groundwater and surface water
 - [[ChemicalWeatheringDissolvedInorganicCarbon]] — DIC sources from weathering
 - [[RadiocarbonAnalyticalMethods]] — Radiocarbon dating techniques
-- Source paper: [[Genereux-2009wrr|Genereux et al. 2009]] — Old groundwater and magmatic solutes in Costa Rican rain forest
+- Source paper: [[Genereux-2009wrr]] — Old groundwater and magmatic solutes in Costa Rican rain forest

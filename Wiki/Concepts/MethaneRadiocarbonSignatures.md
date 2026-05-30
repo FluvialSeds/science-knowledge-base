@@ -70,4 +70,4 @@ Old carbon mobilization from deep peat layers has important implications for und
 - [[PeatlandCarbonExportToAquaticSystems]] — Carbon cycling in peatlands
 - [[AquaticCO2EvasionFlux]] — CO₂ evasion from freshwater systems
 - [[AquaticGasSamplingMethods]] — Field techniques for gas collection
-- Source papers: [[Garnett-2012bgc|Garnett et al. 2012 (BGC)]] — Evaded CH₄ vs CO₂ ages; [[Garnett-2012scitot|Garnett et al. 2012 (ST)]] — Dissolved CH₄ and DOC; [[Garnett-2016eh_b|Garnett et al. 2016 (EH_B)]] — Rapid CH₄ collection methods; [[Dean-2017wr|Dean et al. 2017]] — Coiled membrane vessel method
+- Source papers: [[Garnett-2012bgc]] — Evaded CH₄ vs CO₂ ages; [[Garnett-2012scitot]] — Dissolved CH₄ and DOC; [[Garnett-2016eh_b]] — Rapid CH₄ collection methods; [[Dean-2017wr]] — Coiled membrane vessel method

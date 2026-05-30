@@ -98,4 +98,4 @@ As permafrost thaw accelerates with warming:
 - [[RadiocarbonAnalyticalMethods]] — Modern radiocarbon analytical techniques
 - [[OrganicCarbonCycling]] — Organic carbon preservation and mountain carbon cycle
 - [[MicrobialOxidationOrganicCarbon]] — Microbial oxidation of organic carbon
-- Source paper: [[Drake-2018jgr]] — The ephemeral signature of permafrost carbon in Arctic fluvial networks; [[Dean-2018erl|Dean et al. 2018]] — Pre-industrial carbon in Arctic headwaters; [[GonzalezMoguel-2021jgr|Gonzalez Moguel et al. 2021]] — Thermokarst lake carbon partitioning
+- Source paper: [[Drake-2018jgr]] — The ephemeral signature of permafrost carbon in Arctic fluvial networks; [[Dean-2018erl]] — Pre-industrial carbon in Arctic headwaters; [[GonzalezMoguel-2021jgr]] — Thermokarst lake carbon partitioning

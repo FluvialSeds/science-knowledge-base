@@ -120,4 +120,4 @@ Agricultural management profoundly affects carbon cycling: tilled corn agricultu
 - [[AquaticAndFluvialCarbonCycling]] — River carbon cycling
 - [[HydrogeochemicalMixingModels]] — Source mixing approaches
 - [[DissolvedOrganicMatter]] — DOC from terrestrial sources
-- Source paper: [[Kelsey-2020as|Kelsey et al. 2020]] — Agricultural impacts on stream carbon export
+- Source paper: [[Kelsey-2020as]] — Agricultural impacts on stream carbon export

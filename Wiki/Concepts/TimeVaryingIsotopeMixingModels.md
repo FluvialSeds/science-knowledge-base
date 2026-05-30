@@ -111,4 +111,4 @@ The TVMM represents a novel approach with potential application across diverse b
 - [[RadiocarbonAgeSignaturesAquaticCarbon]] — Radiocarbon systematics in rivers
 - [[DrylandRiverCarbonDynamics]] — Ephemeral stream carbon dynamics
 - [[AquaticAndFluvialCarbonCycling]] — River carbon cycling
-- Source paper: [[Hossler-2012jgr|Hossler et al. 2012]] — Time-varying mixing models for six northeastern rivers
+- Source paper: [[Hossler-2012jgr]] — Time-varying mixing models for six northeastern rivers

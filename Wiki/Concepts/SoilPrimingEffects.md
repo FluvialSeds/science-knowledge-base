@@ -67,4 +67,4 @@ Standard soil carbon models often treat different organic carbon fractions indep
 - [[OrganicCarbonPreservation]] — Mechanisms that stabilize organic carbon against decomposition
 - [[MicrobialOxidationOrganicCarbon]] — How microbes oxidize resistant carbon fractions
 - [[RadiocarbonOrganicMatter]] — Radiocarbon tracing of soil carbon ages and turnover
-- Source paper: [[Evans-2025agua]] — Critical knowledge gaps in petrogenic soil carbon cycling and land-use impacts; [[Kelsey-2020as|Kelsey et al. 2020]] — Agricultural tillage effects on accelerated soil carbon mobilization
+- Source paper: [[Evans-2025agua]] — Critical knowledge gaps in petrogenic soil carbon cycling and land-use impacts; [[Kelsey-2020as]] — Agricultural tillage effects on accelerated soil carbon mobilization

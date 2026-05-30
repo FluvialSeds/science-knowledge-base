@@ -99,4 +99,4 @@ Radiocarbon ages of dissolved inorganic carbon (DIC) and dissolved organic carbo
 - [[HydrogeochemicalMixingModels]] — Mixing and flow relationships
 - [[AquaticAndFluvialCarbonCycling]] — River carbon cycling
 - [[SoilPrimingEffects]] — Soil carbon mobilization mechanisms
-- Source paper: [[Jull-2019rad|Jull et al. 2019]] — 7-year radiocarbon record from Sabino Creek
+- Source paper: [[Jull-2019rad]] — 7-year radiocarbon record from Sabino Creek

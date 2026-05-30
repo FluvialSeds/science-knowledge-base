@@ -102,4 +102,4 @@ Dissolved inorganic carbon in small streams derives from three end-members: atmo
 - [[RadiocarbonAgeSignaturesAquaticCarbon]] — Radiocarbon systematics
 - [[HydrogeochemicalMixingModels]] — Mixing model approaches
 - [[AquaticAndFluvialCarbonCycling]] — River carbon cycling
-- Source paper: [[Ishikawa-2016rad|Ishikawa et al. 2016]] — DIC sources in limestone and granite streams
+- Source paper: [[Ishikawa-2016rad]] — DIC sources in limestone and granite streams

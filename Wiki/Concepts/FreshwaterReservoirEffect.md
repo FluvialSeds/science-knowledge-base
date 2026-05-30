@@ -62,4 +62,4 @@ The freshwater reservoir effect (FRE) describes the offset between modern radioc
 - [[RadiocarbonAnalyticalMethods]] — Analytical techniques and blank carbon corrections
 - [[ChemicalWeatheringDissolvedInorganicCarbon]] — Weathering processes controlling DIC sources
 - [[HydrogeochemicalMixingModels]] — Modeling approaches for water mixing and carbon sources
-- Source papers: [[Coularis-2016rad|Coularis et al. 2016]] — FRE mapping in Loire watershed; [[Jull-2016rad|Jull et al. 2016]] — Qinghai Lake FRE model
+- Source papers: [[Coularis-2016rad]] — FRE mapping in Loire watershed; [[Jull-2016rad]] — Qinghai Lake FRE model

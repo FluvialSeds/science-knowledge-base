@@ -44,4 +44,4 @@ Dryland regions are projected to experience increased hydrological extremes with
 - [[SoilCarbonDynamicsAndPedogeochemistry]] — Soil carbon dynamics in dryland soils
 - [[ClimateControlsTerrestrialOrganicMatterCycling]] — Climate controls on carbon cycling
 - [[AquaticCO2EvasionFlux]] — Greenhouse gas production and evasion
-- Source paper: [[Bianchi-2017jgr]] — Carbon mobilization from experimental flow restoration to Colorado River delta; [[Jull-2019rad|Jull et al. 2019]] — Ephemeral stream radiocarbon dynamics and flow-age relationships
+- Source paper: [[Bianchi-2017jgr]] — Carbon mobilization from experimental flow restoration to Colorado River delta; [[Jull-2019rad]] — Ephemeral stream radiocarbon dynamics and flow-age relationships

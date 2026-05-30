@@ -127,4 +127,4 @@ Antarctic ice-covered lakes exhibit extreme radiocarbon reservoir effects with d
 - [[RadiocarbonAgeSignaturesAquaticCarbon]] — Aquatic carbon ¹⁴C systematics
 - [[HydrogeochemicalMixingModels]] — Mixing and water source interpretation
 - [[RadiocarbonAnalyticalMethods]] — Dating techniques and limitations
-- Source paper: [[Doran-2014lo|Doran et al. 2014]] — Radiocarbon systematics in McMurdo Dry Valleys lakes
+- Source paper: [[Doran-2014lo]] — Radiocarbon systematics in McMurdo Dry Valleys lakes
