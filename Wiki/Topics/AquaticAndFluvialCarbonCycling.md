@@ -4,7 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-30
 aliases:
   - "Fluvial carbon transport"
   - "River and stream carbon cycling"
@@ -73,9 +73,25 @@ Carbon cycling in fluvial systems exhibits systematic spatial variation from hea
 
 Understanding which carbon pools are preferentially lost to the atmosphere—young vs. old, biogenic vs. geogenic—is essential for predicting how climate change and watershed management will alter carbon cycle feedbacks.
 
+## Time-Varying Isotope Source Partitioning
+
+[[TimeVaryingIsotopeMixingModels|Time-varying isotope mixing models (TVMM)]] address a fundamental challenge in interpreting aquatic carbon isotopes: the composition of source waters—and thus the isotopic "end-members" used for mixing calculations—changes seasonally and under different hydrological conditions. Traditional mixing models assume fixed end-member compositions, but in real systems, groundwater and surface water sources have varying isotopic signatures depending on recharge rates, flowpath lengths, and seasonal contributions. TVMM frameworks allow source isotope ratios and relative contributions to vary temporally, providing a more realistic and flexible approach to quantifying how different watershed components contribute carbon to streams and rivers at different times of year.
+
+## Carbon Dynamics in Ephemeral and Dryland Rivers
+
+[[EphemeralStreamCarbonDynamics|Ephemeral streams in semi-arid regions]] exhibit extreme flow-dependent carbon age variation. During high-flow periods (runoff events), streams carry young, recently fixed carbon from current photosynthesis and soil respiration. During low-flow baseflow, when groundwater increasingly dominates streamflow, the carbon age increases substantially, reflecting deep groundwater reservoirs or old permafrost-derived sources. This inverse relationship between discharge and carbon age has profound implications for how dryland rivers respond to climate change and altered precipitation regimes. More frequent droughts may shift rivers toward aged carbon sources, while intensified precipitation events may pulse young carbon through the system, fundamentally altering regional carbon export budgets.
+
+## Dissolved Inorganic Carbon Source Partitioning
+
+[[StreamDICSourcePartitioning|Stream DIC derives from multiple sources]]—atmosphere, organics, and weathering—each with distinct radiocarbon signatures. In headwater streams flowing through different bedrock types (limestone vs. granite), the relative contributions of carbonate weathering, silicate weathering, and soil CO₂ produce systematic variation in DIC radiocarbon age along river courses. This source heterogeneity reveals that riverine DIC is not a simple proxy for any single process but rather an integrated tracer of multiple weathering and respiration pathways operating across watershed landscapes.
+
+## Permafrost Carbon Export to Arctic Fluvial Networks
+
+[[PermafrostCarbonMobilizationArcticRivers|Permafrost thaw mobilizes aged carbon into Arctic rivers]], fundamentally altering aquatic carbon composition and export to the coastal ocean. Permafrost-derived dissolved organic carbon and dissolved inorganic carbon carry distinctive radiocarbon signatures reflecting millennia of organic matter accumulation in frozen ground. Seasonal variation in permafrost contributions—with greater input during peak thaw and decreased input during frozen periods—creates dramatic shifts in the age structure of riverine carbon. Direct radiocarbon measurement is essential for quantifying how much permafrost carbon is mobilized under different climate and hydrological scenarios, enabling prediction of climate feedback loops where thaw-driven carbon release amplifies atmospheric CO₂ and CH₄.
+
 ## Regional Patterns and Global Implications
 
-The newly discovered patterns of aquatic carbon cycling—particularly the age contrast between different carbon fractions and the sensitivity to hydrological change—have important implications for:
+The newly discovered patterns of aquatic carbon cycling—particularly the age contrast between different carbon fractions, the sensitivity to hydrological change, and the diversity of carbon sources revealed by radiocarbon and stable isotope analysis—have important implications for:
 
 - **Global carbon budgets**: Aquatic systems may be net sources of greenhouse gases with complex age structures that require compound-specific radiocarbon analysis to quantify accurately
 - **Climate feedbacks**: Destabilization of aged carbon pools in peatlands and other systems through climate-driven hydrological change may amplify warming through positive carbon cycle feedbacks
@@ -104,3 +120,7 @@ Multiple complementary techniques reveal different aspects of aquatic carbon cyc
 - [[RadiocarbonOrganicMatter]] — Radiocarbon composition as a tracer of organic matter age
 - [[HumicLakesGreenhouseGasCycling]] — Greenhouse gas cycling in tropical humic lakes
 - [[StrontiumIsotopeVariabilityRivers]] — Isotopic constraints on riverine mixing and weathering
+- [[TimeVaryingIsotopeMixingModels]] — Temporal variation in water source isotope compositions
+- [[StreamDICSourcePartitioning]] — Dissolved inorganic carbon sources from weathering and respiration
+- [[EphemeralStreamCarbonDynamics]] — Flow-dependent carbon age variation in arid rivers
+- [[PermafrostCarbonMobilizationArcticRivers]] — Carbon export from permafrost-dominated Arctic watersheds

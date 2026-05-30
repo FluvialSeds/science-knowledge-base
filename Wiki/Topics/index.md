@@ -5,4 +5,5 @@
 - [[GreatOxidationEventAndEarlyEarthBiogeochemistry]] — The Great Oxidation Event and Early Earth Biogeochemistry
 - [[IsotopicProxiesPaleoceanography]] — Isotopic and Biomarker Proxies for Paleoceanography
 - [[OrganicCarbonCycling]] — Organic Carbon Preservation and the Mountain Carbon Cycle
+- [[PermafrostCarbonDynamics]] — Permafrost Carbon Dynamics
 - [[SoilCarbonDynamicsAndPedogeochemistry]] — Soil Carbon Dynamics and Pedogeochemistry

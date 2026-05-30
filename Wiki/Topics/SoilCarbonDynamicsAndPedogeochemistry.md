@@ -4,7 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-27
-updated: 2026-05-29
+updated: 2026-05-30
 aliases:
   - "Soil carbon cycling"
   - "Bedrock-soil continuum"
@@ -79,6 +79,10 @@ Intensified erosion from agriculture and mining can accelerate weathering and pe
 **Soil disruption and oxidation:**
 Tillage and drainage alter soil redox conditions and physical protection of organic matter, accelerating decomposition of previously stable carbon pools. The interactive effects of tillage-induced carbon release and priming-effect acceleration are poorly understood.
 
+## Agricultural Management and Soil Carbon Mobilization
+
+[[AgriculturalTillageEffectsOnCarbonCycling|Agricultural land management, particularly tillage-based cultivation]], profoundly alters soil carbon cycling through multiple mechanisms: mechanical disruption of soil aggregates (releasing protected organic matter), increased aeration (triggering aerobic decomposition), and oxidation of previously anoxic layers. Direct measurements from tilled agricultural soils show that cultivation accelerates carbon mobilization and export to aquatic systems by orders of magnitude (>300%) compared to non-tilled systems. This carbon mobilization represents a direct release of soil carbon stocks to the atmosphere and aquatic systems, making agricultural practice one of the largest anthropogenic perturbations to terrestrial carbon cycling. Understanding how different agricultural systems (conventional tillage, reduced tillage, no-till) influence both carbon mobilization rates and priming effects is essential for designing land management strategies that protect soil carbon against climate-change-induced losses.
+
 ## Integration into Global Carbon Models
 
 Standard soil carbon models typically treat biospheric and petrogenic carbon as distinct pools and often ignore them entirely. Incorporating soil carbon dynamics into Earth System Models requires:
@@ -103,3 +107,4 @@ Only by addressing these components can soil carbon models accurately predict so
 - [[FattyAcidLigninPhenolRadiocarbonBiomarkers]] — Compound-specific radiocarbon biomarkers for paleoclimate
 - [[MicrobialOxidationOrganicCarbon]] — Microbial remineralization in soil systems
 - [[RadiocarbonAnalyticalMethods]] — Methods for measuring soil carbon ages
+- [[AgriculturalTillageEffectsOnCarbonCycling]] — Soil carbon mobilization from agricultural cultivation
