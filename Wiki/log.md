@@ -345,3 +345,8 @@ Fixed concept note formatting issues: (1) Removed hanging/incomplete section hea
 *Logged: 2026-05-31 09:25:28*
 
 Fixed critical formatting errors in 5 concept notes: (1) ChemicalWeatheringDissolvedInorganicCarbon: Fixed 'OveCarbonate' typo to 'Carbonate', consolidated duplicate See also sections with consolidated source papers; (2) DissolvedOrganicMatter: Fixed broken header 'Ecological Implications and Bioavailability Paradoxes' split across lines, removed first See also section and corrupted/duplicate content; (3) DrylandRiverCarbonDynamics: Fixed hanging 'Ancient Carbon Mobilization' header and consolidated two Source papers bullets into one with comma separators; (4) HydrogeochemicalMixingModels: Fixed 'PDual' typo to 'Dual', consolidated duplicate Source papers bullets; (5) PermafrostCarbonMobilizationArcticRivers: Removed duplicate wikilinks and consolidated two Source papers bullets into one. Enhanced wiki_tool.py lint validation to detect: multiple See also sections, duplicate wikilinks, multiple source paper bullets, and split headers. Updated CLAUDE.md and Schema/lint-checklist.md with explicit header and See also formatting requirements. All 102 concept notes pass enhanced lint validation.
+
+## Topic expansion: Glacial and Anthropogenic carbon dynamics
+*Logged: 2026-05-31 09:38:45*
+
+Created two new topic files (GlacialAndSubglacialCarbonCycling, AnthropogenicCarbonSourcesInAquaticSystems) and expanded AquaticAndFluvialCarbonCycling with four new subsections. Updated OrganicCarbonCycling with food web integration section. Catalog: 102→104 entries. All validation checks pass (lint, build, source-lint).

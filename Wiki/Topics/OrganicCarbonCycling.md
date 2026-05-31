@@ -4,7 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-25
-updated: 2026-05-29
+updated: 2026-05-31
 aliases:
   - "Carbon preservation and cycling"
   - "Mountain carbon cycle"
@@ -53,11 +53,16 @@ Multiple analytical techniques reveal different aspects of organic carbon cyclin
 
 Understanding how organic carbon cycles through mountain systems and reaches the ocean has profound implications for interpreting paleoceanographic records. Periods of enhanced mountain uplift and erosion should increase both CO₂ drawdown (through organic carbon burial) and CO₂ release (through petrogenic oxidation). The balance between these competing processes determines whether tectonically active intervals represent carbon sinks or sources on million-year timescales, fundamentally influencing long-term climate.
 
+## Food Web Integration and Bioaccumulation of Organic Carbon
+
+Ancient organic carbon—both petrogenic carbon mobilized during erosion and radiocarbon-depleted biospheric carbon from deep soil layers—can be incorporated into aquatic and marine food webs through consumption of organisms using these carbon pools. [[AquaticFoodWebIntegrationAncientCarbon|Food web integration of ancient carbon]] creates consumer organisms with radiocarbon signatures reflecting subsurface carbon sources rather than recent photosynthesis. This has important implications for paleoceanographic interpretation: consumers in fossil assemblages may carry radiocarbon signatures encoding information about ancient carbon mobilization and weathering regime rather than primary productivity or water mass properties. Recognition of this pathway links organic carbon cycling in mountain systems to coastal food webs and marine paleoceanographic records, providing a new perspective on how tectonically active regions influence marine biogeochemistry and the isotopic composition of preserved fauna.
+
 ## See also
 
 - [[OrganicCarbonPreservation]] — Mechanisms preserving organic matter against remineralization
 - [[MineralProtectionOrganicCarbon]] — Mineral protection as the dominant preservation mechanism
 - [[OrganoMineralBonds]] — Chemistry of organo-mineral interactions
+- [[AquaticFoodWebIntegrationAncientCarbon]] — Food web incorporation of ancient organic carbon sources
 - [[PetrogenicOrganicCarbon]] — Ancient bedrock carbon sources
 - [[SoilPrimingEffects]] — Fresh carbon triggering mineralization of old carbon pools
 - [[PetrogenicCarbonOxidation]] — Oxidation of ancient carbon during erosion

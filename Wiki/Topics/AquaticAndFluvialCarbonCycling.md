@@ -4,7 +4,7 @@ tags:
 topics: []
 status: stable
 created: 2026-05-29
-updated: 2026-05-30
+updated: 2026-05-31
 aliases:
   - "Fluvial carbon transport"
   - "River and stream carbon cycling"
@@ -89,6 +89,22 @@ Understanding which carbon pools are preferentially lost to the atmosphere—you
 
 [[PermafrostCarbonMobilizationArcticRivers|Permafrost thaw mobilizes aged carbon into Arctic rivers]], fundamentally altering aquatic carbon composition and export to the coastal ocean. Permafrost-derived dissolved organic carbon and dissolved inorganic carbon carry distinctive radiocarbon signatures reflecting millennia of organic matter accumulation in frozen ground. Seasonal variation in permafrost contributions—with greater input during peak thaw and decreased input during frozen periods—creates dramatic shifts in the age structure of riverine carbon. Direct radiocarbon measurement is essential for quantifying how much permafrost carbon is mobilized under different climate and hydrological scenarios, enabling prediction of climate feedback loops where thaw-driven carbon release amplifies atmospheric CO₂ and CH₄.
 
+## Subsurface and Deep-Reservoir Carbon Mobilization
+
+[[OldCarbonMobilizationSubsurfacePathways|Subsurface pathways mobilize aged carbon from deep groundwater, mineral-bound reservoirs, and confined aquifers]]. In many river systems, baseflow conditions—when groundwater becomes the dominant contributor to streamflow—deliver disproportionately old carbon to rivers. This aged groundwater signal contrasts sharply with young surface runoff carbon, creating discharge-dependent variation in carbon age. The mechanisms controlling deep carbon mobilization remain incompletely understood but likely involve mineral dissolution releasing long-sequestered organic carbon, desorption of carbon from mineral surfaces, and activation of slow diffusion pathways through fractured bedrock. Recognition of subsurface carbon as a major riverine carbon source has transformed our understanding of how carbon responds to changes in groundwater-surface water connectivity, a critical control in both glaciated and non-glaciated systems experiencing shifts in precipitation and water table dynamics.
+
+## Glacial and Subglacial Carbon Dynamics
+
+[[SubglacialInorganicCarbonChemistry|Subglacial environments generate distinctive inorganic carbon signals through chemical weathering beneath ice sheets and glaciers]]. Subglacial discharge carries elevated dissolved inorganic carbon produced by carbonic acid dissolution of bedrock under elevated water pressure and temperature gradients. The radiocarbon age of subglacial DIC reflects a mixture of recently produced carbonic acid weathering (modern age) and mobilization of old carbon stored in groundwater systems upstream of the glacier. Glacier-fed rivers are therefore important vectors for transporting both young and old carbon to downstream systems and the ocean. Seasonal variation in glacial discharge—with greater meltwater during summer ablation—creates pronounced signals in downstream river carbon chemistry and age structure, making glaciated watersheds exquisitely sensitive to climate-driven changes in snow accumulation and ice melt patterns.
+
+## Food Web Integration of Aquatic Carbon
+
+[[AquaticFoodWebIntegrationAncientCarbon|Food web dynamics integrate both young and ancient aquatic carbon sources, with profound implications for consumer isotope signatures]]. Fish and aquatic invertebrates consuming carbon from sources rich in radiocarbon-depleted DIC (from deep groundwater or subglacial weathering) acquire aged radiocarbon signatures that reflect their dietary carbon sources. This creates a direct linkage between watershed carbon sources and bioaccumulation patterns in aquatic food webs, with potential consequences for food web structure, trophic transfer efficiency, and the interpretation of isotopic signatures in aquatic fauna. Understanding which carbon pools are preferentially assimilated at different trophic levels reveals the connectivity between terrestrial carbon sources and aquatic biological communities and has implications for paleoceanographic interpretation of consumer tissues preserved in marine sediment cores.
+
+## Anthropogenic and Land-Use Driven Carbon Dynamics
+
+Human activities—including wastewater discharge, urban development, land-use change, and agricultural intensification—are increasingly modifying the magnitude and isotopic composition of riverine carbon. [[WastewaterCarbonCouplingRivers|Wastewater carbon coupling to river systems]] introduces isotopically distinct carbon from human consumption and sewage treatment, with radiocarbon signatures reflecting atmospheric thermonuclear bomb carbon from the 1950s-60s or biogenic carbon from food sources. [[LandUseEffectsRiverineCarbon|Land-use effects on riverine carbon sources and fluxes]] span the conversion of forests to agriculture (increasing soil carbon export), urbanization (increasing wastewater and impervious surface runoff), and river management practices (damming and flow regulation) that alter the balance between terrestrial and aquatic carbon sources. Distinguishing natural from anthropogenic carbon sources in modern rivers requires careful isotopic analysis and hydrological characterization, with implications for understanding how human-dominated watersheds will respond to future climate and land-use change.
+
 ## Regional Patterns and Global Implications
 
 The newly discovered patterns of aquatic carbon cycling—particularly the age contrast between different carbon fractions, the sensitivity to hydrological change, and the diversity of carbon sources revealed by radiocarbon and stable isotope analysis—have important implications for:
@@ -111,6 +127,11 @@ Multiple complementary techniques reveal different aspects of aquatic carbon cyc
 - [[RadiocarbonMethodsAquaticCO2Analysis]] — Direct measurement of radiocarbon in evaded aquatic CO₂
 - [[RadiocarbonAgeSignaturesAquaticCarbon]] — Age heterogeneity between aquatic carbon fractions
 - [[AquaticCO2EvasionFlux]] — Water-atmosphere CO₂ exchange and greenhouse gas emissions
+- [[OldCarbonMobilizationSubsurfacePathways]] — Subsurface pathways mobilizing aged carbon
+- [[SubglacialInorganicCarbonChemistry]] — Inorganic carbon production in subglacial environments
+- [[AquaticFoodWebIntegrationAncientCarbon]] — Food web incorporation of ancient aquatic carbon
+- [[WastewaterCarbonCouplingRivers]] — Isotopic signatures of wastewater carbon inputs
+- [[LandUseEffectsRiverineCarbon]] — Land-use change impacts on riverine carbon cycling
 - [[PeatlandCarbonExportToAquaticSystems]] — Peatland-aquatic carbon linkages and aged carbon mobilization
 - [[TropicalRiverCarbonCycling]] — Basin-scale carbon cycling in tropical river systems
 - [[KarstRiverCarbonDynamics]] — Carbonate weathering and DIC production in karst rivers
@@ -124,3 +145,5 @@ Multiple complementary techniques reveal different aspects of aquatic carbon cyc
 - [[StreamDICSourcePartitioning]] — Dissolved inorganic carbon sources from weathering and respiration
 - [[EphemeralStreamCarbonDynamics]] — Flow-dependent carbon age variation in arid rivers
 - [[PermafrostCarbonMobilizationArcticRivers]] — Carbon export from permafrost-dominated Arctic watersheds
+- Topic: [[GlacialAndSubglacialCarbonCycling]] — Glacial discharge and subglacial weathering carbon dynamics
+- Topic: [[AnthropogenicCarbonSourcesInAquaticSystems]] — Human-driven modification of riverine carbon
