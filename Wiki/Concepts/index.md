@@ -6,6 +6,7 @@
 - [[Anammox]] — Anammox
 - [[AntarcticLakeRadiocarbonDynamics]] — Antarctic Lake Radiocarbon Dynamics
 - [[AquaticCO2EvasionFlux]] — Aquatic CO₂ Evasion Flux
+- [[AquaticFoodWebIntegrationAncientCarbon]] — Aquatic Food Web Integration of Ancient Carbon
 - [[AquaticGasSamplingMethods]] — Aquatic Gas Sampling Methods
 - [[AtmosphericOxygenSulfurIsotopeRecords]] — Atmospheric Oxygen and Sulfur Isotope Records as Paleoceanographic Proxies
 - [[BacterialHopanoidDiversityStructuralIsomerism]] — Bacterial hopanoid diversity and structural isomerism
@@ -42,6 +43,7 @@
 - [[IronOxideDissolvedOrganicCarbonProxy]] — Iron Oxide-Preserved Dissolved Organic Carbon as a Paleoceanographic Proxy
 - [[IronOxideOxygenIsotopeAnalysis]] — High-Temperature Conversion IRMS for Iron Oxide Oxygen Isotopes
 - [[KarstRiverCarbonDynamics]] — Karst River Carbon Dynamics
+- [[LandUseEffectsRiverineCarbon]] — Land-Use Effects on Riverine Carbon Pools and Ages
 - [[LocalVsDistalBiomarkerSignals]] — Local vs Distal Biomarker Signals in River Sediments
 - [[MarineBariteIsotopeRecord]] — Marine Barite as a High-Resolution Paleoceanographic Archive
 - [[MassIndependentFractionationAtmosphere]] — Mass-Independent Fractionation (MIF) in Oxygen and Sulfur Isotopes
@@ -56,6 +58,7 @@
 - [[NitrogenCycle]] — Nitrogen Cycle
 - [[NitrogenFixation]] — Nitrogen Fixation
 - [[OceanicAnoxicEvents]] — Oceanic Anoxic Events
+- [[OldCarbonMobilizationSubsurfacePathways]] — Old Carbon Mobilization in Subsurface Pathways
 - [[OnlineRampedOxidationAMS]] — Online Ramped Oxidation (ORO)-AMS for Radiocarbon Analysis
 - [[OrganicCarbonPreservation]] — Organic Carbon Preservation Mechanisms
 - [[OrganoMineralBonds]] — Organo-Mineral Bonds and Organic Carbon Protection
@@ -82,6 +85,7 @@
 - [[StableWaterIsotopesGlacierMeltwater]] — Stable Water Isotopes for Glacier Meltwater Apportionment
 - [[StreamDICSourcePartitioning]] — Stream DIC Source Partitioning
 - [[StrontiumIsotopeVariabilityRivers]] — Strontium Isotope Variability in Large Rivers
+- [[SubglacialInorganicCarbonChemistry]] — Subglacial Inorganic Carbon Chemistry
 - [[SulfoxyanionIsotopeEffects]] — Sulfoxyanion Isotope Effects
 - [[ThermalFractionationRadiocarbon]] — Thermal Fractionation in Radiocarbon Dating
 - [[ThermokarstLakeCarbonPartitioning]] — Thermokarst Lake Carbon Partitioning
@@ -90,3 +94,4 @@
 - [[TripleOxygenIsotopeRespirationFractionation]] — Triple-oxygen isotope fractionation in respiration
 - [[TripleOxygenIsotopes]] — Triple Oxygen Isotope Compositions and Atmospheric Tracers
 - [[TropicalRiverCarbonCycling]] — Tropical River Carbon Cycling
+- [[WastewaterCarbonCouplingRivers]] — Wastewater Carbon Coupling to River Biogeochemistry

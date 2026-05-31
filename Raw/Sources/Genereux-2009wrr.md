@@ -1,16 +1,16 @@
 ---
 Title: "Chemical and isotopic signature of old groundwater and magmatic solutes in a Costa Rican rain forest: evidence from carbon, helium, and chlorine"
-Author: "David P. Genereux, Mathew Webb, D. Kip Solomon"
-Reference: "https://doi.org/10.1029/2008WR007630"
-ContentType: "journal-article"
+Author: David P. Genereux, Mathew Webb, D. Kip Solomon
+Reference: https://doi.org/10.1029/2008WR007630
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Water Resources Research"
+Journal: Water Resources Research
 Volume: "45"
-Pages: "W08413"
+Pages: W08413
 Year: "2009"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Chemical and isotopic signature of old groundwater and magmatic solutes in a Costa Rican rain forest: evidence from carbon, helium, and chlorine

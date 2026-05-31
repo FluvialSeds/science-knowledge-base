@@ -1,17 +1,17 @@
 ---
-Title: "Radiocarbon distribution and the effect of legacy in lakes of the McMurdo Dry Valleys, Antarctica"
-Author: "Peter T. Doran, Fabien Kenig, Jennifer Lawson Knoepfle, Jill A. Mikucki, W. Berry Lyons"
-Reference: "https://doi.org/10.4319/lo.2014.59.3.0811"
-ContentType: "journal-article"
+Title: Radiocarbon distribution and the effect of legacy in lakes of the McMurdo Dry Valleys, Antarctica
+Author: Peter T. Doran, Fabien Kenig, Jennifer Lawson Knoepfle, Jill A. Mikucki, W. Berry Lyons
+Reference: https://doi.org/10.4319/lo.2014.59.3.0811
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Limnology and Oceanography"
+Journal: Limnology and Oceanography
 Volume: "59"
 Issue: "3"
-Pages: "811-826"
+Pages: 811-826
 Year: "2014"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Radiocarbon distribution and the effect of legacy in lakes of the McMurdo Dry Valleys, Antarctica

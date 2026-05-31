@@ -90,7 +90,8 @@ When processing a new Raw source:
    - The tool will only suggest concepts that exist in the catalog (no broken links)
    - Review the suggestions and accept them into your "See also" section
    - You may manually edit descriptions if the auto-generated versions don't capture nuance, but auto-generation is acceptable
-   - Format: `- [[ConceptName]] — Description` with source papers as final entry
+   - **Format MANDATORY**: Only ONE "See also" section per note. No duplicate wikilinks within the section. Source papers in ONE bullet point with commas separating entries: `- Source papers: [[Source1]] — Description, [[Source2]] — Description, [[Source3]] — Description`
+   - Format: `- [[ConceptName]] — Description` with source papers as final entry (comma-separated in single bullet)
 
 10. **Mark source as processed**: Set `Processed: true` in the Raw source frontmatter (mandatory once compiled into Wiki notes and body text is clean).
 
@@ -115,9 +116,17 @@ Before committing any ingestion, verify:
 - ✓ **Body text**: All sections (Overall Scientific Topic, Methods, Results, Implications) pass quality assessment (ACCEPTABLE verdict)
 - ✓ **Results section quality**: Coherent narrative with proper evidence, NOT fragmented OCR artifacts
 - ✓ **Concept filenames**: Use PascalCase (e.g., `DissolvedOrganicMatter.md`)—check existing files for naming pattern
-- ✓ **"See also" format**: Matches standard format with descriptions after " — " separator, includes source paper link
+- ✓ **See also section format**: CRITICAL—Only ONE "See also" section per note. No duplicate wikilinks. Source papers in ONE bullet point with **COMMAS** (not semicolons) separating entries: `- Source papers: [[Paper1]] — Description, [[Paper2]] — Description, [[Paper3]] — Description`
+- ✓ **Header formatting**: ALL headers MUST be on a single line. NEVER split headers across multiple lines or add text fragments after headers.
+  - CORRECT: `## Ecological Implications and Bioavailability Paradoxes`
+  - INCORRECT: `## Ecological Implications\nand Bioavailability Paradoxes` (text split across lines)
+  - INCORRECT: `## Global Carbon Cycle Implications\nCarbonate Weathering in Large River Systems` (text fragment after header)
+- ✓ **Section headers are complete**: Every header (##, ###, ####) MUST have all its content on the same line. Check for hanging text fragments or broken headers before committing.
+- ✓ **No duplicate See also sections**: Concept notes MUST have exactly ONE "See also" section. If creating/editing a note, verify there is only one. Remove any duplicates immediately.
+- ✓ **Source papers bullet consolidation**: All source papers MUST be in a SINGLE bullet point at the end of "See also", never split across multiple bullets. CORRECT: `- Source papers: [[Source1]] — Desc, [[Source2]] — Desc`. INCORRECT: `- Source papers: [[Source1]] — Desc` followed by `- Source papers: [[Source2]] — Desc`.
 - ✓ **Wikilinks**: Use PascalCase without hyphens (e.g., `[[NitrogenCycle]]` not `[[Nitrogen-Cycle]]`)
 - ✓ **Metadata dates updated**: For ANY edit to a concept note, update the `updated:` field to current date (YYYY-MM-DD). This includes new concept creation, See also edits, body text updates, and any other modifications.
+- ✓ **No hanging/incomplete text**: Verify all section headers are complete and no orphaned text fragments remain from removed sections
 - ✓ **Maintenance checks pass**: `build`, `lint`, and `source-lint` all succeed
 - ✓ **Log entry**: Added to `Wiki/log.md` (not `Wiki/Logs/`)
 - ✓ **Source marked processed**: `Processed: true` in Raw source frontmatter

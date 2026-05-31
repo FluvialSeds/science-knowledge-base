@@ -1,17 +1,17 @@
 ---
 Title: "Sources of dissolved inorganic carbon in two small streams with different bedrock geology: insights from carbon isotopes"
-Author: "Naoto F. Ishikawa, Ichiro Tayasu, Masako Yamane, Yusuke Yokoyama, Saburo Sakai, Naohiko Ohkouchi"
-Reference: "https://doi.org/10.2458/azu_rc.57.18348"
-ContentType: "journal-article"
+Author: Naoto F. Ishikawa, Ichiro Tayasu, Masako Yamane, Yusuke Yokoyama, Saburo Sakai, Naohiko Ohkouchi
+Reference: https://doi.org/10.2458/azu_rc.57.18348
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Radiocarbon"
+Journal: Radiocarbon
 Volume: "57"
 Issue: "3"
-Pages: "439-448"
+Pages: 439-448
 Year: "2015"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Sources of dissolved inorganic carbon in two small streams with different bedrock geology: insights from carbon isotopes

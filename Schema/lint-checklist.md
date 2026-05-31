@@ -24,6 +24,14 @@ Deterministic checks that must pass before commits.
 
 - [ ] Every note has a title (heading or frontmatter)
 - [ ] Notes are focused and reusable (not lists of unrelated facts)
+- [ ] **CRITICAL: Only ONE "See also" section per note** (not multiple duplicate sections)
+- [ ] **CRITICAL: No duplicate wikilinks within the "See also" section** (same concept linked only once)
+- [ ] **CRITICAL: Source papers listed in ONE bullet point with commas** (not semicolons or multiple bullet points): `- Source papers: [[Paper1]] — Description, [[Paper2]] — Description`
+- [ ] **CRITICAL: All section headers on a single line** — Headers MUST NOT be split across multiple lines or have text fragments after them
+  - CORRECT: `## Ecological Implications and Bioavailability Paradoxes`
+  - INCORRECT: `## Ecological Implications\nand Bioavailability Paradoxes` (split)
+  - INCORRECT: `## Global Carbon Cycle\nCarbonate Weathering Large Rivers` (fragment after)
+- [ ] **CRITICAL: No hanging/incomplete section headers** (verify entire header text is on one line, no orphaned text fragments)
 
 ## Raw Source Notes
 

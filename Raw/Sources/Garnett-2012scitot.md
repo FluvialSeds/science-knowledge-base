@@ -1,16 +1,16 @@
 ---
-Title: "Annual variability in the radiocarbon age and source of dissolved CO2 in a peatland stream"
-Author: "M. H. Garnett, S. M. L. Hardie, C. Murray, M. F. Billett"
-Reference: "https://doi.org/10.1016/j.scitotenv.2012.03.087"
-ContentType: "journal-article"
+Title: Annual variability in the radiocarbon age and source of dissolved CO2 in a peatland stream
+Author: M. H. Garnett, S. M. L. Hardie, C. Murray, M. F. Billett
+Reference: https://doi.org/10.1016/j.scitotenv.2012.03.087
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Science of The Total Environment"
-Volume: "427-428"
-Pages: "277-285"
+Journal: Science of The Total Environment
+Volume: 427-428
+Pages: 277-285
 Year: "2012"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Radiocarbon in dissolved methane and dissolved organic carbon in peatland streams

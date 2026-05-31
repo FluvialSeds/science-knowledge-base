@@ -8,7 +8,7 @@ topics:
   - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-24
-updated: 2026-05-29
+updated: 2026-05-31
 sources:
   - "Raw/Sources/Hemingway-2017cg.md"
   - "Raw/Sources/Hemingway-2017rad.md"
@@ -18,7 +18,9 @@ sources:
   - "Raw/Sources/Eglinton-2021pnas.md"
   - "Raw/Sources/Bolandini-2025rad.md"
   - "Raw/Sources/Evans-2025agua.md"
-source_count: 8
+  - "Raw/Sources/ODonnell-2020es.md"
+  - "Raw/Sources/Mazumder-2019jgr.md"
+source_count: 10
 aliases:
   - "Radiocarbon dating"
   - "Δ¹⁴C"
@@ -116,6 +118,15 @@ In lake systems with peatland catchments, seasonal and long-term variations in �
 
 **Implications for carbon modeling:**
 Standard soil carbon models often fail to distinguish petrogenic carbon from biospheric carbon, leading to systematic errors in estimating soil carbon stocks and turnover times. Incorporating petrogenic contributions is essential for accurate predictions of soil carbon response to climate change and land-use alteration, particularly in tectonically active regions with high erosion rates and in landscapes with organic-rich parent materials.
+
+## Permafrost Carbon Age Trajectories in Arctic Food Webs
+
+Permafrost-derived organic carbon with apparent radiocarbon ages of 5,255–265 yr BP (benthic biofilms) is integrated into contemporary Arctic food webs through microbial pathways and trophic transfer. Macroinvertebrates and fish assimilate this ancient carbon, retaining bioavailable ages of 4,490 yr BP to modern. This demonstrates that age does not determine bioavailability—permafrost-aged organic carbon is preferentially respired by aquatic microbes despite being a minority component of total carbon pools. Permafrost carbon contributions of 39–47% from deep peat and 12–19% from near-surface permafrost represent significant, if variable, carbon sources to Arctic streams. Critically, increased old carbon assimilation is associated with reduced fish growth and nutritional status, indicating ecosystem-level consequences of permafrost carbon mobilization. This bioavailability of ancient permafrost carbon challenges assumptions that old carbon is recalcitrant, revealing that radiocarbon age reflects source/origin rather than intrinsic reactivity.
+
+## Bioavailable Ancient Groundwater Carbon
+
+In groundwater-fed ecosystems, old dissolved organic carbon with apparent radiocarbon ages up to 11,000 years (living fish bones in Great Artesian Basin streams) demonstrates extraordinary bioavailability of ancient carbon previously assumed recalcitrant. Fractional contribution of old groundwater carbon reaches 99.58% in water column, 82% in algae, and 52% in fish, indicating complete integration of millennially-aged carbon into contemporary food webs. This radiocarbon evidence reveals that groundwater carbon can support high trophic levels and that the conventional paradigm of old carbon = recalcitrant is fundamentally incorrect. Archaeological implications are profound: fish bones used for radiocarbon dating in regions with groundwater-fed aquatic systems can yield unexpectedly old apparent ages (up to 11,000 years "too old"), potentially creating systematic biases in archaeological chronologies if the aquatic carbon reservoir effect is not properly accounted for.
+
 This stratification demonstrates that [[OrganicCarbonPreservation|OC preservation]] through mineral protection extends the lifetime of old carbon in the biosphere, controlling its sequestration and atmospheric CO₂ implications.
 
 ## Complementary to Other Tracers
@@ -144,7 +155,8 @@ Together, these methods provide a multi-tracer framework for understanding organ
 - [[OrganoMineralBonds]] — Mineral protection and radiocarbon age persistence
 - [[PetrogenicOrganicCarbon]] — Ancient carbon in bedrock and its radiocarbon complications in soil systems
 - [[SoilPrimingEffects]] — How fresh carbon inputs affect old carbon mineralization
-- [[AgedCarbonMobilizationTropicalPeatlands]] — Millennially-aged carbon mobilization from peatlands to lake systems
+- [[AquaticFoodWebIntegrationAncientCarbon]] — Ancient carbon bioaccumulation in food webs
+- [[OldCarbonMobilizationSubsurfacePathways]] — Ancient carbon from subsurface reservoirs
 - [[RadiocarbonAgeSignaturesAquaticCarbon]] — Age heterogeneity between aquatic carbon fractions
 - [[PeatlandCarbonExportToAquaticSystems]] — Peatland-aquatic carbon linkages and aged carbon export
 - [[AquaticCO2EvasionFlux]] — CO₂ evasion from aquatic systems
@@ -153,4 +165,4 @@ Together, these methods provide a multi-tracer framework for understanding organ
 - [[PlantWaxBiomarkers]] — Plant-derived organic matter characterization
 - [[GDGTBiomarkers]] — Membrane lipid biomarkers and source discrimination
 - [[DissolvedOrganicMatter]] — Sources and composition of dissolved organic matter in aquatic systems
-- Source papers: [[Hemingway-2017cg]] — Radiocarbon in Congo particulate organic matter, [[Hemingway-2017rad]] — Radiocarbon analytical methods and blank correction, [[Hemingway-2019nat]] — Radiocarbon and mineral protection mechanisms, [[Hemingway-2021og]] — Biomarker radiocarbon and biosynthetic fractionation, [[Drake-2026natgeo]] — Millennially-aged carbon in Congo Basin humic lakes, [[Eglinton-2021pnas]] — Climate controls on fluvial biomarker radiocarbon ages, [[Bolandini-2025rad]] — Online ORO-AMS thermal dissection radiocarbon dating, [[Evans-2025agua]] — Petrogenic organic carbon cycling in soils and radiocarbon biasing
+- Source papers: [[Hemingway-2017cg]] — Radiocarbon in Congo particulate organic matter, [[Hemingway-2017rad]] — Radiocarbon analytical methods and blank correction, [[Hemingway-2019nat]] — Radiocarbon and mineral protection mechanisms, [[Hemingway-2021og]] — Biomarker radiocarbon and biosynthetic fractionation, [[Drake-2026natgeo]] — Millennially-aged carbon in Congo Basin humic lakes, [[Eglinton-2021pnas]] — Climate controls on fluvial biomarker radiocarbon ages, [[Bolandini-2025rad]] — Online ORO-AMS thermal dissection radiocarbon dating, [[Evans-2025agua]] — Petrogenic organic carbon cycling in soils and radiocarbon biasing, [[ODonnell-2020es]] — Permafrost carbon age trajectories in Arctic food webs, [[Mazumder-2019jgr]] — Bioavailable ancient groundwater carbon in aquatic food webs

@@ -6,12 +6,13 @@ topics:
   - "PermafrostCarbonDynamics"
 status: stable
 created: 2026-05-26
-updated: 2026-05-30
+updated: 2026-05-31
 sources:
   - "Raw/Sources/Drake-2018jgr.md"
   - "Raw/Sources/Dean-2018erl.md"
   - "Raw/Sources/GonzalezMoguel-2021jgr.md"
-source_count: 3
+  - "Raw/Sources/ODonnell-2020es.md"
+source_count: 4
 aliases:
   - "Permafrost-derived organic carbon"
   - "Radiocarbon signatures in Arctic streams"
@@ -91,12 +92,18 @@ As permafrost thaw accelerates with warming:
 - Long-term marine carbon burial may decrease if permafrost carbon is preferentially respired rather than exported
 - Understanding regional variations in permafrost carbon mobilization and processing is critical for predicting climate-carbon feedbacks
 
+## Permafrost Hydrology and Food Web Integration of Ancient Carbon
+
+Recent studies quantifying permafrost-derived carbon in Arctic food webs reveal ecosystem-level impacts beyond direct atmospheric CO₂ release. In streams receiving significant permafrost hydrology inputs, benthic biofilms integrate ancient carbon (apparent ages 5,255–265 yr BP), which is then transferred to macroinvertebrates (4,490 yr BP to modern) and fish (3,195 yr BP to modern). Deep peat and near-surface permafrost contribute 39–47% and 12–19% of dissolved organic carbon, respectively. Critically, increased old carbon assimilation correlates with declining fish growth and nutritional status, indicating that permafrost thaw fundamentally alters food web function. The mobilization of bioavailable old carbon demonstrates that aged compounds are not recalcitrant—they can be processed by contemporary microbes and consumers—and their integration into food webs creates ecosystem-level implications for Arctic warming.
+
 ## See also
 
 - [[RadiocarbonOrganicMatter]] — Radiocarbon signatures of organic matter for age determination
+- [[AquaticFoodWebIntegrationAncientCarbon]] — Ancient carbon bioaccumulation in food webs
+- [[OldCarbonMobilizationSubsurfacePathways]] — Ancient carbon from subsurface pathways
 - [[DissolvedOrganicMatter]] — Dissolved organic matter composition and cycling
 - [[MineralProtectionOrganicCarbon]] — Mineral protection of organic carbon
 - [[RadiocarbonAnalyticalMethods]] — Modern radiocarbon analytical techniques
 - [[OrganicCarbonCycling]] — Organic carbon preservation and mountain carbon cycle
 - [[MicrobialOxidationOrganicCarbon]] — Microbial oxidation of organic carbon
-- Source paper: [[Drake-2018jgr]] — The ephemeral signature of permafrost carbon in Arctic fluvial networks; [[Dean-2018erl]] — Pre-industrial carbon in Arctic headwaters; [[GonzalezMoguel-2021jgr]] — Thermokarst lake carbon partitioning
+- Source papers: [[Drake-2018jgr]] — Permafrost carbon mobilization in Kolyma River, [[Dean-2018erl]] — Pre-industrial carbon in Arctic headwaters, [[GonzalezMoguel-2021jgr]] — Thermokarst lake carbon partitioning, [[ODonnell-2020es]] — Permafrost hydrology and old carbon assimilation in Arctic food webs

@@ -1,17 +1,17 @@
 ---
-Title: "Millennial-aged organic carbon subsidies to a modern river food web"
-Author: "Nina C. Araco, James E. Bauer, Jonathan J. Cole, Steven Petsch, Peter Raymond"
-Reference: "https://doi.org/10.1890/09-0330.1"
-ContentType: "journal-article"
+Title: Millennial-aged organic carbon subsidies to a modern river food web
+Author: Nina C. Araco, James E. Bauer, Jonathan J. Cole, Steven Petsch, Peter Raymond
+Reference: https://doi.org/10.1890/09-0330.1
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Ecology"
+Journal: Ecology
 Volume: "91"
 Issue: "8"
-Pages: "2385-2393"
+Pages: 2385-2393
 Year: "2010"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Millennial-aged organic carbon subsidies to a modern river food web

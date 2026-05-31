@@ -1,17 +1,17 @@
 ---
-Title: "Radiocarbon data reveal contrasting sources for carbon fractions in thermokarst lakes and rivers of eastern Canada (Nunavik, Quebec)"
-Author: "Regina Gonzalez Moguel, Adrian M. Bass, Mark H. Garnett, Martin Pilote, Benjamin Keenan, Alex Matveev, Peter M. J. Douglas"
-Reference: "https://doi.org/10.1029/2020JG005938"
-ContentType: "journal-article"
+Title: Radiocarbon data reveal contrasting sources for carbon fractions in thermokarst lakes and rivers of eastern Canada (Nunavik, Quebec)
+Author: Regina Gonzalez Moguel, Adrian M. Bass, Mark H. Garnett, Martin Pilote, Benjamin Keenan, Alex Matveev, Peter M. J. Douglas
+Reference: https://doi.org/10.1029/2020JG005938
+ContentType: journal-article
 Created: 2026-05-30
 Journal: "Journal of Geophysical Research: Biogeosciences"
 Volume: "126"
 Issue: "4"
-Pages: "e2020JG005938"
+Pages: e2020JG005938
 Year: "2021"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Radiocarbon data reveal contrasting sources for carbon fractions in thermokarst lakes and rivers of eastern Canada (Nunavik, Quebec)

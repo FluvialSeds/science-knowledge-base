@@ -7,7 +7,7 @@ topics:
   - "IsotopicProxiesPaleoceanography"
 status: stable
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-05-31
 sources:
   - Raw/Sources/Billett-2006rad.md
   - Raw/Sources/Billett-2010lom.md
@@ -17,7 +17,10 @@ sources:
   - "Raw/Sources/Garnett-2012scitot.md"
   - "Raw/Sources/Garnett-2016eh_a.md"
   - "Raw/Sources/Dean-2017wr.md"
-source_count: 8
+  - "Raw/Sources/Mayorga-2005nat.md"
+  - "Raw/Sources/Park-2021bgc.md"
+  - "Raw/Sources/Liu-2017ag.md"
+source_count: 11
 aliases:
   - "Water-atmosphere CO₂ exchange"
   - "Aquatic gas evasion"
@@ -42,9 +45,13 @@ Evasion rates vary substantially with stream characteristics. Rates are lowest i
 
 The carbon sources contributing to aquatic CO₂ evasion depend on watershed characteristics and hydrological pathways. In peatlands and other carbon-rich landscapes, evaded CO₂ contains substantial proportions of older carbon mobilized from soil organic matter and geogenic sources. In forest ecosystems, evaded CO₂ may be dominated by recent photosynthetic products, representing a rapid return pathway for currently fixed carbon. The radiocarbon age and stable isotope composition of evaded CO₂ therefore provides diagnostic information about carbon source contributions and the relative importance of different carbon pools to aquatic gas exchange.
 
-## Quantifying Atmospheric Feedback
+## Young Carbon Driving CO₂ Flux in Tropical Rivers
 
-The magnitude of CO₂ evasion from aquatic systems contributes significantly to annual carbon budgets in coupled terrestrial-aquatic systems. Shifts in evasion rates resulting from climate change, hydrological alteration, or changes in watershed carbon processing can substantially alter net carbon export to the atmosphere. Direct measurements of evaded CO₂ isotopic composition enable separation of geogenic versus biogenic carbon sources and assessment of how disturbances to watershed carbon pools affect the age and source composition of aquatic CO₂ emissions.
+Despite containing bulk organic carbon pools with ages spanning tens to thousands of years, Amazonian rivers produce modern-aged CO₂ through rapid cycling of a small labile carbon pool with 2–7 year turnover time. This pool is derived from recent plant productivity and floodplain vegetation, driving large CO₂ evasion flux despite representing a minority fraction of total dissolved carbon. In carbonate-dominated tropical rivers (Pearl River, China), co-production of old DIC from carbonate dissolution and aquatic photosynthesis creates "old-appearing" particulate organic carbon that can drive atmospheric CO₂ when respired, demonstrating complex interactions between geogenic and biogenic carbon in determining CO₂ sources and ages.
+
+## Wastewater-Enhanced CO₂ Production in Tropical Rivers
+
+In urbanized tropical river systems (Mekong–Tonle Sap, Cambodia) receiving municipal wastewater, sewage-derived labile dissolved organic carbon significantly amplifies CO₂ production beyond natural levels. Wastewater inputs preferentially enhance heterotrophic respiration through preferential utilization of bioavailable DOM, creating large dry-season pCO₂ increases that exceed atmospheric equilibrium. In-situ incubations with and without sewage addition document stimulation of nocturnal respiration exceeding daytime photosynthetic uptake, creating strong positive CO₂ supersaturation. This anthropogenic enhancement of carbon cycling represents a major but often-overlooked contributor to tropical river CO₂ emissions and demonstrates how urban water management affects aquatic-atmospheric carbon exchange.
 
 ## See also
 
@@ -53,4 +60,6 @@ The magnitude of CO₂ evasion from aquatic systems contributes significantly to
 - [[PeatlandCarbonExportToAquaticSystems]] — Peatland carbon sources for aquatic CO₂
 - [[HumicLakesGreenhouseGasCycling]] — Greenhouse gas cycling in carbon-rich aquatic systems
 - [[PermafrostCarbonMobilizationArcticRivers]] — Carbon mobilization to aquatic systems
-- Source papers: [[Billett-2006rad]] — Direct measurement of ¹⁴C in CO₂ evaded from peatland streams, [[Billett-2010lom]] — Comparison of direct and indirect evasion CO₂ measurement methods, [[Billett-2020eh]] — Assessment of floating chamber ¹⁴C methodologies, [[Campeau-2019natcom]] — Forest-stream CO₂ emissions from recent photosynthetic carbon, [[Garnett-2012bgc]] — Evaded CH₄ vs CO₂ ages from peatland streams, [[Garnett-2012scitot]] — Dissolved CH₄ and DOC radiocarbon signatures, [[Garnett-2016eh_a]] — Super headspace method for CO₂ collection, [[Dean-2017wr]] — Coiled membrane vessel method for dissolved gas collection
+- [[TropicalRiverCarbonCycling]] — Tropical river carbon processes
+- [[WastewaterCarbonCouplingRivers]] — Wastewater effects on river carbon dynamics
+- Source papers: [[Billett-2006rad]] — Direct measurement of ¹⁴C in CO₂ evaded from peatland streams, [[Billett-2010lom]] — Comparison of direct and indirect evasion CO₂ measurement methods, [[Billett-2020eh]] — Assessment of floating chamber ¹⁴C methodologies, [[Campeau-2019natcom]] — Forest-stream CO₂ emissions from recent photosynthetic carbon, [[Garnett-2012bgc]] — Evaded CH₄ vs CO₂ ages from peatland streams, [[Garnett-2012scitot]] — Dissolved CH₄ and DOC radiocarbon signatures, [[Garnett-2016eh_a]] — Super headspace method for CO₂ collection, [[Dean-2017wr]] — Coiled membrane vessel method for dissolved gas collection, [[Mayorga-2005nat]] — Young carbon driving CO₂ evasion in Amazon rivers, [[Park-2021bgc]] — Wastewater-boosted pCO₂ in Mekong-Tonle Sap, [[Liu-2017ag]] — Pearl River carbonate weathering and aquatic photosynthesis

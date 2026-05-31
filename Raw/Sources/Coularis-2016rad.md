@@ -1,17 +1,17 @@
 ---
-Title: "Temporal and spatial variations of freshwater reservoir ages in the Loire River watershed"
-Author: "C. Coularis, N. Tisnérat-Laborde, L. Pastor, F. Siclet, M. Fontugne"
-Reference: "https://doi.org/10.1017/RDC.2016.36"
-ContentType: "journal-article"
+Title: Temporal and spatial variations of freshwater reservoir ages in the Loire River watershed
+Author: C. Coularis, N. Tisnérat-Laborde, L. Pastor, F. Siclet, M. Fontugne
+Reference: https://doi.org/10.1017/RDC.2016.36
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Radiocarbon"
+Journal: Radiocarbon
 Volume: "58"
 Issue: "3"
-Pages: "549-563"
+Pages: 549-563
 Year: "2016"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Temporal and spatial variations of freshwater reservoir ages in the Loire River watershed

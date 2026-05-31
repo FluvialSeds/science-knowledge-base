@@ -78,3 +78,42 @@ aliases: []
 - `draft`: In progress, may have incomplete sections
 - `stable`: Complete and validated against sources
 - `archived`: No longer actively maintained; kept for historical reference
+
+## See Also Section Format
+
+**MANDATORY REQUIREMENTS:**
+
+1. **Only ONE "See also" section per concept note** — Do not create multiple See also sections or duplicate them
+2. **No repeated wikilinks** — Each concept should appear in the See also section exactly once
+3. **Source papers in single bullet point** — All sources listed in ONE bullet point only, separated by COMMAS (not semicolons):
+   ```markdown
+   - Source papers: [[Paper1]] — Description, [[Paper2]] — Description, [[Paper3]] — Description
+   ```
+4. **Proper format for concept wikilinks:**
+   ```markdown
+   ## See also
+
+   - [[RelatedConcept1]] — Description of relationship
+   - [[RelatedConcept2]] — Description of relationship
+   - [[RelatedConcept3]] — Description of relationship
+   - Source papers: [[Source1]] — Citation info, [[Source2]] — Citation info, [[Source3]] — Citation info
+   ```
+
+**Example (CORRECT):**
+```markdown
+## See also
+
+- [[AquaticCO2EvasionFlux]] — CO₂ production from DOM respiration
+- [[DissolvedOrganicMatter]] — DOM bioavailability and composition
+- [[RadiocarbonOrganicMatter]] — Radiocarbon age determination
+- Source papers: [[Smith-2020nat]] — Young carbon effects, [[Jones-2021bgc]] — DOM cycling, [[Brown-2019jgr]] — Evasion mechanisms
+```
+
+**Example (INCORRECT - Do NOT use these patterns):**
+```markdown
+## See also
+- [[AquaticCO2EvasionFlux]] — CO₂ production
+- [[RadiocarbonOrganicMatter]] — Radiocarbon (DUPLICATE)
+- Source papers: [[Smith-2020nat]] — Young carbon effects; [[Jones-2021bgc]] — DOM cycling (SEMICOLON)
+- Source papers: [[Other-2018jgr]] — Other effects (DUPLICATE BULLET)
+```

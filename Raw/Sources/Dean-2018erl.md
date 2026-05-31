@@ -1,16 +1,16 @@
 ---
 Title: "Abundant pre-industrial carbon detected in Canadian Arctic headwaters: implications for the permafrost carbon feedback"
-Author: "J. F. Dean, Y. van der Velde, M. H. Garnett, K. J. Dinsmore, R. Baxter, J. S. Lessels, P. Smith, L. E. Street, J-A. Subke, D. Tetzlaff, I. Washbourne, P. A. Wookey, M. F. Billett"
-Reference: "https://doi.org/10.1088/1748-9326/aaa1fe"
-ContentType: "journal-article"
+Author: J. F. Dean, Y. van der Velde, M. H. Garnett, K. J. Dinsmore, R. Baxter, J. S. Lessels, P. Smith, L. E. Street, J-A. Subke, D. Tetzlaff, I. Washbourne, P. A. Wookey, M. F. Billett
+Reference: https://doi.org/10.1088/1748-9326/aaa1fe
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Environmental Research Letters"
+Journal: Environmental Research Letters
 Volume: "13"
 Pages: "034024"
 Year: "2018"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Abundant pre-industrial carbon detected in Canadian Arctic headwaters: implications for the permafrost carbon feedback

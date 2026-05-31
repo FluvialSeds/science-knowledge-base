@@ -5,11 +5,14 @@ topics:
   - "AquaticAndFluvialCarbonCycling"
 status: stable
 created: 2026-05-28
-updated: 2026-05-29
+updated: 2026-05-31
 sources:
   - Raw/Sources/Alin-2008jgr.md
   - Raw/Sources/Bouillon-2009bg.md
-source_count: 2
+  - Raw/Sources/Mayorga-2005nat.md
+  - Raw/Sources/Park-2021bgc.md
+  - Raw/Sources/Moyer-2013bgc.md
+source_count: 5
 aliases:
   - "Tropical basin carbon cycling"
   - "Tropical river carbon export"
@@ -37,11 +40,19 @@ In tropical rivers characterized by high sediment loads, the suspension and resu
 
 Carbon cycling in tropical rivers exhibits systematic changes from headwaters to delta regions. Headwater streams dominated by erosional processes may export carbon with distinctive aged signatures from specific geologic formations. Moving downstream, floodplain inundation, macrophyte productivity, and microbial decomposition modify carbon distributions and ages. Near river mouths, estuarine mixing with seawater and coastal productivity further transform riverine carbon signatures.
 
+## Young Carbon as CO₂ Driver in Tropical Rivers
+
+The Amazon River provides a well-characterized example of young, labile carbon driving large CO₂ evasion fluxes. Radiocarbon analysis reveals that evaded CO₂ contains signatures consistent with atmospheric ¹⁴C, indicating rapid turnover (2–7 years) of a small, young carbon pool despite bulk organic carbon containing aged components spanning tens to thousands of years. This decoupling demonstrates that small pools of recently fixed or rapidly mobilized carbon can dominate CO₂ production, with significant implications for carbon budgets—bulk organic matter age cannot be used to infer CO₂ source ages. In small mountainous rivers (SMRs) of Puerto Rico, carbon exports similarly show mixing of young and highly aged components (modern to 2,340 yr BP), demonstrating that tropical systems across scales exhibit heterogeneous carbon ages with young fractions preferentially respired.
+
+## Wastewater-Enhanced Carbon Cycling in Tropical Rivers
+
+In tropical river systems receiving municipal wastewater—particularly around urban centers in monsoon-influenced regions like the Mekong–Tonle Sap system in Cambodia—wastewater-derived labile dissolved organic carbon significantly amplifies CO₂ production and seasonal pCO₂ variations. Sewage inputs preferentially stimulate biodegradation of labile DOM fractions, enhancing heterotrophic respiration beyond what would occur with natural organic matter alone. During dry seasons, wastewater-receiving river reaches exhibit pCO₂ increases exceeding atmospheric values, driven by nocturnal respiration that outpaces daytime photosynthetic uptake. This anthropogenic enhancement of carbon cycling represents a significant but often-overlooked contributor to tropical river CO₂ emissions.
+
 ## See also
 
 - [[MineralControlTerrestrialCarbonStorageExport]] — Mineral influences on carbon storage and export
 - [[ClimateControlsTerrestrialOrganicMatterCycling]] — Climate controls on organic matter cycling
-- [[OrganicCarbonCycling]] — Organic carbon preservation in mountain systems
-- [[MineralProtectionOrganicCarbon]] — Mineral protection mechanisms for organic carbon
-- [[CarbonIsotopeFractionationPlants]] — Stable carbon isotope variations in tropical vegetation
-- Source papers: [[Alin-2008jgr]] — Biogeochemical characterization in Strickland and Fly rivers, Papua New Guinea, [[Bouillon-2009bg]] — Carbon distribution and cycling in Tana River from headwaters to delta
+- [[DissolvedOrganicMatter]] — DOM properties and bioavailability
+- [[AquaticCO2EvasionFlux]] — CO₂ evasion from rivers and lakes
+- [[RadiocarbonOrganicMatter]] — Radiocarbon composition as age tracer
+- Source papers: [[Alin-2008jgr]] — Biogeochemical characterization in Strickland and Fly rivers, Papua New Guinea, [[Bouillon-2009bg]] — Carbon distribution and cycling in Tana River from headwaters to delta, [[Mayorga-2005nat]] — Young organic carbon as CO₂ source in Amazon rivers, [[Park-2021bgc]] — Wastewater-boosted biodegradation amplifying pCO₂ in Mekong-Tonle Sap, [[Moyer-2013bgc]] — Carbon isotope biogeochemistry of tropical Puerto Rican small mountainous rivers

@@ -5,10 +5,12 @@ topics:
   - "AquaticAndFluvialCarbonCycling"
 status: stable
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-05-31
 sources:
   - "Raw/Sources/Ishikawa-2016rad.md"
-source_count: 1
+  - "Raw/Sources/Raymond-2004mc.md"
+  - "Raw/Sources/Shan-2021jgr.md"
+source_count: 3
 aliases:
   - "DIC sources"
   - "Headwater stream carbon"
@@ -68,28 +70,16 @@ Dissolved inorganic carbon in small streams derives from three end-members: atmo
 - Lower total solute content
 - Radiocarbon values range to modern
 
+## DIC Source Partitioning in Large River Systems
+
+Dual isotope approaches using δ¹³C and Δ¹⁴C have been applied to large river systems to constrain DIC source contributions. In the northeast US rivers (Hudson, Delaware, Potomac, James, York, Rappahannock, Pamunkey), DIC ages vary substantially depending on local weathering regimes and in-stream processing. The Pearl River in south China demonstrates quantitative DIC source apportionment using mixing models, revealing that chemical weathering of carbonate and silicate rocks contributes variable proportions to DIC (silicate weathering: 62 ± 25% in middle reaches; carbonate weathering: 95 ± 5% in headwaters; organic matter respiration: 5 ± 5% in lower reaches). These analyses show that bedrock geology and downstream changes in hydrodynamics fundamentally control which carbon source dominates DIC production.
+
 ## Small Streams vs Larger Rivers
 
 **Key difference:**
 - Small streams show higher relative contribution from carbonate weathering and organic matter
 - Larger rivers increasingly dominated by atmospheric CO₂ exchange
 - Stream size and residence time affect equilibration with atmosphere
-
-**Implication:**
-- Small streams play disproportionate role in carbonate weathering CO₂ release
-- Important for understanding terrestrial carbon cycling pathways
-
-## Implications for Watershed Carbon Cycling
-
-**Controls on carbon export:**
-- Stream size and carbonate substrate type are important controls on carbon cycling pathways
-- Bedrock geology fundamentally shapes DIC source partitioning
-- Affects understanding of how small streams contribute to terrestrial carbon cycling
-
-**Land-use impacts:**
-- Predictions of land-use changes affecting small streams may alter regional carbon export patterns
-- Agricultural or development activities that change hydrology affect carbonate weathering rates
-- Understanding baseline conditions essential for predicting future changes
 
 **Carbon budget implications:**
 - Small streams represent significant contributors to total watershed carbon export
@@ -98,8 +88,10 @@ Dissolved inorganic carbon in small streams derives from three end-members: atmo
 
 ## See also
 
-- [[ChemicalWeatheringDissolvedInorganicCarbon]] — Weathering and DIC production
+- [[RadiocarbonOrganicMatter]] — Radiocarbon composition of organic matter
+- [[HydrogeochemicalMixingModels]] — End-member mixing models for source partitioning
+- [[ChemicalWeatheringDissolvedInorganicCarbon]] — Weathering pathways and DIC production
+- [[TimeVaryingIsotopeMixingModels]] — Dynamic isotopic mixing in flowing waters
 - [[RadiocarbonAgeSignaturesAquaticCarbon]] — Radiocarbon systematics
-- [[HydrogeochemicalMixingModels]] — Mixing model approaches
 - [[AquaticAndFluvialCarbonCycling]] — River carbon cycling
-- Source paper: [[Ishikawa-2016rad]] — DIC sources in limestone and granite streams
+- Source papers: [[Ishikawa-2016rad]] — Seasonal DIC source partitioning in contrasting headwater streams, [[Raymond-2004mc]] — Controls on DOM and DIC ages in northeast US rivers, [[Shan-2021jgr]] — Carbon isotopic and lithologic constraints on DIC sources in four large Chinese rivers

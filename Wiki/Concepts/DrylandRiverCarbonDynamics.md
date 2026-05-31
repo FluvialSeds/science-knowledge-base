@@ -5,11 +5,12 @@ topics:
   - "AquaticAndFluvialCarbonCycling"
 status: stable
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-05-31
 sources:
   - Raw/Sources/Bianchi-2017jgr.md
   - "Raw/Sources/Jull-2019rad.md"
-source_count: 2
+  - "Raw/Sources/Ran-2018bgs.md"
+source_count: 3
 aliases:
   - "Arid river carbon cycling"
   - "Dryland carbon mobilization"
@@ -37,11 +38,16 @@ Dryland rivers accumulate organic matter during drought periods, including terre
 
 Dryland regions are projected to experience increased hydrological extremes with longer drought periods interspersed with intense precipitation events or deliberate flow modifications. These changing hydrology patterns will alter carbon accumulation and mobilization dynamics in dryland rivers. Enhanced understanding of carbon-water-greenhouse gas coupling in these systems is essential for predicting how climate change and human water management affect carbon cycling and atmospheric CO₂ and CH₄ concentrations in arid and semi-arid regions.
 
+### Ancient Carbon Mobilization in Arid Watersheds
+
+The Wuding River on the Chinese Loess Plateau demonstrates substantial mobilization of ancient soil carbon in arid systems. Radiocarbon analysis of degassed CO₂ reveals ages of 810–1,890 yr BP, indicating mobilization of carbon accumulated over centuries to millennia. However, dissolved organic carbon (DOC) concentrations remain stable independent of discharge, suggesting that DOC mobilization does not follow the episodic, discharge-driven pattern of inorganic carbon (DIC). The high DIC concentrations in loess-derived subcatchments reflect carbonate dissolution, contributing radiocarbon-depleted carbon to river systems. Human modifications including check dams substantially alter carbon dynamics by increasing sediment and carbon burial (42% of annual export), effectively removing carbon from fluvial transport. These anthropogenic changes fundamentally shift arid river carbon budgets and the balance between atmospheric CO₂ release and sediment-associated carbon sequestration.
+
 ## See also
 
 - [[CarbonCycleMountainSystems]] — Carbon cycling in arid mountain systems
 - [[OrganicCarbonCycling]] — Organic carbon mobilization and decomposition
-- [[SoilCarbonDynamicsAndPedogeochemistry]] — Soil carbon dynamics in dryland soils
+- [[ChemicalWeatheringDissolvedInorganicCarbon]] — Carbonate weathering in arid systems
 - [[ClimateControlsTerrestrialOrganicMatterCycling]] — Climate controls on carbon cycling
 - [[AquaticCO2EvasionFlux]] — Greenhouse gas production and evasion
-- Source paper: [[Bianchi-2017jgr]] — Carbon mobilization from experimental flow restoration to Colorado River delta; [[Jull-2019rad]] — Ephemeral stream radiocarbon dynamics and flow-age relationships
+- [[LandUseEffectsRiverineCarbon]] — Anthropogenic modifications to river carbon cycling
+- Source papers: [[Bianchi-2017jgr]] — Carbon mobilization from experimental flow restoration to Colorado River delta, [[Jull-2019rad]] — Ephemeral stream radiocarbon dynamics and flow-age relationships, [[Ran-2018bgs]] — Riverine carbon export in arid Wuding River catchment, Chinese Loess Plateau

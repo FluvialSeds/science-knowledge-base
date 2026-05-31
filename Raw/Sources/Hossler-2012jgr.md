@@ -1,16 +1,16 @@
 ---
-Title: "Estimation of riverine carbon and organic matter source contributions using time-based isotope mixing models"
-Author: "Katie Hossler, James E. Bauer"
-Reference: "https://doi.org/10.1029/2012JG001988"
-ContentType: "journal-article"
+Title: Estimation of riverine carbon and organic matter source contributions using time-based isotope mixing models
+Author: Katie Hossler, James E. Bauer
+Reference: https://doi.org/10.1029/2012JG001988
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Journal of Geophysical Research"
+Journal: Journal of Geophysical Research
 Volume: "117"
-Pages: "G03035"
+Pages: G03035
 Year: "2012"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Estimation of riverine carbon and organic matter source contributions using time-based isotope mixing models

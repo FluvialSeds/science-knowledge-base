@@ -6,7 +6,7 @@ topics:
   - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-05-31
 sources:
   - Raw/Sources/Billett-2007grl.md
   - Raw/Sources/Billett-2011bgc.md
@@ -17,7 +17,8 @@ sources:
   - "Raw/Sources/Garnett-2012scitot.md"
   - "Raw/Sources/Garnett-2016eh_a.md"
   - "Raw/Sources/Garnett-2016eh_b.md"
-source_count: 9
+  - "Raw/Sources/Leigh-2014bgc.md"
+source_count: 10
 aliases:
   - "Peatland-aquatic carbon linkages"
   - "Peatland DOC and CO₂ export"
@@ -50,6 +51,10 @@ In boreal regions, peatland carbon export is strongly influenced by seasonal hyd
 
 Climate change-driven destabilization of peatlands through permafrost thaw, drainage, or shifting water tables may preferentially mobilize old carbon pools to aquatic systems and the atmosphere. If exported carbon is released as CO₂ rather than being buried or transported as DOC, this could amplify climate feedback mechanisms. Conversely, if enhanced peatland productivity increases recent carbon export, feedbacks may be attenuated. Quantifying both the magnitude and radiocarbon age of exported carbon is essential for predicting carbon cycle responses to future environmental change.
 
+## Peatland-Riparian-Stream Continua
+
+Transect studies across peatland-riparian-stream boundaries quantify how carbon cycling and carbon age evolve from saturated peat soils through riparian zones to stream waters. In temperate peatlands (e.g., Scotland), aged soils (mean ¹⁴C age 551 ± 133 yr BP in peatland, 1,055 ± 107 yr BP in riparian zone) produce consistently young decomposition products—soil CO₂, CH₄, and DOC are predominantly modern (100% modern ¹⁴C)—indicating rapid cycling of recently fixed organic matter despite aged carbon pools in surrounding soils. Evaded stream gases show intermediate ages (CH₄: 310–537 yr BP; CO₂: 36 yr BP to modern), demonstrating that peatland acts as dominant carbon source to streams, not the riparian zone. The disconnect between ancient soil carbon pools and young respiration products reveals that age does not predict reactivity—old carbon can persist in soil while contemporary productivity drives aquatic carbon export.
+
 ## See also
 
 - [[AgedCarbonMobilizationTropicalPeatlands]] — Ancient carbon mobilization in tropical peatlands
@@ -57,4 +62,5 @@ Climate change-driven destabilization of peatlands through permafrost thaw, drai
 - [[RadiocarbonAgeSignaturesAquaticCarbon]] — Radiocarbon ages of aquatic carbon fractions
 - [[AquaticCO2EvasionFlux]] — CO₂ evasion dynamics from aquatic systems
 - [[MineralProtectionOrganicCarbon]] — Mineral protection of organic carbon in transport
-- Source papers: [[Billett-2007grl]] — UK peatlands release old CO₂ but young DOC, [[Billett-2011bgc]] — Boreal peatland stream carbon during spring snowmelt, [[Billett-2012jgr]] — Variable source and age of carbon from natural peatland pipes, [[Campeau-2017gcb]] — Aquatic export of young carbon from boreal fen, [[Campeau-2019natcom]] — Stream CO₂ emissions fueled by current forest carbon fixation, [[Garnett-2012bgc]] — Evaded CH₄ vs CO₂ ages from peatland streams, [[Garnett-2012scitot]] — Dissolved CH₄ and DOC radiocarbon signatures, [[Garnett-2016eh_a]] — Super headspace method for CO₂ collection, [[Garnett-2016eh_b]] — Rapid CH₄ collection from peatland streams
+- [[LandUseEffectsRiverineCarbon]] — Land-use changes affecting peatland carbon export
+- Source papers: [[Billett-2007grl]] — UK peatlands release old CO₂ but young DOC; [[Billett-2011bgc]] — Boreal peatland stream carbon during spring snowmelt; [[Billett-2012jgr]] — Variable source and age of carbon from natural peatland pipes; [[Campeau-2017gcb]] — Aquatic export of young carbon from boreal fen; [[Campeau-2019natcom]] — Stream CO₂ emissions fueled by current forest carbon fixation; [[Garnett-2012bgc]] — Evaded CH₄ vs CO₂ ages from peatland streams; [[Garnett-2012scitot]] — Dissolved CH₄ and DOC radiocarbon signatures; [[Garnett-2016eh_a]] — Super headspace method for CO₂ collection; [[Garnett-2016eh_b]] — Rapid CH₄ collection from peatland streams; [[Leigh-2014bgc]] — Peatland-riparian-stream carbon isotope transect

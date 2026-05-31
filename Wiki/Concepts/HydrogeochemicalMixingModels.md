@@ -5,7 +5,7 @@ topics:
   - "AquaticAndFluvialCarbonCycling"
 status: stable
 created: 2026-05-26
-updated: 2026-05-30
+updated: 2026-05-31
 sources:
   - "Raw/Sources/Boral-2021epsl.md"
   - "Raw/Sources/Caraco-2010ecol.md"
@@ -13,7 +13,9 @@ sources:
   - "Raw/Sources/Genereux-2009wrr.md"
   - "Raw/Sources/Doran-2014lo.md"
   - "Raw/Sources/GonzalezMoguel-2021jgr.md"
-source_count: 6
+  - "Raw/Sources/Shan-2021jgr.md"
+  - "Raw/Sources/Raymond-2004mc.md"
+source_count: 8
 aliases:
   - "Geochemical mixing models"
   - "Multi-tracer mixing models"
@@ -61,7 +63,10 @@ In large rivers with multiple tributaries and high spatio-temporal variability:
 **Detecting Secondary Processes:**
 - In-stream interactions (sediment-water equilibration, mineral dissolution) can alter dissolved Sr concentrations and isotope ratios
 - Depth-specific sampling reveals whether reactions occur uniformly through the water column or are concentrated at the sediment interface
-- Particulate Sr measurements show whether sorption-desorption processes fractionate dissolved Sr from sediments
+
+## Dual Carbon Isotope Mixing for DIC Source Apportionment
+
+Carbon isotope mixing models using both δ¹³C and Δ¹⁴C provide powerful constraints on dissolved inorganic carbon sources in large rivers. The Pearl River and northeast US rivers demonstrate how this approach constrains contributions from atmospheric CO₂ dissolution, organic matter respiration, and carbonate weathering. The MixSIAR modeling framework applied to four Chinese rivers quantifies weathering end-members: carbonate rocks (Δ¹⁴C ≈ −1000‰, δ¹³C ≈ 0‰), silicate rocks (Δ¹⁴C ≈ −1000‰, δ¹³C ≈ −5‰), organic matter respiration (Δ¹⁴C ≈ modern, δ¹³C ≈ −25‰), and atmospheric CO₂ (Δ¹⁴C ≈ modern, δ¹³C ≈ −8‰). By measuring both isotopes in river DIC, the mixing model solves for fractional contributions from each source. This dual-isotope approach exceeds single-tracer capacity because δ¹³C and Δ¹⁴C provide distinct discriminatory power for different carbon sources—δ¹³C primarily separates atmospheric from biogenic sources, while Δ¹⁴C separates modern from geogenic (old) sources.
 
 ## Advantages Over Single-Tracer Approaches
 
@@ -73,7 +78,9 @@ In large rivers with multiple tributaries and high spatio-temporal variability:
 ## See also
 
 - [[StrontiumIsotopeVariabilityRivers]] — Application to Ganga-Brahmaputra river system
+- [[StreamDICSourcePartitioning]] — DIC source end-members and constraints
 - [[IsotopicProxiesPaleoceanography]] — Isotopic tracers in paleoceanographic contexts
 - [[CompoundSpecificIsotopeAnalysis]] — Multi-tracer approaches to compound identification
+- [[TimeVaryingIsotopeMixingModels]] — Dynamic isotope mixing in flowing waters
 - [[LocalVsDistalBiomarkerSignals]] — Spatial integration of geochemical signals
-- Source paper: [[Boral-2021epsl]] — Hydrogeochemical mixing model for dissolved strontium isotope variations; [[Caraco-2010ecol]] — Aged carbon subsidies in aquatic food webs; [[Hossler-2012jgr]] — Time-varying isotope mixing models for northeastern rivers; [[Genereux-2009wrr]] — Groundwater and magmatic carbon mixing; [[Doran-2014lo]] — Antarctic lake radiocarbon mixing; [[GonzalezMoguel-2021jgr]] — Thermokarst lake carbon source mixing
+- Source papers: [[Boral-2021epsl]] — Hydrogeochemical mixing model for dissolved strontium isotope variations, [[Caraco-2010ecol]] — Aged carbon subsidies in aquatic food webs, [[Hossler-2012jgr]] — Time-varying isotope mixing models for northeastern rivers, [[Genereux-2009wrr]] — Groundwater and magmatic carbon mixing, [[Doran-2014lo]] — Antarctic lake radiocarbon mixing, [[GonzalezMoguel-2021jgr]] — Thermokarst lake carbon source mixing, [[Shan-2021jgr]] — Carbon isotopic and lithologic constraints on DIC sources in four large Chinese rivers using dual isotope mixing, [[Raymond-2004mc]] — Controls on DOM and DIC ages in northeast US rivers

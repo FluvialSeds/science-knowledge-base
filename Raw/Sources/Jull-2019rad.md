@@ -1,17 +1,17 @@
 ---
-Title: "Dissolved inorganic and organic carbon in an ephemeral fresh water stream in southern Arizona"
-Author: "A. J. Timothy Jull, George S. Burr, Alexander G. Leonard, Jamie Fitzgerald, Li Cheng, Richard Cruz, Dana Biddulph"
-Reference: "https://doi.org/10.1017/RDC.2019.46"
-ContentType: "journal-article"
+Title: Dissolved inorganic and organic carbon in an ephemeral fresh water stream in southern Arizona
+Author: A. J. Timothy Jull, George S. Burr, Alexander G. Leonard, Jamie Fitzgerald, Li Cheng, Richard Cruz, Dana Biddulph
+Reference: https://doi.org/10.1017/RDC.2019.46
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Radiocarbon"
+Journal: Radiocarbon
 Volume: "61"
 Issue: "5"
-Pages: "1531-1539"
+Pages: 1531-1539
 Year: "2019"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Dissolved inorganic and organic carbon in an ephemeral fresh water stream in southern Arizona

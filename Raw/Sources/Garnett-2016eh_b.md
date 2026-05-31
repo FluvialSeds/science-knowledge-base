@@ -1,17 +1,17 @@
 ---
-Title: "A rapid method to collect methane from peatland streams for radiocarbon analysis"
-Author: "M. H. Garnett, P. Gulliver, M. F. Billett"
-Reference: "https://doi.org/10.1002/eco.1617"
-ContentType: "journal-article"
+Title: A rapid method to collect methane from peatland streams for radiocarbon analysis
+Author: M. H. Garnett, P. Gulliver, M. F. Billett
+Reference: https://doi.org/10.1002/eco.1617
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Ecohydrology"
+Journal: Ecohydrology
 Volume: "9"
 Issue: "1"
-Pages: "113-121"
+Pages: 113-121
 Year: "2016"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # A rapid method to collect methane from peatland streams for radiocarbon analysis

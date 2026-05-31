@@ -6,7 +6,7 @@ topics:
   - "IsotopicProxiesPaleoceanography"
 status: stable
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-05-31
 sources:
   - Raw/Sources/Billett-2007grl.md
   - Raw/Sources/Billett-2011bgc.md
@@ -29,7 +29,11 @@ sources:
   - "Raw/Sources/Jull-2016rad.md"
   - "Raw/Sources/Jull-2019rad.md"
   - "Raw/Sources/Kelsey-2020as.md"
-source_count: 21
+  - "Raw/Sources/McCallister-2012pnas.md"
+  - "Raw/Sources/ODonnell-2020es.md"
+  - "Raw/Sources/Ota-2021esa.md"
+  - "Raw/Sources/Mayorga-2005nat.md"
+source_count: 25
 aliases:
   - "Age heterogeneity aquatic carbon"
   - "CO₂ vs DOC age contrast"
@@ -58,11 +62,31 @@ In contrast to peatland systems where old carbon dominates evaded CO₂, stream 
 
 The age heterogeneity of aquatic carbon pools has important implications for understanding climate feedbacks. Destabilization of peatland carbon through climate change or hydrological alteration may preferentially release old carbon to the atmosphere as CO₂, potentially amplifying climate warming. Conversely, forest ecosystems coupled to streams may exhibit reduced climate feedback intensity if stream CO₂ represents recent rather than ancient carbon. Understanding how different carbon sources respond to environmental disturbance requires explicit radiocarbon characterization of aquatic carbon pools.
 
+## Ancient Terrestrial Carbon Respiration in Lakes and Streams
+
+Radiocarbon measurements of respiratory CO₂ directly produced by aquatic bacteria in temperate lakes and streams reveal bioavailability of ancient terrestrial organic carbon previously assumed recalcitrant. Bacterial respiratory CO₂ in short-term incubations ranges from +94‰ to −172‰ Δ¹⁴C, indicating selective consumption of old, bioavailable carbon despite young bulk organic matter pools. This demonstrates that age is not an a priori indicator of decomposability—organic carbon with apparent ages >1,000 years can be mobilized and respired in aquatic systems, challenging long-term carbon storage models. The selective removal of aged carbon imports implications for aquatic-terrestrial carbon linkages and suggests significant terrestrial-aquatic carbon fluxes may be occurring in currently underappreciated pathways.
+
+## Permafrost Carbon Ages in Arctic Food Webs
+
+Arctic streams receiving permafrost-derived carbon exhibit dramatic increases in radiocarbon ages throughout aquatic food webs. Benthic biofilms show apparent ages of 5,255–265 yr BP, while macroinvertebrates and fish retain ages ranging from 4,490 yr BP to modern. Permafrost carbon (particularly from deep peat layers) can comprise 39–47% of dissolved organic carbon in Arctic streams, with some reaches showing near-surface permafrost contributing 12–19%. The incorporation of old carbon into aquatic food webs significantly impacts ecosystem function—increased old carbon assimilation correlates with declining fish growth and nutritional status. These observations demonstrate that permafrost thaw fundamentally alters carbon cycling by mobilizing old carbon into aquatic systems where it becomes bioavailable and integrates into contemporary food webs.
+
+## Radiocarbon Dynamics in Volcanic Lakes
+
+Seasonal radiocarbon variations in volcanic lake systems (Fuji Five Lakes, Japan) reflect changing contributions from groundwater sources. Lakes Motosu and Kawaguchi show lower Δ¹⁴C (older carbon) in summer when groundwater contribution increases, with higher Δ¹⁴C (younger carbon) in winter. Groundwater can contribute 20–80% of lake DIC depending on lake morphology, aquifer connectivity, and seasonal discharge patterns. These radiocarbon dynamics provide tools for understanding lake carbon cycling and improve radiocarbon dating accuracy for lake sediments by tracking temporal DIC ¹⁴C variability. The seasonal pattern demonstrates how hydrogeological changes drive radiocarbon variations independent of residence time effects.
+
+## Young Carbon Driving CO₂ Fluxes in Tropical Rivers
+
+Despite bulk organic carbon in the Amazon River containing aged components spanning tens to thousands of years, the CO₂ evaded from the surface exhibits modern radiocarbon signatures consistent with atmospheric ¹⁴C levels. This paradox resolves when accounting for a small, rapidly-cycling (2–7 year turnover) pool of young carbon derived from recent plant productivity and floodplain vegetation. Disproportionate respiration of this young pool drives large CO₂ fluxes, while aged components accumulate as persistent DOM. This decoupling between dominant carbon pools and CO₂ sources has major implications for tropical river carbon budgets—bulk organic matter age cannot alone predict CO₂ ages or evasion dynamics.
+
 ## See also
 
 - [[OnlineRampedOxidationAMS]] — Online ramped oxidation coupled to AMS for radiocarbon analysis
 - [[RadiocarbonOrganicMatter]] — Radiocarbon composition of organic matter
 - [[AcidPretreatementRadiocarbonAnalysis]] — Acid pretreatment methods for radiocarbon analysis
 - [[PeatlandCarbonExportToAquaticSystems]] — Peatland carbon mobilization to aquatic systems
+- [[PermafrostCarbonMobilizationArcticRivers]] — Permafrost carbon export to Arctic streams
+- [[OldCarbonMobilizationSubsurfacePathways]] — Ancient carbon from subsurface reservoirs
+- [[AquaticFoodWebIntegrationAncientCarbon]] — Ancient carbon bioaccumulation in food webs
+- [[AquaticCO2EvasionFlux]] — Young carbon driving CO₂ evasion
 - [[RadiocarbonMethodsAquaticCO2Analysis]] — Direct measurement methods for aquatic CO₂ radiocarbon
-- Source papers: [[Billett-2007grl]] — Old CO₂ vs young DOC age contrast in peatland drainage, [[Billett-2011bgc]] — Boreal peatland stream carbon radiocarbon signatures during snowmelt, [[Billett-2012jgr]] — Variable age of carbon released from natural peatland pipes, [[Campeau-2019natcom]] — Forest-stream CO₂ coupling and current carbon fixation source, [[Aravena-1992rad]] — DIC radiocarbon in lake watershed groundwater and soil CO₂, [[Caraco-2010ecol]] — Aged carbon subsidies in aquatic food webs, [[Coularis-2016rad]] — Freshwater reservoir effect mapping, [[Dean-2017wr]] — Coiled membrane vessel method for CH₄ collection, [[Dean-2018erl]] — Pre-industrial carbon in Arctic headwaters, [[Doran-2014lo]] — Antarctic lake radiocarbon dynamics, [[Garnett-2012bgc]] — Evaded CH₄ vs CO₂ ages, [[Garnett-2012scitot]] — Dissolved CH₄ and DOC signatures, [[Garnett-2016eh_a]] — Super headspace method for CO₂, [[Garnett-2016eh_b]] — Rapid CH₄ collection, [[Genereux-2009wrr]] — Groundwater carbon aging and magmatic CO₂, [[GonzalezMoguel-2021jgr]] — Thermokarst lake carbon partitioning, [[Hossler-2012jgr]] — Time-varying isotope mixing models, [[Ishikawa-2016rad]] — Stream DIC source partitioning, [[Jull-2016rad]] — Qinghai Lake freshwater reservoir effect, [[Jull-2019rad]] — Ephemeral stream radiocarbon dynamics, [[Kelsey-2020as]] — Agricultural tillage effects on carbon flux
+- Source papers: [[Billett-2007grl]] — Old CO₂ vs young DOC age contrast in peatland drainage; [[Billett-2011bgc]] — Boreal peatland stream carbon radiocarbon signatures during snowmelt; [[Billett-2012jgr]] — Variable age of carbon released from natural peatland pipes; [[Campeau-2019natcom]] — Forest-stream CO₂ coupling and current carbon fixation source; [[Aravena-1992rad]] — DIC radiocarbon in lake watershed groundwater and soil CO₂; [[Caraco-2010ecol]] — Aged carbon subsidies in aquatic food webs; [[Coularis-2016rad]] — Freshwater reservoir effect mapping; [[Dean-2017wr]] — Coiled membrane vessel method for CH₄ collection; [[Dean-2018erl]] — Pre-industrial carbon in Arctic headwaters; [[Doran-2014lo]] — Antarctic lake radiocarbon dynamics; [[Garnett-2012bgc]] — Evaded CH₄ vs CO₂ ages; [[Garnett-2012scitot]] — Dissolved CH₄ and DOC signatures; [[Garnett-2016eh_a]] — Super headspace method for CO₂; [[Garnett-2016eh_b]] — Rapid CH₄ collection; [[Genereux-2009wrr]] — Groundwater carbon aging and magmatic CO₂; [[GonzalezMoguel-2021jgr]] — Thermokarst lake carbon partitioning; [[Hossler-2012jgr]] — Time-varying isotope mixing models; [[Ishikawa-2016rad]] — Stream DIC source partitioning; [[Jull-2016rad]] — Qinghai Lake freshwater reservoir effect; [[Jull-2019rad]] — Ephemeral stream radiocarbon dynamics; [[Kelsey-2020as]] — Agricultural tillage effects on carbon flux; [[McCallister-2012pnas]] — Evidence for respiration of ancient terrestrial carbon in lakes and streams; [[ODonnell-2020es]] — Permafrost carbon in Arctic food webs; [[Ota-2021esa]] — Lake radiocarbon dynamics in Fuji Five Lakes; [[Mayorga-2005nat]] — Young carbon as CO₂ source in Amazon rivers

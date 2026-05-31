@@ -190,13 +190,32 @@ class WikiTool:
                 if not source_path.exists():
                     errors.append(f"{note_path}: Source not found: {source}")
 
-            # Check "See also" section has descriptions for all entries
+            # Check "See also" section structure and content
             try:
                 with open(note_path) as f:
                     content = f.read()
+                
+                # Check for multiple "See also" sections (should be exactly one)
+                see_also_sections = list(re.finditer(r'## See also', content))
+                if len(see_also_sections) > 1:
+                    errors.append(f"{note_path}: Found {len(see_also_sections)} 'See also' sections (must be exactly 1)")
+                
+                # Check header formatting (headers must be on single line)
+                lines = content.split('\n')
+                for i, line in enumerate(lines):
+                    if line.startswith('#'):
+                        # Check if next non-empty line is text that looks like part of header (not starting with special chars)
+                        if i + 1 < len(lines):
+                            next_line = lines[i + 1].strip()
+                            if next_line and not next_line.startswith('#') and not next_line.startswith('-') and not next_line.startswith('[') and not next_line.startswith('*'):
+                                # This could be a header continuation - check if it looks like title text
+                                if next_line and next_line[0].isupper() and not next_line.startswith('**'):
+                                    errors.append(f"{note_path}: Header may be split across lines at line {i+1}: '{line.strip()}' followed by '{next_line[:50]}'")
+                
                 see_also_match = re.search(r'## See also\s*\n(.*?)(?=\n## |\Z)', content, re.DOTALL)
                 if see_also_match:
                     see_also_text = see_also_match.group(1)
+                    
                     # Look for wikilinks without descriptions (missing " — ")
                     wikilink_lines = re.findall(r'^\s*-\s*\[\[([^\]]+)\]\](?:\s|$)', see_also_text, re.MULTILINE)
                     for wikilink in wikilink_lines:
@@ -204,6 +223,20 @@ class WikiTool:
                         line_with_link = re.search(r'^\s*-\s*\[\[' + re.escape(wikilink) + r'\]\](.*?)$', see_also_text, re.MULTILINE)
                         if line_with_link and " — " not in line_with_link.group(1):
                             errors.append(f"{note_path}: 'See also' entry [[{wikilink}]] missing description after ' — '")
+                    
+                    # Check for duplicate wikilinks in See also section
+                    all_wikilinks = re.findall(r'\[\[([^\]]+)\]\]', see_also_text)
+                    wikilink_counts = {}
+                    for link in all_wikilinks:
+                        wikilink_counts[link] = wikilink_counts.get(link, 0) + 1
+                    for link, count in wikilink_counts.items():
+                        if count > 1:
+                            errors.append(f"{note_path}: Duplicate wikilink in 'See also' section: [[{link}]] appears {count} times")
+                    
+                    # Check for multiple "Source papers:" bullet points (should be only one)
+                    source_bullets = re.findall(r'^\s*-\s*Source papers?:', see_also_text, re.MULTILINE)
+                    if len(source_bullets) > 1:
+                        errors.append(f"{note_path}: Found {len(source_bullets)} 'Source papers:' bullets in 'See also' (must be 1)")
             except Exception:
                 pass
 

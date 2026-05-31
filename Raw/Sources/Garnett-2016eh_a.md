@@ -1,17 +1,17 @@
 ---
 Title: "A new field approach for the collection of samples for aquatic ¹⁴CO₂ analysis using headspace equilibration and molecular sieve traps: the super headspace method"
-Author: "M. H. Garnett, M. F. Billett, P. Gulliver, J. F. Dean"
-Reference: "https://doi.org/10.1002/eco.1754"
-ContentType: "journal-article"
+Author: M. H. Garnett, M. F. Billett, P. Gulliver, J. F. Dean
+Reference: https://doi.org/10.1002/eco.1754
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Ecohydrology"
+Journal: Ecohydrology
 Volume: "9"
 Issue: "8"
-Pages: "1630-1638"
+Pages: 1630-1638
 Year: "2016"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # A new field approach for the collection of samples for aquatic ¹⁴CO₂ analysis using headspace equilibration and molecular sieve traps: the super headspace method

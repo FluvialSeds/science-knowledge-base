@@ -7,7 +7,7 @@ topics:
   - "SoilCarbonDynamicsAndPedogeochemistry"
 status: stable
 created: 2026-05-25
-updated: 2026-05-30
+updated: 2026-05-31
 sources:
   - "Raw/Sources/Hemingway-2019gca.md"
   - "Raw/Sources/Campeau-2017gcb.md"
@@ -21,7 +21,10 @@ sources:
   - "Raw/Sources/Jull-2019rad.md"
   - "Raw/Sources/GonzalezMoguel-2021jgr.md"
   - "Raw/Sources/Kelsey-2020as.md"
-source_count: 12
+  - "Raw/Sources/Mayorga-2005nat.md"
+  - "Raw/Sources/McCallister-2012pnas.md"
+  - "Raw/Sources/Moyer-2013bgc.md"
+source_count: 15
 aliases:
   - "DOM"
   - "Dissolved organic carbon"
@@ -88,9 +91,9 @@ DOM composition varies predictably with:
 - Photodegradation alters DOM structure, increasing aromatic character
 - Adsorption to particles removes DOM from solution
 
-## Ecological Implications
+## Ecological Implications and Bioavailability Paradoxes
 
-DOM composition directly controls carbon cycling in aquatic ecosystems:
+A fundamental finding across tropical, temperate, and arctic systems is that dissolved organic carbon exhibits marked age heterogeneity even within single river systems. In the Amazon River, bulk DOC contains age components spanning from modern to thousands of years old, yet the CO₂ evaded from the surface exhibits modern radiocarbon signatures consistent with atmospheric ¹⁴C levels. This paradox resolves through understanding that a small, rapidly-cycling (2–7 year turnover) pool of young carbon derived from recent plant productivity and floodplain vegetation drives disproportionate CO₂ evasion. Similarly, in temperate lakes and streams, bacteria perform selective respiration on aged DOM components (older than 1,000 years BP) in preference to bulk organic matter age predictions, indicating that age does not a priori determine bioavailability. In tropical mountainous rivers (Puerto Rico), DOC ages range from modern to 2,340 yr BP depending on land-use context, with agricultural catchments exporting substantially older DOC than recovering forested watersheds. These observations reveal that DOM bioavailability operates on a spectrum from highly labile young compounds to bioavailable but persistent aged components, decoupling age from reactivity.
 
 ## Age Heterogeneity of Dissolved Carbon
 
@@ -98,16 +101,43 @@ A fundamental finding across peatland, forest, and river systems is that differe
 
 **Carbon respiration rates:**
 - Bioavailable DOM is rapidly respired to CO₂ by heterotrophic microorganisms
-- Refractory DOM persists in water columns and is exported to marine environments
-- Shifts toward bioavailable DOM increase respiration and CO₂ emissions
 
-**Nutrient cycling:**
-- Proteinaceous DOM supplies bioavailable nitrogen for microbial growth
-- Condensed aromatic DOM may inhibit microbial activity
+**Nutrient limitation:**
+- Low-bioavailability DOM contains high C:N and C:P ratios, limiting microbial growth despite energetic feasibility
+- Microbial communities preferentially consume bioavailable compound classes even when abundant
 
-**Light absorption:**
-- DOM absorbs ultraviolet and visible light, reducing light penetration ("color")
-- Aromatic, colored DOM reduces primary production in lakes
+**Competition:**
+- Multiple microbial taxa compete for limited bioavailable DOM substrates
+- Copiotrophs (fast-growing heterotrophs) outcompete oligotrophs (slow-growing heterotrophs adapted to low-DOM environments) when bioavailable compounds are present
+- Shifts in microbial community composition control the rate and extent of DOM processing
+
+## Labile vs Recalcitrant DOM
+
+Traditional models partition DOM into operationally-defined fractions:
+
+**Labile DOM:**
+- Readily respired on timescales of days to weeks (sugars, amino acids, fatty acids)
+- Represents ~5–15% of total DOM
+- Rapidly depleted in aquatic systems
+- Primarily from recent biological production
+
+**Semi-labile DOM:**
+- Respired on timescales of months to years
+- Represents ~20–30% of total DOM
+- Slowly respired by specialist microbial communities
+- Mixed sources (vegetation, soil, aquatic production)
+
+**Recalcitrant DOM:**
+- Poorly respired on timescales of centuries or longer
+- Represents ~50–75% of total DOM
+- Accumulates in surface waters and transports to the ocean
+- Primarily from humic substances and degradation products
+
+However, the recognition of bioavailable aged DOM challenges this simple partitioning, suggesting that "recalcitrance" may be context-dependent and that age alone cannot predict decomposition rate.
+
+## Land-use Effects on DOM Composition
+
+Rivers draining agricultural, urban, and developed landscapes export DOM with altered composition and age compared to natural systems. Urban streams have significantly aged DOM (Δ¹⁴C = −248 to −202‰; apparent ages 1,811–2,284 yr BP) due to anthropogenic carbon inputs (fossil fuel combustion, wastewater, soil disturbance). Agricultural streams similarly export older DOM, reflecting mobilization of accumulated soil carbon through tillage. These anthropogenic shifts in DOM age indicate that human land-use changes are altering the fundamental carbon cycling properties of aquatic systems, with implications for freshwater carbon budgets and food web energetics.
 
 ## Climate Change Implications
 
@@ -121,4 +151,4 @@ Increased glacier melt due to warming will initially bias exported DOM toward a 
 - [[AquaticCO2EvasionFlux]] — CO₂ evasion and aged carbon mobilization
 - [[PeatlandCarbonExportToAquaticSystems]] — Peatland DOM and DIC export
 - [[LocalVsDistalBiomarkerSignals]] — Integration of DOM and POM signals across river networks
-- Source papers: [[Hemingway-2019gca]] — DOM composition in Upper Ganges Basin, [[Campeau-2017gcb]] — Aquatic export of young carbon from boreal fen, [[Campeau-2019natcom]] — Stream CO₂ emissions fueled by current forest carbon fixation, [[Caraco-2010ecol]] — Aged carbon subsidies in aquatic food webs, [[Dean-2018erl]] — Pre-industrial carbon in Arctic headwaters, [[Garnett-2012scitot]] — Dissolved CH₄ and DOC signatures, [[Hossler-2012jgr]] — Time-varying isotope mixing models, [[Ishikawa-2016rad]] — Stream DIC source partitioning, [[Jull-2016rad]] — Qinghai Lake freshwater reservoir effect, [[Jull-2019rad]] — Ephemeral stream radiocarbon dynamics, [[GonzalezMoguel-2021jgr]] — Thermokarst lake carbon partitioning, [[Kelsey-2020as]] — Agricultural tillage effects on carbon flux
+- Source papers: [[Hemingway-2019gca]] — DOM composition in Upper Ganges Basin, [[Campeau-2017gcb]] — Aquatic export of young carbon from boreal fen, [[Campeau-2019natcom]] — Stream CO₂ emissions fueled by current forest carbon fixation, [[Caraco-2010ecol]] — Aged carbon subsidies in aquatic food webs, [[Dean-2018erl]] — Pre-industrial carbon in Arctic headwaters, [[Garnett-2012scitot]] — Dissolved CH₄ and DOC signatures, [[Hossler-2012jgr]] — Time-varying isotope mixing models, [[Ishikawa-2016rad]] — Stream DIC source partitioning, [[Jull-2016rad]] — Qinghai Lake freshwater reservoir effect, [[Jull-2019rad]] — Ephemeral stream radiocarbon dynamics, [[GonzalezMoguel-2021jgr]] — Thermokarst lake carbon partitioning, [[Kelsey-2020as]] — Agricultural tillage effects on carbon flux, [[Mayorga-2005nat]] — Young carbon driving CO₂ evasion in Amazon rivers, [[McCallister-2012pnas]] — Bioavailable ancient carbon respiration in lakes and streams, [[Moyer-2013bgc]] — DOM age heterogeneity in tropical small mountainous rivers

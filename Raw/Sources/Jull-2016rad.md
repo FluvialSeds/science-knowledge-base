@@ -1,17 +1,17 @@
 ---
-Title: "¹⁴C measurements of dissolved inorganic and organic carbon in Qinghai Lake and inflowing rivers (NE Tibet, Qinghai Plateau), China"
-Author: "A. J. T. Jull, G. S. Burr, W. Zhou, P. Cheng, S. H. Song, A. G. Leonard, L. Cheng, Z. S. An"
-Reference: "https://doi.org/10.2458/56.17776"
-ContentType: "journal-article"
+Title: ¹⁴C measurements of dissolved inorganic and organic carbon in Qinghai Lake and inflowing rivers (NE Tibet, Qinghai Plateau), China
+Author: A. J. T. Jull, G. S. Burr, W. Zhou, P. Cheng, S. H. Song, A. G. Leonard, L. Cheng, Z. S. An
+Reference: https://doi.org/10.2458/56.17776
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Radiocarbon"
+Journal: Radiocarbon
 Volume: "56"
 Issue: "3"
-Pages: "1115-1127"
+Pages: 1115-1127
 Year: "2014"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # ¹⁴C measurements of dissolved inorganic and organic carbon in Qinghai Lake and inflowing rivers (NE Tibet, Qinghai Plateau), China

@@ -7,7 +7,7 @@ topics:
   - "OrganicCarbonCycling"
 status: stable
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-05-31
 sources:
   - Raw/Sources/Blattmann-2019scirep.md
   - Raw/Sources/Cai-2020cg.md
@@ -15,7 +15,9 @@ sources:
   - "Raw/Sources/Coularis-2016rad.md"
   - "Raw/Sources/Ishikawa-2016rad.md"
   - "Raw/Sources/Jull-2016rad.md"
-source_count: 6
+  - "Raw/Sources/Shan-2021jgr.md"
+  - "Raw/Sources/Liu-2017ag.md"
+source_count: 8
 aliases:
   - "Weathering and DIC production"
   - "Chemical weathering carbon cycle"
@@ -41,13 +43,16 @@ Radiocarbon measurements of dissolved inorganic carbon provide powerful constrai
 
 ## Global Carbon Cycle Implications
 
-Over geological timescales, chemical weathering and carbonate burial represent dominant processes governing atmospheric CO₂ concentrations. Silicate weathering consumes atmospheric CO₂, providing a long-term negative feedback on climate change. Carbonate weathering releases CO₂ to the atmosphere, but this CO₂ can be resequestered when carbonate-derived DIC is buried in marine sediments. The net effect of weathering on atmospheric CO₂ depends on the relative rates of silicate versus carbonate weathering and the burial efficiency of weathering products. Rapid erosion in mountains can accelerate both processes, influencing carbon cycle dynamics over millennial to million-year timescales.
+### Carbonate Weathering in Large River Systems
+
+Recent studies on large Asian river systems (Pearl River) quantify weathering contributions at the basin scale using dual isotope approaches (¹⁴C, ¹³C) and MixSIAR modeling. In the Pearl River, carbonate rock weathering contributes 95 ± 5% of DIC in headwaters, declining to 61 ± 20% in middle reaches where silicate weathering (39 ± 20%) and organic matter respiration increase. The spatial evolution of weathering contributions downstream reflects changes in bedrock lithology, water-rock contact time, and in-stream biological processing. In contrast, carbonate-rich tributaries show consistently high DIC concentrations (680–3,085 yr BP from radiocarbon dating), with aquatic photosynthesis producing "old-appearing" POC by utilizing radiocarbon-depleted DIC from carbonate dissolution. These findings demonstrate the critical importance of carbonate weathering to riverine DIC production and the need to distinguish between ancient inorganic carbon from geogenic sources versus aged organic carbon from terrestrial sources.
 
 ## See also
 
 - [[CarbonateIsotopeThermalAlteration]] — Carbonate isotope paleothermometry
 - [[CarbonIsotopeFractionationPlants]] — Stable carbon isotope fractionation
-- [[SoilCarbonDynamicsAndPedogeochemistry]] — Soil carbon dynamics and weathering
+- [[StreamDICSourcePartitioning]] — Partitioning weathering sources in headwater streams
 - [[CarbonCycleMountainSystems]] — Carbon cycling in rapidly eroding mountains
 - [[KarstRiverCarbonDynamics]] — Carbonate-weathering controlled river carbon
-- Source papers: [[Blattmann-2019scirep]] — Sulphuric acid-mediated weathering on Taiwan and atmospheric CO₂ balance, [[Cai-2020cg]] — Seasonal strontium and carbon isotope variations in Lower Mississippi River, [[Aravena-1992rad]] — Dissolved inorganic carbon cycling in acid-sensitive lake watershed, [[Coularis-2016rad]] — Freshwater reservoir effect and weathering rates, [[Ishikawa-2016rad]] — Stream DIC source partitioning, [[Jull-2016rad]] — Qinghai Lake FRE and carbonate weathering
+- [[HydrogeochemicalMixingModels]] — Dual isotope and mixing model approaches
+- Source papers: [[Blattmann-2019scirep]] — Sulphuric acid-mediated weathering on Taiwan and atmospheric CO₂ balance, [[Cai-2020cg]] — Seasonal strontium and carbon isotope variations in Lower Mississippi River, [[Aravena-1992rad]] — Dissolved inorganic carbon cycling in acid-sensitive lake watershed, [[Coularis-2016rad]] — Freshwater reservoir effect and weathering rates, [[Ishikawa-2016rad]] — Stream DIC source partitioning, [[Jull-2016rad]] — Qinghai Lake FRE and carbonate weathering, [[Shan-2021jgr]] — Carbon isotopic and lithologic constraints on DIC sources in four large Chinese rivers, [[Liu-2017ag]] — Pearl River Basin carbonate weathering and aquatic photosynthesis

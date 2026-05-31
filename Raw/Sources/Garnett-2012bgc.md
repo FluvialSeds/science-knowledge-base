@@ -1,16 +1,16 @@
 ---
-Title: "Radiocarbon dating of methane and carbon dioxide evaded from a temperate peatland stream"
-Author: "M. H. Garnett, S. M. L. Hardie, C. Murray, M. F. Billett"
-Reference: "https://doi.org/10.1007/s10533-012-9804-2"
-ContentType: "journal-article"
+Title: Radiocarbon dating of methane and carbon dioxide evaded from a temperate peatland stream
+Author: M. H. Garnett, S. M. L. Hardie, C. Murray, M. F. Billett
+Reference: https://doi.org/10.1007/s10533-012-9804-2
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Biogeochemistry"
+Journal: Biogeochemistry
 Volume: "114"
-Pages: "213-223"
+Pages: 213-223
 Year: "2013"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Radiocarbon dating of methane and carbon dioxide evaded from a temperate peatland stream

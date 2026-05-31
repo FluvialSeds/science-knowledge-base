@@ -1,17 +1,17 @@
 ---
-Title: "Effects of agricultural and tillage practices on isotopic signatures and fluxes of organic and inorganic carbon in headwater streams"
-Author: "Scott A. Kelsey, Andréa G. Grottoli, James E. Bauer, Klaus Lorenz, Rattan Lal, Yohei Matsui, Teresa M. Huey-Sanders"
-Reference: "https://doi.org/10.1007/s00027-019-0691-7"
-ContentType: "journal-article"
+Title: Effects of agricultural and tillage practices on isotopic signatures and fluxes of organic and inorganic carbon in headwater streams
+Author: Scott A. Kelsey, Andréa G. Grottoli, James E. Bauer, Klaus Lorenz, Rattan Lal, Yohei Matsui, Teresa M. Huey-Sanders
+Reference: https://doi.org/10.1007/s00027-019-0691-7
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Aquatic Sciences"
+Journal: Aquatic Sciences
 Volume: "82"
 Issue: "1"
 Pages: "23"
 Year: "2020"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Effects of agricultural and tillage practices on isotopic signatures and fluxes of organic and inorganic carbon in headwater streams

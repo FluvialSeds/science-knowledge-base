@@ -1,16 +1,16 @@
 ---
-Title: "Ancient dissolved methane in inland waters revealed by a new collection method at low field concentrations for radiocarbon (¹⁴C) analysis"
-Author: "Joshua F. Dean, Michael F. Billett, Callum Murray, Mark H. Garnett"
-Reference: "https://doi.org/10.1016/j.watres.2017.03.009"
-ContentType: "journal-article"
+Title: Ancient dissolved methane in inland waters revealed by a new collection method at low field concentrations for radiocarbon (¹⁴C) analysis
+Author: Joshua F. Dean, Michael F. Billett, Callum Murray, Mark H. Garnett
+Reference: https://doi.org/10.1016/j.watres.2017.03.009
+ContentType: journal-article
 Created: 2026-05-30
-Journal: "Water Research"
+Journal: Water Research
 Volume: "115"
-Pages: "236-244"
+Pages: 236-244
 Year: "2017"
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # Ancient dissolved methane in inland waters revealed by a new collection method at low field concentrations for radiocarbon (¹⁴C) analysis

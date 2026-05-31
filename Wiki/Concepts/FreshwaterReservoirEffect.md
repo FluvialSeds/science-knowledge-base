@@ -5,11 +5,12 @@ topics:
   - "IsotopicProxiesPaleoceanography"
 status: stable
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-05-31
 sources:
   - "Raw/Sources/Coularis-2016rad.md"
   - "Raw/Sources/Jull-2016rad.md"
-source_count: 2
+  - "Raw/Sources/Ota-2021esa.md"
+source_count: 3
 aliases:
   - "Freshwater radiocarbon offset"
   - "FRE"
@@ -52,14 +53,14 @@ The freshwater reservoir effect (FRE) describes the offset between modern radioc
 - Large spatial variability driven primarily by geological substrate
 - Deeper investigations revealed chemical weathering of radiocarbon-free carbonates and silicates as primary mechanism
 
-**Qinghai Lake (Tibet):**
-- Three-stage FRE model accounting for atmospheric exchange, sediment input, and groundwater contributions
-- FRE persists on the order of a few hundred to thousands of years
-- Essential for accurate Asian monsoon paleoclimate reconstruction during Holocene
+## Seasonal Radiocarbon Dynamics in Volcanic Lakes
+
+Volcanic lake systems with groundwater inputs demonstrate significant seasonal variations in lake DIC Δ¹⁴C reflecting changes in groundwater contribution proportions rather than residence time effects. Lakes Motosu and Kawaguchi show lower (older) Δ¹⁴C in summer when groundwater contribution increases (groundwater contributes ~20% DIC), and higher (younger) Δ¹⁴C in winter. In contrast, lakes Sai and Yamanaka with higher year-round groundwater contribution (>80% DIC) show minimal seasonal Δ¹⁴C variation. These patterns demonstrate that lake water DIC ¹⁴C reflects integrated groundwater-surface water mixing ratios, providing tools for understanding lake carbon cycling dynamics. For paleoclimate applications, FRE in volcanic lake systems can be estimated from seasonal DIC ¹⁴C measurements and improving radiocarbon dating accuracy for lake sediments.
 
 ## See also
 
 - [[RadiocarbonAnalyticalMethods]] — Analytical techniques and blank carbon corrections
 - [[ChemicalWeatheringDissolvedInorganicCarbon]] — Weathering processes controlling DIC sources
 - [[HydrogeochemicalMixingModels]] — Modeling approaches for water mixing and carbon sources
-- Source papers: [[Coularis-2016rad]] — FRE mapping in Loire watershed, [[Jull-2016rad]] — Qinghai Lake FRE model
+- [[RadiocarbonAgeSignaturesAquaticCarbon]] — Aquatic radiocarbon dynamics and FRE implications
+- Source papers: [[Coularis-2016rad]] — FRE mapping in Loire watershed, [[Jull-2016rad]] — Qinghai Lake FRE model, [[Ota-2021esa]] — Lake radiocarbon dynamics and FRE in Fuji Five Lakes
